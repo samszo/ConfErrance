@@ -12,7 +12,7 @@ Les 29, 30 novembre et 1er décembre au carrefour des arts et des sciences à l'
 
 ### Résumé
 
-Face à la complexité des IAs génératives tant du point de vue des technologies qu'elles utilisent @legoux2023 que des discours qui portent sur elles [@bachimont2020; @citton2023; @ertzscheid2023; @masure2023; @mineur2023] [veille critique IA](https://www.diigo.com/user/luckysemiosis?query=ia+critique "veille critique IA"), il est difficile de discerner, de raisonner et d'agir avec ces écosystèmes numériques.
+Face à la complexité des IAs génératives tant du point de vue des technologies qu'elles utilisent @legoux2023 que des discours qui portent sur elles [@bachimont2020; @citton2023; @ertzscheid2023; @masure2023; @mineur2023; [veille critique IA](https://www.diigo.com/user/luckysemiosis?query=ia+critique "veille critique IA")], il est difficile de discerner, de raisonner et d'agir avec ces écosystèmes numériques.
 
 Pour aider à une meilleure compréhension de ces phénomènes, nous proposons une méthode d'analyse de ces écosystèmes qui donnent aux chercheurs les moyens de construire des points de vue spécifiques, de les partager avec d'autres et de voir leurs évolutions. Cette méthode s'appuie sur une modélisation onto-éthique des existences informationnelles [@szoniecky2019; @szoniecky2020; @szoniecky2023] qui peuplent ces environnements. Nous nous basons sur cinq principes théoriques :
 
@@ -22,9 +22,9 @@ Pour aider à une meilleure compréhension de ces phénomènes, nous proposons u
 
 -   les souvenirs prennent la forme d'un « pli » [@deleuze1988] à la manière de deux miroirs qui plient la lumière en se reflétant l'un dans l'autre à l'infini.
 
--   Entre discerner et agir, intuition et expression, une « pulsation existentielle » génère une « raison trajective » [@berque2009]
+-   entre discerner et agir, intuition et expression, une « pulsation existentielle » génère une « raison trajective » [@berque2009]
 
--   Les pliages et leurs capacités à se faire, se défaire, se bloquer dépendent du degré de flexibilité [@clément2021].
+-   les pliages et leurs capacités à se faire, se défaire, se bloquer dépendent du degré de flexibilité [@clément2021].
 
 Nous illustrerons cette méthode à partir de cartographies des connaissances récoltées dans le projet Arcanes.
 
