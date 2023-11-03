@@ -14,20 +14,20 @@ Les 29, 30 novembre et 1er décembre au carrefour des arts et des sciences à l'
 
 Face à la complexité des IAs génératives tant du point de vue des technologies qu'elles utilisent @legoux2023 que des discours qui portent sur elles [@bachimont2020; @citton2023; @ertzscheid2023; @masure2023; @mineur2023] [veille critique IA](https://www.diigo.com/user/luckysemiosis?query=ia+critique "veille critique IA"), il est difficile de discerner, de raisonner et d'agir avec ces écosystèmes numériques.
 
-Pour aider à une meilleur compréhension de ces phénomènes, nous proposons une méthode d'analyse de ces écosystèmes qui donnent aux chercheurs les moyens de construire des points de vue spécifiques, de les partager avec d'autres et de voir leurs évolutions. Cette méthode s'appuie sur une modélisation onto-éthique des existences informationnelles [@szoniecky2019; @szoniecky2020; @szoniecky2023] qui peuplent ces environnements. Nous nous basons sur cinq principes théoriques :
+Pour aider à une meilleure compréhension de ces phénomènes, nous proposons une méthode d'analyse de ces écosystèmes qui donnent aux chercheurs les moyens de construire des points de vue spécifiques, de les partager avec d'autres et de voir leurs évolutions. Cette méthode s'appuie sur une modélisation onto-éthique des existences informationnelles [@szoniecky2019; @szoniecky2020; @szoniecky2023] qui peuplent ces environnements. Nous nous basons sur cinq principes théoriques :
 
--   les connaissances se produisent suivant un cycle continu d'expériences @µ2015 dans le monde physique et dans le monde de la pensée @descola2005.
+-   les connaissances se produisent suivant un cycle continu de sémioses [@µ2015] dans le monde physique et dans le monde de la pensée [@descola2005].
 
--   l'analogie est le « moteur » @hofstadterqui relie le discernement et l'action en gardant le souvenir de cette relation qui devient à force de répétition : une manière d'être @latour2012
+-   l'analogie est le « moteur » [@hofstadter2013] relie le discernement et l'action en gardant le souvenir de cette relation qui devient à force de répétition : une manière d'être [@latour2012]
 
--   les souvenirs prennent la forme d'un « pli » @deleuze1988 à la manière de deux miroirs qui plient la lumière en se reflétant l'un dans l'autre à l'infini.
+-   les souvenirs prennent la forme d'un « pli » [@deleuze1988] à la manière de deux miroirs qui plient la lumière en se reflétant l'un dans l'autre à l'infini.
 
--   Entre discerner et agir, intuition et expression, une « pulsation existentielle » génère une « raison trajective » @berque2009
+-   Entre discerner et agir, intuition et expression, une « pulsation existentielle » génère une « raison trajective » [@berque2009]
 
--   Les pliages et leurs capacités à se faire, se défaire, se bloquer dépendent du degrés de flexibilité @clément2021.
+-   Les pliages et leurs capacités à se faire, se défaire, se bloquer dépendent du degré de flexibilité [@clément2021].
 
 Nous illustrerons cette méthode à partir de cartographies des connaissances récoltées dans le projet Arcanes.
 
 ### Biographie
 
-Après des recherches en histoire de l’art (1995 DEA sur John Cage) et une formation autodidacte aux développements numériques, Samuel Szoniecky suit une carrière d’ingénieur informatique pour des grands comptes, puis de chef de projet et de créateur d’entreprise. Depuis 2006, il oriente son travail vers la recherche et l’enseignement à l’université Paris 8 dans le laboratoire Paragraphe où en 2013 il devient maître de conférences en sciences de l’information et de la communication. Il explore des méthodes de design des connaissances pour le développement d’une intelligence collective centrée sur la stimulation, l’expression et le partage des intelligences individuelles.[Plus de détails](https://www.samszo.univ-paris8.fr/omk/s/fiches/page/cv "Plus de détails")
+Après des recherches en histoire de l’art (1995 DEA sur John Cage) et une formation autodidacte aux développements numériques, Samuel Szoniecky suit une carrière d’ingénieur informatique pour des grands comptes, puis de chef de projet et de créateur d’entreprise. Depuis 2006, il oriente son travail vers la recherche et l’enseignement à l’université Paris 8 dans le laboratoire Paragraphe où en 2013 il devient maître de conférences en sciences de l’information et de la communication. Il explore des méthodes de design des connaissances pour le développement d’une intelligence collective centrée sur la stimulation, l’expression et le partage des intelligences individuelles. [Plus de détails](https://www.samszo.univ-paris8.fr/omk/s/fiches/page/cv "Plus de détails")
