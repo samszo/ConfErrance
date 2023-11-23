@@ -10,6 +10,13 @@ Les 29, 30 novembre et 1er décembre au carrefour des arts et des sciences à l'
 
 ## Être ou ne pas être trompé : interpréter les pouvoirs des IAs génératives
 
+### Présentation
+
+[Voir en plein écran](http://localhost/samszo/conf_errance/arcanes_2023/slide.html)
+
+```{=html}
+<iframe width="800" height="600" src="http://localhost/samszo/conf_errance/arcanes_2023/slide.html" title="Support de présentation"></iframe>
+```
 ### Résumé
 
 Face à la complexité des IAs génératives tant du point de vue des technologies qu'elles utilisent @legoux2023 que des discours qui portent sur elles [@bachimont2020; @citton2023; @ertzscheid2023; @masure2023; @mineur2023; [veille critique IA](https://www.diigo.com/user/luckysemiosis?query=ia+critique "veille critique IA")], il est difficile de discerner, de raisonner et d'agir avec ces écosystèmes numériques.
@@ -24,7 +31,7 @@ Pour aider à une meilleure compréhension de ces phénomènes, nous proposons u
 
 -   entre discerner et agir, intuition et expression, une « pulsation existentielle » génère une « raison trajective » [@berque2009]
 
--   les pliages et leurs capacités à se faire, se défaire, se bloquer dépendent du degré de flexibilité [@clément2021].
+-   les pliages et leurs capacités à se faire, se défaire, se bloquer dépendent du degré de flexibilité cognitive [@clément2021].
 
 Nous illustrerons cette méthode à partir de cartographies des connaissances récoltées dans le projet Arcanes.
 
