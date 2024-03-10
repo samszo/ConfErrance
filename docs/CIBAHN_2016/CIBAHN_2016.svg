@@ -1,0 +1,3898 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="1052.36"
+   height="744.09003"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="CIBAHN_2016.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1097"
+     id="namedview435"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="4.8764443"
+     inkscape:cx="1249.0672"
+     inkscape:cy="409.09772"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     units="pc">
+    <sodipodi:guide
+       orientation="0,1"
+       position="770.36439,701.00007"
+       id="guide4082" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="1359.9612,484.4993"
+       id="guide4496" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="1436.9957,448.861"
+       id="guide4729" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="319.37228,404.91843"
+       id="guide5151" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="378.47689,301.22613"
+       id="guide5153" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="477.50304,269.08152"
+       id="guide5207" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="415.28766,289.30151"
+       id="guide5209" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="768.8784,331.29689"
+       id="guide5295" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1120.9419,39.95853"
+       id="guide5388" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1475.023,269.08152"
+       id="guide5451" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1829.6506,245.75075"
+       id="guide5569" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="2183.9252,252.23391"
+       id="guide5802" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="2896.486,135.57573"
+       id="guide5804" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="444.18272,517.60136"
+       id="guide3717" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="2541.5989,346.53336"
+       id="guide4748" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="1451.9347,53.826643"
+       id="guide8191" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="765.73941,-129.39489"
+       id="guide9895" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="323.85662,-161.14812"
+       id="guide10053" />
+    <sodipodi:guide
+       position="1446.85,463.88872"
+       orientation="0,1"
+       id="guide4946" />
+    <sodipodi:guide
+       position="169.82072,568.60166"
+       orientation="0,1"
+       id="guide5329" />
+    <sodipodi:guide
+       position="761.62051,694.76853"
+       orientation="0,1"
+       id="guide7448" />
+    <sodipodi:guide
+       position="2597.0044,674.76527"
+       orientation="0,1"
+       id="guide4818" />
+    <sodipodi:guide
+       position="2605.2182,613.98301"
+       orientation="0,1"
+       id="guide4820" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker8899"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="SquareM">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M -5.0,-5.0 L -5.0,5.0 L 5.0,5.0 L 5.0,-5.0 L -5.0,-5.0 z "
+         id="path8901" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker8771"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path8773"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path7471"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path7760"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <linearGradient
+       id="linearGradient3779">
+      <stop
+         id="stop3781"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
+    </linearGradient>
+    <inkscape:perspective
+       id="perspective75"
+       inkscape:persp3d-origin="526.17999 : 248.03001 : 1"
+       inkscape:vp_z="1052.36 : 372.04501 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 372.04501 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient3779-8">
+      <stop
+         id="stop3781-0"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2516" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2583" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2709" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2778" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2845" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2913" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2946" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2983" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3014" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3045" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3076" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3089" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3133" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2571" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2638" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2903" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2974" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3035" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3139" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3206" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2682" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2766" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2833" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2934" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2972" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3065" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3160" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3288" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3371" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3566" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3641" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3708" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3825" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3909" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective4248" />
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker11472"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path11474" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker11408"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path11410"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) translate(7.4, 1)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="Arrow1Lend-8"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path5221" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="DotL"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DotL">
+      <path
+         transform="scale(0.8) translate(7.4, 1)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         id="path5279" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Lstart-3"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path7760-4" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path7760-1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     width="256.12103"
+     height="183.15039"
+     x="1475.1216"
+     y="43.327923"
+     id="slide_1.4"
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:2.16240358px;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
+     x="1248.9016"
+     y="60.62925"
+     id="text14560"><tspan
+       sodipodi:role="line"
+       id="tspan14562"
+       x="1250.9817"
+       y="60.62925"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle">Ecologiser </tspan></text>
+  <text
+     x="389.69153"
+     y="320.6496"
+     id="text3409"
+     xml:space="preserve"
+     style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><tspan
+       x="389.69153"
+       y="320.6496"
+       id="tspan3411"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial" /><tspan
+       x="389.69153"
+       y="338.1496"
+       id="tspan3413"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial" /></text>
+  <text
+     xml:space="preserve"
+     style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="67.399994"
+     y="375.9826"
+     id="text5265"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5267"
+       x="67.399994"
+       y="375.9826" /><tspan
+       sodipodi:role="line"
+       id="tspan5269"
+       x="67.399994"
+       y="380.9826" /></text>
+  <image
+     sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/logo_paragraphe.gif"
+     xlink:href="img/logo_paragraphe.gif"
+     y="194.04478"
+     x="160.9261"
+     id="image3803"
+     height="17.864498"
+     width="60.424038" />
+  <image
+     sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/AgentAllegoArbreRhizome.png"
+     xlink:href="img/AgentAllegoArbreRhizome.png"
+     width="211.89207"
+     height="143.57172"
+     id="image4724"
+     x="2564.3589"
+     y="285.14301" />
+  <text
+     xml:space="preserve"
+     style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="1979.2979"
+     y="188.76443"
+     id="text4768"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4770"
+       x="1979.2979"
+       y="188.76443" /></text>
+  <text
+     x="188.93425"
+     y="118.97245"
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56.45034409px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     sodipodi:linespacing="125%"
+     id="text5339"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Arial;-inkscape-font-specification:Arial"
+       id="tspan5341" /></text>
+  <rect
+     width="256.12103"
+     height="183.15039"
+     x="415.26187"
+     y="259.65143"
+     id="slide_2.5"
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_2.2"
+     y="259.82251"
+     x="1829.8353"
+     height="183.15039"
+     width="256.12103" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4911"
+     style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+       id="flowRegion4913"><rect
+         id="rect4915"
+         width="338.8956"
+         height="247.7307"
+         x="1431.8834"
+         y="-0.092975967" /></flowRegion><flowPara
+       id="flowPara4917" /></flowRoot>  <rect
+     width="256.12103"
+     height="183.15039"
+     x="63.188927"
+     y="259.63776"
+     id="slide_2.6"
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     width="256.12103"
+     height="183.15039"
+     x="415.86075"
+     y="43.195583"
+     id="rect6112"
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_1.1.7"
+     y="43.304337"
+     x="415.49823"
+     height="183.15039"
+     width="256.12103"
+     inkscape:label="#slide_1.1" />
+  <g
+     id="g5246"
+     transform="translate(345.72595,0)">
+    <text
+       sodipodi:linespacing="125%"
+       id="text5047"
+       y="109.49397"
+       x="437.81705"
+       style="font-style:normal;font-weight:normal;font-size:4px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan5245"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start"
+         y="109.49397"
+         x="437.81705"
+         sodipodi:role="line">Entre moderniser ou écologiser, il faut choisir.</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5161"
+       y="189.10287"
+       x="485.31927"
+       style="font-style:normal;font-weight:normal;font-size:6px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;font-family:Arial;-inkscape-font-specification:Arial"
+         id="tspan5247"
+         y="189.10287"
+         x="485.31927"
+         sodipodi:role="line">Bruno Latour, 2012</tspan></text>
+  </g>
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect6226"
+     y="43.247215"
+     x="768.91907"
+     height="183.15039"
+     width="256.12103" />
+  <rect
+     width="256.12103"
+     height="183.15039"
+     x="768.91907"
+     y="43.247215"
+     id="slide_1.2"
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     width="256.12103"
+     height="183.15039"
+     x="1121.0067"
+     y="43.355824"
+     id="rect6521"
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_1.3"
+     y="43.355824"
+     x="1121.0067"
+     height="183.15039"
+     width="256.12103" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect6618"
+     y="43.327923"
+     x="1475.1216"
+     height="183.15039"
+     width="256.12103" />
+  <rect
+     width="256.12103"
+     height="183.15039"
+     x="768.87842"
+     y="259.7135"
+     id="rect7174"
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_2.4.2"
+     y="259.7135"
+     x="768.87842"
+     height="183.15039"
+     width="256.12103" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_3.2"
+     y="475.04544"
+     x="415.241"
+     height="183.15039"
+     width="256.12103" />
+  <rect
+     width="256.12103"
+     height="183.15039"
+     x="769.07568"
+     y="475.05539"
+     id="slide_3.3"
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     width="256.12103"
+     height="183.15039"
+     x="1121.1908"
+     y="475.04544"
+     id="slide_3.4"
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_2.0"
+     y="259.82251"
+     x="2541.8154"
+     height="183.15039"
+     width="256.12103" />
+  <rect
+     width="256.46829"
+     height="183.39871"
+     x="62.90398"
+     y="43.089958"
+     id="slide_1"
+     style="fill:none;stroke:#000000;stroke-width:0.38550043;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:4px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="1258.9087"
+     y="-46.834805"
+     id="text4418"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4420"
+       x="1258.9087"
+       y="-46.834805" /></text>
+  <rect
+     width="256.12103"
+     height="183.15039"
+     x="1829.8353"
+     y="43.317493"
+     id="rect4666"
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_1.5"
+     y="43.317493"
+     x="1829.8353"
+     height="183.15039"
+     width="256.12103" />
+  <rect
+     width="256.12103"
+     height="183.15039"
+     x="63.029617"
+     y="475.04544"
+     id="slide_3.1"
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     sodipodi:linespacing="125%"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:584.9019165px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="text3813"
+     y="1709.6389"
+     x="49.406548"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:128.08267212px;font-family:Arial;-inkscape-font-specification:Arial"
+       id="tspan3815"
+       y="1709.6389"
+       x="49.406548">Samuel Szoniecky </tspan></text>
+  <image
+     sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/logo_paragraphe.gif"
+     xlink:href="img/logo_paragraphe.gif"
+     y="1535.3763"
+     x="2183.9253"
+     id="image3811"
+     height="282.2323"
+     width="954.60931" />
+  <image
+     sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/citu.png"
+     xlink:href="img/citu.png"
+     y="969.38239"
+     x="2538.8125"
+     id="image3817"
+     height="327.40891"
+     width="357.67361" />
+  <g
+     id="g6224">
+    <text
+       x="913.4281"
+       y="1275.2009"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:558.18017578px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:linespacing="125%"
+       id="text3825"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:132.70913696px;font-family:Arial;-inkscape-font-specification:Arial"
+         id="tspan3827">pour les archives numériques </tspan></text>
+    <text
+       x="988.78979"
+       y="1060.1136"
+       id="text3829"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:558.18017578px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:132.70913696px;font-family:Arial;-inkscape-font-specification:Arial"
+         id="tspan3831">Ecosystèmes de connaissances</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:48.74982452px;line-height:125%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="3154.5229"
+     y="-273.2121"
+     id="text4730"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       x="3154.5229"
+       y="-273.2121"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:113.74958801px;font-family:Arial;-inkscape-font-specification:Arial;text-align:end;text-anchor:end"
+       id="tspan5004">CIBAHN</tspan><tspan
+       sodipodi:role="line"
+       x="3186.0708"
+       y="-131.02512"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:113.74958801px;font-family:Arial;-inkscape-font-specification:Arial;text-align:end;text-anchor:end"
+       id="tspan5095">Tunis, </tspan><tspan
+       sodipodi:role="line"
+       x="3154.5229"
+       y="11.161873"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:113.74958801px;font-family:Arial;-inkscape-font-specification:Arial;text-align:end;text-anchor:end"
+       id="tspan5097">19 et 20 Octobre 2016</tspan></text>
+  <text
+     x="164.47163"
+     y="185.51035"
+     id="text3570"
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.02253723px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     sodipodi:linespacing="125%"><tspan
+       x="164.47163"
+       y="185.51035"
+       id="tspan3572"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.66928625px;font-family:Garamond;-inkscape-font-specification:Garamond">Samuel Szoniecky </tspan></text>
+  <image
+     sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/citu.png"
+     xlink:href="img/citu.png"
+     y="175.52562"
+     x="246.11469"
+     id="image3679"
+     height="16"
+     width="17.478992" />
+  <image
+     sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/papi-conf_errance.png"
+     xlink:href="img/papi-conf_errance.png"
+     width="22.826233"
+     height="25.846964"
+     preserveAspectRatio="none"
+     id="image5326-7"
+     x="118.68258"
+     y="175.48837" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:10.08512878px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="190.88863"
+     y="124.3961"
+     id="text5347"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5349"
+       x="190.88863"
+       y="124.3961"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.44683838px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle">Ecosystème de connaissances</tspan><tspan
+       sodipodi:role="line"
+       x="190.88863"
+       y="141.20465"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.44683838px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle"
+       id="tspan5353">pour les archives numériques</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:14px;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="-747.79907"
+     y="317.8349"
+     id="text3409-9"><tspan
+       sodipodi:role="line"
+       id="tspan3411-2"
+       x="-747.79907"
+       y="317.8349" /><tspan
+       y="335.3349"
+       x="-747.79907"
+       sodipodi:role="line"
+       id="tspan3413-5" /></text>
+  <g
+     id="g5317"
+     transform="translate(709.03799,0.00870132)">
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/Alexander_cuts_the_Gordian_Knot.jpg"
+       xlink:href="img/Alexander_cuts_the_Gordian_Knot.jpg"
+       width="191.31313"
+       height="148.26053"
+       id="image3162"
+       x="1507.5256"
+       y="64.895958" />
+    <text
+       id="text3499"
+       y="60.063271"
+       x="1537.3704"
+       style="font-style:normal;font-weight:normal;font-size:2.16240358px;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Arial;-inkscape-font-specification:Arial"
+         y="60.063271"
+         x="1537.3704"
+         id="tspan3501"
+         sodipodi:role="line">Occident &lt;-&gt; Orient </tspan></text>
+  </g>
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect14842"
+     y="43.326199"
+     x="2184.1597"
+     height="183.15039"
+     width="256.12103" />
+  <rect
+     width="256.12103"
+     height="183.15039"
+     x="2184.1597"
+     y="43.326199"
+     id="slide_1.6"
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <g
+     id="g5396"
+     transform="translate(709.94781,0)">
+    <g
+       id="g5370">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.37102008px;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
+         x="1837.256"
+         y="94.816422"
+         id="text3204"><tspan
+           sodipodi:role="line"
+           x="1837.256"
+           y="94.816422"
+           style="text-align:justify;text-anchor:start"
+           id="tspan3395">2.19 :  L'Éternel Dieu forma de la terre tous les animaux des champs</tspan><tspan
+           sodipodi:role="line"
+           x="1837.256"
+           y="99.030197"
+           id="tspan3383"
+           style="text-align:justify;text-anchor:start">et tous les oiseaux du ciel, et il les fit venir vers l'homme, pour voir </tspan><tspan
+           sodipodi:role="line"
+           x="1837.256"
+           y="103.24397"
+           style="text-align:justify;text-anchor:start"
+           id="tspan3393">comment il les appellerait, et afin que tout être vivant portât le nom</tspan><tspan
+           sodipodi:role="line"
+           x="1837.256"
+           y="107.45775"
+           style="text-align:justify;text-anchor:start"
+           id="tspan3407">que lui donnerait l'homme.</tspan><tspan
+           sodipodi:role="line"
+           x="1837.256"
+           y="111.67152"
+           id="tspan3225"
+           style="text-align:justify;text-anchor:start">2.20 : Et l'homme donna des noms à tout le bétail, aux oiseaux du ciel</tspan><tspan
+           sodipodi:role="line"
+           x="1837.256"
+           y="115.8853"
+           id="tspan3391"
+           style="text-align:justify;text-anchor:start">et à tous les animaux des champs; mais, pour l'homme,</tspan><tspan
+           sodipodi:role="line"
+           x="1837.256"
+           y="120.09908"
+           style="text-align:justify;text-anchor:start"
+           id="tspan3419">il ne trouva point d'aide semblable à lui.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.21817017px;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
+         x="1836.7042"
+         y="87.222855"
+         id="text3212"><tspan
+           sodipodi:role="line"
+           id="tspan3214"
+           x="1836.7042"
+           y="87.222855"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">Genèse </tspan></text>
+      <image
+         sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/adam.jpg"
+         xlink:href="img/adam.jpg"
+         y="125.18809"
+         x="1837.3549"
+         id="image3290"
+         height="79.16114"
+         width="113.28713" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.9737649px;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
+         x="1972.7513"
+         y="92.858284"
+         id="text3294"><tspan
+           sodipodi:role="line"
+           id="tspan3296"
+           x="1972.7513"
+           y="92.858284" /><tspan
+           sodipodi:role="line"
+           x="1972.7513"
+           y="100.32549"
+           id="tspan3298">1</tspan><tspan
+           sodipodi:role="line"
+           x="1972.7513"
+           y="108.25548"
+           id="tspan3300">道 可 道 非 常 道.</tspan><tspan
+           sodipodi:role="line"
+           x="1972.7513"
+           y="115.72269"
+           id="tspan3302">Le tao exprimable n'est pas Le Tao.</tspan><tspan
+           sodipodi:role="line"
+           x="1972.7513"
+           y="123.1899"
+           id="tspan3304">2</tspan><tspan
+           sodipodi:role="line"
+           x="1972.7513"
+           y="131.11989"
+           id="tspan3306">名 可 名 非 常 名.</tspan><tspan
+           sodipodi:role="line"
+           x="1972.7513"
+           y="138.5871"
+           id="tspan3308">Le nom énonçable n'est pas Le Nom.</tspan></text>
+      <image
+         sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/tao.jpg"
+         xlink:href="img/tao.jpg"
+         y="148.61256"
+         x="2000.9237"
+         id="image3373"
+         height="54.149212"
+         width="53.802109" />
+      <text
+         id="text3421"
+         y="87.421013"
+         x="1993.837"
+         style="font-style:normal;font-weight:normal;font-size:12.21817017px;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="87.421013"
+           x="1993.837"
+           id="tspan3423"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">Tao Te King </tspan></text>
+      <text
+         id="text14850"
+         y="60.071972"
+         x="1892.0841"
+         style="font-style:normal;font-weight:normal;font-size:2.16240358px;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Arial;-inkscape-font-specification:Arial"
+           y="60.071972"
+           x="1892.0841"
+           id="tspan14852"
+           sodipodi:role="line">Occident &lt;-&gt; Orient </tspan></text>
+    </g>
+  </g>
+  <rect
+     width="256.12103"
+     height="183.15039"
+     x="2541.8154"
+     y="43.299622"
+     id="rect14962"
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_1.7"
+     y="43.299622"
+     x="2541.8154"
+     height="183.15039"
+     width="256.12103" />
+  <rect
+     width="256.12103"
+     height="183.15039"
+     x="1475.1216"
+     y="43.317493"
+     id="rect15209"
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <g
+     id="g5338"
+     transform="translate(712.52515,0)">
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/johncage.jpg"
+       xlink:href="img/johncage.jpg"
+       width="50.393124"
+       height="78.295349"
+       id="image3710"
+       x="2284.1265"
+       y="65.460579" />
+    <text
+       id="text3714"
+       y="137.87952"
+       x="2292.7039"
+       style="font-style:normal;font-weight:normal;font-size:7.34683418px;font-family:'Bitstream Vera Sans';fill:#ffffff;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.89483118px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1"
+         y="137.87952"
+         x="2292.7039"
+         id="tspan3716"
+         sodipodi:role="line">John Cage</tspan></text>
+    <text
+       id="text14968"
+       y="60.045395"
+       x="2246.4084"
+       style="font-style:normal;font-weight:normal;font-size:2.16240358px;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Arial;-inkscape-font-specification:Arial"
+         y="60.045395"
+         x="2246.4084"
+         id="tspan14970"
+         sodipodi:role="line">Occident &lt;-&gt; Orient </tspan></text>
+    <g
+       id="g5108">
+      <image
+         sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/Arnold_Schoenberg_la_1948.jpg"
+         xlink:href="img/Arnold_Schoenberg_la_1948.jpg"
+         y="92.066193"
+         x="-2250.4331"
+         id="image3568"
+         height="60.782257"
+         width="48.321899"
+         transform="scale(-1,1)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.34683418px;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
+         x="2196.9978"
+         y="163.44937"
+         id="text3576"><tspan
+           sodipodi:role="line"
+           id="tspan3578"
+           x="2196.9978"
+           y="163.44937"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.89483118px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1">Arnold Schoenberg</tspan></text>
+    </g>
+    <g
+       transform="translate(-12,0)"
+       id="g5103">
+      <image
+         sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/zuki-02.jpg"
+         xlink:href="img/zuki-02.jpg"
+         y="92.066193"
+         x="2376.3945"
+         id="image3643"
+         height="60.782261"
+         width="63.15041" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:9.31439018px;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
+         x="2385.1475"
+         y="163.44937"
+         id="text3572"><tspan
+           sodipodi:role="line"
+           id="tspan3574"
+           x="2385.1475"
+           y="163.44937"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.89483118px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1">Daisetz Suzuki</tspan></text>
+    </g>
+    <g
+       transform="translate(-7.0071744,6)"
+       id="g5082">
+      <image
+         sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/bio_duchamp_marcel.jpg"
+         xlink:href="img/bio_duchamp_marcel.jpg"
+         width="39.011406"
+         height="60"
+         preserveAspectRatio="none"
+         id="image15107"
+         x="2299.7217"
+         y="138.09952" />
+      <text
+         id="text15271"
+         y="205.16272"
+         x="2293.7109"
+         style="font-style:normal;font-weight:normal;font-size:9.08513832px;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.72513103px;font-family:Arial;-inkscape-font-specification:Arial"
+           y="205.16272"
+           x="2293.7109"
+           id="tspan15273"
+           sodipodi:role="line">Marcel Duchamp</tspan></text>
+    </g>
+  </g>
+  <g
+     id="g5322"
+     transform="translate(-1422.7404,0)">
+    <text
+       id="text4950"
+       y="60.33572"
+       x="3024.8501"
+       style="font-style:normal;font-weight:normal;font-size:2.16240358px;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle"
+         y="60.33572"
+         x="3026.9302"
+         id="tspan4952"
+         sodipodi:role="line">moderniser &lt;-&gt; écologiser </tspan></text>
+    <g
+       id="g4954"
+       transform="translate(1421.6095,-0.29353)">
+      <image
+         sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/descola-matrice-ana.png"
+         xlink:href="img/descola-matrice-ana.png"
+         width="67.804802"
+         height="111.83388"
+         id="image4956"
+         x="1660.9138"
+         y="79.876778" />
+      <image
+         sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/AgentAllego_Descola.png"
+         xlink:href="img/AgentAllego_Descola.png"
+         width="106.70455"
+         height="113.64642"
+         id="image4958"
+         x="1559.8298"
+         y="68.642899" />
+      <image
+         sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/descola-matrice-tot.png"
+         xlink:href="img/descola-matrice-tot.png"
+         width="68.089691"
+         height="111.13996"
+         id="image4960"
+         x="1479.9075"
+         y="81.332336" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4962"
+         y="207.39333"
+         x="1497.2583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.23345566px;line-height:125%;font-family:Herculanum;-inkscape-font-specification:Herculanum;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;font-family:Arial;-inkscape-font-specification:Arial"
+           y="207.39333"
+           x="1497.2583"
+           id="tspan4964"
+           sodipodi:role="line">topos</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.23345566px;line-height:125%;font-family:Herculanum;-inkscape-font-specification:Herculanum;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="1678.2874"
+         y="207.01688"
+         id="text4966"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4968"
+           x="1678.2874"
+           y="207.01688"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">chora</tspan></text>
+      <g
+         id="g4970">
+        <rect
+           y="70.116562"
+           x="1557.8441"
+           height="10.329541"
+           width="90.675919"
+           id="rect4972"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.122;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:0.7273137px;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
+           x="1602.9949"
+           y="75.839241"
+           id="text4974"><tspan
+             id="tspan4976"
+             sodipodi:role="line"
+             x="1603.6945"
+             y="75.839241"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.04517555px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle">Matrices ontologiques P. Descola </tspan></text>
+      </g>
+    </g>
+  </g>
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4978"
+     y="43.332195"
+     x="2896.731"
+     height="183.15039"
+     width="256.12103" />
+  <rect
+     width="256.12103"
+     height="183.15039"
+     x="2896.731"
+     y="43.332195"
+     id="slide_1.8"
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <g
+     id="g5357"
+     transform="translate(-714.26663,0)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.16240358px;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
+       x="2669.9346"
+       y="60.303139"
+       id="text14815"><tspan
+         sodipodi:role="line"
+         id="tspan14817"
+         x="2672.0146"
+         y="60.303139"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle">moderniser &lt;-&gt; écologiser </tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4940"
+       y="102.56128"
+       x="2552.2083"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5018"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial"
+         y="102.56128"
+         x="2552.2083"
+         sodipodi:role="line">quelque chose arrive </tspan><tspan
+         id="tspan5679"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial"
+         y="116.62378"
+         x="2552.2083"
+         sodipodi:role="line">dans le traitement computationnel des données, </tspan><tspan
+         id="tspan5020"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial"
+         y="130.68628"
+         x="2552.2083"
+         sodipodi:role="line">quelque chose qui remet en question </tspan><tspan
+         id="tspan5022"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial"
+         y="144.74878"
+         x="2552.2083"
+         sodipodi:role="line">l’équivalence entre l’input et l’output </tspan><tspan
+         id="tspan5032"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial"
+         y="158.81128"
+         x="2552.2083"
+         sodipodi:role="line">[...]</tspan><tspan
+         id="tspan5695"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial"
+         y="172.87378"
+         x="2552.2083"
+         sodipodi:role="line">c’est l’aléatoire algorithmique.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="2611.9358"
+       y="206.52702"
+       id="text5034"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="2611.9358"
+         y="206.52702"
+         id="tspan5036"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;font-family:Arial;-inkscape-font-specification:Arial">Luciana Parisi, 2016</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="2902.7139"
+     y="327.297"
+     id="text5113"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       x="2902.7139"
+       y="327.297"
+       id="tspan5203"><tspan
+   id="tspan5209"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial">En proposant un autre système de coordonnées</tspan>.</tspan></text>
+  <rect
+     width="256.12103"
+     height="183.15039"
+     x="2896.7537"
+     y="259.82251"
+     id="rect5151"
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_1.9"
+     y="259.82251"
+     x="2896.7537"
+     height="183.15039"
+     width="256.12103" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text5199"
+     y="406.03345"
+     x="2966.2122"
+     style="font-style:normal;font-weight:normal;font-size:6px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;font-family:Arial;-inkscape-font-specification:Arial"
+       id="tspan5201"
+       y="406.03345"
+       x="2966.2122"
+       sodipodi:role="line">Bruno Latour, 2012</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:2.16240358px;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
+     x="2669.9346"
+     y="276.82602"
+     id="text5219"><tspan
+       sodipodi:role="line"
+       id="tspan5221"
+       x="2669.9346"
+       y="276.82602"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle">Modéliser des existences - arguments</tspan></text>
+  <rect
+     width="256.12103"
+     height="183.15039"
+     x="1475.1216"
+     y="259.82251"
+     id="slide_2.3"
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <image
+     sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/iceIHM.jpg"
+     xlink:href="img/iceIHM.jpg"
+     y="287.39771"
+     x="2187.1887"
+     id="image6481"
+     height="140"
+     width="250.06287" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect5297"
+     y="475.04544"
+     x="1475.6528"
+     height="183.15039"
+     width="256.12103" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_4.2"
+     y="475.04544"
+     x="1475.6528"
+     height="183.15039"
+     width="256.12103" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect5453"
+     y="474.96466"
+     x="1829.8354"
+     height="183.15039"
+     width="256.12103" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_4.3"
+     y="474.96466"
+     x="1829.8354"
+     height="183.15039"
+     width="256.12103" />
+  <text
+     x="988.15137"
+     y="1627.8828"
+     id="text3409-2"
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none"><tspan
+       x="988.15137"
+       y="1627.8828"
+       id="tspan3411-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial" /><tspan
+       x="988.15137"
+       y="1645.3828"
+       id="tspan3413-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial" /></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:4px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="665.8598"
+     y="1683.2158"
+     id="text5265-9"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5267-9"
+       x="665.8598"
+       y="1683.2158" /><tspan
+       sodipodi:role="line"
+       id="tspan5269-6"
+       x="665.8598"
+       y="1688.2158" /></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:4px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="2577.7576"
+     y="1495.9977"
+     id="text4768-8"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4770-7"
+       x="2577.7576"
+       y="1495.9977" /></text>
+  <text
+     x="787.39404"
+     y="1408.7754"
+     id="text4771"
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56.45034409px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     sodipodi:linespacing="125%"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.4212513px;font-family:Arial;-inkscape-font-specification:Arial"
+       id="tspan4773" /></text>
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4911-8"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="translate(598.45982,1307.2332)"><flowRegion
+       id="flowRegion4913-6"><rect
+         id="rect4915-8"
+         width="338.8956"
+         height="247.7307"
+         x="1431.8834"
+         y="-0.092975967" /></flowRegion><flowPara
+       id="flowPara4917-0" /></flowRoot>  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="743.25311"
+     y="1503.132"
+     id="text5034-0"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5036-9"
+       x="743.25311"
+       y="1503.132" /></text>
+  <text
+     sodipodi:linespacing="125%"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.32051659px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="text5054"
+     y="1502.629"
+     x="717.69556"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.6574297px;font-family:Arial;-inkscape-font-specification:Arial"
+       id="tspan5056"
+       y="1502.629"
+       x="717.69556" /></text>
+  <text
+     x="-1799.3226"
+     y="1473.3492"
+     id="text3409-8"
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none"><tspan
+       x="-1799.3226"
+       y="1473.3492"
+       id="tspan3411-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial" /><tspan
+       x="-1799.3226"
+       y="1490.8492"
+       id="tspan3413-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial" /></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:4px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="-2121.6145"
+     y="1528.6823"
+     id="text5265-4"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5267-6"
+       x="-2121.6145"
+       y="1528.6823" /><tspan
+       sodipodi:role="line"
+       id="tspan5269-9"
+       x="-2121.6145"
+       y="1533.6823" /></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:4px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="-209.71645"
+     y="1341.4641"
+     id="text4768-6"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4770-2"
+       x="-209.71645"
+       y="1341.4641" /></text>
+  <text
+     x="-2000.08"
+     y="1254.2418"
+     id="text4771-0"
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56.45034409px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     sodipodi:linespacing="125%"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.4212513px;font-family:Arial;-inkscape-font-specification:Arial"
+       id="tspan4773-0" /></text>
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4911-7"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="translate(-2189.0143,1152.6997)"><flowRegion
+       id="flowRegion4913-8"><rect
+         id="rect4915-1"
+         width="338.8956"
+         height="247.7307"
+         x="1431.8834"
+         y="-0.092975967" /></flowRegion><flowPara
+       id="flowPara4917-3" /></flowRoot>  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="-2044.2211"
+     y="1348.5985"
+     id="text5034-5"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5036-4"
+       x="-2044.2211"
+       y="1348.5985" /></text>
+  <image
+     sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/gapaii-eval1.png"
+     xlink:href="img/gapaii-eval1.png"
+     onclick="showWebPage('http://localhost/jdc/public/graph/roueemotion');"
+     width="203.26701"
+     height="142.93126"
+     preserveAspectRatio="none"
+     id="image17023"
+     x="795.50269"
+     y="501.95404" />
+  <text
+     x="451.97217"
+     y="496.15314"
+     id="text8792"
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.86221695px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     sodipodi:linespacing="125%"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start"
+       id="tspan8794">Cartographier les sagesses</tspan></text>
+  <image
+     sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/PulsationsExistentielles.png"
+     xlink:href="img/PulsationsExistentielles.png"
+     width="162.18124"
+     height="148.04619"
+     preserveAspectRatio="none"
+     id="image14642"
+     x="813.95172"
+     y="280.20129" />
+  <image
+     sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/ecoForet.jpg"
+     xlink:href="img/ecoForet.jpg"
+     y="69.32476"
+     x="1149.0236"
+     id="image9027"
+     preserveAspectRatio="none"
+     height="140.69635"
+     width="200.08736" />
+  <text
+     x="86.875587"
+     y="496.15314"
+     id="text5330"
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.86221695px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     sodipodi:linespacing="125%"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start"
+       id="tspan5332">Editer des réseaux d'influences</tspan></text>
+  <image
+     sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/editinfluDoc.png"
+     xlink:href="img/editinfluDoc.png"
+     width="124"
+     height="67.410255"
+     preserveAspectRatio="none"
+     id="image17235"
+     x="63.09013"
+     y="502.34918" />
+  <image
+     sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/editinfluChercheActeur.png"
+     xlink:href="img/editinfluChercheActeur.png"
+     width="124"
+     height="67.530518"
+     preserveAspectRatio="none"
+     id="image17407"
+     x="195.09013"
+     y="502.289" />
+  <image
+     sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/editinfluChercheRapport.png"
+     xlink:href="img/editinfluChercheRapport.png"
+     y="575.29626"
+     x="139.66313"
+     id="image9473"
+     preserveAspectRatio="none"
+     height="67.087723"
+     width="179.16524" />
+  <image
+     sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/editinfluChercheNotion.png"
+     xlink:href="img/editinfluChercheNotion.png"
+     onclick="showWebPage('http://localhost/jdc/public/editinflu/navigrameau?idBNF=11947434');"
+     width="122.97276"
+     height="67.087715"
+     preserveAspectRatio="none"
+     id="image17297"
+     x="63.09013"
+     y="575.37323" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.46180487;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect9476"
+     width="7.7915673"
+     height="70.542206"
+     x="539.315"
+     y="360.06927" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:4.86794186;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_99"
+     y="-391.39026"
+     x="-37.882065"
+     height="2315.8838"
+     width="3238.5767" />
+  <image
+     sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/logoscibahn.jpg"
+     xlink:href="img/logoscibahn.jpg"
+     width="2051.8699"
+     height="324.14508"
+     preserveAspectRatio="none"
+     id="image5084"
+     x="-28.121601"
+     y="-344.52737" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text5087"
+     y="91.189316"
+     x="66.750275"
+     style="font-style:normal;font-weight:normal;font-size:4.05668831px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       id="tspan5091"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:Arial;-inkscape-font-specification:Arial"
+       y="91.189316"
+       x="66.750275"
+       sodipodi:role="line">Colloque International sur les Bibliothèques et Archives à l’ère des Humanités Numériques, Tunis, octobre 2016 </tspan></text>
+  <image
+     sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/logoscibahn.jpg"
+     xlink:href="img/logoscibahn.jpg"
+     y="45.321495"
+     x="66.402191"
+     id="image5099"
+     preserveAspectRatio="none"
+     height="39.31646"
+     width="248.87704" />
+  <g
+     id="g5134">
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/logo_paragraphe.gif"
+       xlink:href="img/logo_paragraphe.gif"
+       x="481.5932"
+       y="215.5186"
+       width="28.617781"
+       height="8.4609089"
+       id="image6124" />
+    <text
+       x="438.75183"
+       y="220.92625"
+       id="text6126"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:linespacing="125%"><tspan
+         x="438.75183"
+         y="220.92625"
+         id="tspan6128"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond">S. Szoniecky</tspan></text>
+    <rect
+       width="256.3364"
+       height="13.193866"
+       x="415.86075"
+       y="213.15211"
+       id="rect6130"
+       style="fill:none;stroke:#000000;stroke-width:0.19758956;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/citu.png"
+       xlink:href="img/citu.png"
+       width="8.7394962"
+       height="8"
+       id="image6141"
+       x="469.81454"
+       y="215.74905" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text6460"
+       y="221.02225"
+       x="521.18359"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="221.02225"
+         x="521.18359"
+         id="tspan6462"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:Arial;-inkscape-font-specification:Arial"> Ecosystème de connaissances, automne 2016</tspan></text>
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/papi-conf_errance.png"
+       xlink:href="img/papi-conf_errance.png"
+       width="15.22845"
+       height="15.99038"
+       preserveAspectRatio="none"
+       id="image5359"
+       x="417.28766"
+       y="214.29868" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5130"
+       y="222.4386"
+       x="640.53003"
+       style="font-style:normal;font-weight:normal;font-size:7.38857222px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="222.4386"
+         x="640.53003"
+         id="tspan5132"
+         sodipodi:role="line">CIBAHN</tspan></text>
+  </g>
+  <g
+     id="g5146"
+     transform="translate(352.96462,0)">
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/logo_paragraphe.gif"
+       xlink:href="img/logo_paragraphe.gif"
+       id="image5148"
+       height="8.4609089"
+       width="28.617781"
+       y="215.5186"
+       x="481.5932" />
+    <text
+       sodipodi:linespacing="125%"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text5150"
+       y="220.92625"
+       x="438.75183"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond"
+         id="tspan5152"
+         y="220.92625"
+         x="438.75183">S. Szoniecky</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.19758956;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5154"
+       y="213.15211"
+       x="415.86075"
+       height="13.193866"
+       width="256.3364" />
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/citu.png"
+       xlink:href="img/citu.png"
+       y="215.74905"
+       x="469.81454"
+       id="image5156"
+       height="8"
+       width="8.7394962" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="521.18359"
+       y="221.02225"
+       id="text5158"
+       sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:Arial;-inkscape-font-specification:Arial"
+         sodipodi:role="line"
+         id="tspan5160"
+         x="521.18359"
+         y="221.02225"> Ecosystème de connaissances, automne 2016</tspan></text>
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/papi-conf_errance.png"
+       xlink:href="img/papi-conf_errance.png"
+       y="214.29868"
+       x="417.28766"
+       id="image5162"
+       preserveAspectRatio="none"
+       height="15.99038"
+       width="15.22845" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.38857222px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="640.53003"
+       y="222.4386"
+       id="text5164"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5166"
+         x="640.53003"
+         y="222.4386">CIBAHN</tspan></text>
+  </g>
+  <text
+     id="text5256"
+     y="209.6257"
+     x="476.52112"
+     style="font-style:normal;font-weight:normal;font-size:0.92528921px;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.88360357px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle"
+       y="209.6257"
+       x="476.52112"
+       id="tspan5258"
+       sodipodi:role="line"><tspan
+   id="tspan5260"
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.88360357px;font-family:Arial;-inkscape-font-specification:'Arial Italic'">Organized Chaos</tspan>, Kerry Warren, 2008</tspan></text>
+  <image
+     sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/Organized-Chaos-2008_Kerrie-Warren.jpg"
+     xlink:href="img/Organized-Chaos-2008_Kerrie-Warren.jpg"
+     width="104.71204"
+     height="70"
+     preserveAspectRatio="none"
+     id="image5321"
+     x="424.30301"
+     y="132.38512" />
+  <rect
+     width="95.456413"
+     height="68.260231"
+     x="429.62692"
+     y="58.752678"
+     id="slide_1.1"
+     style="fill:none;stroke:#000000;stroke-width:0.14348164;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <image
+     sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/chaos-never-dies-day.jpg"
+     xlink:href="img/chaos-never-dies-day.jpg"
+     width="105.42169"
+     height="70"
+     preserveAspectRatio="none"
+     id="image5401-7"
+     x="423.94818"
+     y="58.153389" />
+  <image
+     sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/20150401_171839.jpg"
+     xlink:href="img/20150401_171839.jpg"
+     width="124.44445"
+     height="70"
+     preserveAspectRatio="none"
+     id="image5447"
+     x="542.88245"
+     y="132.38512" />
+  <image
+     sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/LOD_Cloud_2014.svg.png"
+     xlink:href="img/LOD_Cloud_2014.svg.png"
+     width="106.94961"
+     height="70"
+     preserveAspectRatio="none"
+     id="image5509-9"
+     x="551.62988"
+     y="58.153389" />
+  <image
+     sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/DSC04226.JPG"
+     xlink:href="img/DSC04226.JPG"
+     width="52.499996"
+     height="70"
+     preserveAspectRatio="none"
+     id="image5571"
+     x="614.8269"
+     y="132.38512" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.16369839;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_1.1.3"
+     y="51.99556"
+     x="551.0097"
+     height="77.878181"
+     width="108.90634" />
+  <rect
+     width="2.1385245"
+     height="1.5292443"
+     x="607.69586"
+     y="86.873329"
+     id="slide_1.1.2"
+     style="fill:none;stroke:#000000;stroke-width:0.00321444;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     width="95.361954"
+     height="68.192688"
+     x="429.12592"
+     y="133.47256"
+     id="slide_1.1.4"
+     style="fill:none;stroke:#000000;stroke-width:0.14333966;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.08497971;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_1.1.5"
+     y="141.37535"
+     x="556.87372"
+     height="40.428413"
+     width="56.535866" />
+  <rect
+     width="97.858459"
+     height="69.977921"
+     x="569.61292"
+     y="132.39384"
+     id="slide_1.1.6"
+     style="fill:none;stroke:#000000;stroke-width:0.14709218;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <g
+     id="g5588"
+     transform="translate(705.05227,0)">
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/logo_paragraphe.gif"
+       xlink:href="img/logo_paragraphe.gif"
+       id="image5590"
+       height="8.4609089"
+       width="28.617781"
+       y="215.5186"
+       x="481.5932" />
+    <text
+       sodipodi:linespacing="125%"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text5592"
+       y="220.92625"
+       x="438.75183"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond"
+         id="tspan5594"
+         y="220.92625"
+         x="438.75183">S. Szoniecky</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.19758956;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5596"
+       y="213.15211"
+       x="415.86075"
+       height="13.193866"
+       width="256.3364" />
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/citu.png"
+       xlink:href="img/citu.png"
+       y="215.74905"
+       x="469.81454"
+       id="image5598"
+       height="8"
+       width="8.7394962" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="521.18359"
+       y="221.02225"
+       id="text5600"
+       sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:Arial;-inkscape-font-specification:Arial"
+         sodipodi:role="line"
+         id="tspan5602"
+         x="521.18359"
+         y="221.02225"> Ecosystème de connaissances, automne 2016</tspan></text>
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/papi-conf_errance.png"
+       xlink:href="img/papi-conf_errance.png"
+       y="214.29868"
+       x="417.28766"
+       id="image5604"
+       preserveAspectRatio="none"
+       height="15.99038"
+       width="15.22845" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.38857222px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="640.53003"
+       y="222.4386"
+       id="text5606"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5608"
+         x="640.53003"
+         y="222.4386">CIBAHN</tspan></text>
+  </g>
+  <g
+     transform="translate(1059.1671,0)"
+     id="g5610">
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/logo_paragraphe.gif"
+       xlink:href="img/logo_paragraphe.gif"
+       x="481.5932"
+       y="215.5186"
+       width="28.617781"
+       height="8.4609089"
+       id="image5612" />
+    <text
+       x="438.75183"
+       y="220.92625"
+       id="text5614"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:linespacing="125%"><tspan
+         x="438.75183"
+         y="220.92625"
+         id="tspan5616"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond">S. Szoniecky</tspan></text>
+    <rect
+       width="256.3364"
+       height="13.193866"
+       x="415.86075"
+       y="213.15211"
+       id="rect5618"
+       style="fill:none;stroke:#000000;stroke-width:0.19758956;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/citu.png"
+       xlink:href="img/citu.png"
+       width="8.7394962"
+       height="8"
+       id="image5620"
+       x="469.81454"
+       y="215.74905" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5622"
+       y="221.02225"
+       x="521.18359"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="221.02225"
+         x="521.18359"
+         id="tspan5624"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:Arial;-inkscape-font-specification:Arial"> Ecosystème de connaissances, automne 2016</tspan></text>
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/papi-conf_errance.png"
+       xlink:href="img/papi-conf_errance.png"
+       width="15.22845"
+       height="15.99038"
+       preserveAspectRatio="none"
+       id="image5626"
+       x="417.28766"
+       y="214.29868" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5628"
+       y="222.4386"
+       x="640.53003"
+       style="font-style:normal;font-weight:normal;font-size:7.38857222px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="222.4386"
+         x="640.53003"
+         id="tspan5630"
+         sodipodi:role="line">CIBAHN</tspan></text>
+  </g>
+  <g
+     id="g5632"
+     transform="translate(1413.8809,0)">
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/logo_paragraphe.gif"
+       xlink:href="img/logo_paragraphe.gif"
+       id="image5634"
+       height="8.4609089"
+       width="28.617781"
+       y="215.5186"
+       x="481.5932" />
+    <text
+       sodipodi:linespacing="125%"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text5636"
+       y="220.92625"
+       x="438.75183"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond"
+         id="tspan5638"
+         y="220.92625"
+         x="438.75183">S. Szoniecky</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.19758956;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5640"
+       y="213.15211"
+       x="415.86075"
+       height="13.193866"
+       width="256.3364" />
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/citu.png"
+       xlink:href="img/citu.png"
+       y="215.74905"
+       x="469.81454"
+       id="image5642"
+       height="8"
+       width="8.7394962" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="521.18359"
+       y="221.02225"
+       id="text5644"
+       sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:Arial;-inkscape-font-specification:Arial"
+         sodipodi:role="line"
+         id="tspan5646"
+         x="521.18359"
+         y="221.02225"> Ecosystème de connaissances, automne 2016</tspan></text>
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/papi-conf_errance.png"
+       xlink:href="img/papi-conf_errance.png"
+       y="214.29868"
+       x="417.28766"
+       id="image5648"
+       preserveAspectRatio="none"
+       height="15.99038"
+       width="15.22845" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.38857222px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="640.53003"
+       y="222.4386"
+       id="text5650"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5652"
+         x="640.53003"
+         y="222.4386">CIBAHN</tspan></text>
+  </g>
+  <g
+     transform="translate(1768.2052,0)"
+     id="g5654">
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/logo_paragraphe.gif"
+       xlink:href="img/logo_paragraphe.gif"
+       x="481.5932"
+       y="215.5186"
+       width="28.617781"
+       height="8.4609089"
+       id="image5656" />
+    <text
+       x="438.75183"
+       y="220.92625"
+       id="text5658"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:linespacing="125%"><tspan
+         x="438.75183"
+         y="220.92625"
+         id="tspan5660"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond">S. Szoniecky</tspan></text>
+    <rect
+       width="256.3364"
+       height="13.193866"
+       x="415.86075"
+       y="213.15211"
+       id="rect5662"
+       style="fill:none;stroke:#000000;stroke-width:0.19758956;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/citu.png"
+       xlink:href="img/citu.png"
+       width="8.7394962"
+       height="8"
+       id="image5664"
+       x="469.81454"
+       y="215.74905" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5666"
+       y="221.02225"
+       x="521.18359"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="221.02225"
+         x="521.18359"
+         id="tspan5668"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:Arial;-inkscape-font-specification:Arial"> Ecosystème de connaissances, automne 2016</tspan></text>
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/papi-conf_errance.png"
+       xlink:href="img/papi-conf_errance.png"
+       width="15.22845"
+       height="15.99038"
+       preserveAspectRatio="none"
+       id="image5671"
+       x="417.28766"
+       y="214.29868" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5673"
+       y="222.4386"
+       x="640.53003"
+       style="font-style:normal;font-weight:normal;font-size:7.38857222px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="222.4386"
+         x="640.53003"
+         id="tspan5675"
+         sodipodi:role="line">CIBAHN</tspan></text>
+  </g>
+  <g
+     id="g5697"
+     transform="translate(2125.861,0)">
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/logo_paragraphe.gif"
+       xlink:href="img/logo_paragraphe.gif"
+       id="image5699"
+       height="8.4609089"
+       width="28.617781"
+       y="215.5186"
+       x="481.5932" />
+    <text
+       sodipodi:linespacing="125%"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text5701"
+       y="220.92625"
+       x="438.75183"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond"
+         id="tspan5703"
+         y="220.92625"
+         x="438.75183">S. Szoniecky</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.19758956;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5705"
+       y="213.15211"
+       x="415.86075"
+       height="13.193866"
+       width="256.3364" />
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/citu.png"
+       xlink:href="img/citu.png"
+       y="215.74905"
+       x="469.81454"
+       id="image5707"
+       height="8"
+       width="8.7394962" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="521.18359"
+       y="221.02225"
+       id="text5709"
+       sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:Arial;-inkscape-font-specification:Arial"
+         sodipodi:role="line"
+         id="tspan5711"
+         x="521.18359"
+         y="221.02225"> Ecosystème de connaissances, automne 2016</tspan></text>
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/papi-conf_errance.png"
+       xlink:href="img/papi-conf_errance.png"
+       y="214.29868"
+       x="417.28766"
+       id="image5713"
+       preserveAspectRatio="none"
+       height="15.99038"
+       width="15.22845" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.38857222px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="640.53003"
+       y="222.4386"
+       id="text5715"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5717"
+         x="640.53003"
+         y="222.4386">CIBAHN</tspan></text>
+  </g>
+  <g
+     transform="translate(2480.7765,0)"
+     id="g5719">
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/logo_paragraphe.gif"
+       xlink:href="img/logo_paragraphe.gif"
+       x="481.5932"
+       y="215.5186"
+       width="28.617781"
+       height="8.4609089"
+       id="image5721" />
+    <text
+       x="438.75183"
+       y="220.92625"
+       id="text5723"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:linespacing="125%"><tspan
+         x="438.75183"
+         y="220.92625"
+         id="tspan5725"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond">S. Szoniecky</tspan></text>
+    <rect
+       width="256.3364"
+       height="13.193866"
+       x="415.86075"
+       y="213.15211"
+       id="rect5727"
+       style="fill:none;stroke:#000000;stroke-width:0.19758956;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/citu.png"
+       xlink:href="img/citu.png"
+       width="8.7394962"
+       height="8"
+       id="image5729"
+       x="469.81454"
+       y="215.74905" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5731"
+       y="221.02225"
+       x="521.18359"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="221.02225"
+         x="521.18359"
+         id="tspan5733"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:Arial;-inkscape-font-specification:Arial"> Ecosystème de connaissances, automne 2016</tspan></text>
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/papi-conf_errance.png"
+       xlink:href="img/papi-conf_errance.png"
+       width="15.22845"
+       height="15.99038"
+       preserveAspectRatio="none"
+       id="image5735"
+       x="417.28766"
+       y="214.29868" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5737"
+       y="222.4386"
+       x="640.53003"
+       style="font-style:normal;font-weight:normal;font-size:7.38857222px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="222.4386"
+         x="640.53003"
+         id="tspan5739"
+         sodipodi:role="line">CIBAHN</tspan></text>
+  </g>
+  <g
+     id="g5741"
+     transform="translate(2480.7765,216.87633)">
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/logo_paragraphe.gif"
+       xlink:href="img/logo_paragraphe.gif"
+       id="image5743"
+       height="8.4609089"
+       width="28.617781"
+       y="215.5186"
+       x="481.5932" />
+    <text
+       sodipodi:linespacing="125%"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text5745"
+       y="220.92625"
+       x="438.75183"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond"
+         id="tspan5747"
+         y="220.92625"
+         x="438.75183">S. Szoniecky</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.19758956;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5749"
+       y="213.15211"
+       x="415.86075"
+       height="13.193866"
+       width="256.3364" />
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/citu.png"
+       xlink:href="img/citu.png"
+       y="215.74905"
+       x="469.81454"
+       id="image5751"
+       height="8"
+       width="8.7394962" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="521.18359"
+       y="221.02225"
+       id="text5753"
+       sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:Arial;-inkscape-font-specification:Arial"
+         sodipodi:role="line"
+         id="tspan5755"
+         x="521.18359"
+         y="221.02225"> Ecosystème de connaissances, automne 2016</tspan></text>
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/papi-conf_errance.png"
+       xlink:href="img/papi-conf_errance.png"
+       y="214.29868"
+       x="417.28766"
+       id="image5757"
+       preserveAspectRatio="none"
+       height="15.99038"
+       width="15.22845" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.38857222px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="640.53003"
+       y="222.4386"
+       id="text5759"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5761"
+         x="640.53003"
+         y="222.4386">CIBAHN</tspan></text>
+  </g>
+  <g
+     transform="translate(2125.833,216.87633)"
+     id="g5763">
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/logo_paragraphe.gif"
+       xlink:href="img/logo_paragraphe.gif"
+       x="481.5932"
+       y="215.5186"
+       width="28.617781"
+       height="8.4609089"
+       id="image5765" />
+    <text
+       x="438.75183"
+       y="220.92625"
+       id="text5767"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:linespacing="125%"><tspan
+         x="438.75183"
+         y="220.92625"
+         id="tspan5769"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond">S. Szoniecky</tspan></text>
+    <rect
+       width="256.3364"
+       height="13.193866"
+       x="415.86075"
+       y="213.15211"
+       id="rect5771"
+       style="fill:none;stroke:#000000;stroke-width:0.19758956;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/citu.png"
+       xlink:href="img/citu.png"
+       width="8.7394962"
+       height="8"
+       id="image5773"
+       x="469.81454"
+       y="215.74905" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5775"
+       y="221.02225"
+       x="521.18359"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="221.02225"
+         x="521.18359"
+         id="tspan5777"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:Arial;-inkscape-font-specification:Arial"> Ecosystème de connaissances, automne 2016</tspan></text>
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/papi-conf_errance.png"
+       xlink:href="img/papi-conf_errance.png"
+       width="15.22845"
+       height="15.99038"
+       preserveAspectRatio="none"
+       id="image5779"
+       x="417.28766"
+       y="214.29868" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5781"
+       y="222.4386"
+       x="640.53003"
+       style="font-style:normal;font-weight:normal;font-size:7.38857222px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="222.4386"
+         x="640.53003"
+         id="tspan5783"
+         sodipodi:role="line">CIBAHN</tspan></text>
+  </g>
+  <rect
+     width="256.12103"
+     height="183.15039"
+     x="2184.1597"
+     y="259.82251"
+     id="slide_2.1"
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <g
+     id="g5785"
+     transform="translate(1768.1773,216.87633)">
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/logo_paragraphe.gif"
+       xlink:href="img/logo_paragraphe.gif"
+       id="image5787"
+       height="8.4609089"
+       width="28.617781"
+       y="215.5186"
+       x="481.5932" />
+    <text
+       sodipodi:linespacing="125%"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text5789"
+       y="220.92625"
+       x="438.75183"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond"
+         id="tspan5791"
+         y="220.92625"
+         x="438.75183">S. Szoniecky</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.19758956;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5793"
+       y="213.15211"
+       x="415.86075"
+       height="13.193866"
+       width="256.3364" />
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/citu.png"
+       xlink:href="img/citu.png"
+       y="215.74905"
+       x="469.81454"
+       id="image5795"
+       height="8"
+       width="8.7394962" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="521.18359"
+       y="221.02225"
+       id="text5797"
+       sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:Arial;-inkscape-font-specification:Arial"
+         sodipodi:role="line"
+         id="tspan5799"
+         x="521.18359"
+         y="221.02225"> Ecosystème de connaissances, automne 2016</tspan></text>
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/papi-conf_errance.png"
+       xlink:href="img/papi-conf_errance.png"
+       y="214.29868"
+       x="417.28766"
+       id="image5801"
+       preserveAspectRatio="none"
+       height="15.99038"
+       width="15.22845" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.38857222px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="640.53003"
+       y="222.4386"
+       id="text5803"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5805"
+         x="640.53003"
+         y="222.4386">CIBAHN</tspan></text>
+  </g>
+  <image
+     sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/GenerateurIEMLjaimephilo.png"
+     xlink:href="img/GenerateurIEMLjaimephilo.png"
+     onclick="showWebPage('http://localhost/generateur/services/api.php?oeu=57&amp;cpt=170023&amp;frt=html&amp;btn=1');"
+     width="167.67409"
+     height="132.84247"
+     preserveAspectRatio="none"
+     id="image5882"
+     x="1524.0455"
+     y="295.22903" />
+  <text
+     id="text4971"
+     y="276.82602"
+     x="2312.2786"
+     style="font-style:normal;font-weight:normal;font-size:2.16240358px;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle"
+       y="276.82602"
+       x="2312.2786"
+       id="tspan4973"
+       sodipodi:role="line">Modéliser des existences - arguments</tspan></text>
+  <g
+     transform="translate(1413.8669,216.87633)"
+     id="g4975">
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/logo_paragraphe.gif"
+       xlink:href="img/logo_paragraphe.gif"
+       x="481.5932"
+       y="215.5186"
+       width="28.617781"
+       height="8.4609089"
+       id="image4977" />
+    <text
+       x="438.75183"
+       y="220.92625"
+       id="text4979"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:linespacing="125%"><tspan
+         x="438.75183"
+         y="220.92625"
+         id="tspan4981"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond">S. Szoniecky</tspan></text>
+    <rect
+       width="256.3364"
+       height="13.193866"
+       x="415.86075"
+       y="213.15211"
+       id="rect4983"
+       style="fill:none;stroke:#000000;stroke-width:0.19758956;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/citu.png"
+       xlink:href="img/citu.png"
+       width="8.7394962"
+       height="8"
+       id="image4985"
+       x="469.81454"
+       y="215.74905" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4987"
+       y="221.02225"
+       x="521.18359"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="221.02225"
+         x="521.18359"
+         id="tspan4989"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:Arial;-inkscape-font-specification:Arial"> Ecosystème de connaissances, automne 2016</tspan></text>
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/papi-conf_errance.png"
+       xlink:href="img/papi-conf_errance.png"
+       width="15.22845"
+       height="15.99038"
+       preserveAspectRatio="none"
+       id="image4991"
+       x="417.28766"
+       y="214.29868" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4993"
+       y="222.4386"
+       x="640.53003"
+       style="font-style:normal;font-weight:normal;font-size:7.38857222px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="222.4386"
+         x="640.53003"
+         id="tspan4995"
+         sodipodi:role="line">CIBAHN</tspan></text>
+  </g>
+  <g
+     id="g4997"
+     transform="translate(1059.1532,216.87633)">
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/logo_paragraphe.gif"
+       xlink:href="img/logo_paragraphe.gif"
+       id="image4999"
+       height="8.4609089"
+       width="28.617781"
+       y="215.5186"
+       x="481.5932" />
+    <text
+       sodipodi:linespacing="125%"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text5001"
+       y="220.92625"
+       x="438.75183"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond"
+         id="tspan5003"
+         y="220.92625"
+         x="438.75183">S. Szoniecky</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.19758956;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5005"
+       y="213.15211"
+       x="415.86075"
+       height="13.193866"
+       width="256.3364" />
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/citu.png"
+       xlink:href="img/citu.png"
+       y="215.74905"
+       x="469.81454"
+       id="image5007"
+       height="8"
+       width="8.7394962" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="521.18359"
+       y="221.02225"
+       id="text5009"
+       sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:Arial;-inkscape-font-specification:Arial"
+         sodipodi:role="line"
+         id="tspan5011"
+         x="521.18359"
+         y="221.02225"> Ecosystème de connaissances, automne 2016</tspan></text>
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/papi-conf_errance.png"
+       xlink:href="img/papi-conf_errance.png"
+       y="214.29868"
+       x="417.28766"
+       id="image5013"
+       preserveAspectRatio="none"
+       height="15.99038"
+       width="15.22845" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.38857222px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="640.53003"
+       y="222.4386"
+       id="text5015"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5017"
+         x="640.53003"
+         y="222.4386">CIBAHN</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:2.16240358px;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
+     x="1603.0723"
+     y="276.82602"
+     id="text5019"><tspan
+       sodipodi:role="line"
+       id="tspan5021"
+       x="1603.0723"
+       y="276.82602"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle">Simuler des controverses</tspan></text>
+  <text
+     id="text5025"
+     y="276.82602"
+     x="1249.0197"
+     style="font-style:normal;font-weight:normal;font-size:2.16240358px;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle"
+       y="276.82602"
+       x="1249.0197"
+       id="tspan5027"
+       sodipodi:role="line">Simuler des controverses</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:2.16240358px;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
+     x="896.89136"
+     y="276.82602"
+     id="text5031"><tspan
+       sodipodi:role="line"
+       id="tspan5033"
+       x="896.89136"
+       y="276.82602"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle">Interopérabilité des analyses</tspan></text>
+  <image
+     sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/iceIHMcomplexe.jpg"
+     xlink:href="img/iceIHMcomplexe.jpg"
+     y="287.39771"
+     x="1838.6082"
+     id="image7118"
+     height="140"
+     width="245.22678" />
+  <g
+     transform="translate(705.03828,216.87633)"
+     id="g5035">
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/logo_paragraphe.gif"
+       xlink:href="img/logo_paragraphe.gif"
+       x="481.5932"
+       y="215.5186"
+       width="28.617781"
+       height="8.4609089"
+       id="image5037" />
+    <text
+       x="438.75183"
+       y="220.92625"
+       id="text5039"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:linespacing="125%"><tspan
+         x="438.75183"
+         y="220.92625"
+         id="tspan5041"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond">S. Szoniecky</tspan></text>
+    <rect
+       width="256.3364"
+       height="13.193866"
+       x="415.86075"
+       y="213.15211"
+       id="rect5043"
+       style="fill:none;stroke:#000000;stroke-width:0.19758956;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/citu.png"
+       xlink:href="img/citu.png"
+       width="8.7394962"
+       height="8"
+       id="image5045"
+       x="469.81454"
+       y="215.74905" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5048"
+       y="221.02225"
+       x="521.18359"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="221.02225"
+         x="521.18359"
+         id="tspan5050"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:Arial;-inkscape-font-specification:Arial"> Ecosystème de connaissances, automne 2016</tspan></text>
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/papi-conf_errance.png"
+       xlink:href="img/papi-conf_errance.png"
+       width="15.22845"
+       height="15.99038"
+       preserveAspectRatio="none"
+       id="image5052"
+       x="417.28766"
+       y="214.29868" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5055"
+       y="222.4386"
+       x="640.53003"
+       style="font-style:normal;font-weight:normal;font-size:7.38857222px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="222.4386"
+         x="640.53003"
+         id="tspan5057"
+         sodipodi:role="line">CIBAHN</tspan></text>
+  </g>
+  <g
+     id="g5059"
+     transform="translate(352.90999,216.87633)">
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/logo_paragraphe.gif"
+       xlink:href="img/logo_paragraphe.gif"
+       id="image5061"
+       height="8.4609089"
+       width="28.617781"
+       y="215.5186"
+       x="481.5932" />
+    <text
+       sodipodi:linespacing="125%"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text5063"
+       y="220.92625"
+       x="438.75183"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond"
+         id="tspan5065"
+         y="220.92625"
+         x="438.75183">S. Szoniecky</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.19758956;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5067"
+       y="213.15211"
+       x="415.86075"
+       height="13.193866"
+       width="256.3364" />
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/citu.png"
+       xlink:href="img/citu.png"
+       y="215.74905"
+       x="469.81454"
+       id="image5069"
+       height="8"
+       width="8.7394962" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="521.18359"
+       y="221.02225"
+       id="text5071"
+       sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:Arial;-inkscape-font-specification:Arial"
+         sodipodi:role="line"
+         id="tspan5073"
+         x="521.18359"
+         y="221.02225"> Ecosystème de connaissances, automne 2016</tspan></text>
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/papi-conf_errance.png"
+       xlink:href="img/papi-conf_errance.png"
+       y="214.29868"
+       x="417.28766"
+       id="image5075"
+       preserveAspectRatio="none"
+       height="15.99038"
+       width="15.22845" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.38857222px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="640.53003"
+       y="222.4386"
+       id="text5077"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5079"
+         x="640.53003"
+         y="222.4386">CIBAHN</tspan></text>
+  </g>
+  <g
+     transform="translate(-0.70655823,216.87633)"
+     id="g5081">
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/logo_paragraphe.gif"
+       xlink:href="img/logo_paragraphe.gif"
+       x="481.5932"
+       y="215.5186"
+       width="28.617781"
+       height="8.4609089"
+       id="image5083" />
+    <text
+       x="438.75183"
+       y="220.92625"
+       id="text5085"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:linespacing="125%"><tspan
+         x="438.75183"
+         y="220.92625"
+         id="tspan5087"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond">S. Szoniecky</tspan></text>
+    <rect
+       width="256.3364"
+       height="13.193866"
+       x="415.86075"
+       y="213.15211"
+       id="rect5089"
+       style="fill:none;stroke:#000000;stroke-width:0.19758956;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/citu.png"
+       xlink:href="img/citu.png"
+       width="8.7394962"
+       height="8"
+       id="image5091"
+       x="469.81454"
+       y="215.74905" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5093"
+       y="221.02225"
+       x="521.18359"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="221.02225"
+         x="521.18359"
+         id="tspan5096"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:Arial;-inkscape-font-specification:Arial"> Ecosystème de connaissances, automne 2016</tspan></text>
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/papi-conf_errance.png"
+       xlink:href="img/papi-conf_errance.png"
+       width="15.22845"
+       height="15.99038"
+       preserveAspectRatio="none"
+       id="image5098"
+       x="417.28766"
+       y="214.29868" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5100"
+       y="222.4386"
+       x="640.53003"
+       style="font-style:normal;font-weight:normal;font-size:7.38857222px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="222.4386"
+         x="640.53003"
+         id="tspan5102"
+         sodipodi:role="line">CIBAHN</tspan></text>
+  </g>
+  <g
+     id="g5104"
+     transform="translate(-352.7795,432.09926)">
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/logo_paragraphe.gif"
+       xlink:href="img/logo_paragraphe.gif"
+       id="image5106"
+       height="8.4609089"
+       width="28.617781"
+       y="215.5186"
+       x="481.5932" />
+    <text
+       sodipodi:linespacing="125%"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text5108"
+       y="220.92625"
+       x="438.75183"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond"
+         id="tspan5110"
+         y="220.92625"
+         x="438.75183">S. Szoniecky</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.19758956;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5112"
+       y="213.15211"
+       x="415.86075"
+       height="13.193866"
+       width="256.3364" />
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/citu.png"
+       xlink:href="img/citu.png"
+       y="215.74905"
+       x="469.81454"
+       id="image5114"
+       height="8"
+       width="8.7394962" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="521.18359"
+       y="221.02225"
+       id="text5116"
+       sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:Arial;-inkscape-font-specification:Arial"
+         sodipodi:role="line"
+         id="tspan5118"
+         x="521.18359"
+         y="221.02225"> Ecosystème de connaissances, automne 2016</tspan></text>
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/papi-conf_errance.png"
+       xlink:href="img/papi-conf_errance.png"
+       y="214.29868"
+       x="417.28766"
+       id="image5120"
+       preserveAspectRatio="none"
+       height="15.99038"
+       width="15.22845" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.38857222px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="640.53003"
+       y="222.4386"
+       id="text5122"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5124"
+         x="640.53003"
+         y="222.4386">CIBAHN</tspan></text>
+  </g>
+  <text
+     sodipodi:linespacing="125%"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.86221695px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="text4991"
+     y="495.97003"
+     x="1129.7091"><tspan
+       id="tspan4993"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start">Explorer les lieux de connaissances</tspan></text>
+  <image
+     sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/IksRay.png"
+     xlink:href="img/IksRay.png"
+     onclick="showWebPage('img/IKSRAYTeaser.mp4');"
+     width="191.94646"
+     height="135.08232"
+     preserveAspectRatio="none"
+     id="image5220"
+     x="1153.2781"
+     y="503.07947" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:2.16240358px;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
+     x="1957.9542"
+     y="276.82602"
+     id="text5227"><tspan
+       sodipodi:role="line"
+       id="tspan5229"
+       x="1957.9542"
+       y="276.82602"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle">Modéliser des existences - arguments</tspan></text>
+  <g
+     id="g5231"
+     transform="translate(-352.7795,216.87633)">
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/logo_paragraphe.gif"
+       xlink:href="img/logo_paragraphe.gif"
+       id="image5233"
+       height="8.4609089"
+       width="28.617781"
+       y="215.5186"
+       x="481.5932" />
+    <text
+       sodipodi:linespacing="125%"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text5235"
+       y="220.92625"
+       x="438.75183"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond"
+         id="tspan5237"
+         y="220.92625"
+         x="438.75183">S. Szoniecky</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.19758956;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5239"
+       y="213.15211"
+       x="415.86075"
+       height="13.193866"
+       width="256.3364" />
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/citu.png"
+       xlink:href="img/citu.png"
+       y="215.74905"
+       x="469.81454"
+       id="image5241"
+       height="8"
+       width="8.7394962" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="521.18359"
+       y="221.02225"
+       id="text5243"
+       sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:Arial;-inkscape-font-specification:Arial"
+         sodipodi:role="line"
+         id="tspan5246"
+         x="521.18359"
+         y="221.02225"> Ecosystème de connaissances, automne 2016</tspan></text>
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/papi-conf_errance.png"
+       xlink:href="img/papi-conf_errance.png"
+       y="214.29868"
+       x="417.28766"
+       id="image5248"
+       preserveAspectRatio="none"
+       height="15.99038"
+       width="15.22845" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.38857222px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="640.53003"
+       y="222.4386"
+       id="text5250"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5252"
+         x="640.53003"
+         y="222.4386">CIBAHN</tspan></text>
+  </g>
+  <text
+     id="text5448"
+     y="276.82602"
+     x="542.91223"
+     style="font-style:normal;font-weight:normal;font-size:2.16240358px;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle"
+       y="276.82602"
+       x="542.91223"
+       id="tspan5450"
+       sodipodi:role="line">Interopérabilité des analyses</tspan></text>
+  <image
+     sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/symogihPreface.png"
+     xlink:href="img/symogihPreface.png"
+     width="107.61712"
+     height="78.381935"
+     preserveAspectRatio="none"
+     id="image5511-8"
+     x="559.41217"
+     y="312.03564" />
+  <image
+     sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/symogihVieIntellectuelle.png"
+     xlink:href="img/symogihVieIntellectuelle.png"
+     onclick="showWebPage('http://symogih.org/?q=type-of-knowledge-unit-classes-tree');"
+     width="141.94046"
+     height="108.90628"
+     preserveAspectRatio="none"
+     id="image5573"
+     x="415.81906"
+     y="296.7735" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:2.16240358px;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
+     x="190.83929"
+     y="276.82602"
+     id="text5576"><tspan
+       sodipodi:role="line"
+       id="tspan5578"
+       x="190.83929"
+       y="276.82602"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle">Interopérabilité des analyses</tspan></text>
+  <image
+     sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/evolution_internet-1-745x445.jpg"
+     xlink:href="img/evolution_internet-1-745x445.jpg"
+     width="230.56949"
+     height="137.72273"
+     preserveAspectRatio="none"
+     id="image5735-2"
+     x="1842.6112"
+     y="497.6785" />
+  <image
+     sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/WebAnnotationDataModel.png"
+     xlink:href="img/WebAnnotationDataModel.png"
+     onclick="showWebPage('https://www.w3.org/annotation/');"
+     width="239.74628"
+     height="138.89146"
+     preserveAspectRatio="none"
+     id="image5797"
+     x="71.376305"
+     y="285.21609" />
+  <text
+     sodipodi:linespacing="125%"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.86221695px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="text5805"
+     y="496.15314"
+     x="805.80688"><tspan
+       id="tspan5807"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start">Cartographier les sagesses</tspan></text>
+  <image
+     sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/dendro.png"
+     xlink:href="img/dendro.png"
+     onclick="showWebPage('http://localhost/jdc/public/graph/dendrochronologie');"
+     width="181.60698"
+     height="99.08416"
+     preserveAspectRatio="none"
+     id="image5868"
+     x="487.87454"
+     y="517.07855" />
+  <g
+     transform="translate(705.22237,432.09926)"
+     id="g5871">
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/logo_paragraphe.gif"
+       xlink:href="img/logo_paragraphe.gif"
+       x="481.5932"
+       y="215.5186"
+       width="28.617781"
+       height="8.4609089"
+       id="image5873" />
+    <text
+       x="438.75183"
+       y="220.92625"
+       id="text5875"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:linespacing="125%"><tspan
+         x="438.75183"
+         y="220.92625"
+         id="tspan5877"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond">S. Szoniecky</tspan></text>
+    <rect
+       width="256.3364"
+       height="13.193866"
+       x="415.86075"
+       y="213.15211"
+       id="rect5879"
+       style="fill:none;stroke:#000000;stroke-width:0.19758956;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/citu.png"
+       xlink:href="img/citu.png"
+       width="8.7394962"
+       height="8"
+       id="image5881"
+       x="469.81454"
+       y="215.74905" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5883"
+       y="221.02225"
+       x="521.18359"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="221.02225"
+         x="521.18359"
+         id="tspan5885"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:Arial;-inkscape-font-specification:Arial"> Ecosystème de connaissances, automne 2016</tspan></text>
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/papi-conf_errance.png"
+       xlink:href="img/papi-conf_errance.png"
+       width="15.22845"
+       height="15.99038"
+       preserveAspectRatio="none"
+       id="image5887"
+       x="417.28766"
+       y="214.29868" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5889"
+       y="222.4386"
+       x="640.53003"
+       style="font-style:normal;font-weight:normal;font-size:7.38857222px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="222.4386"
+         x="640.53003"
+         id="tspan5891"
+         sodipodi:role="line">CIBAHN</tspan></text>
+  </g>
+  <g
+     id="g5893"
+     transform="translate(-0.72743225,432.09926)">
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/logo_paragraphe.gif"
+       xlink:href="img/logo_paragraphe.gif"
+       id="image5895"
+       height="8.4609089"
+       width="28.617781"
+       y="215.5186"
+       x="481.5932" />
+    <text
+       sodipodi:linespacing="125%"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text5897"
+       y="220.92625"
+       x="438.75183"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond"
+         id="tspan5899"
+         y="220.92625"
+         x="438.75183">S. Szoniecky</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.19758956;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5901"
+       y="213.15211"
+       x="415.86075"
+       height="13.193866"
+       width="256.3364" />
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/citu.png"
+       xlink:href="img/citu.png"
+       y="215.74905"
+       x="469.81454"
+       id="image5903"
+       height="8"
+       width="8.7394962" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="521.18359"
+       y="221.02225"
+       id="text5905"
+       sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:Arial;-inkscape-font-specification:Arial"
+         sodipodi:role="line"
+         id="tspan5907"
+         x="521.18359"
+         y="221.02225"> Ecosystème de connaissances, automne 2016</tspan></text>
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/papi-conf_errance.png"
+       xlink:href="img/papi-conf_errance.png"
+       y="214.29868"
+       x="417.28766"
+       id="image5909"
+       preserveAspectRatio="none"
+       height="15.99038"
+       width="15.22845" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.38857222px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="640.53003"
+       y="222.4386"
+       id="text5911"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5913"
+         x="640.53003"
+         y="222.4386">CIBAHN</tspan></text>
+  </g>
+  <g
+     id="g5915"
+     transform="translate(353.10725,432.09926)">
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/logo_paragraphe.gif"
+       xlink:href="img/logo_paragraphe.gif"
+       id="image5917"
+       height="8.4609089"
+       width="28.617781"
+       y="215.5186"
+       x="481.5932" />
+    <text
+       sodipodi:linespacing="125%"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text5919"
+       y="220.92625"
+       x="438.75183"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond"
+         id="tspan5921"
+         y="220.92625"
+         x="438.75183">S. Szoniecky</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.19758956;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5923"
+       y="213.15211"
+       x="415.86075"
+       height="13.193866"
+       width="256.3364" />
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/citu.png"
+       xlink:href="img/citu.png"
+       y="215.74905"
+       x="469.81454"
+       id="image5925"
+       height="8"
+       width="8.7394962" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="521.18359"
+       y="221.02225"
+       id="text5927"
+       sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:Arial;-inkscape-font-specification:Arial"
+         sodipodi:role="line"
+         id="tspan5929"
+         x="521.18359"
+         y="221.02225"> Ecosystème de connaissances, automne 2016</tspan></text>
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/papi-conf_errance.png"
+       xlink:href="img/papi-conf_errance.png"
+       y="214.29868"
+       x="417.28766"
+       id="image5931"
+       preserveAspectRatio="none"
+       height="15.99038"
+       width="15.22845" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.38857222px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="640.53003"
+       y="222.4386"
+       id="text5933"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5935"
+         x="640.53003"
+         y="222.4386">CIBAHN</tspan></text>
+  </g>
+  <image
+     sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/dendroChronologie.jpg"
+     xlink:href="img/dendroChronologie.jpg"
+     width="70"
+     height="74.008812"
+     preserveAspectRatio="none"
+     id="image5996"
+     x="417.05167"
+     y="500.44312" />
+  <image
+     sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/kronobase.png"
+     xlink:href="img/kronobase.png"
+     width="70"
+     height="67.420143"
+     preserveAspectRatio="none"
+     id="image6058"
+     x="417.05167"
+     y="575.51031" />
+  <text
+     x="1484.1711"
+     y="495.97003"
+     id="text6064"
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.86221695px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     sodipodi:linespacing="125%"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start"
+       id="tspan6066">Explorer les lieux de connaissances</tspan></text>
+  <image
+     sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/FolkBiblio.png"
+     xlink:href="img/FolkBiblio.png"
+     width="142.71101"
+     height="141.90927"
+     preserveAspectRatio="none"
+     id="image6127"
+     x="1532.3578"
+     y="501.66602" />
+  <g
+     id="g6130"
+     transform="translate(1059.6844,432.09926)">
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/logo_paragraphe.gif"
+       xlink:href="img/logo_paragraphe.gif"
+       id="image6132"
+       height="8.4609089"
+       width="28.617781"
+       y="215.5186"
+       x="481.5932" />
+    <text
+       sodipodi:linespacing="125%"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text6134"
+       y="220.92625"
+       x="438.75183"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond"
+         id="tspan6136"
+         y="220.92625"
+         x="438.75183">S. Szoniecky</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.19758956;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6138"
+       y="213.15211"
+       x="415.86075"
+       height="13.193866"
+       width="256.3364" />
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/citu.png"
+       xlink:href="img/citu.png"
+       y="215.74905"
+       x="469.81454"
+       id="image6140"
+       height="8"
+       width="8.7394962" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="521.18359"
+       y="221.02225"
+       id="text6142"
+       sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:Arial;-inkscape-font-specification:Arial"
+         sodipodi:role="line"
+         id="tspan6144"
+         x="521.18359"
+         y="221.02225"> Ecosystème de connaissances, automne 2016</tspan></text>
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/papi-conf_errance.png"
+       xlink:href="img/papi-conf_errance.png"
+       y="214.29868"
+       x="417.28766"
+       id="image6146"
+       preserveAspectRatio="none"
+       height="15.99038"
+       width="15.22845" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.38857222px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="640.53003"
+       y="222.4386"
+       id="text6148"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6150"
+         x="640.53003"
+         y="222.4386">CIBAHN</tspan></text>
+  </g>
+  <g
+     transform="translate(1413.867,432.09926)"
+     id="g6152">
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/logo_paragraphe.gif"
+       xlink:href="img/logo_paragraphe.gif"
+       x="481.5932"
+       y="215.5186"
+       width="28.617781"
+       height="8.4609089"
+       id="image6154" />
+    <text
+       x="438.75183"
+       y="220.92625"
+       id="text6156"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:linespacing="125%"><tspan
+         x="438.75183"
+         y="220.92625"
+         id="tspan6158"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond">S. Szoniecky</tspan></text>
+    <rect
+       width="256.3364"
+       height="13.193866"
+       x="415.86075"
+       y="213.15211"
+       id="rect6160"
+       style="fill:none;stroke:#000000;stroke-width:0.19758956;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/citu.png"
+       xlink:href="img/citu.png"
+       width="8.7394962"
+       height="8"
+       id="image6162"
+       x="469.81454"
+       y="215.74905" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text6164"
+       y="221.02225"
+       x="521.18359"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="221.02225"
+         x="521.18359"
+         id="tspan6166"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:Arial;-inkscape-font-specification:Arial"> Ecosystème de connaissances, automne 2016</tspan></text>
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/papi-conf_errance.png"
+       xlink:href="img/papi-conf_errance.png"
+       width="15.22845"
+       height="15.99038"
+       preserveAspectRatio="none"
+       id="image6168"
+       x="417.28766"
+       y="214.29868" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text6170"
+       y="222.4386"
+       x="640.53003"
+       style="font-style:normal;font-weight:normal;font-size:7.38857222px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="222.4386"
+         x="640.53003"
+         id="tspan6172"
+         sodipodi:role="line">CIBAHN</tspan></text>
+  </g>
+  <g
+     id="g6312">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="slide_5.3"
+       y="474.96466"
+       x="2184.1597"
+       height="183.15039"
+       width="256.12103" />
+    <image
+       sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/ecosystem_fr_header.jpg"
+       xlink:href="img/ecosystem_fr_header.jpg"
+       x="2197.9854"
+       y="490.1521"
+       width="225.92439"
+       height="143.77007"
+       id="image9032" />
+    <g
+       transform="translate(1768.1912,432.09926)"
+       id="g6202">
+      <image
+         sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/logo_paragraphe.gif"
+         xlink:href="img/logo_paragraphe.gif"
+         x="481.5932"
+         y="215.5186"
+         width="28.617781"
+         height="8.4609089"
+         id="image6204" />
+      <text
+         x="438.75183"
+         y="220.92625"
+         id="text6206"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         sodipodi:linespacing="125%"><tspan
+           x="438.75183"
+           y="220.92625"
+           id="tspan6208"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond">S. Szoniecky</tspan></text>
+      <rect
+         width="256.3364"
+         height="13.193866"
+         x="415.86075"
+         y="213.15211"
+         id="rect6210"
+         style="fill:none;stroke:#000000;stroke-width:0.19758956;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <image
+         sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/citu.png"
+         xlink:href="img/citu.png"
+         width="8.7394962"
+         height="8"
+         id="image6212"
+         x="469.81454"
+         y="215.74905" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6214"
+         y="221.02225"
+         x="521.18359"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="221.02225"
+           x="521.18359"
+           id="tspan6216"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:Arial;-inkscape-font-specification:Arial"> Ecosystème de connaissances, automne 2016</tspan></text>
+      <image
+         sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/papi-conf_errance.png"
+         xlink:href="img/papi-conf_errance.png"
+         width="15.22845"
+         height="15.99038"
+         preserveAspectRatio="none"
+         id="image6218"
+         x="417.28766"
+         y="214.29868" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6220"
+         y="222.4386"
+         x="640.53003"
+         style="font-style:normal;font-weight:normal;font-size:7.38857222px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="222.4386"
+           x="640.53003"
+           id="tspan6222"
+           sodipodi:role="line">CIBAHN</tspan></text>
+    </g>
+  </g>
+  <image
+     sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/genProverbe.png"
+     xlink:href="img/genProverbe.png"
+     onclick="showWebPage('http://localhost/generateur/services/api.php?oeu=57&amp;cpt=170013&amp;frt=html&amp;btn=1');"
+     width="193.77597"
+     height="77.373444"
+     preserveAspectRatio="none"
+     id="image6295"
+     x="1124.7915"
+     y="283.13007" />
+  <image
+     sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/iemlActeursSociaux.png"
+     xlink:href="img/iemlActeursSociaux.png"
+     width="195.31361"
+     height="22.773191"
+     preserveAspectRatio="none"
+     id="image6386"
+     x="1250.1486"
+     y="281.4281" />
+  <rect
+     style="fill:none;stroke:none;stroke-width:0.14882967;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_3.1.1"
+     y="499.33041"
+     x="63.029194"
+     height="70.804512"
+     width="99.014389" />
+  <rect
+     width="99.014389"
+     height="70.804512"
+     x="194.88756"
+     y="499.12534"
+     id="slide_3.1.2"
+     style="fill:none;stroke:none;stroke-width:0.14882967;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:none;stroke:none;stroke-width:0.17509024;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_3.1.3"
+     y="570.0918"
+     x="185.67264"
+     height="72.828926"
+     width="133.22945" />
+  <rect
+     width="99.014389"
+     height="70.804512"
+     x="62.824127"
+     y="572.94965"
+     id="slide_3.1.4"
+     style="fill:none;stroke:none;stroke-width:0.14882967;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <image
+     sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/ieml_fonction-social.png"
+     xlink:href="img/ieml_fonction-social.png"
+     width="253.55719"
+     height="22.148069"
+     preserveAspectRatio="none"
+     id="image6714"
+     x="1122.6222"
+     y="394.64673" />
+  <image
+     sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/iemlBaseDevHumain.png"
+     xlink:href="img/iemlBaseDevHumain.png"
+     width="121.75223"
+     height="14.479746"
+     preserveAspectRatio="none"
+     id="image6542"
+     x="1123.7573"
+     y="415.13019" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_2.4.1"
+     y="259.82251"
+     x="1121.0067"
+     height="183.15039"
+     width="256.12103" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect6717"
+     width="81.206711"
+     height="64.391182"
+     x="1377.2806"
+     y="269.56393" />
+  <rect
+     y="304.16028"
+     x="1274.3142"
+     height="64.391182"
+     width="81.206711"
+     id="rect6719"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <image
+     sodipodi:absref="/Library/WebServer/Documents/samszo/conf_errance/CIBAHN_2016/img/iemlActeursSociauxMa.png"
+     xlink:href="img/iemlActeursSociauxMa.png"
+     width="24.48027"
+     height="91.670807"
+     preserveAspectRatio="none"
+     id="image6448"
+     x="1250.1486"
+     y="304.20129" />
+</svg>

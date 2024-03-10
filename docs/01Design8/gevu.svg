@@ -1,0 +1,2224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.36"
+   height="744.09003"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="gevu.svg"
+   sodipodi:version="0.32"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 372.04501 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1052.36 : 372.04501 : 1"
+       inkscape:persp3d-origin="526.17999 : 248.03001 : 1"
+       id="perspective75" />
+    <linearGradient
+       id="linearGradient3779"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3781" />
+    </linearGradient>
+    <inkscape:perspective
+       id="perspective2516"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2583"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2709"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2778"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2845"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2913"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2946"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2983"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3014"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3045"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3076"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3089"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3133"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.9045737"
+     inkscape:cx="133.43159"
+     inkscape:cy="484.32423"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="765"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="1,0"
+       position="1151.8886,-75.157567"
+       id="guide4755" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="1476.2528,-305.37706"
+       id="guide4777" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1881.8721,64.889132"
+       id="guide5164" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="570.58686,417.2033"
+       id="guide5421" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,0)">
+    <g
+       transform="matrix(0.60296138,0,0,0.60296138,65.840233,-57.493603)"
+       id="g3383">
+      <g
+         id="g3317">
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/logoTVES.jpg"
+           xlink:href="img/logoTVES.jpg"
+           width="41.120094"
+           height="12.861081"
+           id="image3319"
+           x="755.67578"
+           y="767.18634" />
+        <text
+           id="text3321"
+           y="771.48199"
+           x="644.18188"
+           style="font-size:6.84167385px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           xml:space="preserve"><tspan
+             style="font-size:3.90952802px;text-align:center;text-anchor:middle"
+             y="771.48199"
+             x="644.18188"
+             id="tspan3323"
+             sodipodi:role="line">Design.8</tspan><tspan
+             id="tspan3325"
+             style="font-size:3.90952802px;text-align:center;text-anchor:middle"
+             y="776.3689"
+             x="644.18188"
+             sodipodi:role="line">Bruxelles, 9-11 Mai 2012</tspan></text>
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/CITU-Paragraphe.gif"
+           xlink:href="img/CITU-Paragraphe.gif"
+           width="11.469441"
+           height="12.99001"
+           id="image3327"
+           x="682.49121"
+           y="767.77924" />
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/logo_ARBA-ESA1-300x184.jpg"
+           xlink:href="img/logo_ARBA-ESA1-300x184.jpg"
+           width="21.895901"
+           height="13.429485"
+           id="image3329"
+           x="589.26813"
+           y="767.43793" />
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/gevu.png"
+           xlink:href="img/gevu.png"
+           width="30.2771"
+           height="10.865305"
+           id="image3331"
+           x="717.09235"
+           y="768.33698" />
+      </g>
+    </g>
+    <g
+       transform="matrix(0.60296138,0,0,0.60296138,217.14512,-164.36603)"
+       id="g3379">
+      <g
+         id="g3267">
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/logoTVES.jpg"
+           xlink:href="img/logoTVES.jpg"
+           width="41.120094"
+           height="12.861081"
+           id="image3269"
+           x="755.67578"
+           y="767.18634" />
+        <text
+           id="text3271"
+           y="771.48199"
+           x="644.18188"
+           style="font-size:6.84167385px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           xml:space="preserve"><tspan
+             style="font-size:3.90952802px;text-align:center;text-anchor:middle"
+             y="771.48199"
+             x="644.18188"
+             id="tspan3273"
+             sodipodi:role="line">Design.8</tspan><tspan
+             id="tspan3275"
+             style="font-size:3.90952802px;text-align:center;text-anchor:middle"
+             y="776.3689"
+             x="644.18188"
+             sodipodi:role="line">Bruxelles, 9-11 Mai 2012</tspan></text>
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/CITU-Paragraphe.gif"
+           xlink:href="img/CITU-Paragraphe.gif"
+           width="11.469441"
+           height="12.99001"
+           id="image3277"
+           x="682.49121"
+           y="767.77924" />
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/logo_ARBA-ESA1-300x184.jpg"
+           xlink:href="img/logo_ARBA-ESA1-300x184.jpg"
+           width="21.895901"
+           height="13.429485"
+           id="image3279"
+           x="589.26813"
+           y="767.43793" />
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/gevu.png"
+           xlink:href="img/gevu.png"
+           width="30.2771"
+           height="10.865305"
+           id="image3281"
+           x="717.09235"
+           y="768.33698" />
+      </g>
+    </g>
+    <image
+       sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/pastedpic_05082012_144916.png"
+       xlink:href="img/pastedpic_05082012_144916.png"
+       width="115.92221"
+       height="66.116753"
+       id="image2915"
+       x="576.45959"
+       y="221.70679" />
+    <g
+       id="g3375"
+       transform="matrix(0.60296138,0,0,0.60296138,-90.611444,-164.40867)">
+      <g
+         id="g3239">
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/logoTVES.jpg"
+           xlink:href="img/logoTVES.jpg"
+           width="41.120094"
+           height="12.861081"
+           id="image3241"
+           x="755.67578"
+           y="767.18634" />
+        <text
+           id="text3243"
+           y="771.48199"
+           x="644.18188"
+           style="font-size:6.84167385px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           xml:space="preserve"><tspan
+             style="font-size:3.90952802px;text-align:center;text-anchor:middle"
+             y="771.48199"
+             x="644.18188"
+             id="tspan3245"
+             sodipodi:role="line">Design.8</tspan><tspan
+             id="tspan3247"
+             style="font-size:3.90952802px;text-align:center;text-anchor:middle"
+             y="776.3689"
+             x="644.18188"
+             sodipodi:role="line">Bruxelles, 9-11 Mai 2012</tspan></text>
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/CITU-Paragraphe.gif"
+           xlink:href="img/CITU-Paragraphe.gif"
+           width="11.469441"
+           height="12.99001"
+           id="image3249"
+           x="682.49121"
+           y="767.77924" />
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/logo_ARBA-ESA1-300x184.jpg"
+           xlink:href="img/logo_ARBA-ESA1-300x184.jpg"
+           width="21.895901"
+           height="13.429485"
+           id="image3251"
+           x="589.26813"
+           y="767.43793" />
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/gevu.png"
+           xlink:href="img/gevu.png"
+           width="30.2771"
+           height="10.865305"
+           id="image3253"
+           x="717.09235"
+           y="768.33698" />
+      </g>
+    </g>
+    <g
+       id="g4168"
+       transform="matrix(0.60296138,0,0,0.60296138,-88.475982,44.825372)">
+      <image
+         sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/pastedpic_05082012_150430.png"
+         xlink:href="img/pastedpic_05082012_150430.png"
+         width="160.75232"
+         height="128.48233"
+         id="image3078"
+         x="614.69952"
+         y="635.94031" />
+      <g
+         id="g3219">
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/logoTVES.jpg"
+           xlink:href="img/logoTVES.jpg"
+           width="41.120094"
+           height="12.861081"
+           id="image3221"
+           x="755.67578"
+           y="767.18634" />
+        <text
+           id="text3223"
+           y="771.48199"
+           x="644.18188"
+           style="font-size:6.84167385px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           xml:space="preserve"><tspan
+             style="font-size:3.90952802px;text-align:center;text-anchor:middle"
+             y="771.48199"
+             x="644.18188"
+             id="tspan3225"
+             sodipodi:role="line">Design.8</tspan><tspan
+             id="tspan3227"
+             style="font-size:3.90952802px;text-align:center;text-anchor:middle"
+             y="776.3689"
+             x="644.18188"
+             sodipodi:role="line">Bruxelles, 9-11 Mai 2012</tspan></text>
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/CITU-Paragraphe.gif"
+           xlink:href="img/CITU-Paragraphe.gif"
+           width="11.469441"
+           height="12.99001"
+           id="image3229"
+           x="682.49121"
+           y="767.77924" />
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/logo_ARBA-ESA1-300x184.jpg"
+           xlink:href="img/logo_ARBA-ESA1-300x184.jpg"
+           width="21.895901"
+           height="13.429485"
+           id="image3231"
+           x="589.26813"
+           y="767.43793" />
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/gevu.png"
+           xlink:href="img/gevu.png"
+           width="30.2771"
+           height="10.865305"
+           id="image3233"
+           x="717.09235"
+           y="768.33698" />
+      </g>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3789"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion3791"><rect
+           id="rect3793"
+           width="213.64726"
+           height="115.66247"
+           x="356.58386"
+           y="571.02448" /></flowRegion><flowPara
+         id="flowPara3795" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:6px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="361.63461"
+       y="578.09558"
+       id="text3797"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3799"
+         x="361.63461"
+         y="578.09558" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3801"
+       style="font-size:6px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion3803"><rect
+           id="rect3805"
+           width="183.34268"
+           height="110.6117"
+           x="376.7869"
+           y="574.56006" /></flowRegion><flowPara
+         id="flowPara3807" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3867"
+       style="font-size:6px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion3869"><rect
+           id="rect3871"
+           width="15.657365"
+           height="8.586297"
+           x="266.1752"
+           y="263.43304" /></flowRegion><flowPara
+         id="flowPara3873" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3910"
+       style="font-size:6px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion3912"><rect
+           id="rect3914"
+           width="195.96959"
+           height="97.479721"
+           x="313.65237"
+           y="366.4686" /></flowRegion><flowPara
+         id="flowPara3916" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3927"
+       style="font-size:6px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion3929"><rect
+           id="rect3931"
+           width="200.01021"
+           height="107.58125"
+           x="311.12698"
+           y="360.91275" /></flowRegion><flowPara
+         id="flowPara3933" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:7.23553658px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="131.15428"
+       y="260.29425"
+       id="text3005-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3007-8"
+         x="132.30603"
+         y="260.29425"> </tspan><tspan
+         sodipodi:role="line"
+         x="132.30603"
+         y="269.33868"
+         id="tspan2591">un outil pour territorialiser </tspan><tspan
+         sodipodi:role="line"
+         x="131.15428"
+         y="278.38309"
+         id="tspan2593">les usages de la ville</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="opacity:0;fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3957-5-1"
+       sodipodi:cx="124.75384"
+       sodipodi:cy="184.64114"
+       sodipodi:rx="2.0203052"
+       sodipodi:ry="1.5152289"
+       d="m 126.77414,184.64114 a 2.0203052,1.5152289 0 1 1 -4.04061,0 2.0203052,1.5152289 0 1 1 4.04061,0 z"
+       transform="matrix(0.60296138,0,0,0.60296138,213.60637,261.6335)" />
+    <text
+       xml:space="preserve"
+       style="font-size:35.08922958px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="31.463511"
+       y="499.94775"
+       id="text3832"
+       sodipodi:linespacing="125%"
+       transform="scale(0.87903193,1.1376151)"><tspan
+         sodipodi:role="line"
+         id="tspan3834"
+         x="31.463511"
+         y="499.94775">Merci pour</tspan><tspan
+         sodipodi:role="line"
+         x="31.463511"
+         y="543.80933"
+         id="tspan5396">votre attention</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3119"
+       style="font-size:500px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion3121"><rect
+           id="rect3123"
+           width="382.84781"
+           height="389.91888"
+           x="310.11682"
+           y="504.68387"
+           style="font-size:500px" /></flowRegion><flowPara
+         id="flowPara3125">Z</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:8.44145966px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="131.38332"
+       y="219.28354"
+       id="text2448"><tspan
+         sodipodi:role="line"
+         id="tspan2450"
+         x="131.38332"
+         y="219.28354"
+         style="font-size:4.82369089px;text-align:center;text-anchor:middle">Design.8</tspan><tspan
+         sodipodi:role="line"
+         x="131.38332"
+         y="225.31316"
+         style="font-size:4.82369089px;text-align:center;text-anchor:middle"
+         id="tspan2853">Bruxelles, 9-11 Mai 2012</tspan></text>
+    <image
+       sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/CITU-Paragraphe.gif"
+       xlink:href="img/CITU-Paragraphe.gif"
+       y="214.71501"
+       x="180.64851"
+       id="image2518"
+       height="16.027458"
+       width="14.151335" />
+    <image
+       sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/logo_ARBA-ESA1-300x184.jpg"
+       xlink:href="img/logo_ARBA-ESA1-300x184.jpg"
+       y="214.29388"
+       x="69.645645"
+       id="image2585"
+       height="16.569696"
+       width="27.01581" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.61776829px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="94.569351"
+       y="294.14297"
+       id="text2595"><tspan
+         sodipodi:role="line"
+         x="94.569351"
+         y="294.14297"
+         id="tspan2603">Viviane FOLCHER</tspan><tspan
+         sodipodi:role="line"
+         x="94.569351"
+         y="298.66519"
+         id="tspan2615">Samuel SZONIECKY</tspan><tspan
+         sodipodi:role="line"
+         x="94.569351"
+         y="303.18738"
+         id="tspan2646">Khaldoun ZREIK</tspan><tspan
+         sodipodi:role="line"
+         x="94.569351"
+         y="307.70959"
+         id="tspan2617" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.44145966px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="131.83533"
+       y="294.14297"
+       id="text2634"><tspan
+         sodipodi:role="line"
+         id="tspan2636"
+         x="131.83533"
+         y="294.14297"
+         style="font-size:3.61776829px">Franck BODIN</tspan><tspan
+         sodipodi:role="line"
+         x="131.83533"
+         y="298.66519"
+         id="tspan2638"
+         style="font-size:3.61776829px" /><tspan
+         sodipodi:role="line"
+         x="131.83533"
+         y="303.18738"
+         id="tspan2640"
+         style="font-size:3.61776829px" /></text>
+    <image
+       sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/CITU-Paragraphe.gif"
+       xlink:href="img/CITU-Paragraphe.gif"
+       y="291.50735"
+       x="74.406029"
+       id="image2642"
+       height="12.059227"
+       width="10.647614" />
+    <image
+       sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/logoTVES.jpg"
+       xlink:href="img/logoTVES.jpg"
+       y="291.50735"
+       x="156.25578"
+       id="image2711"
+       height="12.059227"
+       width="38.55637" />
+    <image
+       sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/gevu.png"
+       xlink:href="img/gevu.png"
+       y="234.37779"
+       x="97.200066"
+       id="image2847"
+       height="24.568798"
+       width="68.463051" />
+    <g
+       id="g3381"
+       transform="matrix(0.60296138,0,0,0.60296138,-91.088599,-57.057503)">
+      <image
+         sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/pastedpic_05082012_145829.png"
+         xlink:href="img/pastedpic_05082012_145829.png"
+         width="159.13603"
+         height="117.93577"
+         id="image2948"
+         x="616.33844"
+         y="644.4173" />
+      <g
+         id="g2897">
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/logoTVES.jpg"
+           xlink:href="img/logoTVES.jpg"
+           y="767.18634"
+           x="755.67578"
+           id="image2872"
+           height="12.861081"
+           width="41.120094" />
+        <text
+           xml:space="preserve"
+           style="font-size:6.84167385px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           x="644.18188"
+           y="771.48199"
+           id="text2855"><tspan
+             sodipodi:role="line"
+             id="tspan2857"
+             x="644.18188"
+             y="771.48199"
+             style="font-size:3.90952802px;text-align:center;text-anchor:middle">Design.8</tspan><tspan
+             sodipodi:role="line"
+             x="644.18188"
+             y="776.3689"
+             style="font-size:3.90952802px;text-align:center;text-anchor:middle"
+             id="tspan2859">Bruxelles, 9-11 Mai 2012</tspan></text>
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/CITU-Paragraphe.gif"
+           xlink:href="img/CITU-Paragraphe.gif"
+           y="767.77924"
+           x="682.49121"
+           id="image2861"
+           height="12.99001"
+           width="11.469441" />
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/logo_ARBA-ESA1-300x184.jpg"
+           xlink:href="img/logo_ARBA-ESA1-300x184.jpg"
+           y="767.43793"
+           x="589.26813"
+           id="image2863"
+           height="13.429485"
+           width="21.895901" />
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/gevu.png"
+           xlink:href="img/gevu.png"
+           y="768.33698"
+           x="717.09235"
+           id="image2874"
+           height="10.865305"
+           width="30.2771" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:4.82369089px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="591.23383"
+       y="231.31335"
+       id="text2919"><tspan
+         sodipodi:role="line"
+         id="tspan2921"
+         x="591.23383"
+         y="231.31335">Recenser les obstacles à l’accessibilité</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="opacity:0;fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2956"
+       sodipodi:cx="124.75384"
+       sodipodi:cy="184.64114"
+       sodipodi:rx="2.0203052"
+       sodipodi:ry="1.5152289"
+       d="m 126.77414,184.64114 a 2.0203052,1.5152289 0 1 1 -4.04061,0 2.0203052,1.5152289 0 1 1 4.04061,0 z"
+       transform="matrix(0.60296138,0,0,0.60296138,207.5281,150.9406)" />
+    <image
+       sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/pastedpic_05082012_150010.png"
+       xlink:href="img/pastedpic_05082012_150010.png"
+       width="113.30621"
+       height="74.155693"
+       id="image2985"
+       x="272.15952"
+       y="220.06993" />
+    <image
+       sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/pastedpic_05082012_150221.png"
+       xlink:href="img/pastedpic_05082012_150221.png"
+       width="114.67416"
+       height="74.465195"
+       id="image3016"
+       x="427.6431"
+       y="326.03229" />
+    <g
+       id="g3377"
+       transform="matrix(0.60296138,0,0,0.60296138,66.395506,-163.66969)">
+      <g
+         id="g3289">
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/logoTVES.jpg"
+           xlink:href="img/logoTVES.jpg"
+           y="767.18634"
+           x="755.67578"
+           id="image3291"
+           height="12.861081"
+           width="41.120094" />
+        <text
+           xml:space="preserve"
+           style="font-size:6.84167385px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           x="644.18188"
+           y="771.48199"
+           id="text3293"><tspan
+             sodipodi:role="line"
+             id="tspan3295"
+             x="644.18188"
+             y="771.48199"
+             style="font-size:3.90952802px;text-align:center;text-anchor:middle">Design.8</tspan><tspan
+             sodipodi:role="line"
+             x="644.18188"
+             y="776.3689"
+             style="font-size:3.90952802px;text-align:center;text-anchor:middle"
+             id="tspan3297">Bruxelles, 9-11 Mai 2012</tspan></text>
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/CITU-Paragraphe.gif"
+           xlink:href="img/CITU-Paragraphe.gif"
+           y="767.77924"
+           x="682.49121"
+           id="image3299"
+           height="12.99001"
+           width="11.469441" />
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/logo_ARBA-ESA1-300x184.jpg"
+           xlink:href="img/logo_ARBA-ESA1-300x184.jpg"
+           y="767.43793"
+           x="589.26813"
+           id="image3301"
+           height="13.429485"
+           width="21.895901" />
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/gevu.png"
+           xlink:href="img/gevu.png"
+           y="768.33698"
+           x="717.09235"
+           id="image3303"
+           height="10.865305"
+           width="30.2771" />
+      </g>
+    </g>
+    <image
+       sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/pastedpic_05082012_150337.png"
+       xlink:href="img/pastedpic_05082012_150337.png"
+       width="92.15052"
+       height="75.732887"
+       id="image3047"
+       x="439.2915"
+       y="219.57404" />
+    <g
+       transform="matrix(0.60296138,0,0,0.60296138,-88.159755,149.51861)"
+       id="g3385">
+      <g
+         id="g3339">
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/logoTVES.jpg"
+           xlink:href="img/logoTVES.jpg"
+           y="767.18634"
+           x="755.67578"
+           id="image3341"
+           height="12.861081"
+           width="41.120094" />
+        <text
+           xml:space="preserve"
+           style="font-size:6.84167385px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           x="644.18188"
+           y="771.48199"
+           id="text3343"><tspan
+             sodipodi:role="line"
+             id="tspan3345"
+             x="644.18188"
+             y="771.48199"
+             style="font-size:3.90952802px;text-align:center;text-anchor:middle">Design.8</tspan><tspan
+             sodipodi:role="line"
+             x="644.18188"
+             y="776.3689"
+             style="font-size:3.90952802px;text-align:center;text-anchor:middle"
+             id="tspan3347">Bruxelles, 9-11 Mai 2012</tspan></text>
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/CITU-Paragraphe.gif"
+           xlink:href="img/CITU-Paragraphe.gif"
+           y="767.77924"
+           x="682.49121"
+           id="image3349"
+           height="12.99001"
+           width="11.469441" />
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/logo_ARBA-ESA1-300x184.jpg"
+           xlink:href="img/logo_ARBA-ESA1-300x184.jpg"
+           y="767.43793"
+           x="589.26813"
+           id="image3351"
+           height="13.429485"
+           width="21.895901" />
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/gevu.png"
+           xlink:href="img/gevu.png"
+           y="768.33698"
+           x="717.09235"
+           id="image3353"
+           height="10.865305"
+           width="30.2771" />
+      </g>
+    </g>
+    <image
+       sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/pastedpic_05082012_150548.png"
+       xlink:href="img/pastedpic_05082012_150548.png"
+       width="114.53499"
+       height="72.114616"
+       id="image3135"
+       x="272.9126"
+       y="535.39893" />
+    <g
+       id="g5406"
+       transform="matrix(0.60296138,0,0,0.60296138,66.514327,43.871326)">
+      <g
+         id="g3359">
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/logoTVES.jpg"
+           xlink:href="img/logoTVES.jpg"
+           width="41.120094"
+           height="12.861081"
+           id="image3361"
+           x="755.67578"
+           y="767.18634" />
+        <text
+           id="text3363"
+           y="771.48199"
+           x="644.18188"
+           style="font-size:6.84167385px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           xml:space="preserve"><tspan
+             style="font-size:3.90952802px;text-align:center;text-anchor:middle"
+             y="771.48199"
+             x="644.18188"
+             id="tspan3365"
+             sodipodi:role="line">Design.8</tspan><tspan
+             id="tspan3367"
+             style="font-size:3.90952802px;text-align:center;text-anchor:middle"
+             y="776.3689"
+             x="644.18188"
+             sodipodi:role="line">Bruxelles, 9-11 Mai 2012</tspan></text>
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/CITU-Paragraphe.gif"
+           xlink:href="img/CITU-Paragraphe.gif"
+           width="11.469441"
+           height="12.99001"
+           id="image3369"
+           x="682.49121"
+           y="767.77924" />
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/logo_ARBA-ESA1-300x184.jpg"
+           xlink:href="img/logo_ARBA-ESA1-300x184.jpg"
+           width="21.895901"
+           height="13.429485"
+           id="image3371"
+           x="589.26813"
+           y="767.43793" />
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/gevu.png"
+           xlink:href="img/gevu.png"
+           width="30.2771"
+           height="10.865305"
+           id="image3373"
+           x="717.09235"
+           y="768.33698" />
+      </g>
+    </g>
+    <image
+       sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/pastedpic_05082012_150503.png"
+       xlink:href="img/pastedpic_05082012_150503.png"
+       width="113.70859"
+       height="70.231766"
+       id="image3091"
+       x="425.7395"
+       y="429.60733" />
+    <image
+       sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/Groupe1-8.png"
+       xlink:href="img/Groupe1-8.png"
+       width="43.191116"
+       height="61.101311"
+       id="image4254"
+       x="926.36847"
+       y="380.20172" />
+    <g
+       id="g4735"
+       transform="matrix(0.60296138,0,0,0.60296138,65.96563,149.99563)">
+      <g
+         id="g4737">
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/logoTVES.jpg"
+           xlink:href="img/logoTVES.jpg"
+           width="41.120094"
+           height="12.861081"
+           id="image4739"
+           x="755.67578"
+           y="767.18634" />
+        <text
+           id="text4741"
+           y="771.48199"
+           x="644.18188"
+           style="font-size:6.84167385px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           xml:space="preserve"><tspan
+             style="font-size:3.90952802px;text-align:center;text-anchor:middle"
+             y="771.48199"
+             x="644.18188"
+             id="tspan4743"
+             sodipodi:role="line">Design.8</tspan><tspan
+             id="tspan4745"
+             style="font-size:3.90952802px;text-align:center;text-anchor:middle"
+             y="776.3689"
+             x="644.18188"
+             sodipodi:role="line">Bruxelles, 9-11 Mai 2012</tspan></text>
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/CITU-Paragraphe.gif"
+           xlink:href="img/CITU-Paragraphe.gif"
+           width="11.469441"
+           height="12.99001"
+           id="image4747"
+           x="682.49121"
+           y="767.77924" />
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/logo_ARBA-ESA1-300x184.jpg"
+           xlink:href="img/logo_ARBA-ESA1-300x184.jpg"
+           width="21.895901"
+           height="13.429485"
+           id="image4749"
+           x="589.26813"
+           y="767.43793" />
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/gevu.png"
+           xlink:href="img/gevu.png"
+           width="30.2771"
+           height="10.865305"
+           id="image4751"
+           x="717.09235"
+           y="768.33698" />
+      </g>
+    </g>
+    <g
+       transform="matrix(0.60296138,0,0,0.60296138,217.65869,149.23695)"
+       id="g4757">
+      <g
+         id="g4759">
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/logoTVES.jpg"
+           xlink:href="img/logoTVES.jpg"
+           y="767.18634"
+           x="755.67578"
+           id="image4761"
+           height="12.861081"
+           width="41.120094" />
+        <text
+           xml:space="preserve"
+           style="font-size:6.84167385px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           x="644.18188"
+           y="771.48199"
+           id="text4763"><tspan
+             sodipodi:role="line"
+             id="tspan4765"
+             x="644.18188"
+             y="771.48199"
+             style="font-size:3.90952802px;text-align:center;text-anchor:middle">Design.8</tspan><tspan
+             sodipodi:role="line"
+             x="644.18188"
+             y="776.3689"
+             style="font-size:3.90952802px;text-align:center;text-anchor:middle"
+             id="tspan4767">Bruxelles, 9-11 Mai 2012</tspan></text>
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/CITU-Paragraphe.gif"
+           xlink:href="img/CITU-Paragraphe.gif"
+           y="767.77924"
+           x="682.49121"
+           id="image4769"
+           height="12.99001"
+           width="11.469441" />
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/logo_ARBA-ESA1-300x184.jpg"
+           xlink:href="img/logo_ARBA-ESA1-300x184.jpg"
+           y="767.43793"
+           x="589.26813"
+           id="image4771"
+           height="13.429485"
+           width="21.895901" />
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/gevu.png"
+           xlink:href="img/gevu.png"
+           y="768.33698"
+           x="717.09235"
+           id="image4773"
+           height="10.865305"
+           width="30.2771" />
+      </g>
+    </g>
+    <g
+       id="g5128"
+       transform="matrix(0.60296138,0,0,0.60296138,529.10988,-304.62377)">
+      <g
+         id="g5130">
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/logoTVES.jpg"
+           xlink:href="img/logoTVES.jpg"
+           y="767.18634"
+           x="755.67578"
+           id="image5132"
+           height="12.861081"
+           width="41.120094" />
+        <text
+           xml:space="preserve"
+           style="font-size:6.84167385px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           x="644.18188"
+           y="771.48199"
+           id="text5134"><tspan
+             sodipodi:role="line"
+             id="tspan5136"
+             x="644.18188"
+             y="771.48199"
+             style="font-size:3.90952802px;text-align:center;text-anchor:middle">Design.8</tspan><tspan
+             sodipodi:role="line"
+             x="644.18188"
+             y="776.3689"
+             style="font-size:3.90952802px;text-align:center;text-anchor:middle"
+             id="tspan5138">Bruxelles, 9-11 Mai 2012</tspan></text>
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/CITU-Paragraphe.gif"
+           xlink:href="img/CITU-Paragraphe.gif"
+           y="767.77924"
+           x="682.49121"
+           id="image5140"
+           height="12.99001"
+           width="11.469441" />
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/logo_ARBA-ESA1-300x184.jpg"
+           xlink:href="img/logo_ARBA-ESA1-300x184.jpg"
+           y="767.43793"
+           x="589.26813"
+           id="image5142"
+           height="13.429485"
+           width="21.895901" />
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/gevu.png"
+           xlink:href="img/gevu.png"
+           y="768.33698"
+           x="717.09235"
+           id="image5144"
+           height="10.865305"
+           width="30.2771" />
+      </g>
+    </g>
+    <g
+       transform="matrix(0.60296138,0,0,0.60296138,530.24766,-207.66629)"
+       id="g5146">
+      <g
+         id="g5148">
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/logoTVES.jpg"
+           xlink:href="img/logoTVES.jpg"
+           width="41.120094"
+           height="12.861081"
+           id="image5150"
+           x="755.67578"
+           y="767.18634" />
+        <text
+           id="text5152"
+           y="771.48199"
+           x="644.18188"
+           style="font-size:6.84167385px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           xml:space="preserve"><tspan
+             style="font-size:3.90952802px;text-align:center;text-anchor:middle"
+             y="771.48199"
+             x="644.18188"
+             id="tspan5154"
+             sodipodi:role="line">Design.8</tspan><tspan
+             id="tspan5156"
+             style="font-size:3.90952802px;text-align:center;text-anchor:middle"
+             y="776.3689"
+             x="644.18188"
+             sodipodi:role="line">Bruxelles, 9-11 Mai 2012</tspan></text>
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/CITU-Paragraphe.gif"
+           xlink:href="img/CITU-Paragraphe.gif"
+           width="11.469441"
+           height="12.99001"
+           id="image5158"
+           x="682.49121"
+           y="767.77924" />
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/logo_ARBA-ESA1-300x184.jpg"
+           xlink:href="img/logo_ARBA-ESA1-300x184.jpg"
+           width="21.895901"
+           height="13.429485"
+           id="image5160"
+           x="589.26813"
+           y="767.43793" />
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/gevu.png"
+           xlink:href="img/gevu.png"
+           width="30.2771"
+           height="10.865305"
+           id="image5162"
+           x="717.09235"
+           y="768.33698" />
+      </g>
+    </g>
+    <g
+       id="g5190"
+       transform="matrix(0.60296138,0,0,0.60296138,530.62221,-111.26227)">
+      <g
+         id="g5192">
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/logoTVES.jpg"
+           xlink:href="img/logoTVES.jpg"
+           y="767.18634"
+           x="755.67578"
+           id="image5194"
+           height="12.861081"
+           width="41.120094" />
+        <text
+           xml:space="preserve"
+           style="font-size:6.84167385px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           x="644.18188"
+           y="771.48199"
+           id="text5196"><tspan
+             sodipodi:role="line"
+             id="tspan5198"
+             x="644.18188"
+             y="771.48199"
+             style="font-size:3.90952802px;text-align:center;text-anchor:middle">Design.8</tspan><tspan
+             sodipodi:role="line"
+             x="644.18188"
+             y="776.3689"
+             style="font-size:3.90952802px;text-align:center;text-anchor:middle"
+             id="tspan5200">Bruxelles, 9-11 Mai 2012</tspan></text>
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/CITU-Paragraphe.gif"
+           xlink:href="img/CITU-Paragraphe.gif"
+           y="767.77924"
+           x="682.49121"
+           id="image5202"
+           height="12.99001"
+           width="11.469441" />
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/logo_ARBA-ESA1-300x184.jpg"
+           xlink:href="img/logo_ARBA-ESA1-300x184.jpg"
+           y="767.43793"
+           x="589.26813"
+           id="image5204"
+           height="13.429485"
+           width="21.895901" />
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/gevu.png"
+           xlink:href="img/gevu.png"
+           y="768.33698"
+           x="717.09235"
+           id="image5206"
+           height="10.865305"
+           width="30.2771" />
+      </g>
+    </g>
+    <g
+       transform="matrix(0.60296138,0,0,0.60296138,528.54768,77.770911)"
+       id="g5274">
+      <g
+         id="g5276">
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/logoTVES.jpg"
+           xlink:href="img/logoTVES.jpg"
+           width="41.120094"
+           height="12.861081"
+           id="image5278"
+           x="755.67578"
+           y="767.18634" />
+        <text
+           id="text5280"
+           y="771.48199"
+           x="644.18188"
+           style="font-size:6.84167385px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           xml:space="preserve"><tspan
+             style="font-size:3.90952802px;text-align:center;text-anchor:middle"
+             y="771.48199"
+             x="644.18188"
+             id="tspan5282"
+             sodipodi:role="line">Design.8</tspan><tspan
+             id="tspan5284"
+             style="font-size:3.90952802px;text-align:center;text-anchor:middle"
+             y="776.3689"
+             x="644.18188"
+             sodipodi:role="line">Bruxelles, 9-11 Mai 2012</tspan></text>
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/CITU-Paragraphe.gif"
+           xlink:href="img/CITU-Paragraphe.gif"
+           width="11.469441"
+           height="12.99001"
+           id="image5286"
+           x="682.49121"
+           y="767.77924" />
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/logo_ARBA-ESA1-300x184.jpg"
+           xlink:href="img/logo_ARBA-ESA1-300x184.jpg"
+           width="21.895901"
+           height="13.429485"
+           id="image5288"
+           x="589.26813"
+           y="767.43793" />
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/gevu.png"
+           xlink:href="img/gevu.png"
+           width="30.2771"
+           height="10.865305"
+           id="image5290"
+           x="717.09235"
+           y="768.33698" />
+      </g>
+    </g>
+    <g
+       id="g5366"
+       transform="matrix(0.60296138,0,0,0.60296138,529.37904,176.70239)">
+      <g
+         id="g5368">
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/logoTVES.jpg"
+           xlink:href="img/logoTVES.jpg"
+           y="767.18634"
+           x="755.67578"
+           id="image5370"
+           height="12.861081"
+           width="41.120094" />
+        <text
+           xml:space="preserve"
+           style="font-size:6.84167385px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           x="644.18188"
+           y="771.48199"
+           id="text5372"><tspan
+             sodipodi:role="line"
+             id="tspan5374"
+             x="644.18188"
+             y="771.48199"
+             style="font-size:3.90952802px;text-align:center;text-anchor:middle">Design.8</tspan><tspan
+             sodipodi:role="line"
+             x="644.18188"
+             y="776.3689"
+             style="font-size:3.90952802px;text-align:center;text-anchor:middle"
+             id="tspan5376">Bruxelles, 9-11 Mai 2012</tspan></text>
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/CITU-Paragraphe.gif"
+           xlink:href="img/CITU-Paragraphe.gif"
+           y="767.77924"
+           x="682.49121"
+           id="image5378"
+           height="12.99001"
+           width="11.469441" />
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/logo_ARBA-ESA1-300x184.jpg"
+           xlink:href="img/logo_ARBA-ESA1-300x184.jpg"
+           y="767.43793"
+           x="589.26813"
+           id="image5380"
+           height="13.429485"
+           width="21.895901" />
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/gevu.png"
+           xlink:href="img/gevu.png"
+           y="768.33698"
+           x="717.09235"
+           id="image5382"
+           height="10.865305"
+           width="30.2771" />
+      </g>
+    </g>
+    <image
+       sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/CITU-Paragraphe.gif"
+       xlink:href="img/CITU-Paragraphe.gif"
+       width="129.56834"
+       height="146.74596"
+       id="image5384"
+       x="65.44635"
+       y="332.1304" />
+    <image
+       sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/logo_ARBA-ESA1-300x184.jpg"
+       xlink:href="img/logo_ARBA-ESA1-300x184.jpg"
+       width="247.35429"
+       height="151.71063"
+       id="image5386"
+       x="591.49011"
+       y="333.27179" />
+    <text
+       id="text5388"
+       y="155.23915"
+       x="444.03961"
+       style="font-size:84.85440063px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         id="tspan5392"
+         style="font-size:48.48822784px;text-align:center;text-anchor:middle"
+         y="155.23915"
+         x="444.03961"
+         sodipodi:role="line">Design.8 Bruxelles, 9-11 Mai 2012</tspan></text>
+    <g
+       transform="matrix(0.60296138,0,0,0.60296138,370.09103,149.39012)"
+       id="g5445">
+      <image
+         sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/pastedpic_05082012_150430.png"
+         xlink:href="img/pastedpic_05082012_150430.png"
+         y="635.94031"
+         x="614.69952"
+         id="image5447"
+         height="128.48233"
+         width="160.75232" />
+      <g
+         id="g5449">
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/logoTVES.jpg"
+           xlink:href="img/logoTVES.jpg"
+           y="767.18634"
+           x="755.67578"
+           id="image5451"
+           height="12.861081"
+           width="41.120094" />
+        <text
+           xml:space="preserve"
+           style="font-size:6.84167385px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           x="644.18188"
+           y="771.48199"
+           id="text5453"><tspan
+             sodipodi:role="line"
+             id="tspan5455"
+             x="644.18188"
+             y="771.48199"
+             style="font-size:3.90952802px;text-align:center;text-anchor:middle">Design.8</tspan><tspan
+             sodipodi:role="line"
+             x="644.18188"
+             y="776.3689"
+             style="font-size:3.90952802px;text-align:center;text-anchor:middle"
+             id="tspan5457">Bruxelles, 9-11 Mai 2012</tspan></text>
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/CITU-Paragraphe.gif"
+           xlink:href="img/CITU-Paragraphe.gif"
+           y="767.77924"
+           x="682.49121"
+           id="image5459"
+           height="12.99001"
+           width="11.469441" />
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/logo_ARBA-ESA1-300x184.jpg"
+           xlink:href="img/logo_ARBA-ESA1-300x184.jpg"
+           y="767.43793"
+           x="589.26813"
+           id="image5461"
+           height="13.429485"
+           width="21.895901" />
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/gevu.png"
+           xlink:href="img/gevu.png"
+           y="768.33698"
+           x="717.09235"
+           id="image5463"
+           height="10.865305"
+           width="30.2771" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="800.93225"
+       y="546.5976"
+       id="text5465"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5467"
+         x="800.93225"
+         y="546.5976"
+         style="font-size:4px">temps : durée</tspan><tspan
+         sodipodi:role="line"
+         x="800.93225"
+         y="551.5976"
+         style="font-size:4px"
+         id="tspan5469">espace : métrique</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5471"
+       y="576.11182"
+       x="798.06512"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:4px"
+         y="576.11182"
+         x="798.06512"
+         id="tspan5473"
+         sodipodi:role="line">temps : instant</tspan><tspan
+         id="tspan5475"
+         style="font-size:4px"
+         y="581.11182"
+         x="798.06512"
+         sodipodi:role="line">espace : social</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="797.55914"
+       y="599.72321"
+       id="text5477"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5479"
+         x="797.55914"
+         y="599.72321"
+         style="font-size:4px">temps : éternité</tspan><tspan
+         sodipodi:role="line"
+         x="797.55914"
+         y="604.72321"
+         style="font-size:4px"
+         id="tspan5483">espace : topologique</tspan></text>
+    <g
+       id="g5487"
+       transform="matrix(0.60296138,0,0,0.60296138,528.71633,-19.035808)">
+      <g
+         id="g5489">
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/logoTVES.jpg"
+           xlink:href="img/logoTVES.jpg"
+           y="767.18634"
+           x="755.67578"
+           id="image5491"
+           height="12.861081"
+           width="41.120094" />
+        <text
+           xml:space="preserve"
+           style="font-size:6.84167385px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           x="644.18188"
+           y="771.48199"
+           id="text5493"><tspan
+             sodipodi:role="line"
+             id="tspan5495"
+             x="644.18188"
+             y="771.48199"
+             style="font-size:3.90952802px;text-align:center;text-anchor:middle">Design.8</tspan><tspan
+             sodipodi:role="line"
+             x="644.18188"
+             y="776.3689"
+             style="font-size:3.90952802px;text-align:center;text-anchor:middle"
+             id="tspan5497">Bruxelles, 9-11 Mai 2012</tspan></text>
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/CITU-Paragraphe.gif"
+           xlink:href="img/CITU-Paragraphe.gif"
+           y="767.77924"
+           x="682.49121"
+           id="image5499"
+           height="12.99001"
+           width="11.469441" />
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/logo_ARBA-ESA1-300x184.jpg"
+           xlink:href="img/logo_ARBA-ESA1-300x184.jpg"
+           y="767.43793"
+           x="589.26813"
+           id="image5501"
+           height="13.429485"
+           width="21.895901" />
+        <image
+           sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/gevu.png"
+           xlink:href="img/gevu.png"
+           y="768.33698"
+           x="717.09235"
+           id="image5503"
+           height="10.865305"
+           width="30.2771" />
+      </g>
+    </g>
+  </g>
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.74280179;stroke-opacity:1"
+     id="slide_1"
+     width="128.51088"
+     height="91.897247"
+     x="69.176147"
+     y="213.81717"
+     inkscape:label="#rect2985" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.55626202"
+     id="slide_2"
+     width="128.47748"
+     height="91.696831"
+     x="264.12714"
+     y="215.92619"
+     inkscape:label="#rect2987" />
+  <rect
+     inkscape:label="#rect2987"
+     y="215.92619"
+     x="420.40756"
+     height="91.696831"
+     width="128.47748"
+     id="slide_2.1"
+     style="fill:none;stroke:#000000;stroke-width:0.55626202" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.55626202"
+     id="slide_2.2"
+     width="128.47748"
+     height="91.696831"
+     x="570.95898"
+     y="215.92619"
+     inkscape:label="#rect2987" />
+  <rect
+     inkscape:label="#rect2987"
+     y="322.41449"
+     x="263.72644"
+     height="91.696831"
+     width="128.47748"
+     id="slide_3"
+     style="fill:none;stroke:#000000;stroke-width:0.55626202" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.55626202"
+     id="slide_3.1"
+     width="128.47748"
+     height="91.696831"
+     x="420.40756"
+     y="322.41449"
+     inkscape:label="#rect2987" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.55626202"
+     id="slide_3.2"
+     width="128.47748"
+     height="91.696831"
+     x="882.74268"
+     y="74.882835"
+     inkscape:label="#rect2987" />
+  <rect
+     inkscape:label="#rect2987"
+     y="173.28149"
+     x="884.1637"
+     height="91.696831"
+     width="128.47748"
+     id="slide_3.4"
+     style="fill:none;stroke:#000000;stroke-width:0.55626202" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.55626202"
+     id="slide_3.5"
+     width="128.47748"
+     height="91.696831"
+     x="884.13837"
+     y="268.64822"
+     inkscape:label="#rect2987" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.55626202"
+     id="slide_4"
+     width="128.47748"
+     height="91.696831"
+     x="265.72202"
+     y="425.6268"
+     inkscape:label="#rect2987" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.55626202"
+     id="slide_4.2"
+     width="128.47748"
+     height="91.696831"
+     x="420.40756"
+     y="426.32831"
+     inkscape:label="#rect2987" />
+  <rect
+     inkscape:label="#rect2987"
+     y="531.16095"
+     x="266.40756"
+     height="91.696831"
+     width="128.47748"
+     id="slide_4.3"
+     style="fill:none;stroke:#000000;stroke-width:0.55626202" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.55626202"
+     id="slide_4.4"
+     width="128.47748"
+     height="91.696831"
+     x="420.53296"
+     y="531.63794"
+     inkscape:label="#rect2987" />
+  <rect
+     inkscape:label="#rect2987"
+     y="530.87927"
+     x="572.22601"
+     height="91.696831"
+     width="128.47748"
+     id="slide_4.5"
+     style="fill:none;stroke:#000000;stroke-width:0.55626202" />
+  <rect
+     inkscape:label="#rect2987"
+     y="387.09869"
+     x="1107.0431"
+     height="22.618034"
+     width="31.690388"
+     id="rect5408"
+     style="fill:none;stroke:#000000;stroke-width:0.13720816" />
+  <rect
+     style="fill:none;stroke:none"
+     id="rect5410"
+     width="14.526676"
+     height="10.367969"
+     x="1107.9139"
+     y="388.01288"
+     inkscape:label="#rect2987" />
+  <rect
+     inkscape:label="#rect2987"
+     y="398.39133"
+     x="1107.9139"
+     height="10.367969"
+     width="14.526676"
+     id="rect5412"
+     style="fill:none;stroke:none" />
+  <rect
+     inkscape:label="#rect2987"
+     y="387.79666"
+     x="1123.1788"
+     height="10.367969"
+     width="14.526676"
+     id="rect5414"
+     style="fill:none;stroke:none" />
+  <rect
+     style="fill:none;stroke:none"
+     id=""
+     width="15.490253"
+     height="11.055691"
+     x="1122.6621"
+     y="398.03046"
+     inkscape:label="#rect2987" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.11037279"
+     id="slide_3.21"
+     width="25.492336"
+     height="18.194368"
+     x="981.2323"
+     y="136.76089"
+     inkscape:label="#rect2987" />
+  <rect
+     inkscape:label="#rect2987"
+     y="137.66922"
+     x="981.36676"
+     height="8.9768715"
+     width="12.577598"
+     id="slide_3.22"
+     style="fill:none;stroke:none" />
+  <rect
+     style="fill:none;stroke:none"
+     id="slide_3.23"
+     width="12.577598"
+     height="8.9768715"
+     x="981.33118"
+     y="145.01663"
+     inkscape:label="#rect2987" />
+  <rect
+     style="fill:none;stroke:none"
+     id="slide_3.24"
+     width="13.57104"
+     height="9.6859102"
+     x="993.89569"
+     y="137.6357"
+     inkscape:label="#rect2987" />
+  <rect
+     inkscape:label="#rect2987"
+     y="144.62599"
+     x="993.91687"
+     height="9.5344934"
+     width="13.358889"
+     id="slide_3.25"
+     style="fill:none;stroke:none" />
+  <rect
+     inkscape:label="#rect2987"
+     y="458.6933"
+     x="884.13831"
+     height="91.696831"
+     width="128.47748"
+     id="slide_3.7"
+     style="fill:none;stroke:#000000;stroke-width:0.55626202" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.55626202"
+     id="slide_3.8"
+     width="128.47748"
+     height="91.696831"
+     x="883.75055"
+     y="556.61304"
+     inkscape:label="#rect2987" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.94158226;stroke-opacity:1"
+     id="slide_9"
+     width="1021.4191"
+     height="581.58026"
+     x="11.596909"
+     y="69.554176" />
+  <image
+     sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/Groupe3-18.png"
+     xlink:href="img/Groupe3-18.png"
+     width="12.201927"
+     height="15.267533"
+     id="image4593"
+     x="981.54346"
+     y="138.36989" />
+  <image
+     sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/Groupe3-20.png"
+     xlink:href="img/Groupe3-20.png"
+     width="11.980073"
+     height="16.296125"
+     id="image4728"
+     x="994.42322"
+     y="137.7486" />
+  <image
+     sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/SpiraleConiqueTrottoirA.png"
+     xlink:href="img/SpiraleConiqueTrottoirA.png"
+     width="112.48567"
+     height="67.93689"
+     id="image4838"
+     x="428.55145"
+     y="538.11481" />
+  <image
+     sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/SpiraleConiqueTrottoirMOe.png"
+     xlink:href="img/SpiraleConiqueTrottoirMOe.png"
+     width="118.09509"
+     height="70.799019"
+     id="image4900"
+     x="577.53571"
+     y="535.70294" />
+  <text
+     xml:space="preserve"
+     style="font-size:6.37740374px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="947.37207"
+     y="82.227119"
+     id="text4905"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4907"
+       x="947.37207"
+       y="82.227119"
+       style="font-size:7.23553658px">Atelier de conception collaborative</tspan><tspan
+       sodipodi:role="line"
+       x="947.37207"
+       y="90.67054"
+       id="tspan4927"
+       style="font-size:6.63257551px">partis pris de l'atelier</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:7.45087337px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="887.03674"
+     y="104.27477"
+     id="text4929"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4931"
+       x="887.03674"
+       y="104.27477"
+       style="font-size:6.02961349px">- réunir les acteurs</tspan><tspan
+       sodipodi:role="line"
+       x="887.03674"
+       y="111.81178"
+       style="font-size:6.02961349px"
+       id="tspan5166">- construire une compréhension globale</tspan><tspan
+       sodipodi:role="line"
+       x="887.03674"
+       y="119.34879"
+       id="tspan4939"
+       style="font-size:6.02961349px">- structurer les activités des acteurs :</tspan><tspan
+       sodipodi:role="line"
+       x="887.03674"
+       y="126.88581"
+       id="tspan4941"
+       style="font-size:6.02961349px">    -&gt; <tspan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan5174">MO</tspan> : <tspan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan5170">M</tspan>aîtrise d'<tspan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan5172">O</tspan>uvrage</tspan><tspan
+       sodipodi:role="line"
+       x="887.03674"
+       y="134.42284"
+       id="tspan4943"
+       style="font-size:6.02961349px">    -&gt; <tspan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan5176">MOe</tspan> : <tspan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan5178">M</tspan>aîtrise d'<tspan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan5180">Oe</tspan>uvre</tspan><tspan
+       sodipodi:role="line"
+       x="887.03674"
+       y="141.95985"
+       id="tspan4947"
+       style="font-size:6.02961349px">    -&gt; <tspan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan5182">MUs</tspan> : <tspan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan5184">M</tspan>aîtrise d'<tspan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan5186">Us</tspan>age</tspan><tspan
+       sodipodi:role="line"
+       x="887.03674"
+       y="149.49687"
+       id="tspan4945"
+       style="font-size:6.02961349px" /></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text4975"
+     y="180.38104"
+     x="948.37756"
+     style="font-size:6.37740374px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     xml:space="preserve"><tspan
+       y="180.38104"
+       x="949.5293"
+       id="tspan4977"
+       sodipodi:role="line"
+       style="font-size:7.23553658px">Atelier de conception collaborative </tspan><tspan
+       id="tspan4979"
+       y="188.82446"
+       x="948.37756"
+       sodipodi:role="line"
+       style="font-size:6.63257551px">déroulement</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:9.64738178px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="895.36377"
+     y="197.58261"
+     id="text4981"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4983"
+       x="895.36377"
+       y="197.58261"
+       style="font-size:6.02961349px">- 25 étudiants :</tspan><tspan
+       sodipodi:role="line"
+       x="895.36377"
+       y="205.11963"
+       id="tspan4985"
+       style="font-size:6.02961349px">    -&gt; design</tspan><tspan
+       sodipodi:role="line"
+       x="895.36377"
+       y="212.65665"
+       id="tspan4987"
+       style="font-size:6.02961349px">    -&gt; design de l'information</tspan><tspan
+       sodipodi:role="line"
+       x="895.36377"
+       y="220.19366"
+       id="tspan4989"
+       style="font-size:6.02961349px">    -&gt; ergonomie</tspan><tspan
+       sodipodi:role="line"
+       x="895.36377"
+       y="227.73067"
+       id="tspan4991"
+       style="font-size:6.02961349px">- 40 heures : 3 H /semaines</tspan><tspan
+       sodipodi:role="line"
+       x="895.36377"
+       y="235.26768"
+       id="tspan4993"
+       style="font-size:6.02961349px">- 2 phases :</tspan><tspan
+       sodipodi:role="line"
+       x="895.36377"
+       y="242.8047"
+       id="tspan4995"
+       style="font-size:6.02961349px">    -&gt; immersion</tspan><tspan
+       sodipodi:role="line"
+       x="895.36377"
+       y="250.34172"
+       id="tspan4997"
+       style="font-size:6.02961349px">    -&gt; conception collaborative</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:6.37740374px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="948.0932"
+     y="276.32983"
+     id="text5001"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5003"
+       x="948.0932"
+       y="276.32983"
+       style="font-size:7.23553658px">Atelier de conception collaborative</tspan><tspan
+       sodipodi:role="line"
+       x="948.0932"
+       y="284.77325"
+       id="tspan5005"
+       style="font-size:6.63257551px">les étudiants</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text5038"
+     y="465.86893"
+     x="948.59918"
+     style="font-size:6.37740374px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     xml:space="preserve"><tspan
+       id="tspan5042"
+       y="465.86893"
+       x="948.59918"
+       sodipodi:role="line"
+       style="font-size:7.23553658px">Atelier de conception collaborative</tspan><tspan
+       y="474.31235"
+       x="948.59918"
+       sodipodi:role="line"
+       style="font-size:6.63257551px"
+       id="tspan5296">production</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:6.37740374px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="948.61926"
+     y="564.03809"
+     id="text5064"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5066"
+       x="948.61926"
+       y="564.03809"
+       style="font-size:7.23553658px">Atelier de conception collaborative</tspan><tspan
+       sodipodi:role="line"
+       x="948.61926"
+       y="572.48151"
+       id="tspan5068"
+       style="font-size:6.63257551px">conclusion</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:9.64738178px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="886.60205"
+     y="582.06403"
+     id="text5070"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5072"
+       x="886.60205"
+       y="582.06403"
+       style="font-size:6.02961349px">Trois formes de complexité :</tspan><tspan
+       sodipodi:role="line"
+       x="886.60205"
+       y="589.60101"
+       style="font-size:6.02961349px"
+       id="tspan5350">- exigences du travail collaboratif </tspan><tspan
+       sodipodi:role="line"
+       x="886.60205"
+       y="597.13806"
+       id="tspan5082"
+       style="font-size:6.02961349px">- ampleur du projet : </tspan><tspan
+       sodipodi:role="line"
+       x="886.60205"
+       y="604.67505"
+       style="font-size:6.02961349px"
+       id="tspan5352">    -&gt; nombre d'acteurs,</tspan><tspan
+       sodipodi:role="line"
+       x="886.60205"
+       y="612.2121"
+       style="font-size:6.02961349px"
+       id="tspan5354">    -&gt; diversité des points de vue </tspan><tspan
+       sodipodi:role="line"
+       x="886.60205"
+       y="619.74908"
+       style="font-size:6.02961349px"
+       id="tspan5356">     (divergents, contradictoires),  </tspan><tspan
+       sodipodi:role="line"
+       x="886.60205"
+       y="627.28613"
+       id="tspan5084"
+       style="font-size:6.02961349px">- articulation de deux phases de travail : </tspan><tspan
+       sodipodi:role="line"
+       x="886.60205"
+       y="634.82312"
+       style="font-size:6.02961349px"
+       id="tspan5360">    -&gt; immersion conception collaborative</tspan><tspan
+       sodipodi:role="line"
+       x="886.60205"
+       y="642.36017"
+       id="tspan5080"
+       style="font-size:6.02961349px" /></text>
+  <image
+     sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/MoMoeMus.png"
+     xlink:href="img/MoMoeMus.png"
+     width="82.021149"
+     height="61.38797"
+     id="image5267"
+     x="930.29492"
+     y="287.23886" />
+  <text
+     xml:space="preserve"
+     style="font-size:9.64738178px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="887.31305"
+     y="299.24869"
+     id="text5007"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5009"
+       x="887.31305"
+       y="299.24869"
+       style="font-size:6.02961349px">Appropriation</tspan><tspan
+       sodipodi:role="line"
+       x="887.31305"
+       y="306.78571"
+       style="font-size:6.02961349px"
+       id="tspan5270">du modèle </tspan><tspan
+       sodipodi:role="line"
+       x="887.31305"
+       y="314.32272"
+       id="tspan5013"
+       style="font-size:6.02961349px">de conception</tspan><tspan
+       sodipodi:role="line"
+       x="887.31305"
+       y="321.85974"
+       style="font-size:6.02961349px"
+       id="tspan5272">collaborative</tspan><tspan
+       sodipodi:role="line"
+       x="887.31305"
+       y="329.39676"
+       id="tspan5011"
+       style="font-size:6.02961349px" /></text>
+  <image
+     sodipodi:absref="/Users/paragraphe/Documents/www/gevu/doc/01Design8/img/MoMoeMus.png"
+     xlink:href="img/MoMoeMus.png"
+     y="477.62128"
+     x="907.86401"
+     id="image5292"
+     height="61.38797"
+     width="82.021149" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.61462623;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     id="rect5308"
+     width="30.447529"
+     height="14.124031"
+     x="901.75214"
+     y="507.74051"
+     ry="1.6465993" />
+  <text
+     xml:space="preserve"
+     style="font-size:3.79142523px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="903.35931"
+     y="510.73709"
+     id="text5050"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       x="903.35931"
+       y="510.73709"
+       style="font-size:2.36964107px"
+       id="tspan5298">GEVU :</tspan><tspan
+       sodipodi:role="line"
+       x="903.35931"
+       y="513.69916"
+       style="font-size:2.36964107px"
+       id="tspan5302">interfaces en calques</tspan><tspan
+       sodipodi:role="line"
+       x="903.35931"
+       y="516.66119"
+       id="tspan5056"
+       style="font-size:2.36964107px">usages selon</tspan><tspan
+       sodipodi:role="line"
+       x="903.35931"
+       y="519.62323"
+       style="font-size:2.36964107px"
+       id="tspan5304">compétences et statuts</tspan><tspan
+       sodipodi:role="line"
+       x="903.35931"
+       y="522.58527"
+       id="tspan5058"
+       style="font-size:2.36964107px" /></text>
+  <rect
+     style="fill:none;stroke:none"
+     id="rect5306"
+     width="48.724812"
+     height="34.775826"
+     x="900.48151"
+     y="495.40497"
+     inkscape:label="#rect2987" />
+  <rect
+     ry="1.6465993"
+     y="488.17682"
+     x="954.68372"
+     height="14.124031"
+     width="30.447529"
+     id="rect5310"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.61462623;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+  <rect
+     inkscape:label="#rect2987"
+     y="477.69644"
+     x="937.75372"
+     height="34.775826"
+     width="48.724812"
+     id="rect5324"
+     style="fill:none;stroke:none" />
+  <text
+     xml:space="preserve"
+     style="font-size:9.64738178px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="956.68628"
+     y="491.35989"
+     id="text5046"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5048"
+       x="956.68628"
+       y="491.35989"
+       style="font-size:2.41184545px">ECOSI :</tspan><tspan
+       sodipodi:role="line"
+       x="956.68628"
+       y="494.37469"
+       style="font-size:2.41184545px"
+       id="tspan5326">professionnels,</tspan><tspan
+       sodipodi:role="line"
+       x="956.68628"
+       y="497.3895"
+       style="font-size:2.41184545px"
+       id="tspan5330">services publics,</tspan><tspan
+       sodipodi:role="line"
+       x="956.68628"
+       y="500.40433"
+       style="font-size:2.41184545px"
+       id="tspan5328">usagers, citoyens</tspan></text>
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.61462623;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     id="rect5332"
+     width="30.447529"
+     height="14.124031"
+     x="968.53857"
+     y="521.73871"
+     ry="1.6465993" />
+  <rect
+     style="fill:none;stroke:none"
+     id="rect5334"
+     width="55.771111"
+     height="39.804905"
+     x="953.14172"
+     y="508.76913"
+     inkscape:label="#rect2987" />
+  <text
+     xml:space="preserve"
+     style="font-size:9.64738178px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="969.02319"
+     y="524.92175"
+     id="text5086"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5088"
+       x="969.02319"
+       y="524.92175"
+       style="font-size:2.41184545px">- intégration utilisateurs</tspan><tspan
+       sodipodi:role="line"
+       x="969.02319"
+       y="527.93658"
+       style="font-size:2.41184545px"
+       id="tspan5346">potentiels</tspan><tspan
+       sodipodi:role="line"
+       x="969.02319"
+       y="530.95135"
+       id="tspan5090"
+       style="font-size:2.41184545px">- solutions techniques</tspan><tspan
+       sodipodi:role="line"
+       x="969.02319"
+       y="533.96619"
+       style="font-size:2.41184545px"
+       id="tspan5348">pour la diversité</tspan><tspan
+       sodipodi:role="line"
+       x="969.02319"
+       y="536.98096"
+       id="tspan5092"
+       style="font-size:2.41184545px" /></text>
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.55626202"
+     id="slide_4.6"
+     width="128.47748"
+     height="91.696831"
+     x="724.68817"
+     y="529.53003"
+     inkscape:label="#rect2987" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.55626202"
+     id="slide_3.51"
+     width="128.47748"
+     height="91.696831"
+     x="884.30701"
+     y="361.8866"
+     inkscape:label="#rect2987" />
+  <text
+     xml:space="preserve"
+     style="font-size:6.37740374px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="948.76788"
+     y="369.06223"
+     id="text5507"
+     sodipodi:linespacing="125%"><tspan
+       style="font-size:7.23553658px"
+       sodipodi:role="line"
+       x="948.76788"
+       y="369.06223"
+       id="tspan5509">Atelier de conception collaborative</tspan><tspan
+       id="tspan5511"
+       style="font-size:6.63257551px"
+       sodipodi:role="line"
+       x="948.76788"
+       y="377.50565">production</tspan></text>
+</svg>

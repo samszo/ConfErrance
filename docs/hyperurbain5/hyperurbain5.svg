@@ -1,0 +1,3213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="1052.36"
+   height="744.09003"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="hyperurbain5.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="947"
+     id="namedview435"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.57343751"
+     inkscape:cx="526.64682"
+     inkscape:cy="168.52039"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     units="pc">
+    <sodipodi:guide
+       orientation="0,1"
+       position="770.36439,701.00007"
+       id="guide4082" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="1082.5039,679.98058"
+       id="guide4142" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="1359.9612,484.4993"
+       id="guide4496" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="1727.5912,463.58796"
+       id="guide4729" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="319.37228,404.91843"
+       id="guide5151" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="378.47689,301.22613"
+       id="guide5153" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="477.50304,269.08152"
+       id="guide5207" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="415.28766,289.30151"
+       id="guide5209" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="768.8784,331.29689"
+       id="guide5295" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1120.9419,39.95853"
+       id="guide5388" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1475.023,269.08152"
+       id="guide5451" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1829.6506,245.75075"
+       id="guide5569" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="2183.9252,252.23391"
+       id="guide5802" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="2896.486,135.57573"
+       id="guide5804" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="444.18272,517.60136"
+       id="guide3717" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="2541.5989,346.53336"
+       id="guide4748" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="1451.9347,53.826643"
+       id="guide8191" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="765.73941,-129.39489"
+       id="guide9895" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="323.85662,-161.14812"
+       id="guide10053" />
+    <sodipodi:guide
+       position="1729.8039,248.09099"
+       orientation="0,1"
+       id="guide20812" />
+    <sodipodi:guide
+       position="1729.3886,32.912914"
+       orientation="0,1"
+       id="guide21746" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path7760"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <linearGradient
+       id="linearGradient3779">
+      <stop
+         id="stop3781"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/CABINETTimelines.png"
+     xlink:href="img/CABINETTimelines.png"
+     y="715.30975"
+     x="911.59912"
+     id="image13529"
+     preserveAspectRatio="none"
+     height="142.58836"
+     width="114.68235"
+     onclick="showWebPage('http://www.cabinetmagazine.org/issues/13/timelines.php')" />
+  <g
+     id="g31722"
+     transform="translate(0,2)">
+    <image
+       sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/AgentAllegoInOutC.png"
+       xlink:href="img/AgentAllegoInOutC.png"
+       width="154.27177"
+       height="148.92902"
+       preserveAspectRatio="none"
+       id="image31706"
+       x="1525.8662"
+       y="711.17712" />
+    <g
+       id="g31717">
+      <path
+         sodipodi:type="star"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.42435122;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path31711"
+         sodipodi:sides="8"
+         sodipodi:cx="1576.8214"
+         sodipodi:cy="779.02704"
+         sodipodi:r1="11.414292"
+         sodipodi:r2="10.545431"
+         sodipodi:arg1="0.7066142"
+         sodipodi:arg2="1.0993133"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 1585.5027,786.43791 -7.783,3.96802 -8.3092,-2.69759 -3.968,-7.78297 2.6976,-8.3092 7.783,-3.96802 8.3092,2.69758 3.968,7.78298 z"
+         transform="matrix(0.83114702,0.44168086,-0.43934903,0.8355583,606.50425,-569.93534)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.43143654px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1565.9081"
+         y="779.05212"
+         id="text31713"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan31715"
+           x="1565.9081"
+           y="779.05212">ACTEUR</tspan></text>
+    </g>
+  </g>
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/DensityDesignVisualizingNYC.png"
+     xlink:href="img/DensityDesignVisualizingNYC.png"
+     y="347.9819"
+     x="1580.2714"
+     id="image14991"
+     preserveAspectRatio="none"
+     height="64"
+     width="96.312195" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/iceIHMcomplexe.jpg"
+     xlink:href="img/iceIHMcomplexe.jpg"
+     y="499.76086"
+     x="1126.863"
+     id="image7118"
+     height="142.02654"
+     width="248.77649" />
+  <rect
+     width="1827.2275"
+     height="1297.3016"
+     x="-36.449242"
+     y="-73.081184"
+     id="slide_9"
+     style="fill:none;stroke:#000000;stroke-width:1.88091063;stroke-opacity:1" />
+  <text
+     x="389.69153"
+     y="320.6496"
+     id="text3409"
+     xml:space="preserve"
+     style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><tspan
+       x="389.69153"
+       y="320.6496"
+       id="tspan3411"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial" /><tspan
+       x="389.69153"
+       y="338.1496"
+       id="tspan3413"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial" /></text>
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/ecosystem_fr_header.jpg"
+     xlink:href="img/ecosystem_fr_header.jpg"
+     x="78.39959"
+     y="710.24384"
+     width="225.92439"
+     height="143.77007"
+     id="image6184" />
+  <text
+     xml:space="preserve"
+     style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="67.399994"
+     y="375.9826"
+     id="text5265"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5267"
+       x="67.399994"
+       y="375.9826" /><tspan
+       sodipodi:role="line"
+       id="tspan5269"
+       x="67.399994"
+       y="380.9826" /></text>
+  <text
+     sodipodi:linespacing="125%"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.86221695px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="text3526"
+     y="280.56235"
+     x="129.98969"><tspan
+       id="tspan3528"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start">Hyperurbain : Florence</tspan></text>
+  <text
+     x="191.16762"
+     y="162.2767"
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56.45034409px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     sodipodi:linespacing="125%"
+     id="text4779"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.4212513px;font-family:Arial;-inkscape-font-specification:Arial"
+       id="tspan4781">des humanités urbaines</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56.45034409px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="text3666"
+     y="140.75211"
+     x="190.97757"><tspan
+       id="tspan3668"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.4212513px;font-family:Arial;-inkscape-font-specification:Arial">pour une modélisation spatio-temporelle</tspan></text>
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/AgentAllegoSpinoCircuit.png"
+     xlink:href="img/AgentAllegoSpinoCircuit.png"
+     y="511.63397"
+     x="1482.6162"
+     id="image4393"
+     height="110.28265"
+     width="242.88998" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/AgentAllegoArbreRhizome.png"
+     xlink:href="img/AgentAllegoArbreRhizome.png"
+     width="192.17676"
+     height="130.21321"
+     id="image4724"
+     x="447.45532"
+     y="501.67587" />
+  <text
+     xml:space="preserve"
+     style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="1979.2979"
+     y="188.76443"
+     id="text4768"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4770"
+       x="1979.2979"
+       y="188.76443" /></text>
+  <text
+     x="792.87573"
+     y="495.98096"
+     id="text6396"
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.86221695px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     sodipodi:linespacing="125%"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start"
+       id="tspan6398">Modéliser la complexité des existences</tspan></text>
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/iceIHM.jpg"
+     xlink:href="img/iceIHM.jpg"
+     y="504.42072"
+     x="785.77094"
+     id="image6481"
+     height="124.71556"
+     width="222.76236" />
+  <text
+     sodipodi:linespacing="125%"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.86221695px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="text6486"
+     y="496.09756"
+     x="1149.1293"><tspan
+       id="tspan6488"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start">Calculer la complexité des existences</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:8.40375614px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="8.6829844"
+     y="1048.3994"
+     id="text7033"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan7035"
+       x="8.6829844"
+       y="1048.3994"
+       style="font-size:134.46009827px">Merci pour votre attention</tspan></text>
+  <a
+     id="a10362"
+     xlink:href="http://www.samszo.univ-paris8.fr/conf_errance/hyperurbain5"
+     target="_blank"
+     transform="translate(-22.225519,-210.54221)">
+    <text
+       sodipodi:linespacing="125%"
+       id="text7121"
+       y="1341.3514"
+       x="140.13712"
+       style="font-style:normal;font-weight:normal;font-size:4px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:50px"
+         y="1341.3514"
+         x="140.13712"
+         id="tspan7123"
+         sodipodi:role="line">http://www.samszo.univ-paris8.fr/conf_errance/hyperurbain5</tspan></text>
+  </a>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="194.61339"
+     y="45.60495"
+     id="text4765"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4767"
+       x="194.61339"
+       y="45.60495"
+       style="font-size:7.5px" /><tspan
+       sodipodi:role="line"
+       x="194.61339"
+       y="53.734013"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
+       id="tspan6342">Université de Florence - Italie</tspan><tspan
+       sodipodi:role="line"
+       x="194.61339"
+       y="61.546513"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
+       id="tspan4847" /><tspan
+       sodipodi:role="line"
+       x="194.61339"
+       y="69.359016"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
+       id="tspan4849">28-29 mai 2015</tspan></text>
+  <text
+     x="190.64008"
+     y="119.54216"
+     id="text4771"
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56.45034409px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     sodipodi:linespacing="125%"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.4212513px;font-family:Arial;-inkscape-font-specification:Arial"
+       id="tspan4773">Monades numériques </tspan></text>
+  <rect
+     width="256.12103"
+     height="183.15039"
+     x="415.26187"
+     y="259.65143"
+     id="slide_2.4"
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     x="426.99915"
+     y="280.42273"
+     id="text4833"
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.86221695px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     sodipodi:linespacing="125%"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start"
+       id="tspan4835">Hyperurbain : perspectives cartographiques</tspan></text>
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_2.2"
+     y="259.73187"
+     x="1121.1217"
+     height="183.15039"
+     width="256.12103" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4911"
+     style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+       id="flowRegion4913"><rect
+         id="rect4915"
+         width="338.8956"
+         height="247.7307"
+         x="1431.8834"
+         y="-0.092975967" /></flowRegion><flowPara
+       id="flowPara4917" /></flowRoot>  <rect
+     width="256.12103"
+     height="183.15039"
+     x="1475.0581"
+     y="259.70657"
+     id="slide_2.1"
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     x="1525.4966"
+     y="280.66711"
+     id="text4921"
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.86221695px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     sodipodi:linespacing="125%"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start"
+       id="tspan4923">Hyperurbain : pulsations web</tspan></text>
+  <rect
+     width="256.12103"
+     height="183.15039"
+     x="63.188927"
+     y="259.63776"
+     id="slide_2.5"
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     width="256.12103"
+     height="183.15039"
+     x="415.86075"
+     y="43.195583"
+     id="rect6112"
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_1.1"
+     y="43.195583"
+     x="415.86075"
+     height="183.15039"
+     width="256.12103" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect6226"
+     y="43.247215"
+     x="768.91907"
+     height="183.15039"
+     width="256.12103" />
+  <rect
+     width="256.12103"
+     height="183.15039"
+     x="768.91907"
+     y="43.247215"
+     id="slide_1.2"
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     x="159.14307"
+     y="194.94348"
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.02253723px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     sodipodi:linespacing="125%"
+     id="text4913"><tspan
+       x="159.14307"
+       y="194.94348"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.66928625px;font-family:Arial;-inkscape-font-specification:Arial"
+       id="tspan4915" /></text>
+  <rect
+     style="fill:none;fill-opacity:0.21962615;stroke:#000000;stroke-width:0.35373089;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect6440"
+     width="256.11688"
+     height="31.554396"
+     x="63.424599"
+     y="42.920761" />
+  <rect
+     width="256.12103"
+     height="183.15039"
+     x="1121.0067"
+     y="43.355824"
+     id="rect6521"
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_1.3"
+     y="43.355824"
+     x="1121.0067"
+     height="183.15039"
+     width="256.12103" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect6618"
+     y="43.327923"
+     x="1475.1216"
+     height="183.15039"
+     width="256.12103" />
+  <rect
+     width="256.12103"
+     height="183.15039"
+     x="1475.1216"
+     y="43.327923"
+     id="slide_1.4"
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     width="256.12103"
+     height="183.15039"
+     x="768.87842"
+     y="259.7135"
+     id="rect7174"
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     x="794.60791"
+     y="280.4848"
+     id="text7176"
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.86221695px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     sodipodi:linespacing="125%"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start"
+       id="tspan7178">Hyperurbain : perspectives historiques</tspan></text>
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_2.3"
+     y="259.7135"
+     x="768.87842"
+     height="183.15039"
+     width="256.12103" />
+  <text
+     x="438.76636"
+     y="495.97003"
+     id="text7606"
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.86221695px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     sodipodi:linespacing="125%"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start"
+       id="tspan7608">Dimensions d'une existence numérique</tspan></text>
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_3.2"
+     y="475.20728"
+     x="415.48318"
+     height="183.15039"
+     width="256.12103" />
+  <rect
+     width="256.12103"
+     height="183.15039"
+     x="769.09161"
+     y="475.20331"
+     id="slide_3.3"
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     width="256.12103"
+     height="183.15039"
+     x="1121.1908"
+     y="475.19894"
+     id="slide_3.4"
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     x="100.79131"
+     y="496.22217"
+     id="text7606-9"
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.86221695px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     sodipodi:linespacing="125%"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start"
+       id="tspan7608-4">Humanités numériques : Florence</tspan></text>
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_3.1"
+     y="475.29758"
+     x="63.029617"
+     height="183.15039"
+     width="256.12103" />
+  <text
+     sodipodi:linespacing="125%"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.86221695px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="text8018-5"
+     y="496.22849"
+     x="1526.0238"><tspan
+       id="tspan8020-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start">Existences et connaissances</tspan></text>
+  <rect
+     width="256.12103"
+     height="183.15039"
+     x="1475.2455"
+     y="475.2001"
+     id="slide_3.5"
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_4.2"
+     y="690.45764"
+     x="1121.1276"
+     height="183.15039"
+     width="256.12103" />
+  <rect
+     width="256.12103"
+     height="183.15039"
+     x="415.29233"
+     y="690.31183"
+     id="rect5390"
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     width="256.12103"
+     height="183.15039"
+     x="415.29233"
+     y="690.31183"
+     id="slide_4.4"
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect5453"
+     y="690.24347"
+     x="768.87976"
+     height="183.15039"
+     width="256.12103" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_4.3"
+     y="690.24347"
+     x="768.87976"
+     height="183.15039"
+     width="256.12103" />
+  <rect
+     width="256.12103"
+     height="183.15039"
+     x="1474.9415"
+     y="690.37708"
+     id="rect5594"
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     width="256.12103"
+     height="183.15039"
+     x="1474.9415"
+     y="690.37708"
+     id="slide_4.1"
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     width="256.12103"
+     height="183.15039"
+     x="63.301273"
+     y="690.55365"
+     id="rect5806"
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     width="256.12103"
+     height="183.15039"
+     x="63.301273"
+     y="690.55365"
+     id="slide_4.5"
+     style="fill:none;stroke:#000000;stroke-width:0.38497847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     transform="translate(-4.3554678e-8,-2.5286865e-6)" />
+  <g
+     id="g9831"
+     transform="translate(-46.04581,-2.0709004)">
+    <text
+       sodipodi:linespacing="125%"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.86221695px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text9823"
+       y="713.24561"
+       x="1202.2749"><tspan
+         id="tspan9825"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start">Feuilletage documentaire extérieur</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.86221695px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       y="725.24561"
+       x="1162.165"
+       id="text9827"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start"
+         id="tspan9829" /></text>
+  </g>
+  <rect
+     width="256.46829"
+     height="183.39871"
+     x="62.90398"
+     y="43.089958"
+     id="slide_1"
+     style="fill:none;stroke:#000000;stroke-width:0.38550043;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/cropped-Fra.gif"
+     xlink:href="img/cropped-Fra.gif"
+     y="43.089958"
+     x="63.204983"
+     id="image4844"
+     preserveAspectRatio="none"
+     height="31.494638"
+     width="109.73741" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/logo_paragraphe.gif"
+     xlink:href="img/logo_paragraphe.gif"
+     width="60.424038"
+     height="17.864498"
+     id="image3803"
+     x="164.41864"
+     y="198.59337" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/citu.png"
+     xlink:href="img/citu.png"
+     width="17.478992"
+     height="16"
+     id="image3679"
+     x="256.83777"
+     y="199.52562" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/papi-hyperurbain5.png"
+     xlink:href="img/papi-hyperurbain5.png"
+     y="197.76254"
+     x="107.95948"
+     id="image4910"
+     preserveAspectRatio="none"
+     height="24.464067"
+     width="24.464067" />
+  <g
+     id="g4931"
+     transform="translate(13.771476,2)">
+    <text
+       sodipodi:linespacing="125%"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.02253723px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text3570"
+       y="175.41998"
+       x="91.02726"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.66928625px;font-family:Arial;-inkscape-font-specification:Arial"
+         id="tspan3572"
+         y="175.41998"
+         x="91.02726">Samuel Szoniecky, Arnaud Laborderie, Imad Saleh</tspan></text>
+    <text
+       x="156.9483"
+       y="167.53659"
+       id="text4919"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.02253723px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:linespacing="125%"><tspan
+         x="156.9483"
+         y="167.53659"
+         id="tspan4921"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.66928625px;font-family:Arial;-inkscape-font-specification:Arial" /></text>
+  </g>
+  <g
+     id="g5028"
+     onclick="go_slide(keys.lenght-1);">
+    <text
+       x="438.75183"
+       y="220.92625"
+       id="text6126"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:linespacing="125%"><tspan
+         x="438.75183"
+         y="220.92625"
+         id="tspan6128"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond">Szoniecky, Laborderie, Saleh</tspan></text>
+    <rect
+       width="256.16516"
+       height="13.193932"
+       x="415.86072"
+       y="213.15208"
+       id="rect6130"
+       style="fill:none;stroke:#000000;stroke-width:0.19752406;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       transform="translate(-6,0)"
+       id="g4962">
+      <image
+         sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/logo_paragraphe.gif"
+         xlink:href="img/logo_paragraphe.gif"
+         x="523.5932"
+         y="215.5186"
+         width="28.617781"
+         height="8.4609089"
+         id="image6124" />
+      <image
+         sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/citu.png"
+         xlink:href="img/citu.png"
+         width="8.7394962"
+         height="8"
+         id="image6141"
+         x="512.68567"
+         y="215.74905" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text6460"
+       y="221.06985"
+       x="553.18359"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="221.06985"
+         x="553.18359"
+         id="tspan6462"
+         sodipodi:role="line"><tspan
+           id="tspan6464"
+           style="font-size:5px">Florence, printemps 2015</tspan></tspan></text>
+    <image
+       sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/papi-hyperurbain5.png"
+       xlink:href="img/papi-hyperurbain5.png"
+       y="213.96466"
+       x="418.41519"
+       id="image4958"
+       preserveAspectRatio="none"
+       height="15.33653"
+       width="15.33653" />
+    <image
+       sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/cropped-FraP.gif"
+       xlink:href="img/cropped-FraP.gif"
+       width="47.450108"
+       height="13.378788"
+       preserveAspectRatio="none"
+       id="image5025"
+       x="624.53101"
+       y="213.10988" />
+  </g>
+  <g
+     id="g5041"
+     transform="translate(353.10795,0)">
+    <text
+       sodipodi:linespacing="125%"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text5043"
+       y="220.92625"
+       x="438.75183"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond"
+         id="tspan5045"
+         y="220.92625"
+         x="438.75183">Szoniecky, Laborderie, Saleh</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.19752406;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5047"
+       y="213.15208"
+       x="415.86072"
+       height="13.193932"
+       width="256.16516" />
+    <g
+       id="g5049"
+       transform="translate(-6,0)">
+      <image
+         sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/logo_paragraphe.gif"
+         xlink:href="img/logo_paragraphe.gif"
+         id="image5051"
+         height="8.4609089"
+         width="28.617781"
+         y="215.5186"
+         x="523.5932" />
+      <image
+         sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/citu.png"
+         xlink:href="img/citu.png"
+         y="215.74905"
+         x="512.68567"
+         id="image5053"
+         height="8"
+         width="8.7394962" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="553.18359"
+       y="221.06985"
+       id="text5055"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5057"
+         x="553.18359"
+         y="221.06985"><tspan
+           style="font-size:5px"
+           id="tspan5059">Florence, printemps 2015</tspan></tspan></text>
+    <image
+       sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/papi-hyperurbain5.png"
+       xlink:href="img/papi-hyperurbain5.png"
+       width="15.33653"
+       height="15.33653"
+       preserveAspectRatio="none"
+       id="image5061"
+       x="418.41519"
+       y="213.96466" />
+    <image
+       sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/cropped-FraP.gif"
+       xlink:href="img/cropped-FraP.gif"
+       y="213.10988"
+       x="624.53101"
+       id="image5063"
+       preserveAspectRatio="none"
+       height="13.378788"
+       width="47.450108" />
+  </g>
+  <g
+     transform="translate(705.19559,3.2104492e-7)"
+     id="g5065">
+    <text
+       x="438.75183"
+       y="220.92625"
+       id="text5067"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:linespacing="125%"><tspan
+         x="438.75183"
+         y="220.92625"
+         id="tspan5069"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond">Szoniecky, Laborderie, Saleh</tspan></text>
+    <rect
+       width="256.16516"
+       height="13.193932"
+       x="415.86072"
+       y="213.15208"
+       id="rect5071"
+       style="fill:none;stroke:#000000;stroke-width:0.19752406;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       transform="translate(-6,0)"
+       id="g5073">
+      <image
+         sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/logo_paragraphe.gif"
+         xlink:href="img/logo_paragraphe.gif"
+         x="523.5932"
+         y="215.5186"
+         width="28.617781"
+         height="8.4609089"
+         id="image5075" />
+      <image
+         sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/citu.png"
+         xlink:href="img/citu.png"
+         width="8.7394962"
+         height="8"
+         id="image5077"
+         x="512.68567"
+         y="215.74905" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5079"
+       y="221.06985"
+       x="553.18359"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="221.06985"
+         x="553.18359"
+         id="tspan5081"
+         sodipodi:role="line"><tspan
+           id="tspan5083"
+           style="font-size:5px">Florence, printemps 2015</tspan></tspan></text>
+    <image
+       sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/papi-hyperurbain5.png"
+       xlink:href="img/papi-hyperurbain5.png"
+       y="213.96466"
+       x="418.41519"
+       id="image5085"
+       preserveAspectRatio="none"
+       height="15.33653"
+       width="15.33653" />
+    <image
+       sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/cropped-FraP.gif"
+       xlink:href="img/cropped-FraP.gif"
+       width="47.450108"
+       height="13.378788"
+       preserveAspectRatio="none"
+       id="image5087"
+       x="624.53101"
+       y="213.10988" />
+  </g>
+  <g
+     id="g5089"
+     transform="translate(1059.3105,3.2104492e-7)">
+    <text
+       sodipodi:linespacing="125%"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text5091"
+       y="220.92625"
+       x="438.75183"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond"
+         id="tspan5093"
+         y="220.92625"
+         x="438.75183">Szoniecky, Laborderie, Saleh</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.19752406;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5095"
+       y="213.15208"
+       x="415.86072"
+       height="13.193932"
+       width="256.16516" />
+    <g
+       id="g5097"
+       transform="translate(-6,0)">
+      <image
+         sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/logo_paragraphe.gif"
+         xlink:href="img/logo_paragraphe.gif"
+         id="image5099"
+         height="8.4609089"
+         width="28.617781"
+         y="215.5186"
+         x="523.5932" />
+      <image
+         sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/citu.png"
+         xlink:href="img/citu.png"
+         y="215.74905"
+         x="512.68567"
+         id="image5101"
+         height="8"
+         width="8.7394962" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="553.18359"
+       y="221.06985"
+       id="text5103"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5105"
+         x="553.18359"
+         y="221.06985"><tspan
+           style="font-size:5px"
+           id="tspan5107">Florence, printemps 2015</tspan></tspan></text>
+    <image
+       sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/papi-hyperurbain5.png"
+       xlink:href="img/papi-hyperurbain5.png"
+       width="15.33653"
+       height="15.33653"
+       preserveAspectRatio="none"
+       id="image5109"
+       x="418.41519"
+       y="213.96466" />
+    <image
+       sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/cropped-FraP.gif"
+       xlink:href="img/cropped-FraP.gif"
+       y="213.10988"
+       x="624.53101"
+       id="image5111"
+       preserveAspectRatio="none"
+       height="13.378788"
+       width="47.450108" />
+  </g>
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/LOGO-AME_UdeM-300x87.jpg"
+     xlink:href="img/LOGO-AME_UdeM-300x87.jpg"
+     y="76.71859"
+     x="126.12993"
+     id="image5652"
+     preserveAspectRatio="none"
+     height="10.906594"
+     width="37.608952" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/Logo-DIDA.jpg"
+     xlink:href="img/Logo-DIDA.jpg"
+     y="76.71859"
+     x="73.848862"
+     id="image5730"
+     preserveAspectRatio="none"
+     height="10.906594"
+     width="19.738276" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/LogoUnivFlorida.gif"
+     xlink:href="img/LogoUnivFlorida.gif"
+     y="76.71859"
+     x="221.88446"
+     id="image5792"
+     preserveAspectRatio="none"
+     height="10.906594"
+     width="11.006106" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/logo-ESSTED-300x143.png"
+     xlink:href="img/logo-ESSTED-300x143.png"
+     y="76.71859"
+     x="285.0741"
+     id="image6532"
+     preserveAspectRatio="none"
+     height="10.906594"
+     width="22.880966" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/sigle-bas-europia-150x100.gif"
+     xlink:href="img/sigle-bas-europia-150x100.gif"
+     y="76.71859"
+     x="95.771477"
+     id="image6690"
+     preserveAspectRatio="none"
+     height="10.906594"
+     width="16.359892" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/logoCISDU-scritta-piccola.jpg"
+     xlink:href="img/logoCISDU-scritta-piccola.jpg"
+     y="76.71859"
+     x="258.1972"
+     id="image6928"
+     preserveAspectRatio="none"
+     height="10.906594"
+     width="24.692532" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/logop8.jpg"
+     xlink:href="img/logop8.jpg"
+     y="76.71859"
+     x="199.35677"
+     id="image7390"
+     preserveAspectRatio="none"
+     height="10.906594"
+     width="20.343355" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/mons.jpg"
+     xlink:href="img/mons.jpg"
+     y="76.71859"
+     x="235.07491"
+     id="image7548"
+     preserveAspectRatio="none"
+     height="10.906594"
+     width="20.937967" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/uvhc2011_logo.png"
+     xlink:href="img/uvhc2011_logo.png"
+     y="76.71859"
+     x="165.9232"
+     id="image9315"
+     preserveAspectRatio="none"
+     height="10.906594"
+     width="31.249231" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/logo-citu.gif"
+     xlink:href="img/logo-citu.gif"
+     y="76.71859"
+     x="114.3157"
+     id="image9379"
+     preserveAspectRatio="none"
+     height="10.906594"
+     width="9.6299028" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="424.79355"
+     y="69.932426"
+     id="text9390"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan9392"
+       x="424.79355"
+       y="69.932426"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:Arial;-inkscape-font-specification:Arial">1. Synchronisation spatio-temporelle</tspan><tspan
+       sodipodi:role="line"
+       x="424.79355"
+       y="85.557426"
+       id="tspan9394"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:Arial;-inkscape-font-specification:Arial" /><tspan
+       sodipodi:role="line"
+       x="424.79355"
+       y="101.18243"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:Arial;-inkscape-font-specification:Arial"
+       id="tspan9402">2. Hyperurbain et design d'information</tspan><tspan
+       sodipodi:role="line"
+       x="424.79355"
+       y="116.80743"
+       id="tspan9396"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:Arial;-inkscape-font-specification:Arial" /><tspan
+       sodipodi:role="line"
+       x="424.79355"
+       y="132.43242"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:Arial;-inkscape-font-specification:Arial"
+       id="tspan9404">3. Humanités numériques : Florence</tspan><tspan
+       sodipodi:role="line"
+       x="424.79355"
+       y="148.05742"
+       id="tspan9398"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:Arial;-inkscape-font-specification:Arial" /><tspan
+       sodipodi:role="line"
+       x="424.79355"
+       y="163.68242"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:Arial;-inkscape-font-specification:Arial"
+       id="tspan9406">4. Monades numériques</tspan><tspan
+       sodipodi:role="line"
+       x="424.79355"
+       y="179.30742"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:Arial;-inkscape-font-specification:Arial"
+       id="tspan12449" /><tspan
+       sodipodi:role="line"
+       x="424.79355"
+       y="194.93242"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:Arial;-inkscape-font-specification:Arial"
+       id="tspan12447">5. Feuilletage des dimensions existentielles</tspan></text>
+  <text
+     x="821.76801"
+     y="64.008904"
+     id="text9416"
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.86221695px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     sodipodi:linespacing="125%"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start"
+       id="tspan9418">Synchronisation spatio-temporelle</tspan></text>
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/AnimationMappingChicagoSnow.png"
+     xlink:href="img/AnimationMappingChicagoSnow.png"
+     y="290.85367"
+     x="1120.7649"
+     id="image9611"
+     preserveAspectRatio="none"
+     height="64"
+     width="58.768005" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/Culture%20Code%20Cities%20Cells.png"
+     xlink:href="img/Culture%20Code%20Cities%20Cells.png"
+     y="143.2494"
+     x="793.01746"
+     id="image9785"
+     preserveAspectRatio="none"
+     height="64"
+     width="88.952805"
+     onclick="showWebPage('http://clhenrick.github.io/culture-code-cities-cells/');" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/GoogleTendancesDigitalhumanities.png"
+     xlink:href="img/GoogleTendancesDigitalhumanities.png"
+     y="72.876846"
+     x="786.9151"
+     id="image10517"
+     preserveAspectRatio="none"
+     height="64"
+     width="101.1575"
+     onclick="showWebPage('http://www.google.com/trends/explore#q=hyperurbain%2C%20%2Fm%2F09g9zkw%2C%20%2Fm%2F0b5yht%2C%20%2Fm%2F02vnd10&amp;cmpt=q&amp;tz=','_blank');" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/MapSuperBowlWordsTwitter.png"
+     xlink:href="img/MapSuperBowlWordsTwitter.png"
+     y="72.876846"
+     x="901.4386"
+     id="image10830"
+     preserveAspectRatio="none"
+     height="64"
+     width="105.60549"
+     onclick="showWebPage('http://www.nytimes.com/interactive/2009/02/02/sports/20090202_superbowl_twitter.html');" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/One%20Bay%20Area-%20Maps%20-%20Travel%20Time%20&amp;%20Housing%20Prices.png"
+     xlink:href="img/One%20Bay%20Area-%20Maps%20-%20Travel%20Time%20&amp;%20Housing%20Prices.png"
+     y="359.88571"
+     x="1132.5297"
+     id="image11239"
+     preserveAspectRatio="none"
+     height="64"
+     width="143.00328"
+     onclick="showWebPage('http://maps.planbayarea.org/travel_housing/#origin=375+Beale+St,+SF,+CA&amp;mode=da&amp;time=AM&amp;scenario=2010&amp;xyz=9.00/37.7880/-122.3915')" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/Tweetping.png"
+     xlink:href="img/Tweetping.png"
+     y="143.2494"
+     x="901.61359"
+     id="image11776"
+     preserveAspectRatio="none"
+     height="64"
+     width="105.25552"
+     onclick="showWebPage('http://tweetping.net/');" />
+  <rect
+     style="fill:none;stroke:none;stroke-width:0.15904853;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_1.21"
+     y="66.561546"
+     x="785.09473"
+     height="75.666054"
+     width="105.81287" />
+  <rect
+     width="105.81287"
+     height="75.666054"
+     x="784.84839"
+     y="137.26578"
+     id="slide_1.22"
+     style="fill:none;stroke:none;stroke-width:0.15904853;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:none;stroke:none;stroke-width:0.15904853;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_1.23"
+     y="137.26578"
+     x="901.12854"
+     height="75.666054"
+     width="105.81287" />
+  <rect
+     width="105.81287"
+     height="75.666054"
+     x="901.12854"
+     y="66.561546"
+     id="slide_1.24"
+     style="fill:none;stroke:none;stroke-width:0.15904853;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     sodipodi:linespacing="125%"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.86221695px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="text12451"
+     y="280.66711"
+     x="1153.3112"><tspan
+       id="tspan12453"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start">Hyperurbain : pulsations matérielles </tspan></text>
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/BIG%20TIME%20BCN.png"
+     xlink:href="img/BIG%20TIME%20BCN.png"
+     y="360.19357"
+     x="759.93768"
+     id="image12658"
+     preserveAspectRatio="none"
+     height="64"
+     width="169.11732"
+     onclick="showWebPage('http://bigtimebcn.300000kms.net/')" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/BeautifulWeather.png"
+     xlink:href="img/BeautifulWeather.png"
+     y="72.384697"
+     x="1269.6742"
+     id="image12880"
+     preserveAspectRatio="none"
+     height="64"
+     width="92.307693"
+     onclick="open.window('https://weatherspark.com/#!dashboard;a=Italy/Florence_FI')" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/182018_264149540_17659167.png"
+     xlink:href="img/182018_264149540_17659167.png"
+     y="138.92993"
+     x="1641.1494"
+     id="image12942"
+     preserveAspectRatio="none"
+     height="64"
+     width="80.21769" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/182018_264149604_17659178.png"
+     xlink:href="img/182018_264149604_17659178.png"
+     y="69.333725"
+     x="1482.9064"
+     id="image13020"
+     preserveAspectRatio="none"
+     height="64"
+     width="116.65248" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/182018_264149662_17659182.png"
+     xlink:href="img/182018_264149662_17659182.png"
+     y="71.198341"
+     x="1640.5505"
+     id="image13114"
+     preserveAspectRatio="none"
+     height="64"
+     width="85.152542" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/182018_264149899_17659196.png"
+     xlink:href="img/182018_264149899_17659196.png"
+     y="138.3483"
+     x="1488.6752"
+     id="image13256"
+     preserveAspectRatio="none"
+     height="64"
+     width="110.88372" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/CollectionsCOrpusOrauxNum.png"
+     xlink:href="img/CollectionsCOrpusOrauxNum.png"
+     y="142.75818"
+     x="1132.0101"
+     id="image13783"
+     preserveAspectRatio="none"
+     height="64"
+     width="116.16807" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/ChristchurchTimeline.png"
+     xlink:href="img/ChristchurchTimeline.png"
+     y="290.85367"
+     x="1180.4821"
+     id="image14053"
+     preserveAspectRatio="none"
+     height="64"
+     width="106.27027"
+     onclick="open.window('http://bl.ocks.org/tnightingale/4718717')" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/DeHistoireInternet.png"
+     xlink:href="img/DeHistoireInternet.png"
+     y="142.50243"
+     x="1265.1515"
+     id="image14657"
+     preserveAspectRatio="none"
+     height="64"
+     width="101.35316"
+     onclick="showWebPage('http://velt.info/histonet/')" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/FlorentiaVici.png"
+     xlink:href="img/FlorentiaVici.png"
+     y="357.7305"
+     x="170.75592"
+     id="image15723"
+     preserveAspectRatio="none"
+     height="64"
+     width="137.74452"
+     inkscape:transform-center-x="-431.70386"
+     inkscape:transform-center-y="-2.5394345" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/FlorentiaDigitalAtlasRomanEmpire.png"
+     xlink:href="img/FlorentiaDigitalAtlasRomanEmpire.png"
+     y="565.40875"
+     x="63.877312"
+     id="image16185"
+     preserveAspectRatio="none"
+     height="64"
+     width="72.941177"
+     onclick="showWebPage('http://imperium.ahlfeldt.se/places/1453.html')" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/GapVisAncientTexts1.png"
+     xlink:href="img/GapVisAncientTexts1.png"
+     y="565.40875"
+     x="143.05415"
+     id="image16631"
+     preserveAspectRatio="none"
+     height="64"
+     width="84.041237" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/GapVisVisualInterfaceReadingAncientTexts.png"
+     xlink:href="img/GapVisVisualInterfaceReadingAncientTexts.png"
+     y="565.40875"
+     x="233.33104"
+     id="image17144"
+     preserveAspectRatio="none"
+     height="64"
+     width="84.041237"
+     onclick="showWebPage('http://gap.alexandriaarchive.org/gapvis/index.html#book/17/place/413138')" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/Historypin%20-%20Map.png"
+     xlink:href="img/Historypin%20-%20Map.png"
+     y="283.61896"
+     x="176.08397"
+     id="image17686"
+     preserveAspectRatio="none"
+     height="64"
+     width="143.08841"
+     onclick="showWebPage('https://www.historypin.org/photos#!/geo:43.76956,11.255814/zoom:15/cluster:43.769599,11.255776/pager:1/')" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/NYCTimeMachineNewYork.png"
+     xlink:href="img/NYCTimeMachineNewYork.png"
+     y="364.54416"
+     x="555.92212"
+     id="image17839"
+     preserveAspectRatio="none"
+     height="61.747055"
+     width="100.47309" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/NagazakiArchive.png"
+     xlink:href="img/NagazakiArchive.png"
+     y="360.19357"
+     x="929.05499"
+     id="image17901"
+     preserveAspectRatio="none"
+     height="64"
+     width="94.502602" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/OldSF.png"
+     xlink:href="img/OldSF.png"
+     y="286.89368"
+     x="768.87842"
+     id="image17963"
+     preserveAspectRatio="none"
+     height="64"
+     width="102.86575" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/PelagiosHeatmap1.png"
+     xlink:href="img/PelagiosHeatmap1.png"
+     y="506.33588"
+     x="129.42439"
+     id="image18073"
+     preserveAspectRatio="none"
+     height="53.899395"
+     width="87.28389" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/PelagiosHeatmap3.png"
+     xlink:href="img/PelagiosHeatmap3.png"
+     y="506.33588"
+     x="216.83952"
+     id="image18197"
+     preserveAspectRatio="none"
+     height="53.899395"
+     width="102.53275" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/VintageSanFrancisco.png"
+     xlink:href="img/VintageSanFrancisco.png"
+     y="285.43185"
+     x="555.89441"
+     id="image18431"
+     preserveAspectRatio="none"
+     height="74.698158"
+     width="100.65709" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/Welikia1609Map1.png"
+     xlink:href="img/Welikia1609Map1.png"
+     y="286.89368"
+     x="871.74414"
+     id="image18649"
+     preserveAspectRatio="none"
+     height="64"
+     width="92.910347" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/WikiLeaks.png"
+     xlink:href="img/WikiLeaks.png"
+     y="72.384697"
+     x="1144.8914"
+     id="image18711"
+     preserveAspectRatio="none"
+     height="64"
+     width="90.405594"
+     onclick="showWebPage('http://www.lemonde.fr/international/visuel/2010/12/06/wikileaks-lire-les-memos-diplomatiques_1449709_3210.html');" />
+  <text
+     sodipodi:linespacing="125%"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.86221695px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="text19209"
+     y="64.008904"
+     x="1172.8075"><tspan
+       id="tspan19211"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start">Navigation spatio-temporelle</tspan></text>
+  <text
+     x="1521.5903"
+     y="64.008904"
+     id="text19213"
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.86221695px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     sodipodi:linespacing="125%"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start"
+       id="tspan19215">Modélisation spatio-temporelle</tspan></text>
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/DensityDesignVisualizingNYC1.png"
+     xlink:href="img/DensityDesignVisualizingNYC1.png"
+     y="292.72916"
+     x="1479.9133"
+     id="image15341"
+     preserveAspectRatio="none"
+     height="64"
+     width="96.466019"
+     inkscape:transform-center-x="-192.99702"
+     inkscape:transform-center-y="424.08556" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/DensityDesignVisualizingNYC2.png"
+     xlink:href="img/DensityDesignVisualizingNYC2.png"
+     y="284.74918"
+     x="1629.7247"
+     id="image20791"
+     preserveAspectRatio="none"
+     height="64"
+     width="96.877808" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/DensityDesignVisualizingNYC3.png"
+     xlink:href="img/DensityDesignVisualizingNYC3.png"
+     y="356.72916"
+     x="1479.9111"
+     id="image19949"
+     preserveAspectRatio="none"
+     height="64"
+     width="96.468292" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/logo_flickr.png"
+     xlink:href="img/logo_flickr.png"
+     y="343.70068"
+     x="1643.0457"
+     id="image20393"
+     preserveAspectRatio="none"
+     height="10.281207"
+     width="34.103516" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/DensityDesignVisualizingNYC4.png"
+     xlink:href="img/DensityDesignVisualizingNYC4.png"
+     y="358.66269"
+     x="1642.6594"
+     id="image20331"
+     preserveAspectRatio="none"
+     height="64"
+     width="84.577217" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/Welikia1609Map.png"
+     xlink:href="img/Welikia1609Map.png"
+     y="286.94025"
+     x="932.20087"
+     id="image18587"
+     preserveAspectRatio="none"
+     height="64"
+     width="92.821915" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/PelagiosHeatmap2.png"
+     xlink:href="img/PelagiosHeatmap2.png"
+     y="506.33588"
+     x="62.708282"
+     id="image18135"
+     preserveAspectRatio="none"
+     height="53.899395"
+     width="74.589806" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/logo_foursquare.png"
+     xlink:href="img/logo_foursquare.png"
+     y="345.68066"
+     x="1480.6807"
+     id="image19521"
+     preserveAspectRatio="none"
+     height="20"
+     width="15.248619" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/logo_twitter.png"
+     xlink:href="img/logo_twitter.png"
+     y="397.84695"
+     x="1638.446"
+     id="image19583"
+     preserveAspectRatio="none"
+     height="13.047213"
+     width="16.1486" />
+  <g
+     transform="translate(1059.247,216.37523)"
+     id="g20814">
+    <text
+       x="438.75183"
+       y="220.92625"
+       id="text20816"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:linespacing="125%"><tspan
+         x="438.75183"
+         y="220.92625"
+         id="tspan20818"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond">Szoniecky, Laborderie, Saleh</tspan></text>
+    <rect
+       width="256.16516"
+       height="13.193932"
+       x="415.86072"
+       y="213.15208"
+       id="rect20820"
+       style="fill:none;stroke:#000000;stroke-width:0.19752406;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       transform="translate(-6,0)"
+       id="g20822">
+      <image
+         sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/logo_paragraphe.gif"
+         xlink:href="img/logo_paragraphe.gif"
+         x="523.5932"
+         y="215.5186"
+         width="28.617781"
+         height="8.4609089"
+         id="image20824" />
+      <image
+         sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/citu.png"
+         xlink:href="img/citu.png"
+         width="8.7394962"
+         height="8"
+         id="image20826"
+         x="512.68567"
+         y="215.74905" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text20828"
+       y="221.06985"
+       x="553.18359"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="221.06985"
+         x="553.18359"
+         id="tspan20830"
+         sodipodi:role="line"><tspan
+           id="tspan20832"
+           style="font-size:5px">Florence, printemps 2015</tspan></tspan></text>
+    <image
+       sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/papi-hyperurbain5.png"
+       xlink:href="img/papi-hyperurbain5.png"
+       y="213.96466"
+       x="418.41519"
+       id="image20834"
+       preserveAspectRatio="none"
+       height="15.33653"
+       width="15.33653" />
+    <image
+       sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/cropped-FraP.gif"
+       xlink:href="img/cropped-FraP.gif"
+       width="47.450108"
+       height="13.378788"
+       preserveAspectRatio="none"
+       id="image20836"
+       x="624.53101"
+       y="213.10988" />
+  </g>
+  <g
+     id="g20838"
+     transform="translate(705.16787,216.37523)">
+    <text
+       sodipodi:linespacing="125%"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text20840"
+       y="220.92625"
+       x="438.75183"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond"
+         id="tspan20842"
+         y="220.92625"
+         x="438.75183">Szoniecky, Laborderie, Saleh</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.19752406;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect20844"
+       y="213.15208"
+       x="415.86072"
+       height="13.193932"
+       width="256.16516" />
+    <g
+       id="g20846"
+       transform="translate(-6,0)">
+      <image
+         sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/logo_paragraphe.gif"
+         xlink:href="img/logo_paragraphe.gif"
+         id="image20848"
+         height="8.4609089"
+         width="28.617781"
+         y="215.5186"
+         x="523.5932" />
+      <image
+         sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/citu.png"
+         xlink:href="img/citu.png"
+         y="215.74905"
+         x="512.68567"
+         id="image20850"
+         height="8"
+         width="8.7394962" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="553.18359"
+       y="221.06985"
+       id="text20852"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan20854"
+         x="553.18359"
+         y="221.06985"><tspan
+           style="font-size:5px"
+           id="tspan20856">Florence, printemps 2015</tspan></tspan></text>
+    <image
+       sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/papi-hyperurbain5.png"
+       xlink:href="img/papi-hyperurbain5.png"
+       width="15.33653"
+       height="15.33653"
+       preserveAspectRatio="none"
+       id="image20858"
+       x="418.41519"
+       y="213.96466" />
+    <image
+       sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/cropped-FraP.gif"
+       xlink:href="img/cropped-FraP.gif"
+       y="213.10988"
+       x="624.53101"
+       id="image20860"
+       preserveAspectRatio="none"
+       height="13.378788"
+       width="47.450108" />
+  </g>
+  <g
+     transform="translate(352.93144,216.37523)"
+     id="g20862">
+    <text
+       x="438.75183"
+       y="220.92625"
+       id="text20864"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:linespacing="125%"><tspan
+         x="438.75183"
+         y="220.92625"
+         id="tspan20866"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond">Szoniecky, Laborderie, Saleh</tspan></text>
+    <rect
+       width="256.16516"
+       height="13.193932"
+       x="415.86072"
+       y="213.15208"
+       id="rect20868"
+       style="fill:none;stroke:#000000;stroke-width:0.19752406;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       transform="translate(-6,0)"
+       id="g20870">
+      <image
+         sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/logo_paragraphe.gif"
+         xlink:href="img/logo_paragraphe.gif"
+         x="523.5932"
+         y="215.5186"
+         width="28.617781"
+         height="8.4609089"
+         id="image20872" />
+      <image
+         sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/citu.png"
+         xlink:href="img/citu.png"
+         width="8.7394962"
+         height="8"
+         id="image20874"
+         x="512.68567"
+         y="215.74905" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text20876"
+       y="221.06985"
+       x="553.18359"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="221.06985"
+         x="553.18359"
+         id="tspan20878"
+         sodipodi:role="line"><tspan
+           id="tspan20880"
+           style="font-size:5px">Florence, printemps 2015</tspan></tspan></text>
+    <image
+       sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/papi-hyperurbain5.png"
+       xlink:href="img/papi-hyperurbain5.png"
+       y="213.96466"
+       x="418.41519"
+       id="image20882"
+       preserveAspectRatio="none"
+       height="15.33653"
+       width="15.33653" />
+    <image
+       sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/cropped-FraP.gif"
+       xlink:href="img/cropped-FraP.gif"
+       width="47.450108"
+       height="13.378788"
+       preserveAspectRatio="none"
+       id="image20884"
+       x="624.53101"
+       y="213.10988" />
+  </g>
+  <g
+     id="g20886"
+     transform="translate(-0.69247819,216.37523)">
+    <text
+       sodipodi:linespacing="125%"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text20888"
+       y="220.92625"
+       x="438.75183"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond"
+         id="tspan20890"
+         y="220.92625"
+         x="438.75183">Szoniecky, Laborderie, Saleh</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.19752406;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect20892"
+       y="213.15208"
+       x="415.86072"
+       height="13.193932"
+       width="256.16516" />
+    <g
+       id="g20894"
+       transform="translate(-6,0)">
+      <image
+         sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/logo_paragraphe.gif"
+         xlink:href="img/logo_paragraphe.gif"
+         id="image20896"
+         height="8.4609089"
+         width="28.617781"
+         y="215.5186"
+         x="523.5932" />
+      <image
+         sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/citu.png"
+         xlink:href="img/citu.png"
+         y="215.74905"
+         x="512.68567"
+         id="image20898"
+         height="8"
+         width="8.7394962" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="553.18359"
+       y="221.06985"
+       id="text20900"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan20902"
+         x="553.18359"
+         y="221.06985"><tspan
+           style="font-size:5px"
+           id="tspan20904">Florence, printemps 2015</tspan></tspan></text>
+    <image
+       sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/papi-hyperurbain5.png"
+       xlink:href="img/papi-hyperurbain5.png"
+       width="15.33653"
+       height="15.33653"
+       preserveAspectRatio="none"
+       id="image20906"
+       x="418.41519"
+       y="213.96466" />
+    <image
+       sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/cropped-FraP.gif"
+       xlink:href="img/cropped-FraP.gif"
+       y="213.10988"
+       x="624.53101"
+       id="image20908"
+       preserveAspectRatio="none"
+       height="13.378788"
+       width="47.450108" />
+  </g>
+  <g
+     transform="translate(-352.60883,216.37523)"
+     id="g20910">
+    <text
+       x="438.75183"
+       y="220.92625"
+       id="text20912"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:linespacing="125%"><tspan
+         x="438.75183"
+         y="220.92625"
+         id="tspan20914"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond">Szoniecky, Laborderie, Saleh</tspan></text>
+    <rect
+       width="256.16516"
+       height="13.193932"
+       x="415.86072"
+       y="213.15208"
+       id="rect20916"
+       style="fill:none;stroke:#000000;stroke-width:0.19752406;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       transform="translate(-6,0)"
+       id="g20918">
+      <image
+         sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/logo_paragraphe.gif"
+         xlink:href="img/logo_paragraphe.gif"
+         x="523.5932"
+         y="215.5186"
+         width="28.617781"
+         height="8.4609089"
+         id="image20920" />
+      <image
+         sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/citu.png"
+         xlink:href="img/citu.png"
+         width="8.7394962"
+         height="8"
+         id="image20922"
+         x="512.68567"
+         y="215.74905" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text20924"
+       y="221.06985"
+       x="553.18359"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="221.06985"
+         x="553.18359"
+         id="tspan20926"
+         sodipodi:role="line"><tspan
+           id="tspan20928"
+           style="font-size:5px">Florence, printemps 2015</tspan></tspan></text>
+    <image
+       sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/papi-hyperurbain5.png"
+       xlink:href="img/papi-hyperurbain5.png"
+       y="213.96466"
+       x="418.41519"
+       id="image20930"
+       preserveAspectRatio="none"
+       height="15.33653"
+       width="15.33653" />
+    <image
+       sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/cropped-FraP.gif"
+       xlink:href="img/cropped-FraP.gif"
+       width="47.450108"
+       height="13.378788"
+       preserveAspectRatio="none"
+       id="image20932"
+       x="624.53101"
+       y="213.10988" />
+  </g>
+  <g
+     id="g20934"
+     transform="translate(-352.88628,431.99557)">
+    <text
+       sodipodi:linespacing="125%"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text20936"
+       y="220.92625"
+       x="438.75183"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond"
+         id="tspan20938"
+         y="220.92625"
+         x="438.75183">Szoniecky, Laborderie, Saleh</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.19752406;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect20940"
+       y="213.15208"
+       x="415.86072"
+       height="13.193932"
+       width="256.16516" />
+    <g
+       id="g20942"
+       transform="translate(-6,0)">
+      <image
+         sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/logo_paragraphe.gif"
+         xlink:href="img/logo_paragraphe.gif"
+         id="image20944"
+         height="8.4609089"
+         width="28.617781"
+         y="215.5186"
+         x="523.5932" />
+      <image
+         sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/citu.png"
+         xlink:href="img/citu.png"
+         y="215.74905"
+         x="512.68567"
+         id="image20946"
+         height="8"
+         width="8.7394962" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="553.18359"
+       y="221.06985"
+       id="text20948"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan20950"
+         x="553.18359"
+         y="221.06985"><tspan
+           style="font-size:5px"
+           id="tspan20952">Florence, printemps 2015</tspan></tspan></text>
+    <image
+       sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/papi-hyperurbain5.png"
+       xlink:href="img/papi-hyperurbain5.png"
+       width="15.33653"
+       height="15.33653"
+       preserveAspectRatio="none"
+       id="image20954"
+       x="418.41519"
+       y="213.96466" />
+    <image
+       sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/cropped-FraP.gif"
+       xlink:href="img/cropped-FraP.gif"
+       y="213.10988"
+       x="624.53101"
+       id="image20956"
+       preserveAspectRatio="none"
+       height="13.378788"
+       width="47.450108" />
+  </g>
+  <g
+     transform="translate(-0.44372478,431.79614)"
+     id="g20958">
+    <text
+       x="438.75183"
+       y="220.92625"
+       id="text20960"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:linespacing="125%"><tspan
+         x="438.75183"
+         y="220.92625"
+         id="tspan20962"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond">Szoniecky, Laborderie, Saleh</tspan></text>
+    <rect
+       width="256.16516"
+       height="13.193932"
+       x="415.86072"
+       y="213.15208"
+       id="rect20964"
+       style="fill:none;stroke:#000000;stroke-width:0.19752406;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       transform="translate(-6,0)"
+       id="g20966">
+      <image
+         sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/logo_paragraphe.gif"
+         xlink:href="img/logo_paragraphe.gif"
+         x="523.5932"
+         y="215.5186"
+         width="28.617781"
+         height="8.4609089"
+         id="image20968" />
+      <image
+         sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/citu.png"
+         xlink:href="img/citu.png"
+         width="8.7394962"
+         height="8"
+         id="image20970"
+         x="512.68567"
+         y="215.74905" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text20972"
+       y="221.06985"
+       x="553.18359"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="221.06985"
+         x="553.18359"
+         id="tspan20974"
+         sodipodi:role="line"><tspan
+           id="tspan20976"
+           style="font-size:5px">Florence, printemps 2015</tspan></tspan></text>
+    <image
+       sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/papi-hyperurbain5.png"
+       xlink:href="img/papi-hyperurbain5.png"
+       y="213.96466"
+       x="418.41519"
+       id="image20978"
+       preserveAspectRatio="none"
+       height="15.33653"
+       width="15.33653" />
+    <image
+       sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/cropped-FraP.gif"
+       xlink:href="img/cropped-FraP.gif"
+       width="47.450108"
+       height="13.378788"
+       preserveAspectRatio="none"
+       id="image20980"
+       x="624.53101"
+       y="213.10988" />
+  </g>
+  <g
+     id="g20982"
+     transform="translate(353.17313,431.94503)">
+    <text
+       sodipodi:linespacing="125%"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text20984"
+       y="220.92625"
+       x="438.75183"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond"
+         id="tspan20986"
+         y="220.92625"
+         x="438.75183">Szoniecky, Laborderie, Saleh</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.19752406;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect20988"
+       y="213.15208"
+       x="415.86072"
+       height="13.193932"
+       width="256.16516" />
+    <g
+       id="g20990"
+       transform="translate(-6,0)">
+      <image
+         sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/logo_paragraphe.gif"
+         xlink:href="img/logo_paragraphe.gif"
+         id="image20992"
+         height="8.4609089"
+         width="28.617781"
+         y="215.5186"
+         x="523.5932" />
+      <image
+         sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/citu.png"
+         xlink:href="img/citu.png"
+         y="215.74905"
+         x="512.68567"
+         id="image20994"
+         height="8"
+         width="8.7394962" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="553.18359"
+       y="221.06985"
+       id="text20996"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan20998"
+         x="553.18359"
+         y="221.06985"><tspan
+           style="font-size:5px"
+           id="tspan21000">Florence, printemps 2015</tspan></tspan></text>
+    <image
+       sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/papi-hyperurbain5.png"
+       xlink:href="img/papi-hyperurbain5.png"
+       width="15.33653"
+       height="15.33653"
+       preserveAspectRatio="none"
+       id="image21002"
+       x="418.41519"
+       y="213.96466" />
+    <image
+       sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/cropped-FraP.gif"
+       xlink:href="img/cropped-FraP.gif"
+       y="213.10988"
+       x="624.53101"
+       id="image21004"
+       preserveAspectRatio="none"
+       height="13.378788"
+       width="47.450108" />
+  </g>
+  <g
+     transform="translate(705.13655,431.6921)"
+     id="g21006">
+    <text
+       x="438.75183"
+       y="220.92625"
+       id="text21008"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:linespacing="125%"><tspan
+         x="438.75183"
+         y="220.92625"
+         id="tspan21010"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond">Szoniecky, Laborderie, Saleh</tspan></text>
+    <rect
+       width="256.16516"
+       height="13.193932"
+       x="415.86072"
+       y="213.15208"
+       id="rect21012"
+       style="fill:none;stroke:#000000;stroke-width:0.19752406;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       transform="translate(-6,0)"
+       id="g21014">
+      <image
+         sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/logo_paragraphe.gif"
+         xlink:href="img/logo_paragraphe.gif"
+         x="523.5932"
+         y="215.5186"
+         width="28.617781"
+         height="8.4609089"
+         id="image21016" />
+      <image
+         sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/citu.png"
+         xlink:href="img/citu.png"
+         width="8.7394962"
+         height="8"
+         id="image21018"
+         x="512.68567"
+         y="215.74905" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text21020"
+       y="221.06985"
+       x="553.18359"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="221.06985"
+         x="553.18359"
+         id="tspan21022"
+         sodipodi:role="line"><tspan
+           id="tspan21024"
+           style="font-size:5px">Florence, printemps 2015</tspan></tspan></text>
+    <image
+       sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/papi-hyperurbain5.png"
+       xlink:href="img/papi-hyperurbain5.png"
+       y="213.96466"
+       x="418.41519"
+       id="image21026"
+       preserveAspectRatio="none"
+       height="15.33653"
+       width="15.33653" />
+    <image
+       sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/cropped-FraP.gif"
+       xlink:href="img/cropped-FraP.gif"
+       width="47.450108"
+       height="13.378788"
+       preserveAspectRatio="none"
+       id="image21028"
+       x="624.53101"
+       y="213.10988" />
+  </g>
+  <g
+     id="g21030"
+     transform="translate(1059.3177,431.6921)">
+    <text
+       sodipodi:linespacing="125%"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text21032"
+       y="220.92625"
+       x="438.75183"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond"
+         id="tspan21034"
+         y="220.92625"
+         x="438.75183">Szoniecky, Laborderie, Saleh</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.19752406;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect21036"
+       y="213.15208"
+       x="415.86072"
+       height="13.193932"
+       width="256.16516" />
+    <g
+       id="g21038"
+       transform="translate(-6,0)">
+      <image
+         sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/logo_paragraphe.gif"
+         xlink:href="img/logo_paragraphe.gif"
+         id="image21040"
+         height="8.4609089"
+         width="28.617781"
+         y="215.5186"
+         x="523.5932" />
+      <image
+         sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/citu.png"
+         xlink:href="img/citu.png"
+         y="215.74905"
+         x="512.68567"
+         id="image21042"
+         height="8"
+         width="8.7394962" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="553.18359"
+       y="221.06985"
+       id="text21044"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan21046"
+         x="553.18359"
+         y="221.06985"><tspan
+           style="font-size:5px"
+           id="tspan21048">Florence, printemps 2015</tspan></tspan></text>
+    <image
+       sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/papi-hyperurbain5.png"
+       xlink:href="img/papi-hyperurbain5.png"
+       width="15.33653"
+       height="15.33653"
+       preserveAspectRatio="none"
+       id="image21050"
+       x="418.41519"
+       y="213.96466" />
+    <image
+       sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/cropped-FraP.gif"
+       xlink:href="img/cropped-FraP.gif"
+       y="213.10988"
+       x="624.53101"
+       id="image21052"
+       preserveAspectRatio="none"
+       height="13.378788"
+       width="47.450108" />
+  </g>
+  <g
+     transform="translate(1058.9227,646.99625)"
+     id="g21054">
+    <text
+       x="438.75183"
+       y="220.92625"
+       id="text21056"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:linespacing="125%"><tspan
+         x="438.75183"
+         y="220.92625"
+         id="tspan21058"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond">Szoniecky, Laborderie, Saleh</tspan></text>
+    <rect
+       width="256.16516"
+       height="13.193932"
+       x="415.86072"
+       y="213.15208"
+       id="rect21060"
+       style="fill:none;stroke:#000000;stroke-width:0.19752406;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       transform="translate(-6,0)"
+       id="g21062">
+      <image
+         sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/logo_paragraphe.gif"
+         xlink:href="img/logo_paragraphe.gif"
+         x="523.5932"
+         y="215.5186"
+         width="28.617781"
+         height="8.4609089"
+         id="image21064" />
+      <image
+         sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/citu.png"
+         xlink:href="img/citu.png"
+         width="8.7394962"
+         height="8"
+         id="image21066"
+         x="512.68567"
+         y="215.74905" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text21068"
+       y="221.06985"
+       x="553.18359"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="221.06985"
+         x="553.18359"
+         id="tspan21070"
+         sodipodi:role="line"><tspan
+           id="tspan21072"
+           style="font-size:5px">Florence, printemps 2015</tspan></tspan></text>
+    <image
+       sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/papi-hyperurbain5.png"
+       xlink:href="img/papi-hyperurbain5.png"
+       y="213.96466"
+       x="418.41519"
+       id="image21074"
+       preserveAspectRatio="none"
+       height="15.33653"
+       width="15.33653" />
+    <image
+       sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/cropped-FraP.gif"
+       xlink:href="img/cropped-FraP.gif"
+       width="47.450108"
+       height="13.378788"
+       preserveAspectRatio="none"
+       id="image21076"
+       x="624.53101"
+       y="213.10988" />
+  </g>
+  <g
+     id="g21078"
+     transform="translate(704.99027,646.99625)">
+    <text
+       sodipodi:linespacing="125%"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text21080"
+       y="220.92625"
+       x="438.75183"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond"
+         id="tspan21082"
+         y="220.92625"
+         x="438.75183">Szoniecky, Laborderie, Saleh</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.19752406;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect21084"
+       y="213.15208"
+       x="415.86072"
+       height="13.193932"
+       width="256.16516" />
+    <g
+       id="g21086"
+       transform="translate(-6,0)">
+      <image
+         sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/logo_paragraphe.gif"
+         xlink:href="img/logo_paragraphe.gif"
+         id="image21088"
+         height="8.4609089"
+         width="28.617781"
+         y="215.5186"
+         x="523.5932" />
+      <image
+         sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/citu.png"
+         xlink:href="img/citu.png"
+         y="215.74905"
+         x="512.68567"
+         id="image21090"
+         height="8"
+         width="8.7394962" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="553.18359"
+       y="221.06985"
+       id="text21092"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan21094"
+         x="553.18359"
+         y="221.06985"><tspan
+           style="font-size:5px"
+           id="tspan21096">Florence, printemps 2015</tspan></tspan></text>
+    <image
+       sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/papi-hyperurbain5.png"
+       xlink:href="img/papi-hyperurbain5.png"
+       width="15.33653"
+       height="15.33653"
+       preserveAspectRatio="none"
+       id="image21098"
+       x="418.41519"
+       y="213.96466" />
+    <image
+       sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/cropped-FraP.gif"
+       xlink:href="img/cropped-FraP.gif"
+       y="213.10988"
+       x="624.53101"
+       id="image21100"
+       preserveAspectRatio="none"
+       height="13.378788"
+       width="47.450108" />
+  </g>
+  <g
+     transform="translate(353.17313,646.99625)"
+     id="g21102">
+    <text
+       x="438.75183"
+       y="220.92625"
+       id="text21104"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:linespacing="125%"><tspan
+         x="438.75183"
+         y="220.92625"
+         id="tspan21106"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond">Szoniecky, Laborderie, Saleh</tspan></text>
+    <rect
+       width="256.16516"
+       height="13.193932"
+       x="415.86072"
+       y="213.15208"
+       id="rect21108"
+       style="fill:none;stroke:#000000;stroke-width:0.19752406;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       transform="translate(-6,0)"
+       id="g21110">
+      <image
+         sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/logo_paragraphe.gif"
+         xlink:href="img/logo_paragraphe.gif"
+         x="523.5932"
+         y="215.5186"
+         width="28.617781"
+         height="8.4609089"
+         id="image21112" />
+      <image
+         sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/citu.png"
+         xlink:href="img/citu.png"
+         width="8.7394962"
+         height="8"
+         id="image21114"
+         x="512.68567"
+         y="215.74905" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text21116"
+       y="221.06985"
+       x="553.18359"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="221.06985"
+         x="553.18359"
+         id="tspan21118"
+         sodipodi:role="line"><tspan
+           id="tspan21120"
+           style="font-size:5px">Florence, printemps 2015</tspan></tspan></text>
+    <image
+       sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/papi-hyperurbain5.png"
+       xlink:href="img/papi-hyperurbain5.png"
+       y="213.96466"
+       x="418.41519"
+       id="image21122"
+       preserveAspectRatio="none"
+       height="15.33653"
+       width="15.33653" />
+    <image
+       sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/cropped-FraP.gif"
+       xlink:href="img/cropped-FraP.gif"
+       width="47.450108"
+       height="13.378788"
+       preserveAspectRatio="none"
+       id="image21124"
+       x="624.53101"
+       y="213.10988" />
+  </g>
+  <g
+     id="g21126"
+     transform="translate(-0.6639697,646.99625)">
+    <text
+       sodipodi:linespacing="125%"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text21128"
+       y="220.92625"
+       x="438.75183"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond"
+         id="tspan21130"
+         y="220.92625"
+         x="438.75183">Szoniecky, Laborderie, Saleh</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.19752406;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect21132"
+       y="213.15208"
+       x="415.86072"
+       height="13.193932"
+       width="256.16516" />
+    <g
+       id="g21134"
+       transform="translate(-6,0)">
+      <image
+         sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/logo_paragraphe.gif"
+         xlink:href="img/logo_paragraphe.gif"
+         id="image21136"
+         height="8.4609089"
+         width="28.617781"
+         y="215.5186"
+         x="523.5932" />
+      <image
+         sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/citu.png"
+         xlink:href="img/citu.png"
+         y="215.74905"
+         x="512.68567"
+         id="image21138"
+         height="8"
+         width="8.7394962" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="553.18359"
+       y="221.06985"
+       id="text21140"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan21142"
+         x="553.18359"
+         y="221.06985"><tspan
+           style="font-size:5px"
+           id="tspan21144">Florence, printemps 2015</tspan></tspan></text>
+    <image
+       sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/papi-hyperurbain5.png"
+       xlink:href="img/papi-hyperurbain5.png"
+       width="15.33653"
+       height="15.33653"
+       preserveAspectRatio="none"
+       id="image21146"
+       x="418.41519"
+       y="213.96466" />
+    <image
+       sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/cropped-FraP.gif"
+       xlink:href="img/cropped-FraP.gif"
+       y="213.10988"
+       x="624.53101"
+       id="image21148"
+       preserveAspectRatio="none"
+       height="13.378788"
+       width="47.450108" />
+  </g>
+  <g
+     transform="translate(-352.60883,646.99625)"
+     id="g21150">
+    <text
+       x="438.75183"
+       y="220.92625"
+       id="text21152"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.34791946px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:linespacing="125%"><tspan
+         x="438.75183"
+         y="220.92625"
+         id="tspan21154"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7746768px;font-family:Garamond;-inkscape-font-specification:Garamond">Szoniecky, Laborderie, Saleh</tspan></text>
+    <rect
+       width="256.16516"
+       height="13.193932"
+       x="415.86072"
+       y="213.15208"
+       id="rect21156"
+       style="fill:none;stroke:#000000;stroke-width:0.19752406;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       transform="translate(-6,0)"
+       id="g21158">
+      <image
+         sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/logo_paragraphe.gif"
+         xlink:href="img/logo_paragraphe.gif"
+         x="523.5932"
+         y="215.5186"
+         width="28.617781"
+         height="8.4609089"
+         id="image21160" />
+      <image
+         sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/citu.png"
+         xlink:href="img/citu.png"
+         width="8.7394962"
+         height="8"
+         id="image21162"
+         x="512.68567"
+         y="215.74905" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text21164"
+       y="221.06985"
+       x="553.18359"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="221.06985"
+         x="553.18359"
+         id="tspan21166"
+         sodipodi:role="line"><tspan
+           id="tspan21168"
+           style="font-size:5px">Florence, printemps 2015</tspan></tspan></text>
+    <image
+       sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/papi-hyperurbain5.png"
+       xlink:href="img/papi-hyperurbain5.png"
+       y="213.96466"
+       x="418.41519"
+       id="image21170"
+       preserveAspectRatio="none"
+       height="15.33653"
+       width="15.33653" />
+    <image
+       sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/cropped-FraP.gif"
+       xlink:href="img/cropped-FraP.gif"
+       width="47.450108"
+       height="13.378788"
+       preserveAspectRatio="none"
+       id="image21172"
+       x="624.53101"
+       y="213.10988" />
+  </g>
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/villevivante.png"
+     xlink:href="img/villevivante.png"
+     y="359.3262"
+     x="1289.05"
+     id="image21633"
+     preserveAspectRatio="none"
+     height="64"
+     width="84.42366"
+     onclick="showWebPage('http://villevivante.ch/fr/')" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/LIVESingapore.png"
+     xlink:href="img/LIVESingapore.png"
+     y="290.85367"
+     x="1287.7014"
+     id="image21743"
+     preserveAspectRatio="none"
+     height="64"
+     width="88.562897"
+     onclick="showWebPage('http://senseable.mit.edu/livesingapore/visualizations.html')" />
+  <rect
+     width="96.644814"
+     height="69.110046"
+     x="1141.8271"
+     y="69.813225"
+     id="slide_1.31"
+     style="fill:none;stroke:none;stroke-width:0.14526793;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:none;stroke:none;stroke-width:0.14888518;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_1.32"
+     y="141.01198"
+     x="1132.0039"
+     height="70.830925"
+     width="99.051323" />
+  <rect
+     style="fill:none;stroke:none;stroke-width:0.15818667;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_1.33"
+     y="137.29213"
+     x="1263.7799"
+     height="75.256035"
+     width="105.23948" />
+  <rect
+     width="97.33239"
+     height="69.60173"
+     x="1267.064"
+     y="69.755432"
+     id="slide_1.34"
+     style="fill:none;stroke:none;stroke-width:0.14630143;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/182018_269718133_18000903.png"
+     xlink:href="img/182018_269718133_18000903.png"
+     y="357.7305"
+     x="71.793007"
+     id="image22343"
+     preserveAspectRatio="none"
+     height="64"
+     width="89.927505"
+     onclick="showWebPage('http://www.imcdb.org/movie.php?resultsStyle=asImages&amp;sortBy=4&amp;id=1523389')" />
+  <text
+     sodipodi:linespacing="125%"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.86221695px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="text9993"
+     y="711.16205"
+     x="1539.7677"><tspan
+       id="tspan9995"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start">pulsations existentielles</tspan></text>
+  <g
+     transform="translate(-398.29361,-2.0709004)"
+     id="g31729">
+    <text
+       x="1197.3853"
+       y="713.24561"
+       id="text31731"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.86221695px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start"
+         id="tspan31733">Accumulation conceptuelle intérieure</tspan></text>
+    <text
+       id="text31735"
+       x="1162.165"
+       y="725.24561"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.86221695px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan31737"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start" /></text>
+  </g>
+  <text
+     x="423.07159"
+     y="711.17468"
+     id="text47461"
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.86221695px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     sodipodi:linespacing="125%"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start"
+       id="tspan47463">pulsations existentielles spatio-temporalisées</tspan></text>
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/PulsationsExistentielles.png"
+     xlink:href="img/PulsationsExistentielles.png"
+     y="720.02209"
+     x="467.69296"
+     id="image47663"
+     preserveAspectRatio="none"
+     height="140.08406"
+     width="151.31978" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/FlorenceCoucheCarte1.png"
+     xlink:href="img/FlorenceCoucheCarte1.png"
+     y="715.88336"
+     x="1126.9419"
+     id="image47725"
+     preserveAspectRatio="none"
+     height="93.738174"
+     width="122.8951" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/VeniseTimeMachine.png"
+     xlink:href="img/VeniseTimeMachine.png"
+     y="774.10498"
+     x="1220.3555"
+     id="image18353"
+     preserveAspectRatio="none"
+     height="83.061882"
+     width="155.715"
+     onclick="showWebPage('http://fr.slideshare.net/forumdesarchivistes/venice-time-machine-numrisation-et-modlisation-historique-grande-chelle?redirected_from=save_on_embed')" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/TaxonomyIdeas.png"
+     xlink:href="img/TaxonomyIdeas.png"
+     onclick="showWebPage('http://www.samszo.univ-paris8.fr/hal-01098442-Tweet-Palette')"
+     y="739.52728"
+     x="768.87842"
+     id="image47787"
+     preserveAspectRatio="none"
+     height="102.71056"
+     width="144.35443" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/GallicaCarteFirenze.png"
+     xlink:href="img/GallicaCarteFirenze.png"
+     y="284.92712"
+     x="425.06421"
+     id="image48335"
+     preserveAspectRatio="none"
+     height="88.481651"
+     width="112.10648"
+     onclick="showWebPage('http://gallica.bnf.fr/Search?ArianeWireIndex=index&amp;p=1&amp;lang=FR&amp;f_typedoc=cartes&amp;q=firenze')" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/gallicaCarteApiFlorence.png"
+     xlink:href="img/gallicaCarteApiFlorence.png"
+     y="387.64459"
+     x="432.0499"
+     id="image48429"
+     preserveAspectRatio="none"
+     height="32"
+     width="45.882355"
+     onclick="showWebPage('http://gallica.bnf.fr/proxy?method=R&amp;ark=btv1b8442376z.f1&amp;l=1&amp;r=1,1,400,400');" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/gallicaCarteApiFlorence1.png"
+     xlink:href="img/gallicaCarteApiFlorence1.png"
+     y="387.64459"
+     x="490.86154"
+     id="image48523"
+     preserveAspectRatio="none"
+     height="32"
+     width="30.146093"
+     onclick="showWebPage('http://gallica.bnf.fr/proxy?method=R&amp;ark=btv1b8442376z.f1&amp;l=8&amp;r=1,1,400,400');" />
+  <rect
+     style="fill:none;stroke:none;stroke-width:0.19012281;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect51232"
+     y="283.94324"
+     x="417.87436"
+     height="90.449394"
+     width="126.48617" />
+  <rect
+     width="98.983238"
+     height="70.782242"
+     x="423.02719"
+     y="352.16324"
+     id="rect51236"
+     style="fill:none;stroke:none;stroke-width:0.14878285;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:none;stroke:none;stroke-width:0.15071179;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect51244"
+     y="356.88165"
+     x="556.30682"
+     height="71.699913"
+     width="100.26653" />
+  <rect
+     width="105.92422"
+     height="75.745689"
+     x="553.26086"
+     y="284.90808"
+     id="rect51242"
+     style="fill:none;stroke:none;stroke-width:0.15921593;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:none;stroke:none;stroke-width:0.15450813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_1.41"
+     y="65.138397"
+     x="1489.0352"
+     height="73.505997"
+     width="102.7922" />
+  <rect
+     width="104.16734"
+     height="74.489357"
+     x="1492.0934"
+     y="132.79993"
+     id="slide_1.42"
+     style="fill:none;stroke:none;stroke-width:0.15657513;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:none;stroke:none;stroke-width:0.14003915;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_1.44"
+     y="69.887093"
+     x="1636.5437"
+     height="66.622498"
+     width="93.166176" />
+  <rect
+     width="93.166176"
+     height="66.622498"
+     x="1634.6752"
+     y="137.61868"
+     id="slide_1.43"
+     style="fill:none;stroke:none;stroke-width:0.14003915;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:11.33330345px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="1478.0409"
+     y="206.35617"
+     id="text51177"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       x="1478.0409"
+       y="206.35617"
+       style="font-size:3.77776766px"
+       id="tspan51185">Quentin VENTURA, Technique de visualisation hybride pour les données spatio-temporelles,</tspan><tspan
+       sodipodi:role="line"
+       x="1478.0409"
+       y="211.07838"
+       style="font-size:3.77776766px"
+       id="tspan51194">Ecole de Technologie supérieure, université de Québec</tspan></text>
+  <rect
+     style="fill:none;stroke:none;stroke-width:0.14205596;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_2.11"
+     y="289.39645"
+     x="1480.9366"
+     height="67.58197"
+     width="94.507935" />
+  <rect
+     width="94.507935"
+     height="67.58197"
+     x="1481.183"
+     y="355.66626"
+     id="slide_2.12"
+     style="fill:none;stroke:none;stroke-width:0.14205596;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     width="94.507935"
+     height="67.58197"
+     x="1580.7109"
+     y="343.34845"
+     id="slide_2.13"
+     style="fill:none;stroke:none;stroke-width:0.14205596;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:none;stroke:none;stroke-width:0.14205596;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_2.14"
+     y="358.37619"
+     x="1635.402"
+     height="67.58197"
+     width="94.507935" />
+  <rect
+     style="fill:none;stroke:none;stroke-width:0.14205596;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_2.15"
+     y="285.94745"
+     x="1630.9677"
+     height="67.58197"
+     width="94.507935" />
+  <rect
+     width="75.54998"
+     height="54.025269"
+     x="1112.3739"
+     y="299.99854"
+     id="slide_2.21"
+     style="fill:none;stroke:none;stroke-width:0.11356004;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/AnimationMappingChicagoSnow.png"
+     xlink:href="img/AnimationMappingChicagoSnow.png"
+     width="58.768005"
+     height="64"
+     preserveAspectRatio="none"
+     id="image51208"
+     x="1120.7649"
+     y="290.85367"
+     onclick="showWebPage('http://www.densitydesign.org/2012/09/visualizing-nyc/')" />
+  <rect
+     style="fill:none;stroke:none;stroke-width:0.11356004;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect51210"
+     y="299.99854"
+     x="1112.3739"
+     height="54.025269"
+     width="75.54998" />
+  <rect
+     width="88.833252"
+     height="63.52404"
+     x="1181.1465"
+     y="290.64697"
+     id="slide_2.22"
+     style="fill:none;stroke:none;stroke-width:0.13352628;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:none;stroke:none;stroke-width:0.13352628;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_2.23"
+     y="291.13968"
+     x="1287.5724"
+     height="63.52404"
+     width="88.833252" />
+  <rect
+     width="88.833252"
+     height="63.52404"
+     x="1286.5869"
+     y="359.134"
+     id="slide_2.24"
+     style="fill:none;stroke:none;stroke-width:0.13352628;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:none;stroke:none;stroke-width:0.15471302;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_2.25"
+     y="354.71017"
+     x="1132.7705"
+     height="73.603462"
+     width="102.9285" />
+  <rect
+     width="101.2918"
+     height="72.433075"
+     x="769.7348"
+     y="284.12009"
+     id="slide_2.31"
+     style="fill:none;stroke:none;stroke-width:0.15225287;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:none;stroke:none;stroke-width:0.15225287;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_2.32"
+     y="284.36646"
+     x="892.42017"
+     height="72.433075"
+     width="101.2918" />
+  <rect
+     width="101.2918"
+     height="72.433075"
+     x="770.47388"
+     y="355.07068"
+     id="slide_2.33"
+     style="fill:none;stroke:none;stroke-width:0.15225287;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:none;stroke:none;stroke-width:0.14116052;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_2.34"
+     y="357.64337"
+     x="928.59985"
+     height="67.155975"
+     width="93.912201" />
+  <rect
+     style="fill:none;stroke:none;stroke-width:0.15499704;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_2.44"
+     y="286.15619"
+     x="556.06262"
+     height="73.738586"
+     width="103.11745" />
+  <rect
+     width="94.522781"
+     height="67.592598"
+     x="559.31708"
+     y="361.04199"
+     id="slide_2.43"
+     style="fill:none;stroke:none;stroke-width:0.1420783;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     width="128.20805"
+     height="91.680717"
+     x="416.67303"
+     y="282.69693"
+     id="slide_2.41"
+     style="fill:none;stroke:none;stroke-width:0.19271104;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:none;stroke:none;stroke-width:0.1358773;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_2.42"
+     y="364.05347"
+     x="431.20874"
+     height="64.642525"
+     width="90.397339" />
+  <rect
+     width="104.83637"
+     height="74.967781"
+     x="189.4144"
+     y="282.02774"
+     id="slide_2.51"
+     style="fill:none;stroke:none;stroke-width:0.15758078;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:none;stroke:none;stroke-width:0.21028924;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_2.52"
+     y="342.07758"
+     x="170.38387"
+     height="100.0434"
+     width="139.9026" />
+  <rect
+     style="fill:none;stroke:none;stroke-width:0.14621228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_2.53"
+     y="355.68256"
+     x="68.239693"
+     height="69.559311"
+     width="97.273071" />
+  <rect
+     width="102.46597"
+     height="73.27272"
+     x="63.055828"
+     y="284.28851"
+     id="slide_2.54"
+     style="fill:none;stroke:none;stroke-width:0.1281479;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:none;stroke:none;stroke-width:0.11478395;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_3.11"
+     y="506.11682"
+     x="63.296856"
+     height="54.607536"
+     width="76.36422" />
+  <rect
+     width="76.36422"
+     height="54.607536"
+     x="139.29686"
+     y="506.11682"
+     id="slide_3.12"
+     style="fill:none;stroke:none;stroke-width:0.11478395;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:none;stroke:none;stroke-width:0.11478395;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_3.13"
+     y="506.11682"
+     x="217.29686"
+     height="54.607536"
+     width="76.36422" />
+  <rect
+     width="86.449661"
+     height="61.819569"
+     x="231.83946"
+     y="564.01807"
+     id="slide_3.14"
+     style="fill:none;stroke:none;stroke-width:0.1299435;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:none;stroke:none;stroke-width:0.1299435;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="slide_3.15"
+     y="564.2644"
+     x="141.91945"
+     height="61.819569"
+     width="86.449661" />
+  <rect
+     width="77.511208"
+     height="55.427742"
+     x="63.325104"
+     y="565.2431"
+     id="slide_3.16"
+     style="fill:none;stroke:none;stroke-width:0.11650801;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <image
+     sodipodi:absref="/Applications/XAMPP/xamppfiles/htdocs/samszo/conf_errance/hyperurbain5/img/Geocaching.png"
+     xlink:href="img/Geocaching.png"
+     y="288.04834"
+     x="63.341026"
+     id="image51329"
+     preserveAspectRatio="none"
+     height="59.57061"
+     width="112.7295"
+     onclick="windows.open('https://www.geocaching.com/map/#?ll=43.77078,11.23777&amp;z=14')" />
+  <rect
+     style="fill:#ffffff;fill-opacity:0.02822583;stroke:none;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect51332"
+     width="255.73639"
+     height="135.73422"
+     x="1477.6766"
+     y="278.44907"
+     onclick="showWebPage('http://www.densitydesign.org/2012/09/visualizing-nyc/')"
+     transform="matrix(0.99999258,0.00385328,0,1,0,0)" />
+  <rect
+     style="fill:#ffffff;fill-opacity:0.02822583;stroke:none;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect51334"
+     width="259.27927"
+     height="53.72607"
+     x="62.708282"
+     y="506.33588"
+     onclick="showWebPage('http://pelagios.github.io/pelagios-heatmap/')" />
+</svg>

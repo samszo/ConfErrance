@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<script type="text/javascript" src="../js/d3.js"></script>
+<script type="text/javascript" src="../js/svg_slides.js"></script>
+
+<script type="text/javascript">
+    
+    // There are probably better ways of loading the SVG, but this is one example I found
+
+    d3.xml("auto-intui.svg", "image/svg+xml", function(xml) {
+        d3.select("body").node().appendChild(xml.documentElement);
+        
+        svg=d3.select("body").select("svg")
+            .attr("height","96%")
+            .attr("width","100%");
+        slides = svg_slides(svg,1500);
+        urlParams = getParamUrl();
+		if(urlParams.diapo)changeImage(urlParams.diapo);                             
+              
+    });
+
+</script>
+</head>
+<body></body>
+</html>

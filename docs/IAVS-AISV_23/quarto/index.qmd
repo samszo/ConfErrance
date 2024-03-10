@@ -1,0 +1,41 @@
+---
+title: "Générateur d’affiche de film"
+subtitle: "Analyser la sémiose d’une agentivité artificielle"
+author: "Everardo Reyes, Imad Saleh, Samuel Szoniecky, Khaldoun Zreik"
+format:
+  revealjs: 
+    theme: dark
+    slide-number: true
+    jumpToSlide: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    logo: images/papi-IAVS-23.png
+    css: styles.css
+    footer: Bogota 20 septembre 2023 
+---
+# In the morning
+::: footer
+![AISV](http://localhost/samszo/public/img/cropped-aisvhead1.jpg)
+:::
+## Getting up
+
+- Turn off alarm
+- Get out of bed
+
+## Breakfast
+
+- Eat eggs
+- Drink coffee
+
+# In the evening
+
+## Dinner
+
+- Eat spaghetti
+- Drink wine
+
+## Going to sleep
+
+- Get in bed
+- Count sheep

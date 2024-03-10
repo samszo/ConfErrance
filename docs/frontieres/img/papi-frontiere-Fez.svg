@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"
+	        "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg width="100%" height="100%" preserveAspectRatio="none" viewBox="34 -80 504 600" id="id0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<g >
+<defs >
+<radialGradient id="DegTete" spreadMethod="repeat" gradientUnits="objectBoundingBox" cx="50%" cy="50%" r="50%" fx="50%" fy="50%" >
+<stop offset="-4" stop-color="rgb(224,105,133)" />
+<stop offset="0.1" stop-color="rgb(234,112,37)" />
+<stop offset="0.1" stop-color="rgb(153,247,185)" />
+<stop offset="0.1" stop-color="rgb(120,172,51)" />
+<stop offset="0.1" stop-color="rgb(255,17,9)" />
+<stop offset="0.1" stop-color="rgb(136,42,76)" />
+<stop offset="0.10" stop-color="rgb(181,51,47)" />
+<stop offset="0.2" stop-color="rgb(200,138,113)" />
+<stop offset="0.445" stop-color="rgb(83,182,157)" />
+<stop offset="0.542" stop-color="rgb(108,191,47)" />
+
+</radialGradient>
+</defs>
+<defs >
+<radialGradient id="DegCorps" spreadMethod="repeat" gradientUnits="objectBoundingBox" cx="50%" cy="50%" r="50%" fx="50%" fy="50%" >
+<stop offset="-2" stop-color="rgb(2,45,183)" />
+<stop offset="0.1" stop-color="rgb(70,75,66)" />
+<stop offset="0.1" stop-color="rgb(166,90,95)" />
+<stop offset="0.1" stop-color="rgb(29,48,125)" />
+<stop offset="0.19" stop-color="rgb(54,170,234)" />
+<stop offset="0.20" stop-color="rgb(213,58,106)" />
+<stop offset="0.2" stop-color="rgb(166,108,30)" />
+<stop offset="0.21" stop-color="rgb(241,246,151)" />
+<stop offset="0.46" stop-color="rgb(242,41,234)" />
+<stop offset="0.891" stop-color="rgb(147,36,13)" />
+
+<animate attributeName="fx" attributeType="XML" repeatCount="indefinite" from="16" to="251" begin="5s" dur="113s" fill="freeze" />
+<animate attributeName="fy" attributeType="XML" repeatCount="indefinite" from="229" to="237" begin="4s" dur="26s" fill="freeze" />
+<animateTransform attributeName="gradientTransform" attributeType="XML" repeatCount="indefinite" from="-100" type="rotate" additive="replace" to="100" begin="6s" dur="226s" fill="freeze" />
+<animateTransform attributeName="gradientTransform" attributeType="XML" repeatCount="indefinite" from="-100" type="translate" additive="replace" to="100" begin="7s" dur="139s" fill="freeze" />
+</radialGradient>
+</defs>
+<defs >
+<radialGradient id="DegQueue" spreadMethod="repeat" gradientUnits="objectBoundingBox" cx="50%" cy="50%" r="50%" fx="50%" fy="50%" >
+<stop offset="-1" stop-color="rgb(73,183,151)" />
+<stop offset="0.1" stop-color="rgb(94,62,232)" />
+<stop offset="0.1" stop-color="rgb(157,123,42)" />
+<stop offset="0.1" stop-color="rgb(190,130,31)" />
+<stop offset="0.2" stop-color="rgb(120,179,106)" />
+<stop offset="0.23" stop-color="rgb(224,208,115)" />
+<stop offset="0.27" stop-color="rgb(235,139,39)" />
+<stop offset="0.401" stop-color="rgb(36,60,252)" />
+<stop offset="0.48" stop-color="rgb(18,73,161)" />
+<stop offset="0.497" stop-color="rgb(204,180,41)" />
+
+<animate attributeName="fx" attributeType="XML" repeatCount="indefinite" from="7" to="170" begin="6s" dur="51s" fill="freeze" />
+<animate attributeName="fy" attributeType="XML" repeatCount="indefinite" from="91" to="86" begin="6s" dur="203s" fill="freeze" />
+<animateTransform attributeName="gradientTransform" attributeType="XML" repeatCount="indefinite" from="-100" type="rotate" additive="replace" to="100" begin="2s" dur="11s" fill="freeze" />
+<animateTransform attributeName="gradientTransform" attributeType="XML" repeatCount="indefinite" from="-100" type="translate" additive="replace" to="100" begin="10s" dur="86s" fill="freeze" />
+</radialGradient>
+</defs>
+<defs >
+<radialGradient id="DegAile" spreadMethod="repeat" gradientUnits="objectBoundingBox" cx="50%" cy="50%" r="50%" fx="50%" fy="50%" >
+<stop offset="-2" stop-color="rgb(38,48,240)" />
+<stop offset="0.1" stop-color="rgb(47,181,116)" />
+<stop offset="0.1" stop-color="rgb(235,186,209)" />
+<stop offset="0.101" stop-color="rgb(244,93,59)" />
+<stop offset="0.22" stop-color="rgb(31,144,25)" />
+<stop offset="0.27" stop-color="rgb(223,125,155)" />
+<stop offset="0.270" stop-color="rgb(128,211,133)" />
+<stop offset="0.33" stop-color="rgb(218,206,209)" />
+<stop offset="0.538" stop-color="rgb(16,9,205)" />
+<stop offset="0.9" stop-color="rgb(127,15,195)" />
+
+<animate attributeName="fx" attributeType="XML" repeatCount="indefinite" from="26" to="215" begin="10s" dur="120s" fill="freeze" />
+<animate attributeName="fy" attributeType="XML" repeatCount="indefinite" from="184" to="190" begin="5s" dur="16s" fill="freeze" />
+<animateTransform attributeName="gradientTransform" attributeType="XML" repeatCount="indefinite" from="-100" type="rotate" additive="replace" to="100" begin="2s" dur="48s" fill="freeze" />
+<animateTransform attributeName="gradientTransform" attributeType="XML" repeatCount="indefinite" from="-100" type="translate" additive="replace" to="100" begin="4s" dur="126s" fill="freeze" />
+</radialGradient>
+</defs>
+</g>
+<g >
+<path d="M408.929 201.27 
+	C470.112 182.913 531.295 164.557 528.055 147.279 
+	C524.457 130.002 415.767 87.53 388.055 97.249 
+	C359.983 106.967 360.702 156.278 361.062 205.229" fill="url(#DegAile)" style="stroke-width:3" />
+<path d="M437.001 218.187 
+		C465.073 231.864 492.786 245.182 507.901 233.304 
+		C523.017 221.426 544.611 152.679 528.055 147.279 
+		C511.5 141.88 460.394 171.755 408.929 201.27" fill="url(#DegAile)" style="stroke-width:3" />
+<path d="M397.052 257.42 C428.723 251.301 460.394 245.182 479.109 241.223 C497.464 237.264
+			515.099 237.264 507.901 233.305 C501.063 229.346 469.032 223.947 437.001 218.188" fill="url(#DegAile)" style="stroke-width:3" />
+<path d="M303.118 284.775 C357.103 296.293 411.448 307.451 440.96 300.252 C470.472 293.054
+			486.308 248.421 479.109 241.223 C471.551 234.384 434.122 245.902 397.052 257.42" fill="url(#DegAile)" style="stroke-width:3" />
+<path d="M303.118 284.775 C316.434 283.695 374.738 268.578 397.052 257.42 C419.366 246.262
+			434.842 227.545 437.001 218.187 C438.801 208.829 421.525 203.43 408.929 201.27
+			C396.332 199.11 376.178 194.791 361.062 205.229 C345.586 215.667 326.512 252.021
+			317.154 264.259 C307.437 276.497 289.802 285.854 303.118 284.775 z" fill="url(#DegAile)" style="stroke-width:3" />
+<path d="M326.152 290.174 C367.901 295.933 410.009 301.693 429.083 303.132 C448.158 304.932
+			461.834 303.852 440.96 300.252 C420.086 297.013 361.422 289.814 303.118 282.976" fill="url(#DegAile)" style="stroke-width:3" />
+<path d="M339.108 302.412 C407.849 331.207 476.95 360.002 492.066 360.361 C506.822 360.361
+			456.795 315.009 429.083 303.132 C401.371 291.614 363.582 290.894 326.152 290.174" fill="url(#DegAile)" style="stroke-width:3" />
+<path d="M383.016 338.405 C407.849 367.92 432.683 397.795 451.037 401.394 C469.032 404.993
+			510.421 376.918 492.066 360.361 C473.351 343.804 406.049 322.927 339.108 302.412" fill="url(#DegAile)" style="stroke-width:3" />
+<path d="M374.019 368.28 C392.014 402.114 410.009 435.948 422.965 441.346 C435.922 446.745
+			457.516 418.311 451.037 401.394 C444.199 384.117 413.608 361.441 383.016 338.405" fill="url(#DegAile)" style="stroke-width:3" />
+<path d="M357.104 390.236 C355.664 421.91 354.225 453.944 365.021 462.223 C376.178 470.861
+			421.525 456.824 422.965 441.346 C424.404 425.509 399.212 397.075 374.019 368.28" fill="url(#DegAile)" style="stroke-width:3" />
+<path d="M303.118 288.015 C314.635 353.163 326.152 418.312 331.91 447.466 C338.029 476.261
+			339.468 460.064 338.029 462.224 C336.589 464.744 319.674 461.144 323.993 461.144
+			C328.672 461.144 359.623 474.102 365.021 462.224 C370.419 450.346 363.941
+			420.471 357.104 390.237" fill="url(#DegAile)" style="stroke-width:3" />
+<path d="M303.118 287.654 C308.157 304.571 345.226 376.919 357.103 390.236 C368.98 403.554
+			369.7 376.919 374.019 368.28 C378.338 359.641 388.775 349.203 383.017 338.405
+			C377.259 327.247 348.467 310.33 339.109 302.412 C329.392 294.134 331.911 293.413
+			326.152 290.174 C320.034 286.935 298.08 271.098 303.118 287.654 z" fill="url(#DegAile)" style="stroke-width:3" />
+</g>
+<g transform="matrix(-1 0 0 1 572 0)" >
+<path d="M408.929 201.27 
+	C470.112 182.913 531.295 164.557 528.055 147.279 
+	C524.457 130.002 415.767 87.53 388.055 97.249 
+	C359.983 106.967 360.702 156.278 361.062 205.229" fill="url(#DegAile)" style="stroke-width:3" />
+<path d="M437.001 218.187 
+		C465.073 231.864 492.786 245.182 507.901 233.304 
+		C523.017 221.426 544.611 152.679 528.055 147.279 
+		C511.5 141.88 460.394 171.755 408.929 201.27" fill="url(#DegAile)" style="stroke-width:3" />
+<path d="M397.052 257.42 C428.723 251.301 460.394 245.182 479.109 241.223 C497.464 237.264
+			515.099 237.264 507.901 233.305 C501.063 229.346 469.032 223.947 437.001 218.188" fill="url(#DegAile)" style="stroke-width:3" />
+<path d="M303.118 284.775 C357.103 296.293 411.448 307.451 440.96 300.252 C470.472 293.054
+			486.308 248.421 479.109 241.223 C471.551 234.384 434.122 245.902 397.052 257.42" fill="url(#DegAile)" style="stroke-width:3" />
+<path d="M303.118 284.775 C316.434 283.695 374.738 268.578 397.052 257.42 C419.366 246.262
+			434.842 227.545 437.001 218.187 C438.801 208.829 421.525 203.43 408.929 201.27
+			C396.332 199.11 376.178 194.791 361.062 205.229 C345.586 215.667 326.512 252.021
+			317.154 264.259 C307.437 276.497 289.802 285.854 303.118 284.775 z" fill="url(#DegAile)" style="stroke-width:3" />
+<path d="M326.152 290.174 C367.901 295.933 410.009 301.693 429.083 303.132 C448.158 304.932
+			461.834 303.852 440.96 300.252 C420.086 297.013 361.422 289.814 303.118 282.976" fill="url(#DegAile)" style="stroke-width:3" />
+<path d="M339.108 302.412 C407.849 331.207 476.95 360.002 492.066 360.361 C506.822 360.361
+			456.795 315.009 429.083 303.132 C401.371 291.614 363.582 290.894 326.152 290.174" fill="url(#DegAile)" style="stroke-width:3" />
+<path d="M383.016 338.405 C407.849 367.92 432.683 397.795 451.037 401.394 C469.032 404.993
+			510.421 376.918 492.066 360.361 C473.351 343.804 406.049 322.927 339.108 302.412" fill="url(#DegAile)" style="stroke-width:3" />
+<path d="M374.019 368.28 C392.014 402.114 410.009 435.948 422.965 441.346 C435.922 446.745
+			457.516 418.311 451.037 401.394 C444.199 384.117 413.608 361.441 383.016 338.405" fill="url(#DegAile)" style="stroke-width:3" />
+<path d="M357.104 390.236 C355.664 421.91 354.225 453.944 365.021 462.223 C376.178 470.861
+			421.525 456.824 422.965 441.346 C424.404 425.509 399.212 397.075 374.019 368.28" fill="url(#DegAile)" style="stroke-width:3" />
+<path d="M303.118 288.015 C314.635 353.163 326.152 418.312 331.91 447.466 C338.029 476.261
+			339.468 460.064 338.029 462.224 C336.589 464.744 319.674 461.144 323.993 461.144
+			C328.672 461.144 359.623 474.102 365.021 462.224 C370.419 450.346 363.941
+			420.471 357.104 390.237" fill="url(#DegAile)" style="stroke-width:3" />
+<path d="M303.118 287.654 C308.157 304.571 345.226 376.919 357.103 390.236 C368.98 403.554
+			369.7 376.919 374.019 368.28 C378.338 359.641 388.775 349.203 383.017 338.405
+			C377.259 327.247 348.467 310.33 339.109 302.412 C329.392 294.134 331.911 293.413
+			326.152 290.174 C320.034 286.935 298.08 271.098 303.118 287.654 z" fill="url(#DegAile)" style="stroke-width:3" />
+</g>
+<g >
+<ellipse cx="286" cy="373" rx="20" ry="79" fill="url(#DegQueue)" style="stroke-width:3" />
+</g>
+<g >
+<ellipse cx="286" cy="288" rx="27" ry="38" fill="url(#DegCorps)" style="stroke-width:3" />
+</g>
+<g >
+<ellipse cx="286" cy="247" rx="25" ry="18" fill="url(#DegTete)" style="stroke-width:3" />
+</g>
+<g >
+<path d="M 302 253 Q445 184 212 250 T241 293 " fill="none" stroke="rgb(148,231,149)" style="stroke-width:3" />
+</g>
+<g transform="matrix(-1 0 0 1 572 0)" >
+<path d="M 302 253 Q445 184 212 250 T241 293 " fill="none" stroke="rgb(148,231,149)" style="stroke-width:3" />
+</g>
+</svg>

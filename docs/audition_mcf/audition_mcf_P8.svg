@@ -1,0 +1,2955 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.36"
+   height="744.09003"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="audition_mcf_P8.svg"
+   sodipodi:version="0.32"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="C:\wamp\www\samszo\frontieres\frontieres.png"
+   inkscape:export-xdpi="999.92816"
+   inkscape:export-ydpi="999.92816">
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     visibility="hidden"
+     id="slide_1"
+     width="302.46094"
+     height="233.54297"
+     x="149.81664"
+     y="273.19232"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600" />
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 372.04501 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1052.36 : 372.04501 : 1"
+       inkscape:persp3d-origin="526.17999 : 248.03001 : 1"
+       id="perspective75" />
+    <linearGradient
+       id="linearGradient3779"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3781" />
+    </linearGradient>
+    <inkscape:perspective
+       id="perspective2516"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2583"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2709"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2778"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2845"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2913"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2946"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2983"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3014"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3045"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3076"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3089"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3133"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2571"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2638"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2903"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2974"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3035"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3139"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3206"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2682"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2766"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2833"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2934"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2972"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3065"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3160"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3288"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3371"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3566"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3641"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3708"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3825"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3909"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4248"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2618"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.99198028"
+     inkscape:cx="283.51998"
+     inkscape:cy="761.32687"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg2"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="793"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     units="mm"
+     inkscape:snap-grids="true"
+     inkscape:snap-to-guides="false">
+    <sodipodi:guide
+       orientation="1,0"
+       position="149.88207,1086.9225"
+       id="guide3992" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-6.9389846,1051.5337"
+       id="guide4027" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="765.06611,-980.92929"
+       id="guide6441" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <text
+     xml:space="preserve"
+     style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     x="389.69153"
+     y="320.64984"
+     id="text3409"><tspan
+       sodipodi:role="line"
+       id="tspan3411"
+       x="389.69153"
+       y="320.64984" /><tspan
+       sodipodi:role="line"
+       id="tspan3413"
+       x="389.69153"
+       y="338.14984" /></text>
+  <g
+     id="g5694"
+     transform="matrix(-1,0,0,-1,1333.3338,1003.398)"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600">
+    <image
+       sodipodi:absref="/Users/paragraphe/Documents/www/samszo/audition_mcf/img/symboleGrecC.png"
+       xlink:href="img/symboleGrecC.png"
+       width="130"
+       height="98.459915"
+       id="image4923"
+       x="605.76154"
+       y="293.54529" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4479-8"
+       y="288.71985"
+       x="632.27588"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
+       xml:space="preserve"><tspan
+         id="tspan5217-0"
+         style="font-size:12px;font-style:italic;-inkscape-font-specification:Garamond Italic"
+         y="288.71985"
+         x="632.27588"
+         sodipodi:role="line">Le symbole grec</tspan></text>
+  </g>
+  <g
+     id="g5733"
+     transform="matrix(-1,0,0,-1,1332.357,1007.398)"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600">
+    <image
+       sodipodi:absref="/Users/paragraphe/Documents/www/samszo/audition_mcf/img/AgentAllegoArbreRhizome.png"
+       xlink:href="img/AgentAllegoArbreRhizome.png"
+       inkscape:export-ydpi="70"
+       inkscape:export-xdpi="70"
+       inkscape:export-filename="img/recommandations.png"
+       width="130"
+       height="88.084114"
+       id="image5198"
+       x="604.78479"
+       y="400.51233" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4479-8-7"
+       y="399.76276"
+       x="628.67651"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
+       xml:space="preserve"><tspan
+         id="tspan5217-0-8"
+         style="font-size:12px;font-style:italic;-inkscape-font-specification:Garamond Italic"
+         y="399.76276"
+         x="628.67651"
+         sodipodi:role="line">Agent allégorique</tspan></text>
+  </g>
+  <g
+     id="g5723"
+     transform="matrix(-0.96018247,0,0,-0.96018247,1304.5065,987.75917)"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600">
+    <g
+       transform="translate(0.48835868,-98.648453)"
+       id="g5689">
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
+         x="612.18555"
+         y="600.49347"
+         id="text4479-8-7-8"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="612.18555"
+           y="600.49347"
+           style="font-size:12px;font-style:italic;-inkscape-font-specification:Garamond Italic"
+           id="tspan5217-0-8-6">Individuation allégorique</tspan></text>
+      <image
+         sodipodi:absref="/Users/paragraphe/Documents/www/samszo/audition_mcf/img/AgentAllegoLiebnizTissuC.png"
+         xlink:href="img/AgentAllegoLiebnizTissuC.png"
+         y="603.63873"
+         x="605.76154"
+         id="image5006"
+         height="128.40735"
+         width="130"
+         inkscape:export-filename="/Users/paragraphe/Documents/www/samszo/recommandations/recommandations.png"
+         inkscape:export-xdpi="70"
+         inkscape:export-ydpi="70" />
+    </g>
+    <rect
+       y="621.02362"
+       x="611.42505"
+       height="11.232248"
+       width="107.43891"
+       id="rect5721"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+  </g>
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.09079707;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="rect3915-1-5-1"
+     width="144.1848"
+     height="470.16904"
+     x="453.32266"
+     y="273.0748"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600"
+     inkscape:export-filename="P8Recto.png" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.00154603;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="rect4065"
+     width="146.59544"
+     height="579.2597"
+     x="2.2736714"
+     y="-307.12411"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600" />
+  <text
+     xml:space="preserve"
+     style="font-size:40.24283218px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="438.44586"
+     y="302.36429"
+     id="text4114"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600"
+     transform="scale(1.0060708,0.99396583)"><tspan
+       sodipodi:role="line"
+       id="tspan4116"
+       x="438.44586"
+       y="302.36429"
+       style="font-size:24.14569855px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;font-family:Garamond;-inkscape-font-specification:Garamond Bold">Samuel Szoniecky</tspan><tspan
+       sodipodi:role="line"
+       x="440.29099"
+       y="316.49255"
+       style="font-size:7.38055086px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;font-family:Garamond;-inkscape-font-specification:Garamond Bold"
+       id="tspan4134">    </tspan><tspan
+       sodipodi:role="line"
+       x="438.44586"
+       y="334.55252"
+       style="font-size:16.60623932px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Garamond;-inkscape-font-specification:Garamond"
+       id="tspan4118">Enseignant chercheur en SIC</tspan><tspan
+       sodipodi:role="line"
+       x="438.44586"
+       y="355.3103"
+       style="font-size:16.60623932px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Garamond;-inkscape-font-specification:Garamond"
+       id="tspan7448">Intelligence collective</tspan><tspan
+       sodipodi:role="line"
+       x="438.44586"
+       y="376.06812"
+       style="font-size:16.60623932px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Garamond;-inkscape-font-specification:Garamond"
+       id="tspan7452">Ingénierie des connaissances</tspan><tspan
+       sodipodi:role="line"
+       x="438.44586"
+       y="396.8259"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Garamond;-inkscape-font-specification:Garamond"
+       id="tspan5063" /></text>
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99885422;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="rect4364"
+     width="743.09564"
+     height="1051.3634"
+     x="-3.4069188"
+     y="827.61414"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <image
+     sodipodi:absref="/Users/paragraphe/Documents/www/samszo/audition_mcf/img/cartoLabo71.png"
+     xlink:href="img/cartoLabo71.png"
+     y="1380.944"
+     x="365.9516"
+     id="image5823"
+     height="155.41751"
+     width="167.49828"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     sodipodi:type="arc"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.81195045;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="path6390"
+     sodipodi:cx="358.30353"
+     sodipodi:cy="1713.2716"
+     sodipodi:rx="351.69547"
+     sodipodi:ry="143.17456"
+     d="m 709.99899,1713.2716 a 351.69547,143.17456 0 1 1 -703.3909273,0 351.69547,143.17456 0 1 1 703.3909273,0 z"
+     transform="matrix(1.0113872,0,0,1.1254074,7.1060986,-232.84568)"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     visibility="hidden"
+     id="slide_4"
+     width="148.68425"
+     height="97.951149"
+     x="590.91168"
+     y="827.36859"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     visibility="hidden"
+     id="slide_3"
+     width="296.21484"
+     height="97.789627"
+     x="294.30646"
+     y="827.59045"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     visibility="hidden"
+     id="slide_45"
+     width="144.28032"
+     height="98.217323"
+     x="150.00342"
+     y="827.34912"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <text
+     xml:space="preserve"
+     style="font-size:39.4798317px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="344.45956"
+     y="887.87866"
+     id="text4404"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204"><tspan
+       sodipodi:role="line"
+       id="tspan4406"
+       x="344.45956"
+       y="887.87866"
+       style="font-size:31.58386612px">RECHERCHE</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:39.4798317px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="607.89111"
+     y="887.6225"
+     id="text4408"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204"><tspan
+       sodipodi:role="line"
+       id="tspan4410"
+       x="607.89111"
+       y="887.6225"
+       style="font-size:31.58386612px">COURS</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:39.4798317px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="176.96638"
+     y="887.60236"
+     id="text4404-9"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204"><tspan
+       sodipodi:role="line"
+       id="tspan4406-5"
+       x="176.96638"
+       y="887.60236"
+       style="font-size:31.58386612px">ADMIN</tspan></text>
+  <image
+     sodipodi:absref="/Users/paragraphe/Documents/www/samszo/audition_mcf/img/2067.jpg"
+     xlink:href="img/2067.jpg"
+     y="847.802"
+     x="297.71558"
+     id="image4441"
+     height="75.528839"
+     width="48.179447"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <image
+     sodipodi:absref="/Users/paragraphe/Documents/www/samszo/audition_mcf/img/RES_177_L148.jpg"
+     xlink:href="img/RES_177_L148.jpg"
+     y="851.64691"
+     x="539.92511"
+     id="image4452"
+     height="71.646629"
+     width="47.550224"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4455"
+     style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Garamond;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Garamond;font-stretch:normal;font-variant:normal"><flowRegion
+       id="flowRegion4457"><rect
+         id="rect4459"
+         width="86.925095"
+         height="145.80983"
+         x="-121.50819"
+         y="419.75662" /></flowRegion><flowPara
+       id="flowPara4461" /></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4463"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"><flowRegion
+       id="flowRegion4465"><rect
+         id="rect4467"
+         width="99.075912"
+         height="143.94048"
+         x="-118.70415"
+         y="450.60101" /></flowRegion><flowPara
+       id="flowPara4469">Master </flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4471"
+     style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Garamond;font-style:normal;font-weight:normal;font-size:32px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Garamond;font-stretch:normal;font-variant:normal"><flowRegion
+       id="flowRegion4473"><rect
+         id="rect4475"
+         width="655.20959"
+         height="404.71576"
+         x="-851.49207"
+         y="346.85172"
+         style="font-size:32px" /></flowRegion><flowPara
+       id="flowPara4477" /></flowRoot>  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
+     x="-791.77911"
+     y="519.37811"
+     id="text4504"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4506"
+       x="-791.77911"
+       y="519.37811" /><tspan
+       sodipodi:role="line"
+       x="-791.77911"
+       y="569.37811"
+       id="tspan4508" /></text>
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.90392548;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="rect4065-2"
+     width="146.89246"
+     height="470.88809"
+     x="2.0236206"
+     y="272.13269"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600" />
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
+     x="-144.27542"
+     y="-647.36896"
+     id="text4479"
+     sodipodi:linespacing="125%"
+     transform="scale(-1,-1)"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600"><tspan
+       sodipodi:role="line"
+       x="-144.27542"
+       y="-647.36896"
+       id="tspan4483"
+       style="font-size:12px">Depuis 2005...</tspan><tspan
+       sodipodi:role="line"
+       x="-144.27542"
+       y="-632.36896"
+       id="tspan4500"
+       style="font-size:12px;font-weight:bold;-inkscape-font-specification:Garamond Bold">Masters CEN - THYP</tspan><tspan
+       sodipodi:role="line"
+       x="-144.27542"
+       y="-617.36896"
+       id="tspan4502"
+       style="font-size:12px">- Hypermédias collaboratifs</tspan><tspan
+       sodipodi:role="line"
+       x="-144.27542"
+       y="-602.36896"
+       id="tspan4510"
+       style="font-size:12px">- Gestion électronique de </tspan><tspan
+       sodipodi:role="line"
+       x="-144.27542"
+       y="-587.36896"
+       style="font-size:12px"
+       id="tspan4528">documents </tspan><tspan
+       sodipodi:role="line"
+       x="-144.27542"
+       y="-572.36896"
+       id="tspan4512"
+       style="font-size:12px" /><tspan
+       sodipodi:role="line"
+       x="-144.27542"
+       y="-557.36896"
+       id="tspan4524"
+       style="font-size:12px;font-weight:bold;-inkscape-font-specification:Garamond Bold">Licence Pro CDNL</tspan><tspan
+       sodipodi:role="line"
+       x="-144.27542"
+       y="-542.36896"
+       id="tspan4522"
+       style="font-size:12px">- Rencontres médias</tspan><tspan
+       sodipodi:role="line"
+       x="-144.27542"
+       y="-527.36896"
+       style="font-size:12px;font-style:italic;-inkscape-font-specification:Garamond Italic"
+       id="tspan5217">Exemples de réalisations :</tspan></text>
+  <image
+     sodipodi:absref="/Users/paragraphe/Documents/www/samszo/audition_mcf/img/hypermedia_univ-paris8_fr.png"
+     xlink:href="img/hypermedia_univ-paris8_fr.png"
+     style="stroke:#000000;stroke-opacity:1"
+     y="-686.19751"
+     x="-145.7767"
+     id="image4493"
+     height="27.616951"
+     width="104.54988"
+     transform="scale(-1,-1)"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600" />
+  <image
+     sodipodi:absref="/Users/paragraphe/Documents/www/samszo/audition_mcf/img/TweetPalette_pt3.png"
+     xlink:href="img/TweetPalette_pt3.png"
+     y="-526.42889"
+     x="-143.81454"
+     id="image4549"
+     height="89.400002"
+     width="120"
+     transform="scale(-1,-1)"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600" />
+  <image
+     sodipodi:absref="/Users/paragraphe/Documents/www/samszo/audition_mcf/img/archipoenum1.png"
+     xlink:href="img/archipoenum1.png"
+     y="-337.07364"
+     x="-144.56244"
+     id="image4560"
+     height="60.5625"
+     width="120"
+     transform="scale(-1,-1)"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600" />
+  <g
+     id="g4861"
+     transform="matrix(-0.93540293,0,0,-1.034666,1018.7066,995.2923)"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600">
+    <text
+       sodipodi:linespacing="125%"
+       id="text4479-3"
+       y="285.63312"
+       x="456.31934"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
+       xml:space="preserve"><tspan
+         style="font-size:12px;font-weight:bold;-inkscape-font-specification:Garamond Bold"
+         id="tspan4502-3"
+         y="285.63312"
+         x="456.31934"
+         sodipodi:role="line">Réprésentant des doctorants</tspan><tspan
+         id="tspan4706"
+         style="font-size:12px"
+         y="300.63312"
+         x="456.31934"
+         sodipodi:role="line">- Organisation de réunions </tspan><tspan
+         id="tspan4820"
+         style="font-size:12px"
+         y="315.63312"
+         x="456.31934"
+         sodipodi:role="line">- CR du conseil scientifique</tspan><tspan
+         id="tspan4708"
+         style="font-size:12px"
+         y="330.63312"
+         x="456.31934"
+         sodipodi:role="line">- Rapport activité AERES</tspan><tspan
+         id="tspan4710"
+         style="font-size:12px;font-weight:bold;-inkscape-font-specification:Garamond Bold"
+         y="345.63312"
+         x="456.31934"
+         sodipodi:role="line">Coordination péda. CDNL</tspan><tspan
+         id="tspan4712"
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Garamond"
+         y="360.63312"
+         x="456.31934"
+         sodipodi:role="line">- Programme pédagogique</tspan><tspan
+         id="tspan4714"
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Garamond"
+         y="375.63312"
+         x="456.31934"
+         sodipodi:role="line">- Constitution de l'équipe</tspan><tspan
+         id="tspan4716"
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Garamond"
+         y="390.63312"
+         x="456.31934"
+         sodipodi:role="line">- Récrutement des étudiants</tspan><tspan
+         id="tspan4718"
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Garamond"
+         y="405.63312"
+         x="456.31934"
+         sodipodi:role="line">- Rédaction de la maquette</tspan><tspan
+         id="tspan4722"
+         style="font-size:12px;font-weight:bold;-inkscape-font-specification:Garamond Bold"
+         y="420.63312"
+         x="456.31934"
+         sodipodi:role="line">Evénements scientifiques</tspan><tspan
+         style="font-size:12px"
+         id="tspan4522-3"
+         y="435.63312"
+         x="456.31934"
+         sodipodi:role="line" /></text>
+    <image
+       sodipodi:absref="/Users/paragraphe/Documents/www/samszo/audition_mcf/img/h2ptm_univ-paris8_fr.png"
+       xlink:href="img/h2ptm_univ-paris8_fr.png"
+       width="120"
+       height="154.54546"
+       id="image4732"
+       x="459.64233"
+       y="424.87653" />
+    <image
+       sodipodi:absref="/Users/paragraphe/Documents/www/samszo/audition_mcf/img/iiwas2010.png"
+       xlink:href="img/iiwas2010.png"
+       width="120"
+       height="27.371134"
+       id="image4798"
+       x="459.58099"
+       y="616.70367" />
+    <image
+       sodipodi:absref="/Users/paragraphe/Documents/www/samszo/audition_mcf/img/01Design7.png"
+       xlink:href="img/01Design7.png"
+       width="120"
+       height="50.2994"
+       id="image4743"
+       x="459.19846"
+       y="646.19385" />
+    <image
+       sodipodi:absref="/Users/paragraphe/Documents/www/samszo/audition_mcf/img/01Design8.png"
+       xlink:href="img/01Design8.png"
+       width="120"
+       height="32.629696"
+       id="image4815"
+       x="459.46371"
+       y="582.24622" />
+  </g>
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     visibility="hidden"
+     id="slide_5"
+     width="152.33504"
+     height="98.190063"
+     x="-2.6241484"
+     y="827.48358"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <text
+     xml:space="preserve"
+     style="font-size:39.4798317px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="30.787231"
+     y="887.7215"
+     id="text4404-9-7"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204"><tspan
+       sodipodi:role="line"
+       id="tspan4406-5-9"
+       x="30.787231"
+       y="887.7215"
+       style="font-size:31.58386612px">THESE</tspan></text>
+  <image
+     sodipodi:absref="/Users/paragraphe/Documents/www/samszo/audition_mcf/img/FolkBiblio.png"
+     xlink:href="img/FolkBiblio.png"
+     y="-12.844412"
+     x="357.02328"
+     id="image4951"
+     height="280"
+     width="281.58191"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600" />
+  <image
+     sodipodi:absref="/Users/paragraphe/Documents/www/samszo/audition_mcf/img/CITU-Paragraphe.gif"
+     xlink:href="img/CITU-Paragraphe.gif"
+     y="408.5892"
+     x="281.90997"
+     id="image5041"
+     height="45.781857"
+     width="40.422775"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600" />
+  <image
+     sodipodi:absref="/Users/paragraphe/Documents/www/samszo/audition_mcf/img/hypermedia_univ-paris8_fr.png"
+     xlink:href="img/hypermedia_univ-paris8_fr.png"
+     y="416.08185"
+     x="160.91599"
+     id="image4493-2"
+     height="27.616951"
+     width="104.54988"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.01136029;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     visibility="hidden"
+     id="slide_0"
+     width="303.61639"
+     height="235.29164"
+     x="149.20116"
+     y="507.52118"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600" />
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="-299.73883"
+     y="-696.23346"
+     id="text4114-7"
+     sodipodi:linespacing="125%"
+     transform="scale(-1,-1)"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600"><tspan
+       sodipodi:role="line"
+       x="-299.73883"
+       y="-696.23346"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond"
+       id="tspan4270">Mercredi 15 mai 2013</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:38.76235962px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="-460.20612"
+     y="-621.7666"
+     id="text4114-7-8"
+     sodipodi:linespacing="125%"
+     transform="scale(-0.96905902,-1.0319289)"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600"><tspan
+       sodipodi:role="line"
+       x="-460.20612"
+       y="-621.7666"
+       style="font-size:17.44306183px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Garamond;-inkscape-font-specification:Garamond Bold"
+       id="tspan4260-7" /><tspan
+       sodipodi:role="line"
+       x="-460.20612"
+       y="-599.96277"
+       style="font-size:17.44306183px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garamond;-inkscape-font-specification:Garamond Bold"
+       id="tspan4268-8">Audition pour le poste de MCF 4153</tspan><tspan
+       sodipodi:role="line"
+       x="-460.20612"
+       y="-578.15894"
+       style="font-size:17.44306183px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garamond;-inkscape-font-specification:Garamond Bold"
+       id="tspan4270-9">Hypermédia - Multimédia</tspan><tspan
+       sodipodi:role="line"
+       x="-460.20612"
+       y="-556.3551"
+       style="font-size:13.56682587px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garamond;-inkscape-font-specification:Garamond Bold"
+       id="tspan5118" /><tspan
+       sodipodi:role="line"
+       x="-460.20612"
+       y="-537.84827"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garamond;-inkscape-font-specification:Garamond"
+       id="tspan5133"> http://goo.gl/tlRMp</tspan><tspan
+       sodipodi:role="line"
+       x="-460.20612"
+       y="-520.34827"
+       style="font-size:17.44306183px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garamond;-inkscape-font-specification:Garamond Bold"
+       id="tspan5114" /><tspan
+       sodipodi:role="line"
+       x="-460.20612"
+       y="-502.84827"
+       style="font-size:17.44306183px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garamond;-inkscape-font-specification:Garamond Bold"
+       id="tspan5112" /></text>
+  <image
+     sodipodi:absref="/Users/paragraphe/Documents/www/samszo/audition_mcf/img/tlRMp.png"
+     xlink:href="img/tlRMp.png"
+     y="529.79669"
+     x="275.97379"
+     id="image5128"
+     height="54.607903"
+     width="54.607903"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600" />
+  <g
+     id="g5567"
+     transform="translate(0.75527643,47.607597)"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600">
+    <image
+       sodipodi:absref="/Users/paragraphe/Documents/www/samszo/audition_mcf/img/GenerateurC.png"
+       xlink:href="img/GenerateurC.png"
+       inkscape:export-ydpi="300.00711"
+       inkscape:export-xdpi="300.00711"
+       inkscape:export-filename="recto.png"
+       width="120"
+       height="116.17834"
+       id="image4995"
+       x="23.97197"
+       y="-251.61674" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4479-8-7-1"
+       y="-253.88588"
+       x="34.641159"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
+       xml:space="preserve"><tspan
+         id="tspan5217-0-8-2"
+         style="font-size:12px;font-style:italic;-inkscape-font-specification:Garamond Italic"
+         y="-253.88588"
+         x="34.641159"
+         sodipodi:role="line"><tspan
+           style="font-size:10px"
+           id="tspan4133">Générateur de textes </tspan></tspan></text>
+  </g>
+  <rect
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="rect3915-1-5-7"
+     width="592.82184"
+     height="578.64862"
+     x="149.91472"
+     y="-306.56116"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600"
+     inkscape:export-filename="P8Recto.png" />
+  <g
+     id="g5562"
+     transform="translate(0.75527643,50.871887)"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600">
+    <image
+       sodipodi:absref="/Users/paragraphe/Documents/www/samszo/audition_mcf/img/feuxinterdit.png"
+       xlink:href="img/feuxinterdit.png"
+       inkscape:export-ydpi="300.00711"
+       inkscape:export-xdpi="300.00711"
+       inkscape:export-filename="recto.png"
+       width="120"
+       height="95.351883"
+       id="image5006-1"
+       x="23.97197"
+       y="-122.66249" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4479-8-7-1-4"
+       y="-125.28052"
+       x="40.347092"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
+       xml:space="preserve"><tspan
+         id="tspan5217-0-8-2-2"
+         style="font-size:10px;font-style:italic;-inkscape-font-specification:Garamond Italic"
+         y="-125.28052"
+         x="40.347092"
+         sodipodi:role="line">Sémantique IEML</tspan></text>
+  </g>
+  <g
+     id="g5556"
+     transform="translate(0.75527643,40.774721)"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600">
+    <g
+       id="g5551">
+      <image
+         sodipodi:absref="/Users/paragraphe/Documents/www/samszo/audition_mcf/img/GenerateurIEMLjaimephilo.png"
+         xlink:href="img/GenerateurIEMLjaimephilo.png"
+         y="0.16959956"
+         x="23.97197"
+         id="image5017"
+         height="95.071915"
+         width="120"
+         inkscape:export-filename="recto.png"
+         inkscape:export-xdpi="300.00711"
+         inkscape:export-ydpi="300.00711" />
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
+         x="28.673019"
+         y="-3.8449879"
+         id="text4479-8-7-1-4-5"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="28.673019"
+           y="-3.8449879"
+           style="font-size:10px;font-style:italic;-inkscape-font-specification:Garamond Italic"
+           id="tspan5217-0-8-2-2-8">Générateur sémantique</tspan></text>
+    </g>
+  </g>
+  <g
+     id="g5545"
+     transform="translate(0.75527643,27.607536)"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600">
+    <g
+       id="g5540">
+      <image
+         sodipodi:absref="/Users/paragraphe/Documents/www/samszo/audition_mcf/img/mediation-sematique-figure-9-LCN.-VFjpg.jpg"
+         xlink:href="img/mediation-sematique-figure-9-LCN.-VFjpg.jpg"
+         y="126.8046"
+         x="23.97197"
+         id="image5028"
+         height="105.81683"
+         width="120"
+         inkscape:export-filename="recto.png"
+         inkscape:export-xdpi="300.00711"
+         inkscape:export-ydpi="300.00711" />
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
+         x="61.736191"
+         y="121.79672"
+         id="text4479-8-7-1-4-6"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="61.736191"
+           y="121.79672"
+           style="font-size:10px;font-style:italic;-inkscape-font-specification:Garamond Italic"
+           id="tspan5217-0-8-2-2-2">GAPAII</tspan></text>
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
+     x="153.54736"
+     y="-247.7804"
+     id="text4479-8-7-1-4-65"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600"><tspan
+       sodipodi:role="line"
+       x="153.54736"
+       y="-247.7804"
+       style="font-size:12px;font-style:italic;-inkscape-font-specification:Garamond Italic"
+       id="tspan5217-0-8-2-2-3">Evaluation d'un exposé d'étudiant</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
+     x="153.92822"
+     y="40.633099"
+     id="text4479-8-7-1-4-65-9"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600"><tspan
+       sodipodi:role="line"
+       x="153.92822"
+       y="40.633099"
+       style="font-size:12px;font-style:italic;-inkscape-font-specification:Garamond Italic"
+       id="tspan5217-0-8-2-2-3-2">Ecosystème d'information d'une bibliothèque</tspan></text>
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     id="rect5428"
+     width="68.730156"
+     height="16.616081"
+     x="-715.54431"
+     y="-296.55988"
+     transform="scale(-1,-1)"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600" />
+  <g
+     id="g5738"
+     transform="matrix(-1,0,0,-1,1330.8705,1015.7001)"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600">
+    <image
+       sodipodi:absref="/Users/paragraphe/Documents/www/samszo/audition_mcf/img/jardin.jpg"
+       xlink:href="img/jardin.jpg"
+       width="121.05695"
+       height="106.55911"
+       id="image5718"
+       x="607.76978"
+       y="634.36279" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4479-8-7-4"
+       y="636.08539"
+       x="611.82727"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
+       xml:space="preserve"><tspan
+         id="tspan5217-0-8-61"
+         style="font-size:12px;font-style:italic;-inkscape-font-specification:Garamond Italic"
+         y="636.08539"
+         x="611.82727"
+         sodipodi:role="line">Jardin des connaissances</tspan></text>
+  </g>
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:1.09079707;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="rect3915-1-5"
+     width="144.1848"
+     height="470.16904"
+     x="-742.7951"
+     y="-743.28351"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600"
+     inkscape:export-filename="P8Recto.png"
+     transform="scale(-1,-1)" />
+  <g
+     id="g5839"
+     transform="translate(-221.64922,52.625584)"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204">
+    <image
+       sodipodi:absref="/Users/paragraphe/Documents/www/samszo/audition_mcf/img/cartoBiblioNord.png"
+       xlink:href="img/cartoBiblioNord.png"
+       width="148.51538"
+       height="120.61062"
+       id="image5834"
+       x="411.31781"
+       y="1334.573" />
+    <rect
+       y="1369.2686"
+       x="422.99921"
+       height="5.0186348"
+       width="50.186348"
+       id="rect5837"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+  </g>
+  <image
+     sodipodi:absref="/Users/paragraphe/Documents/www/samszo/audition_mcf/img/CollegesVilleneuveAscq.png"
+     xlink:href="img/CollegesVilleneuveAscq.png"
+     y="1460.7262"
+     x="87.722054"
+     id="image6165"
+     height="52.110569"
+     width="84.563774"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     sodipodi:type="arc"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.35259247;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="path6390-5"
+     sodipodi:cx="358.30353"
+     sodipodi:cy="1713.2716"
+     sodipodi:rx="351.69547"
+     sodipodi:ry="143.17456"
+     d="m 709.99899,1713.2716 a 351.69547,143.17456 0 1 1 -703.3909273,0 351.69547,143.17456 0 1 1 703.3909273,0 z"
+     transform="matrix(0.8059111,0,0,0.89676665,78.665723,179.06951)"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
+     id="text6410"
+     sodipodi:linespacing="125%"
+     transform="translate(3.6711426,-3.2026855)"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204"><textPath
+       xlink:href="#path6436"
+       startOffset="50%"
+       id="textPath6438"
+       style="font-size:24px">Formations itinérantes pour la culture numérique de l'interprétation</textPath></text>
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
+     x="347.2901"
+     y="1841.7617"
+     id="text6422"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan6424" /></text>
+  <path
+     style="fill:none;stroke:none"
+     d="m 93.506194,1728.4822 c -20.680185,6.1537 40.644856,126.7047 350.335476,101.9317 109.68643,-8.7741 205.3153,-68.461 191.28105,-111.8504"
+     id="path6436"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="csc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0041cf;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
+     x="438.58112"
+     y="1423.6876"
+     id="text6765"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204"><tspan
+       sodipodi:role="line"
+       id="tspan6767"
+       x="438.58112"
+       y="1423.6876"
+       style="font-size:8px;fill:#0041cf;fill-opacity:1">L3</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0041cf;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
+     x="402.34216"
+     y="1487.2371"
+     id="text6765-3"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204"><tspan
+       sodipodi:role="line"
+       id="tspan6767-5"
+       x="402.34216"
+       y="1487.2371"
+       style="font-size:8px;fill:#0041cf;fill-opacity:1">M1-1</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0041cf;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
+     x="428.61639"
+     y="1512.4691"
+     id="text6765-3-7"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204"><tspan
+       sodipodi:role="line"
+       id="tspan6767-5-6"
+       x="428.61639"
+       y="1512.4691"
+       style="font-size:8px;fill:#0041cf;fill-opacity:1">M1-2</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0041cf;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
+     x="474.72678"
+     y="1517.5375"
+     id="text6765-3-7-6"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204"><tspan
+       sodipodi:role="line"
+       id="tspan6767-5-6-5"
+       x="474.72678"
+       y="1517.5375"
+       style="font-size:8px;fill:#0041cf;fill-opacity:1">M2-1</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0041cf;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
+     x="501.53522"
+     y="1437.7911"
+     id="text6765-3-7-8"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204"><tspan
+       sodipodi:role="line"
+       x="501.53522"
+       y="1437.7911"
+       style="font-size:8px;fill:#0041cf;fill-opacity:1"
+       id="tspan6850">M2-2</tspan></text>
+  <path
+     style="fill:none;stroke:#0041cf;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 448.42866,1530.0062 289.51301,1438.7213 143.2573,1487.7512"
+     id="path6856"
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204"
+     sodipodi:nodetypes="ccc" />
+  <path
+     style="fill:none;stroke:#0041cf;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 462.41178,1530.9077 101.58526,8.7142 -11.181,-178.5925"
+     id="path6856-5"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#0041cf;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 443.32189,1597.8153 42.25372,29.8057 37.97984,30.3173"
+     id="path6856-5-41"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#0041cf;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 442.53458,1601.4823 -28.7542,21.4747 -45.64244,15.9915"
+     id="path6856-5-41-6"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#0041cf;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 440.63838,1613.04 31.11123,71.2177 56.63661,66.6313"
+     id="path6856-5-41-6-1"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#0041cf;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 438.76712,1625.1224 14.99204,68.9634 -8.66207,4.6643"
+     id="path6856-5-41-6-1-6"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#0041cf;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 454.42547,1532.838 -23.98726,139.5927 -131.26367,75.9597"
+     id="path6856-5-41-6-1-3"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#0041cf;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 434.10293,1648.4433 -200.89338,12.9932 -57.30291,17.6573"
+     id="path6856-5-41-6-1-35"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#0041cf;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 432.10399,1661.4364 -105.61062,16.6579 -10.661,0.3332"
+     id="path6856-5-41-6-1-5"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#ffa500;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 252.19948,1472.7033 13.49283,17.9905 10.16128,15.9915 -10e-6,27.652"
+     id="path6856-3"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#ffa500;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 285.18197,1484.0306 -6.82971,6.9963 -2.57647,15.8888 -3.58693,-29.5482"
+     id="path6856-3-2"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#ffa500;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 253.5321,1456.3786 13.15968,27.9852 -0.16657,8.3289 1.33262,-24.9867"
+     id="path6856-3-8"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#ffa500;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 142.29074,1489.8031 146.89535,-48.6168 -15.61473,47.0478"
+     id="path6856-3-25"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#ffa500;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 279.35173,1570.1516 -57.13635,73.9608 -53.47161,32.9825 -14.32574,1.9989"
+     id="path6856-3-3"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#ffa500;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 251.36659,1606.1325 59.46843,20.9889 13.15968,4.331 8.66206,1.6658"
+     id="path6856-3-6"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#ffa500;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 270.35651,1612.7956 38.47956,49.9735 61.46739,0.6663 39.26446,42.9015"
+     id="path6856-3-1"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#ffa500;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 387.1827,1681.4937 100.89157,-11.0619 17.15757,-1.3327 21.65516,0.9995"
+     id="path6856-3-86"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:#267114;fill-opacity:1;stroke:#ffa500;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 470.50274,1672.5028 66.04091,81.9051"
+     id="path6856-3-21"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#de080a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 115.32287,1498.8301 -0.0507,0.026 -0.16657,50.6398 16.65782,-0.3332"
+     id="path6856-3-4"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#de080a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 115.43873,1520.6778 17.49071,-11.6604 -17.15755,10.9941 -0.33316,29.3178"
+     id="path6856-3-4-2"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#de080a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 143.20702,1487.0878 146.67491,-49.6815"
+     id="path6856-3-4-9"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#de080a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 209.72203,1626.9797 106.77664,9.6366"
+     id="path6856-3-4-1"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#de080a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 196.06261,1619.2921 -49.1406,60.6346"
+     id="path6856-3-4-5"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#de080a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 142.75756,1588.3085 154.41803,89.2861"
+     id="path6856-3-4-0"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#de080a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 247.70186,1648.6099 14.4923,70.9624 124.10081,11.6605 50.30662,-3.6647"
+     id="path6856-3-4-3"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#de080a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 493.51152,1766.3507 -35.14802,-4.331 -38.47957,-4.6641 -58.71335,-28.3184"
+     id="path6856-3-4-64"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#de080a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 530.052,1672.5972 -30.81697,57.9693 -90.97667,21.1693"
+     id="path6856-3-4-92"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#de080a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 289.50677,1437.3637 159.53532,91.2989 113.59241,9.5859 -12.28454,-174.7777"
+     id="path6856-3-4-93"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#ffa500;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 289.03822,1441.2369 162.96939,94.6304 30.75421,-0.5924 83.76828,7.3187 -7.89499,-175.1391"
+     id="path6856-3-44"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#267114;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 455.1352,1559.1872 4.24039,-49.9424 -15.54809,-4.0048 -22.37984,-18.3749 -8.48079,-51.5915"
+     id="path7200"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#267114;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 480.45975,1471.0813 -17.90387,-0.2356 -29.68272,25.2068 10.12982,-24.9711 -10.60099,-13.1924"
+     id="path7200-0"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#267114;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 505.66652,1502.4131 -17.19714,7.5384 -28.74042,-0.9423 29.21158,-29.447 9.1875,-50.8848"
+     id="path7200-5"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#0041cf;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 454.89962,1523.1439 -3.76923,-103.1828 -27.79811,65.9616 21.20195,16.9616 44.75967,5.6538 9.65866,-80.0962"
+     id="path6854"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#267114;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 473.86359,1494.8747 -18.13944,-69.4953 4.00482,-9.8943 7.53846,-14.1345 -8.00963,-0.2356"
+     id="path7200-9"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#267114;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 438.09328,1525.8557 -148.72192,-85.9299 -146.83933,48.9565"
+     id="path7200-6"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#de080a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 103.95168,1490.3467 11.46407,8.6042 11.3503,3.4034 11.37822,-3.4623 5.36478,-12.0748"
+     id="path6856-3-4-6"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#267114;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 457.69472,1555.6591 17.82084,-22.3705 89.71864,7.7719 -9.39245,-175.898"
+     id="path7200-3"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#267114;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 458.66886,1561.1895 -4.00481,62.8993 74.44239,43.5817"
+     id="path7200-4-2"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#267114;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 455.1352,1615.8434 -36.98562,11.779"
+     id="path7200-4-8"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#267114;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 458.3181,1664.6815 10.245,19.4795 58.8943,69.0241"
+     id="path7200-4-87"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#267114;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 458.19771,1697.5889 0.47115,-70.9088"
+     id="path7200-4-5"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#267114;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 332.39947,1744.7042 67.13951,-85.5144 54.88949,-35.3367"
+     id="path7200-4-81"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#267114;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 306.23552,1679.3535 16.96156,-20.024 75.85586,-0.4712"
+     id="path7200-4-25"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#267114;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 224.50511,1700.6513 46.17313,31.803 92.34627,-27.0914"
+     id="path7200-4-7"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#d0826b;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 529.34203,1656.3629 31.56734,-79.8607"
+     id="path7200-4-4"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#d0826b;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 436.5246,1698.0599 1.4741,-35.9359 33.58844,-21.4612"
+     id="path7200-4-44"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#d0826b;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 412.02457,1635.8675 59.36546,4.9473 70.87864,-17.3601"
+     id="path7200-4-44-4"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#d0826b;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 338.52448,1697.1176 98.47128,-16.7259"
+     id="path7200-4-44-42"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#d0826b;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 568.13549,1550.2201 -6.95221,-183.7803"
+     id="path7200-4-44-9"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#ff00ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 546.77475,1669.7906 82.92318,-68.5529"
+     id="path7200-4-44-3"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#ff00ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 549.3661,1757.4254 40.51928,-35.572 -9.19997,-80.4771"
+     id="path7200-4-44-3-0"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#ff00ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 423.09671,1632.0983 65.01931,-23.7932 83.86548,39.8125"
+     id="path7200-4-44-3-7"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     style="fill:none;stroke:#ff00ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 563.7665,1366.0673 5.59981,186.3759 72.34605,13.6935"
+     id="path7200-4-44-3-78"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccc"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     sodipodi:type="star"
+     style="fill:#ffffff;fill-opacity:1;stroke:#de080a;stroke-width:4.07577415;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="path5994-2-3"
+     sodipodi:sides="8"
+     sodipodi:cx="410.02579"
+     sodipodi:cy="1565.3601"
+     sodipodi:r1="72.40863"
+     sodipodi:r2="66.896851"
+     sodipodi:arg1="0.38831872"
+     sodipodi:arg2="0.7810178"
+     inkscape:flatsided="true"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 477.04337,1592.7764 -39.01523,39.3585 -55.41864,0.2428 -39.35854,-39.0152 -0.24276,-55.4187 39.01524,-39.3585 55.41863,-0.2428 39.35855,39.0153 z"
+     transform="matrix(0.5883821,0.00193436,0,0.45118943,-108.31098,863.32589)"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <text
+     xml:space="preserve"
+     style="font-size:11.8184433px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
+     x="132.67784"
+     y="1566.3473"
+     id="text5996-1-9"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204"><tspan
+       sodipodi:role="line"
+       id="tspan5998-1-1"
+       x="132.67784"
+       y="1566.3473">Etablissements</tspan><tspan
+       sodipodi:role="line"
+       x="134.15515"
+       y="1581.1204"
+       id="tspan6000-9-8">d'enseignement </tspan></text>
+  <path
+     sodipodi:type="star"
+     style="fill:#ffffff;fill-opacity:1;stroke:#ffa500;stroke-width:4.14020697;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="path5994-2"
+     sodipodi:sides="8"
+     sodipodi:cx="410.02579"
+     sodipodi:cy="1565.3601"
+     sodipodi:r1="72.40863"
+     sodipodi:r2="66.896851"
+     sodipodi:arg1="0.38831872"
+     sodipodi:arg2="0.7810178"
+     inkscape:flatsided="true"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 477.04337,1592.7764 -39.01523,39.3585 -55.41864,0.2428 -39.35854,-39.0152 -0.24276,-55.4187 39.01524,-39.3585 55.41863,-0.2428 39.35855,39.0153 z"
+     transform="matrix(0.51642546,0.00193725,0,0.45186452,63.19195,845.38068)"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <text
+     xml:space="preserve"
+     style="font-size:11.8184433px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
+     x="274.4964"
+     y="1549.4601"
+     id="text5996-1"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204"><tspan
+       sodipodi:role="line"
+       id="tspan5998-1"
+       x="274.4964"
+       y="1549.4601">Bibliothèques</tspan><tspan
+       sodipodi:role="line"
+       x="275.97369"
+       y="1564.2332"
+       id="tspan6000-9">municipales </tspan></text>
+  <path
+     sodipodi:type="star"
+     style="fill:#ffffff;fill-opacity:1;stroke:#267114;stroke-width:4.28408338;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="path5994"
+     sodipodi:sides="8"
+     sodipodi:cx="410.02579"
+     sodipodi:cy="1565.3601"
+     sodipodi:r1="72.40863"
+     sodipodi:r2="66.896851"
+     sodipodi:arg1="0.38831872"
+     sodipodi:arg2="0.7810178"
+     inkscape:flatsided="true"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 477.04337,1592.7764 -39.01523,39.3585 -55.41864,0.2428 -39.35854,-39.0152 -0.24276,-55.4187 39.01524,-39.3585 55.41863,-0.2428 39.35855,39.0153 z"
+     transform="matrix(0.48242663,0.00193684,0,0.45176532,257.46476,840.8522)"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <text
+     xml:space="preserve"
+     style="font-size:11.8184433px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
+     x="455.37686"
+     y="1561.2755"
+     id="text5996"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204"><tspan
+       sodipodi:role="line"
+       id="tspan5998"
+       x="455.37686"
+       y="1561.2755">Laboratoires</tspan><tspan
+       sodipodi:role="line"
+       x="456.85416"
+       y="1576.0486"
+       id="tspan6000">SIC </tspan></text>
+  <path
+     sodipodi:type="star"
+     style="fill:#ffffff;fill-opacity:1;stroke:#0041cf;stroke-width:3.71763518;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="path5994-7"
+     sodipodi:sides="8"
+     sodipodi:cx="410.02579"
+     sodipodi:cy="1565.3601"
+     sodipodi:r1="72.40863"
+     sodipodi:r2="66.896851"
+     sodipodi:arg1="0.38831872"
+     sodipodi:arg2="0.7810178"
+     inkscape:flatsided="true"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 477.04337,1592.7764 -39.01523,39.3585 -55.41864,0.2428 -39.35854,-39.0152 -0.24276,-55.4187 39.01524,-39.3585 55.41863,-0.2428 39.35855,39.0153 z"
+     transform="matrix(0.30597737,0.00101381,0,0.2364706,330.10992,1167.1162)"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <text
+     xml:space="preserve"
+     style="font-size:7.34912729px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
+     x="455.51709"
+     y="1547.7665"
+     id="text5996-6"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204"><tspan
+       sodipodi:role="line"
+       x="455.51709"
+       y="1547.7665"
+       id="tspan6000-95">Etudiants</tspan></text>
+  <image
+     sodipodi:absref="/Users/paragraphe/Documents/www/samszo/audition_mcf/img/user.jpg"
+     xlink:href="img/user.jpg"
+     style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     y="1523.7166"
+     x="447.90079"
+     id="image6076"
+     height="14.078349"
+     width="14.078349"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <path
+     sodipodi:type="star"
+     style="fill:none;stroke:#0041cf;stroke-width:3.57146786;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="path5994-20"
+     sodipodi:sides="8"
+     sodipodi:cx="410.02579"
+     sodipodi:cy="1565.3601"
+     sodipodi:r1="72.40863"
+     sodipodi:r2="66.896851"
+     sodipodi:arg1="0.38831872"
+     sodipodi:arg2="0.7810178"
+     inkscape:flatsided="true"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 477.04337,1592.7764 -39.01523,39.3585 -55.41864,0.2428 -39.35854,-39.0152 -0.24276,-55.4187 39.01524,-39.3585 55.41863,-0.2428 39.35855,39.0153 z"
+     transform="matrix(0.13999846,6.0020831e-4,0,0.13999846,397.53698,1313.0483)"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <text
+     xml:space="preserve"
+     style="font-size:4.48262787px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
+     x="450.73312"
+     y="1540.4341"
+     id="text6119"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204"><tspan
+       sodipodi:role="line"
+       id="tspan6121"
+       x="450.73312"
+       y="1540.4341">Tom</tspan></text>
+  <path
+     sodipodi:type="star"
+     style="fill:#ffffff;fill-opacity:1;stroke:#d0826b;stroke-width:4.14020697;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="path5994-2-9"
+     sodipodi:sides="8"
+     sodipodi:cx="410.02579"
+     sodipodi:cy="1565.3601"
+     sodipodi:r1="72.40863"
+     sodipodi:r2="66.896851"
+     sodipodi:arg1="0.38831872"
+     sodipodi:arg2="0.7810178"
+     inkscape:flatsided="true"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 477.04337,1592.7764 -39.01523,39.3585 -55.41864,0.2428 -39.35854,-39.0152 -0.24276,-55.4187 39.01524,-39.3585 55.41863,-0.2428 39.35855,39.0153 z"
+     transform="matrix(0.51642546,0.00193725,0,0.45186452,353.56688,855.65988)"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <text
+     xml:space="preserve"
+     style="font-size:11.8184433px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
+     x="564.87134"
+     y="1566.7393"
+     id="text5996-1-5"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204"><tspan
+       sodipodi:role="line"
+       x="564.87134"
+       y="1566.7393"
+       id="tspan6000-9-2">Chef-d'œuvre</tspan></text>
+  <path
+     sodipodi:type="star"
+     style="fill:#ffffff;fill-opacity:1;stroke:#ff00ff;stroke-width:4.14020697;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="path5994-2-9-2"
+     sodipodi:sides="8"
+     sodipodi:cx="410.02579"
+     sodipodi:cy="1565.3601"
+     sodipodi:r1="72.40863"
+     sodipodi:r2="66.896851"
+     sodipodi:arg1="0.38831872"
+     sodipodi:arg2="0.7810178"
+     inkscape:flatsided="true"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 477.04337,1592.7764 -39.01523,39.3585 -55.41864,0.2428 -39.35854,-39.0152 -0.24276,-55.4187 39.01524,-39.3585 55.41863,-0.2428 39.35855,39.0153 z"
+     transform="matrix(0.51642546,0.00193725,0,0.45186452,434.37333,882.53048)"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <text
+     xml:space="preserve"
+     style="font-size:11.8184433px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
+     x="645.6778"
+     y="1593.6099"
+     id="text5996-1-5-5"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204"><tspan
+       sodipodi:role="line"
+       x="645.6778"
+       y="1593.6099"
+       id="tspan6000-9-2-5">Entreprises</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="133.27095"
+     y="974.43011"
+     id="text4404-7"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204"><tspan
+       sodipodi:role="line"
+       id="tspan4406-3"
+       x="133.27095"
+       y="974.43011"
+       style="font-size:32px">RELIER LES CONNAISSANCES</tspan></text>
+  <g
+     id="g6343"
+     transform="matrix(0.82341166,0,0,0.82341166,104.41382,238.82451)"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204">
+    <image
+       sodipodi:absref="/Users/paragraphe/Documents/www/samszo/audition_mcf/img/cadreTablette.png"
+       xlink:href="img/cadreTablette.png"
+       width="582.20978"
+       height="449.21078"
+       id="image6338"
+       x="28.798061"
+       y="922.94324" />
+    <image
+       sodipodi:absref="/Users/paragraphe/Documents/www/samszo/audition_mcf/img/jardindesconnaissances_public_biblio.png"
+       xlink:href="img/jardindesconnaissances_public_biblio.png"
+       width="459.918"
+       height="217.29263"
+       id="image4984"
+       x="91.425407"
+       y="1107.6232" />
+    <image
+       sodipodi:absref="/Users/paragraphe/Documents/www/samszo/audition_mcf/img/2124.jpg"
+       xlink:href="img/2124.jpg"
+       width="64.357063"
+       height="106.19978"
+       id="image5929"
+       x="468.203"
+       y="995.60309" />
+    <g
+       transform="matrix(0.8849981,0,0,0.8849981,-193.11918,82.509741)"
+       id="g5975">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect5973"
+         width="408.98636"
+         height="132.06851"
+         x="318.12653"
+         y="1028.9061" />
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
+         x="322.90289"
+         y="1040.7949"
+         id="text5936"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5938"
+           x="322.90289"
+           y="1040.7949"
+           style="font-size:10px">&quot;1. Apprendre à interpréter l'information plutôt qu'à l'emmagasiner [...] </tspan><tspan
+           sodipodi:role="line"
+           x="322.90289"
+           y="1053.2949"
+           style="font-size:10px"
+           id="tspan5955">2. Partager le geste d'interprétation inventrice dans la présence interactive, </tspan><tspan
+           sodipodi:role="line"
+           x="322.90289"
+           y="1065.7949"
+           style="font-size:10px"
+           id="tspan5967">plutôt que communiquer des contenus figés. [...]  </tspan><tspan
+           sodipodi:role="line"
+           x="322.90289"
+           y="1078.2949"
+           style="font-size:10px"
+           id="tspan5957">3. Former des interprètes généralistes plutôt que des savants spécialisés. [...]  </tspan><tspan
+           sodipodi:role="line"
+           x="322.90289"
+           y="1090.7949"
+           style="font-size:10px"
+           id="tspan5959">4. Dynamiser les disciplines grâce à la créativité des sous-cultures minoritaires. [...]  </tspan><tspan
+           sodipodi:role="line"
+           x="322.90289"
+           y="1103.2949"
+           style="font-size:10px"
+           id="tspan5961">5. Concevoir l'autoformation universitaire comme construisant des capacités communes de partage [...]  </tspan><tspan
+           sodipodi:role="line"
+           x="322.90289"
+           y="1115.7949"
+           style="font-size:10px"
+           id="tspan5963">6. Apprendre à intégrer l'argumentation logique au sein d'une vue plus large et critique </tspan><tspan
+           sodipodi:role="line"
+           x="322.90289"
+           y="1128.2949"
+           style="font-size:10px"
+           id="tspan5971">des pratiques communicationnelles [...]  </tspan><tspan
+           sodipodi:role="line"
+           x="322.90289"
+           y="1140.7949"
+           style="font-size:10px"
+           id="tspan5965">7. Reconfigurer l'université autour d'un grand axe mettant en tension les disciplines scientifiques </tspan><tspan
+           sodipodi:role="line"
+           x="322.90289"
+           y="1153.2949"
+           style="font-size:10px"
+           id="tspan5969">avec l'indiscipline propre aux Humanités&quot; p. 121</tspan></text>
+    </g>
+    <image
+       sodipodi:absref="/Users/paragraphe/Documents/www/samszo/audition_mcf/img/TaxonomyIdeas.png"
+       xlink:href="img/TaxonomyIdeas.png"
+       width="308.91391"
+       height="215.30742"
+       id="image6314"
+       x="88.736229"
+       y="1109.2333" />
+  </g>
+  <g
+     id="g6491"
+     transform="translate(-103.52623,-64.612107)"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204">
+    <path
+       transform="matrix(0.89092708,0,0,0.53470733,235.7277,785.6026)"
+       d="m 339.21357,1696.7515 c 0,22.9109 -34.02307,41.4839 -75.99265,41.4839 -41.96959,0 -75.99266,-18.573 -75.99266,-41.4839 0,-22.911 34.02307,-41.4839 75.99266,-41.4839 41.96958,0 75.99265,18.5729 75.99265,41.4839 z"
+       sodipodi:ry="41.48391"
+       sodipodi:rx="75.992653"
+       sodipodi:cy="1696.7515"
+       sodipodi:cx="263.22092"
+       id="path6443-5"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       sodipodi:type="arc" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text6445-8"
+       y="1687.7821"
+       x="470.04205"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
+       xml:space="preserve"><tspan
+         style="font-size:12px;text-align:center;text-anchor:middle"
+         y="1687.7821"
+         x="471.54205"
+         sodipodi:role="line"
+         id="tspan6481">maîtrise des documents </tspan><tspan
+         style="font-size:12px;text-align:center;text-anchor:middle"
+         y="1702.7821"
+         x="471.54205"
+         sodipodi:role="line"
+         id="tspan6763">numériques </tspan></text>
+  </g>
+  <g
+     id="g6580"
+     transform="translate(190.16519,-75.625537)"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204">
+    <path
+       transform="matrix(0.66018607,0,0,0.40405784,159.5972,1058.4657)"
+       d="m 339.21357,1696.7515 c 0,22.9109 -34.02307,41.4839 -75.99265,41.4839 -41.96959,0 -75.99266,-18.573 -75.99266,-41.4839 0,-22.911 34.02307,-41.4839 75.99266,-41.4839 41.96958,0 75.99265,18.5729 75.99265,41.4839 z"
+       sodipodi:ry="41.48391"
+       sodipodi:rx="75.992653"
+       sodipodi:cy="1696.7515"
+       sodipodi:cx="263.22092"
+       id="path6443-5-7-1"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       sodipodi:type="arc" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text6445-8-2-9"
+       y="1740.4918"
+       x="333.14346"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
+       xml:space="preserve"><tspan
+         style="font-size:12px;text-align:center;text-anchor:middle"
+         y="1740.4918"
+         x="334.64346"
+         sodipodi:role="line"
+         id="tspan6541-9">création d'objets </tspan><tspan
+         id="tspan6578"
+         style="font-size:12px;text-align:center;text-anchor:middle"
+         y="1755.4918"
+         x="334.64346"
+         sodipodi:role="line">innovants </tspan></text>
+  </g>
+  <g
+     id="g6491-0-9"
+     transform="translate(-33.369436,15.985889)"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204">
+    <g
+       id="g6702-6">
+      <path
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="path6443-5-8-7"
+         sodipodi:cx="263.22092"
+         sodipodi:cy="1696.7515"
+         sodipodi:rx="75.992653"
+         sodipodi:ry="41.48391"
+         d="m 339.21357,1696.7515 c 0,22.9109 -34.02307,41.4839 -75.99265,41.4839 -41.96959,0 -75.99266,-18.573 -75.99266,-41.4839 0,-22.911 34.02307,-41.4839 75.99266,-41.4839 41.96958,0 75.99265,18.5729 75.99265,41.4839 z"
+         transform="matrix(0.61150781,0,0,0.5361251,310.74221,783.94358)" />
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
+         x="471.5105"
+         y="1689.9847"
+         id="text6445-8-3-9"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan6700-7"
+           sodipodi:role="line"
+           x="471.5105"
+           y="1689.9847"
+           style="font-size:12px;text-align:center;text-anchor:middle">expérimentations</tspan><tspan
+           sodipodi:role="line"
+           x="473.0105"
+           y="1704.9847"
+           style="font-size:12px;text-align:center;text-anchor:middle"
+           id="tspan6759">pédagogiques  </tspan></text>
+    </g>
+  </g>
+  <g
+     id="g6491-0"
+     transform="translate(-159.65968,-2.3574686)"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204">
+    <g
+       id="g6702">
+      <path
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="path6443-5-8"
+         sodipodi:cx="263.22092"
+         sodipodi:cy="1696.7515"
+         sodipodi:rx="75.992653"
+         sodipodi:ry="41.48391"
+         d="m 339.21357,1696.7515 c 0,22.9109 -34.02307,41.4839 -75.99265,41.4839 -41.96959,0 -75.99266,-18.573 -75.99266,-41.4839 0,-22.911 34.02307,-41.4839 75.99266,-41.4839 41.96958,0 75.99265,18.5729 75.99265,41.4839 z"
+         transform="matrix(0.61150781,0,0,0.5361251,310.74221,783.94358)" />
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
+         x="471.5105"
+         y="1689.9847"
+         id="text6445-8-3"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan6481-3"
+           sodipodi:role="line"
+           x="473.0105"
+           y="1689.9847"
+           style="font-size:12px;text-align:center;text-anchor:middle">apprentissage de </tspan><tspan
+           id="tspan6700"
+           sodipodi:role="line"
+           x="473.0105"
+           y="1704.9847"
+           style="font-size:12px;text-align:center;text-anchor:middle">l'autonomie  </tspan></text>
+    </g>
+  </g>
+  <g
+     id="g6503"
+     transform="translate(2.2026855,-6.6080566)"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204">
+    <path
+       transform="matrix(0.8185097,0,0,0.5701905,-32.243309,730.17281)"
+       d="m 339.21357,1696.7515 c 0,22.9109 -34.02307,41.4839 -75.99265,41.4839 -41.96959,0 -75.99266,-18.573 -75.99266,-41.4839 0,-22.911 34.02307,-41.4839 75.99266,-41.4839 41.96958,0 75.99265,18.5729 75.99265,41.4839 z"
+       sodipodi:ry="41.48391"
+       sodipodi:rx="75.992653"
+       sodipodi:cy="1696.7515"
+       sodipodi:cx="263.22092"
+       id="path6443"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       sodipodi:type="arc" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text6445"
+       y="1697.1187"
+       x="182.93823"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
+       xml:space="preserve"><tspan
+         style="font-size:12px;text-align:center;text-anchor:middle"
+         y="1697.1187"
+         x="184.43823"
+         id="tspan6447"
+         sodipodi:role="line">développement culturel </tspan><tspan
+         style="font-size:12px;text-align:center;text-anchor:middle"
+         y="1712.1187"
+         x="182.93823"
+         sodipodi:role="line"
+         id="tspan6497">des territoires</tspan></text>
+  </g>
+  <g
+     id="g6657"
+     transform="translate(16.887256,44.787939)"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204">
+    <path
+       transform="matrix(0.89092708,0,0,0.53470733,75.33379,809.67736)"
+       d="m 339.21357,1696.7515 c 0,22.9109 -34.02307,41.4839 -75.99265,41.4839 -41.96959,0 -75.99266,-18.573 -75.99266,-41.4839 0,-22.911 34.02307,-41.4839 75.99266,-41.4839 41.96958,0 75.99265,18.5729 75.99265,41.4839 z"
+       sodipodi:ry="41.48391"
+       sodipodi:rx="75.992653"
+       sodipodi:cy="1696.7515"
+       sodipodi:cx="263.22092"
+       id="path6443-5-7"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       sodipodi:type="arc" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text6445-8-2"
+       y="1711.8568"
+       x="309.64813"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
+       xml:space="preserve"><tspan
+         style="font-size:12px;text-align:center;text-anchor:middle"
+         y="1711.8568"
+         x="309.64813"
+         sodipodi:role="line"
+         id="tspan6481-9">parcours de formation</tspan><tspan
+         style="font-size:12px;text-align:center;text-anchor:middle"
+         y="1726.8568"
+         x="309.64813"
+         sodipodi:role="line"
+         id="tspan6541">multisites</tspan></text>
+  </g>
+  <g
+     id="g6648"
+     transform="translate(20.558399,14.68457)"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204">
+    <g
+       id="g6663">
+      <path
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="path6443-5-7-9"
+         sodipodi:cx="263.22092"
+         sodipodi:cy="1696.7515"
+         sodipodi:rx="75.992653"
+         sodipodi:ry="41.48391"
+         d="m 339.21357,1696.7515 c 0,22.9109 -34.02307,41.4839 -75.99265,41.4839 -41.96959,0 -75.99266,-18.573 -75.99266,-41.4839 0,-22.911 34.02307,-41.4839 75.99266,-41.4839 41.96958,0 75.99265,18.5729 75.99265,41.4839 z"
+         transform="matrix(0.79087094,0,0,0.28947173,274.58147,1252.9477)" />
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
+         x="483.66031"
+         y="1746.3656"
+         id="text6445-8-2-1"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan6541-5"
+           sodipodi:role="line"
+           x="483.66031"
+           y="1746.3656"
+           style="font-size:12px;text-align:center;text-anchor:middle">stages en alternance</tspan></text>
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
+     x="386.34665"
+     y="909.9364"
+     id="text7431"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204"><tspan
+       sodipodi:role="line"
+       id="tspan7433"
+       x="386.34665"
+       y="909.9364">Jardiner la monade</tspan></text>
+  <image
+     sodipodi:absref="/Users/paragraphe/Documents/www/samszo/audition_mcf/img/gevu.png"
+     xlink:href="img/gevu.png"
+     y="412.65689"
+     x="342.18787"
+     id="image7443"
+     height="34.466846"
+     width="99.092186"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600" />
+  <path
+     inkscape:export-ydpi="600.03204"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-filename="P8Verso.png"
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path4606"
+     d="m 103.43768,1490.3684 25.79415,-15.3431"
+     style="fill:none;stroke:#de080a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <rect
+     visibility="hidden"
+     id="slide_41"
+     width="146.95209"
+     height="150.83134"
+     x="1.6153451"
+     y="536.88513"
+     style="fill:none;stroke:none;visibility:hidden"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600" />
+  <rect
+     style="fill:none;stroke:none;visibility:hidden"
+     y="430.55032"
+     x="0.5166238"
+     height="105.7282"
+     width="148.14145"
+     visibility="hidden"
+     id="slide_42"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600" />
+  <rect
+     visibility="hidden"
+     id="slide_43"
+     width="145.90623"
+     height="161.24384"
+     x="2.6423171"
+     y="272.08398"
+     style="fill:none;stroke:none;visibility:hidden"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600" />
+  <rect
+     style="fill:none;stroke:none;stroke-width:1.05975187;stroke-opacity:1"
+     y="570.52942"
+     x="453.45432"
+     height="142.7608"
+     width="144.50252"
+     visibility="hidden"
+     id="slide_46"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600" />
+  <rect
+     visibility="hidden"
+     id="slide_47"
+     width="144.38887"
+     height="175.15904"
+     x="453.51114"
+     y="396.07437"
+     style="fill:none;stroke:none;stroke-width:1.17339742;stroke-opacity:1"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600" />
+  <rect
+     style="fill:none;stroke:none;stroke-width:0.98432052;stroke-opacity:1"
+     y="271.97983"
+     x="453.4166"
+     height="123.09688"
+     width="144.57794"
+     visibility="hidden"
+     id="slide_48"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600" />
+  <rect
+     visibility="hidden"
+     id="slide_51"
+     width="144.64227"
+     height="107.48583"
+     x="597.94623"
+     y="616.90509"
+     style="fill:none;stroke:none;stroke-width:0.91999447;stroke-opacity:1"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600" />
+  <rect
+     style="fill:none;stroke:none;stroke-width:0.882222;stroke-opacity:1"
+     y="519.35052"
+     x="597.92731"
+     height="98.815063"
+     width="144.68004"
+     visibility="hidden"
+     id="slide_52"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600" />
+  <rect
+     visibility="hidden"
+     id="slide_53"
+     width="144.55292"
+     height="129.45811"
+     x="597.41028"
+     y="389.36655"
+     style="fill:none;stroke:none;stroke-width:1.00934601;stroke-opacity:1"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600" />
+  <rect
+     style="fill:none;stroke:none;stroke-width:0.95863777;stroke-opacity:1"
+     y="272.64676"
+     x="597.96552"
+     height="116.7363"
+     width="144.60362"
+     id="rect4148"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600" />
+  <rect
+     visibility="hidden"
+     id="slide_54"
+     width="144.54843"
+     height="130.61478"
+     x="4.1228995"
+     y="-285.83337"
+     style="fill:none;stroke:none;stroke-width:1.01382923;stroke-opacity:1"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600" />
+  <rect
+     style="fill:none;stroke:none;stroke-width:0.95151228;stroke-opacity:1"
+     y="-148.85017"
+     x="4.0917411"
+     height="115.00172"
+     width="144.61075"
+     visibility="hidden"
+     id="slide_55"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600" />
+  <rect
+     visibility="hidden"
+     id="slide_56"
+     width="144.61075"
+     height="115.00172"
+     x="4.0917411"
+     y="-29.833456"
+     style="fill:none;stroke:none;stroke-width:0.95151228;stroke-opacity:1"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600" />
+  <rect
+     style="fill:none;stroke:none;stroke-width:1.01159;stroke-opacity:1"
+     y="88.632729"
+     x="4.1217799"
+     height="130.03644"
+     width="144.55067"
+     visibility="hidden"
+     id="slide_57"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600" />
+  <rect
+     visibility="hidden"
+     id="slide_58"
+     width="507.91898"
+     height="287.88321"
+     x="152.4913"
+     y="-304.08838"
+     style="fill:none;stroke:none;stroke-width:2.82141709;stroke-opacity:1"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600" />
+  <rect
+     style="fill:none;stroke:none;stroke-width:2.82141709;stroke-opacity:1"
+     y="-17.867687"
+     x="150.74959"
+     height="287.88321"
+     width="507.91898"
+     visibility="hidden"
+     id="slide_59"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600" />
+  <rect
+     style="fill:none;stroke:none;visibility:hidden"
+     visibility="hidden"
+     id="slide_60"
+     width="739.60858"
+     height="171.13625"
+     x="-3.0058677"
+     y="828.32269"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <rect
+     y="999.8454"
+     x="1.9831597"
+     height="872.56683"
+     width="732.8078"
+     visibility="hidden"
+     id="slide_61"
+     style="fill:none;stroke:none;visibility:hidden"
+     inkscape:export-filename="P8Verso.png"
+     inkscape:export-xdpi="600.03204"
+     inkscape:export-ydpi="600.03204" />
+  <text
+     xml:space="preserve"
+     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Herculanum;-inkscape-font-specification:Herculanum"
+     x="25.696777"
+     y="-274.66199"
+     id="text4116"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600"><tspan
+       sodipodi:role="line"
+       id="tspan4119"
+       x="25.696777"
+       y="-274.66199"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Garamond;-inkscape-font-specification:Garamond">Szoniecky, S., Hachour, H., Bouhai, N., </tspan><tspan
+       sodipodi:role="line"
+       x="25.696777"
+       y="-264.66199"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Garamond;-inkscape-font-specification:Garamond"
+       id="tspan4121">‘Générateur hypertextuel pour </tspan><tspan
+       sodipodi:role="line"
+       x="25.696777"
+       y="-254.66199"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Garamond;-inkscape-font-specification:Garamond"
+       id="tspan4125">l’interprétation des médias sociaux</tspan><tspan
+       sodipodi:role="line"
+       x="25.696777"
+       y="-244.66199"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Garamond;-inkscape-font-specification:Garamond"
+       id="tspan4127"> dans une topologie sémantique’, </tspan><tspan
+       sodipodi:role="line"
+       x="25.696777"
+       y="-234.66199"
+       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Garamond;-inkscape-font-specification:Garamond Italic"
+       id="tspan4123">Les Cahiers du numérique, Vol. 7, </tspan><tspan
+       sodipodi:role="line"
+       x="25.696777"
+       y="-224.66199"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Garamond;-inkscape-font-specification:Garamond"
+       id="tspan4129"><tspan
+   style="font-style:italic;-inkscape-font-specification:Garamond Italic"
+   id="tspan4131">Empreintes de l’hypertexte, </tspan>2012, 93–121. </tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Herculanum;-inkscape-font-specification:Herculanum"
+     x="203.16893"
+     y="-245.87323"
+     id="text4137"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4139"
+       x="203.16893"
+       y="-245.87323" /></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text4152"
+     y="-274.62463"
+     x="153.89307"
+     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Herculanum;-inkscape-font-specification:Herculanum"
+     xml:space="preserve"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600"><tspan
+       id="tspan4164"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Garamond;-inkscape-font-specification:Garamond"
+       y="-274.62463"
+       x="153.89307"
+       sodipodi:role="line">Szoniecky, S., ‘Tweet Palette : Cartographie Sémantique Pour  L’interprétation D'un Événement’ </tspan><tspan
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Garamond;-inkscape-font-specification:Garamond"
+       y="-264.62463"
+       x="153.89307"
+       sodipodi:role="line"
+       id="tspan3881">presenté à <tspan
+   style="font-style:italic;-inkscape-font-specification:Garamond Italic"
+   id="tspan3883">EUTIC 2012 Enjeux et usages des TIC</tspan>, Université de Lorraine, 2012, p. 15</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Herculanum;-inkscape-font-specification:Herculanum"
+     x="153.80713"
+     y="-1.1055964"
+     id="text4238"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600"><tspan
+       sodipodi:role="line"
+       x="153.80713"
+       y="-1.1055964"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Garamond;-inkscape-font-specification:Garamond"
+       id="tspan4242">Szoniecky, S., Yacoub, C., ‘Les Petites Bibliothèques Dans L’écosystème </tspan><tspan
+       sodipodi:role="line"
+       x="153.80713"
+       y="8.8944035"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Garamond;-inkscape-font-specification:Garamond"
+       id="tspan4248">D’information Mondiale’, in <tspan
+   style="font-style:italic;-inkscape-font-specification:Garamond Italic"
+   id="tspan4250">Métiers de l’information, des bibliothèques et des archives</tspan> </tspan><tspan
+       sodipodi:role="line"
+       x="153.80713"
+       y="18.894403"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Garamond;-inkscape-font-specification:Garamond"
+       id="tspan4252">presenté à <tspan
+   style="font-style:italic;-inkscape-font-specification:Garamond Italic"
+   id="tspan4254">CiDE 15</tspan>, Tunis, Tunisie: Europia, 2012, pp. 131–144</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Herculanum;-inkscape-font-specification:Herculanum"
+     x="156.58241"
+     y="471.04132"
+     id="text4256"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600"><tspan
+       sodipodi:role="line"
+       id="tspan4258"
+       x="156.58241"
+       y="471.04132"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Garamond;-inkscape-font-specification:Garamond">06 62 43 87 56</tspan><tspan
+       sodipodi:role="line"
+       x="156.58241"
+       y="486.04132"
+       id="tspan4260"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Garamond;-inkscape-font-specification:Garamond">samszo@free.fr</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text4273"
+     y="471.26398"
+     x="447.42209"
+     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Herculanum;-inkscape-font-specification:Herculanum"
+     xml:space="preserve"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600"><tspan
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Garamond;-inkscape-font-specification:Garamond"
+       id="tspan4277"
+       y="471.26398"
+       x="447.42209"
+       sodipodi:role="line">Bois de Bretonne</tspan><tspan
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Garamond;-inkscape-font-specification:Garamond"
+       y="486.26398"
+       x="447.42209"
+       sodipodi:role="line"
+       id="tspan4281">14140 Le Mesnil Simon</tspan></text>
+  <image
+     y="282.91211"
+     x="157.38736"
+     id="image3661"
+     xlink:href="file:///Users/paragraphe/Documents/www/samszo/audition_mcf/img/papi-audition_mcf_P8.png"
+     height="83.798714"
+     width="83.798714"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600" />
+  <image
+     y="-681.33374"
+     x="-444.65338"
+     id="image3723"
+     xlink:href="file:///Users/paragraphe/Documents/www/samszo/audition_mcf/img/logo_paragraphe.gif"
+     height="34"
+     width="115"
+     transform="scale(-1,-1)"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600" />
+  <image
+     y="-721.10474"
+     x="-444.57974"
+     id="image3814"
+     xlink:href="file:///Users/paragraphe/Documents/www/samszo/audition_mcf/img/logop8.png"
+     height="34.347149"
+     width="64.065483"
+     transform="scale(-1,-1)"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600" />
+  <image
+     y="-436.30472"
+     x="-144.8586"
+     id="image3876"
+     xlink:href="file:///Users/paragraphe/Documents/www/samszo/audition_mcf/img/gevuIHM.png"
+     height="98.620689"
+     width="120"
+     transform="scale(-1,-1)"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600" />
+  <image
+     y="-240.56456"
+     x="172.85446"
+     id="image3944"
+     xlink:href="file:///Users/paragraphe/Documents/www/samszo/audition_mcf/img/TweetPaletteProfil.png"
+     height="208"
+     width="229.53679"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600" />
+  <image
+     y="-240.56456"
+     x="450.83362"
+     id="image4006"
+     xlink:href="file:///Users/paragraphe/Documents/www/samszo/audition_mcf/img/TweetPaletteCarto.png"
+     height="208"
+     width="192.45651"
+     inkscape:export-filename="P8Recto.png"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600" />
+</svg>

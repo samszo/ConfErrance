@@ -1,0 +1,251 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <title>Google Visualization API Sample</title>
+  <script type="text/javascript" src="http://www.google.com/jsapi"></script>
+  <script type="text/javascript">
+    google.load('visualization', '1', {packages: ['geochart']});
+
+    function drawVisualization() {
+
+     
+	 	//labos 71eme
+	 	//
+	    var data = google.visualization.arrayToDataTable([
+		['lat','lng','Labo'],
+		[45.149177,5.717994,'GRESEC'],
+		[43.566011,1.459225,'LERASS'],
+		[49.003012,2.123576,'CRTF'],
+		[48.841927,2.356002,'CIM'],
+		[48.894899,2.274853,'GRIPIC'],
+		[46.58817,0.344564,'CEREGE'],
+		[48.904731,2.210094,'TACTIC'],
+		[48.912036,2.361757,'LABSIC'],
+		[49.400892,2.799661,'COSTECH'],
+		[48.846305,2.324098,'CARISM'],
+		[50.353826,3.510858,'DE VISU'],
+		[48.788488,2.446021,'CEDITEC'],
+		[48.946575, 2.363420,'CEMTI'],
+		[48.945575,2.363881,'PARAGRAPHE'],
+		[49.12134,6.164485,'CREM'],
+		[45.817166,1.22823,'CERES'],
+		[43.136898,6.018616,'I3M'],
+		[43.692685,7.235738,'I3M'],
+		[50.627074,3.130242,'GERIICO'],
+		[45.779571,4.872798,'ELICO'],
+		[43.577705,1.404026,'LARA'],
+		[47.319146,5.043137,'CIMEOS'],
+		[48.121843,-1.704537,'PRÉFICS'],
+		[43.292224,5.390531,'IRSIC'],
+		[48.865833,2.35684,'DICEN'],
+		[44.795153,-0.618444,'MICA'],
+		[48.646379,1.80127,'REEDS -'],
+		[50.285096,2.791008,'RECIFES'],
+		[-20.902828,55.484442,'LCF'],
+		[45.776578,3.091596,'Com. et Sol.'],
+		[47.234664,6.02574,'ELLIADD'],
+		[43.289546,5.568436,'ASTRAM'],
+		[50.353073,3.510718,'TECHNE'],
+		[45.722757,4.915361,'ICAR'],
+		[45.733984,4.833283,'ICAR'],
+		[43.557459,1.466092,'IRIT'],
+		[48.789591,2.32706,'STEF'],
+		[50.639555,3.069967,'MESHS']
+	     ]);
+		//
+	 	/*Bibliothèque municipales du nord
+	    var data = google.visualization.arrayToDataTable([
+		['lat','lng','size','nom'],
+		[50.537157,2.952225,1,"Allennes-les-Marais - Bibliothèque"],
+		[50.331488,3.251723,1,"Aniche - Bibliothèque municipale Norbert Ségard"],
+		[50.529722,2.931557,1,"Annoeullin - Médiathèque"],
+		[50.375949,3.511127,1,"Anzin - Bibliothèque municipale"],
+		[50.691652,2.884218,1,"Armentières - Bibliothèque municipale"],
+		[50.287503,4.019965,1,"Assevent - Bibliothèque municipale Marcel Pagnol"],
+		[50.52073,3.061368,1,"Attiches - Bibliothèque municipale"],
+		[50.414319,3.061237,1,"Auby - Médiathèque municipale Louis Aragon"],
+		[50.330922,3.530884,1,"Aulnoy-Lez-Valenciennes - Médiathèque municipale François Rabelais"],
+		[50.201182,3.831173,1,"Aulnoye-Aymeries - Médiathèque municipale"],
+		[50.539688,3.085039,1,"Avelin - Médiathèque municipale"],
+		[50.197766,3.378209,1,"Avesnes-les-Aubert - Bibliothèque municipale"],
+		[50.123589,3.926864,1,"Avesnes-sur-Helpe - Bibliothèque municipale"],
+		[50.736482,2.73559,1,"Bailleul - Bibliothèque municipale Danielle et François Mitterrand"],
+		[50.609889,3.238176,1,"Baisieux - Bibliothèque municipale"],
+		[50.36639,3.4264,1,"Bellaing - Médiathèque municipale"],
+		[50.968519,2.433324,1,"Bergues - Bibliothèque municipale Marguerite Brébant"],
+		[50.481274,3.150046,1,"Bersée - Bibliothèque municipale"],
+		[50.281524,3.319975,1,"Bouchain - Bibliothèque municipale"],
+		[50.946447,2.196505,1,"Bourbourg - Médiathèque municipale"],
+		[51.070883,2.524825,1,"Bray-Dunes - Médiathèque municipale"],
+		[50.397664,3.537198,1,"Bruay-sur-l'Escaut - Médiathèque municipale"],
+		[50.173538,3.236633,1,"Cambrai - Médiathèque municipale"],
+		[50.894113,2.226442,1,"Cappelle-Brouck - Médiathèque municipale"],
+		[50.9987629,2.374221,1,"Cappelle-la-Grande - Bibliothèque municipale"],
+		[50.519334,2.960407,1,"Carnin - Bibliothèque"],
+		[50.103942,3.544235,1,"Cateau-Cambresis (Le) - Bibliothèque municipale"],
+		[50.124269,3.410122,1,"Caudry - Bibliothèque municipale"],
+		[50.124269,3.410122,1,"Caudry - Médiathèque (Annexe de la BDP)"],
+		[50.531622,2.995581,1,"Chemy - Bibliothèque"],
+		[50.7650099,3.006234,1,"Comines - Bibliothèque municipale Georges Dehallewyn"],
+		[50.448651,3.593407,1,"Condé-sur-l'Escaut - Bibliothèque municipale"],
+		[51.015681,2.397046,1,"Coudekerque-Branche - Bibliothèque municipale"],
+		[50.421057,3.650729,1,"Crespin - Bibliothèque municipale"],
+		[50.93469,2.387485,1,"Crochte - Bibliothèque"],
+		[50.382014,3.044337,1,"Cuincy - Bibliothèque municipale Albert Camus"],
+		[50.328225,3.397325,1,"Denain - Médiathèque municipale Jacques Prévert"],
+		[50.367874,3.080602,1,"Douai - Bibliothèque municipale"],
+		[50.300531,3.388923,1,"Douchy-les-Mines - Médiathèque municipale Max-Pol Fouchet"],
+		[51.03456,2.3752019,1,"Dunkerque - Bibliothèque municipale"],
+		[50.307683,3.24385,1,"Emerchicourt - Médiathèque"],
+		[50.194347,3.266366,1,"Escaudoeuvres - Médiathèque municipale Liberté"],
+		[50.891315,2.427136,1,"Esquelbecq - Médiathèque municipale"],
+		[50.644248,2.721848,1,"Estaires - Bibliothèque municipale"],
+		[50.602642,3.06953,1,"Faches-Thumesnil - Bibliothèque municipale Marguerite Yourcenar"],
+		[50.30882,3.525987,1,"Famars - Bibliothèque municipale"],
+		[50.299953,3.915898,1,"Feignies - Médiathèque municipale"],
+		[50.253626,3.993618,1,"Ferrière-la-Grande - Bibliothèque municipale"],
+		[50.6342039,3.189417,1,"Forest-sur-Marque - Bibliothèque municipale"],
+		[51.030968,2.3053659,1,"Fort-Mardyck - Bibliothèque municipale"],
+		[50.018301,4.046972,1,"Fourmies - Bibliothèque municipale"],
+		[50.793405,2.647444,1,"Godewaersvelde - Médiathèque municipale"],
+		[50.636133,2.706088,1,"Gorgue (La) - Bibliothèque municipale"],
+		[51.001619,2.105458,1,"Grand-Fort-Philippe - Médiathèque municipale François Mitterrand"],
+		[51.013547,2.302577,1,"Grande-Synthe - Médiathèque municipale Nelson Mandéla"],
+		[50.98707,2.125537,1,"Gravelines - Médiathèque municipale"],
+		[50.348584,3.147943,1,"Guesnain - Mediathèque municipale"],
+		[50.782824,3.127845,1,"Halluin - Bibliothèque municipale"],
+		[50.60953,2.984736,1,"Haubourdin - Bibliothèque municipale"],
+		[50.246997,3.91708,1,"Hautmont - Bibliothèque municipale Jean Jaurès"],
+		[50.641975,2.541052,1,"Haverskerque - Bibliothèque municipale"],
+		[50.72748,2.542555,1,"Hazebrouck - Bibliothèque municipale"],
+		[50.72748,2.542555,1,"Hazebrouck - Médiathèque (annexe de la Bdp) Antenne de Flandre"],
+		[50.6312585,3.1114773,1,"Hellemmes-Lille - Bibliothèque communale"],
+		[50.6312585,3.1114773,1,"Hellemmes-Lille - Médiathèque départementale du Nord"],
+		[50.369348,3.337115,1,"Hornaing - Médiathèque municipale Maxence Van Der Méersch"],
+		[50.562,3.000458,1,"Houplin-Ancoisne - Médiathèque Marcel Pagnol"],
+		[50.69533,2.915396,1,"Houplines - Bibliothèque municipale"],
+		[50.354695,3.065022,1,"Lambres-Lez-Douai - Médiathèque municipale de la MJC"],
+		[50.125434,3.691623,1,"Landrecies - Bibliothèque municipale Philippe Lamour"],
+		[50.665802,3.210788,1,"Lannoy - Bibliothèque municipale"],
+		[51.050913,2.438462,1,"Leffrinckoucke - Bibliothèque municipale"],
+		[50.614964,3.117055,1,"Lezennes - Bibliothèque municipale"],
+		[50.62925,3.057256,1,"Lille - Bibliothèque municipale"],
+		[50.641402,3.008377,1,"Lomme - Odyssée Médiathèque de Lomme"],
+		[50.998117,2.2256269,1,"Loon-Plage - Bibliothèque municipale Marcel Pagnol"],
+		[50.45791,2.792788,1,"Loos - Bibliothèque municipale"],
+		[50.315201,3.353589,1,"Lourches - Bibliothèque municipale"],
+		[50.26374,3.959502,1,"Louvroil - Bibliothèque municipale"],
+		[50.67452,3.216898,1,"Lys-Lez-Lannoy - Médiathèque municipale"],
+		[50.670368,3.096267,1,"Marcq-en-Baroeul - Bibliothèque municipale André Malraux"],
+		[50.674339,3.062324,1,"Marquette-Lez-Lille - Bibliothèque municipale"],
+		[50.280228,3.9674,1,"Maubeuge - Bibliothèque municipale centre Culturel de l'Arsenal"],
+		[50.505926,3.110068,1,"Mérignies - Médiathèque municipale André Malraux"],
+		[50.642989,2.639274,1,"Merville - Médiathèque municipale espace Culturel Robert Hossein"],
+		[50.642006,3.107673,1,"Mons-en-Baroeul - Bibliothèque municipale"],
+		[50.480352,3.099575,1,"Mons-en-Pevèle - Médiathèque municipale"],
+		[50.366481,3.186042,1,"Montigny-en-Ostrevent - Bibliothèque municipale"],
+		[50.704851,2.838402,1,"Nieppe - Bibliothèque municipale"],
+		[50.4745,3.2428,1,"Orchies - Bibliothèque municipale"],
+		[50.222336,3.847567,1,"Pont-sur-Sambre - Médiathèque municipale"],
+		[50.163214,3.209844,1,"Proville - Bibliothèque municipale"],
+		[50.714722,3.009636,1,"Quesnoy (Le) - Bibliothèque municipale"],
+		[50.714722,3.009636,1,"Quesnoy (Le) - Médiathèque (annexe de la Bdp) Antenne du Hainaut-Avesnois"],
+		[50.392546,3.484984,1,"Raismes - Bibliothèque municipale"],
+		[50.605934,3.078683,1,"Ronchin - Bibliothèque municipale"],
+		[50.746301,3.115632,1,"Roncq - Bibliothèque municipale"],
+		[50.6927049,3.177847,1,"Roubaix - Médiathèque municipale"],
+		[50.448979,3.428713,1,"Saint-Amand-les-Eaux - Médiathèque municipale"],
+		[51.026461,2.34247,1,"Saint-Pol-sur-Mer - Médiathèque municipale Emile Zola"],
+		[50.24045,3.44211,1,"Saulzoir - Bibliothèque municipale"],
+		[50.545332,3.026566,1,"Seclin - Bibliothèque municipale Jacques Estager"],
+		[50.625431,2.98033,1,"Sequedin - Bibliothèque municipale Centre Culturel"],
+		[50.365851,3.114329,1,"Sin-le-Noble - Bibliothèque municipale André Stil"],
+		[51.0179199,2.440483,1,"Teteghem - Bibliothèque municipale"],
+		[50.3042469,3.449314,1,"Thiant - Bibliothèque municipale"],
+		[50.724993,3.16207,1,"Tourcoing - Médiathèque municipale André Malraux"],
+		[50.329349,3.487903,1,"Trith-Saint-Léger - Médiathèque municipale Gustave Ansart"],
+		[50.357113,3.518332,1,"Valenciennes - Bibliothèque municipale"],
+		[50.695027,2.644432,1,"Vieux-Berquin - Bibliothèque municipale"],
+		[50.458671,3.568612,1,"Vieux-Condé - Bibliothèque municipale Myatil Michel"],
+		[50.6232523,3.1442651,1,"Villeneuve-d'Ascq - Médiathèque municipale"],
+		[50.37427,3.391335,1,"Wallers - Bibliothèque municipale"],
+		[50.312137,3.660402,1,"Wargnies-le-Grand - Bibliothèque municipale"],
+		[50.669276,3.130782,1,"Wasquehal - Bibliothèque municipale"],
+		[50.701174,3.215007,1,"Wattrelos - Bibliothèque municipale"],
+		[50.385754,3.109077,1,"Waziers - Bibliothèque municipale Louis Aragon"],
+		[50.7838218,3.0441692,1,"Wervicq - Médiathèque municipale"],
+		[50.882814,2.468155,1,"Wormhout - Médiathèque municipale"]
+	    ]);
+		*/
+	 	/*Bibliothèque municipales du 93
+	    var data = google.visualization.arrayToDataTable([
+		['lat','lng','size','nom'],
+		[48.9312667,2.4953222,1,'Aulnay-Sous-Bois - Réseau des Bibliotheques '],
+		[48.86842,2.4151581,1,'Bagnolet - MEDIATHEQUE MUNICIPALE '],
+		[48.9838793,2.4284816,1,'Le Blanc-Mesnil - Médiathèque Edouard Glissant '],
+		[48.906807,2.4412115,1,'Bobigny - BIBLIOTHEQUE ELSA TRIOLET '],
+		[48.9010768,2.4787949,1,'Bondy - BIBLIOTHEQUE MUNICIPALE DENIS DIDEROT'],
+		[48.918087,2.5444849,1,'Clichy-sous-Bois - BIBLIOTHEQUE MUNICIPALE CYRANO DE BERGERAC'],
+		[48.9155006,2.5775466,1,'COUBRON - BIBLIOTHEQUE MUNICIPALE '],
+		[48.9294659,2.4334127,1,'Drancy - MEDIATHEQUE GEORGES BRASSENS '],
+		[48.9563823,2.416132,1,'Dugny - BIBLIOTHEQUE MUNICIPALE ANNE FRANK'],
+		[48.8836638,2.5299541,1,'Gagny - BIBLIOTHEQUE-DISCOTHEQUE MUNICIPALE GEORGES PEREC'],
+		[48.8825558,2.418997,1,'Les Lilas - BIBLIOTHEQUE MUNICIPALE ANDRE MALRAUX'],
+		[48.9186773,2.536453,1,'Livry-Gargan - BIBLIOTHEQUE MUNICIPALE RENE CASSIN'],
+		[48.9030553,2.5622478,1,'Montfermeil - MEDIATHEQUE DU PETIT PRINCE DOMAINE FORMIGE'],
+		[48.8614995,2.4406924,1,'Montreuil - BIBLIOTHEQUE ROBERT DESNOS 0'],
+		[48.8611754,2.505878,1,'Neuilly-Plaisance - BIBLIOTHEQUE MUNICIPALE GUY DE MAUPASSANT'],
+		[48.8659876,2.5344602,1,'Neuilly-sur-Marne - BIBLIOTHEQUE MUNICIPALE ANTOINE DE SAINT-EXUPERY'],
+		[48.8462582,2.5539288,1,'Noisy-Le-Grand - Médiathèque '],
+		[48.8904464,2.4531533,1,'Noisy-le-Sec - MEDIATHEQUE MUNICIPALE ROGER GOUHIER'],
+		[48.8921621,2.4084036,1,'Pantin - BIBLIOTHEQUE ELSA TRIOLET '],
+		[48.907608,2.5093492,1,'Les Pavillons-sous-Bois - BIBLIOTHEQUE MUNICIPALE '],
+		[45.892013,6.712187,1,'Le Pré-Saint-Gervais - BIBLIOTHEQUE FRANCOIS MITTERRAND '],
+		[48.8927052,2.5128589,1,'Le Raincy - MEDIATHEQUE MUNICIPALE '],
+		[48.886112,2.435048,1,'Romainville - MEDIATHEQUE MUNICIPALE ROMAIN ROLLAND'],
+		[48.872399,2.4824806,1,'Rosny Sous Bois - BIBLIOTHEQUE MUNICIPALE LOUIS ARAGON '],
+		[48.9246583,2.3626533,1,"Saint-Denis cedex - Reseau de lecture publique de Plaine Commune COMMUNAUTE D'AGGLOMERATION PLAINE COMMUNE"],
+		[48.9115133,2.3336647,1,'Saint Ouen - SERVICE DE LA LECTURE PUBLIQUE MEDIATHEQUE PERSEPOLIS'],
+		[48.9353959,2.5343379,1,'Sevran - Bibliothèque Centrale Albert Camus '],
+		[48.9512493,2.5724854,1,'Tremblay-en-France - MEDIATHEQUE MUNICIPALE BORIS VIAN'],
+		[48.9348508,2.5691656,1,'Vaujours - BIBLIOTHEQUE MUNICIPALE '],
+		[48.8827037,2.5161437,1,'Villemomble - MEDIATHEQUE MUNICIPALE ROBERT CALMEJANE'],
+		[48.9622769,2.5591548,1,'Villepinte - CENTRE CULTUREL JOSEPH KESSEL MEDIATHEQUE']
+	    ]);
+		*/
+		var options = {
+			region: 'FR',
+			datalessRegionColor: {fill:'white',stroke:'black',strokeWidth:10},
+			datalessRegionColor: 'lightblue',
+			displayMode: 'markers',
+	        colorAxis: {colors:['red','green']},
+	        resolution: 'provinces',
+			width: 800, 
+			height: 600
+	      };
+
+		// create chart object
+	    var chart = new google.visualization.GeoChart(
+	        document.getElementById('visualization')
+	    );
+	
+		/*spécification des colonnes
+	    var view = new google.visualization.DataView(data);
+	    view.setColumns([0, 1, 2, {sourceColumn: 3,role:'tooltip'}]);
+	    // draw chart
+	    chart.draw( view, options );
+	    */
+	    
+	    //colonnes par défaut
+	    chart.draw(data, options );
+	    
+    }
+    google.setOnLoadCallback(drawVisualization);
+  </script>
+</head>
+<body style="font-family: Arial;border: 0 none;">
+<div id="visualization"></div>
+</body>
+</html>
+​
