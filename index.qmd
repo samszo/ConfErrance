@@ -32,7 +32,7 @@ Cette page liste les supports de présentation des conférences données par Sam
 - [Paragraphe_2022](Paragraphe_2022/slide.html)
 - [cours_systeme-information-programation-internet](cours_systeme-information-programation-internet/slide.html)
 - [patrimoine](patrimoine/slide.html)
-- [cours_websemantique](cours_websemantique/slide.html)
+- [cours_websemantique](cours_websemantique/)
 - [PEPE_2019](PEPE_2019/slide.html)
 - [recommandations](recommandations/slide.html)
 - [digital_intelligence](digital_intelligence/slide.html)

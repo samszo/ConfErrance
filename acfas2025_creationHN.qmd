@@ -1,0 +1,27 @@
+---
+title: "Balpe 2025"
+author: "Samuel Szoniecky"
+bibliography: ref_acfas2025_creationHN.bib
+format:
+  wordcount-html:
+    toc: true
+    fig-align: center
+    cap-location: margin
+---
+
+# ACFAS 2025 - Avis de recherche : création et humanités numériques
+
+École de technologie supérieure (ÉTS) et Université Concordia Montréal, jeudi 8 et vendredi 9 mai 2025
+
+## IA symboliques et connexionnistes dans le humanités numériques : consommation, production et création
+
+### Résumé
+
+Les controverses des années 60 entre Cage et Boulez sur l'usage des processus aléatoires dans la création musicale sont toujours pertinentes pour comprendre les pratiques créatives du numériques. Boulez prônait un "hasard dirigé" pour maîtriser l'œuvre, tandis que Cage utilisait l'aléatoire pour libérer la création des contraintes de l'ego.
+Ces approches opposées, se retrouvent dans les débats actuels sur les IA symbolique et connexionniste. D’un côté, une intelligence artificielle connexionniste qui utilise l’apprentissage machine pour créer des modèles à partir de grandes quantités de données. De l’autre, une approche symbolique qui modélise des espaces sémantiques pensés par des humains pour contraindre les choix de la machine. 
+Nous explorerons comment ces débats nous aide à comprendre les écosystèmes sociaux-numériques développés par les humanités numériques en illustrant nos propos avec deux projets : « Narration générative entre IA symbolique et connexionniste » et « Explorer les cours de Deleuze avec l’IA ».
+
+
+### Biographie
+
+Après des recherches en histoire de l’art (1995 DEA sur John Cage) et une formation autodidacte aux développements numériques, Samuel Szoniecky suit une carrière d’ingénieur informatique pour des grands comptes, puis de chef de projet et de créateur d’entreprise. Depuis 2006, il oriente son travail vers la recherche et l’enseignement à l’université Paris 8 dans le laboratoire Paragraphe où en 2013 il devient maître de conférences en sciences de l’information et de la communication. Il explore des méthodes de design des connaissances pour le développement d’une intelligence collective dans des projets d'Humanités numériques centrés sur la stimulation, l’expression et le partage des intelligences individuelles. [Plus de détails](https://www.samszo.univ-paris8.fr/omk/s/fiches/page/cv "Plus de détails")

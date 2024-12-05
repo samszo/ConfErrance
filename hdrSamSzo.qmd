@@ -1,0 +1,241 @@
+---
+title: "HDR Samuel Szoniecky"
+author: "Samuel Szoniecky"
+bibliography: ref_hdrSamSzo.bib
+---
+
+## Université Vincennes - Saint-Denis Paris 8
+
++-----------------------------------------------------------------------------+-------------------------------------------------------------+
+| ![](docs/img/logo_paris8_Couleurs%20officielles.png){style="height:100px;"} | ![](docs/img/logo-para-outlines.png){style="height:100px;"} |
++-----------------------------------------------------------------------------+-------------------------------------------------------------+
+
+### Présentation de l'Habilitation à diriger des recherches {.unnumbered}
+
+## Samuel Szoniecky {.unnumbered}
+
+# Modéliser des écosystèmes de connaissances {.unnumbered}
+
+Sous le parrainage du professeur Imad Saleh
+
+### Présenté le jeudi 19 décembre 2024 à l'Université Paris 8
+
+### Devant un jury composé de :
+
+-   Imad SALEH, Professeur, Université Paris 8 (Garant)
+
+-   Lise VERLAET, Professeure, Université Paul-Valéry Montpellier 3 (Rapporteur)
+
+-   Mohamed SIDIR, Professeur, Université de Picardie Jules Verne (Rapporteur)
+
+-   Maryse CARMES, Maître de conférences HDR, CNAM
+
+-   Peter STOCKINGER, Professeur, INALCO
+
+-   Frank RENUCCI, Professeur, Université de Toulon
+
+-   Khaldoun ZREIK, Professeur, Université Paris 8
+
+### Présentation
+
+[Voir en plein écran](docs/HDR/slide.html)
+
+```{=html}
+<iframe width="800" height="600" src="docs/HDR/slide.html)" title="Support de présentation"></iframe>
+```
+
+## Synthèse du dossier HDR de Samuel Szoniecky
+
+### Volume 1. Curriculum Vitae
+
+[Voir en ligne le CV complet](../../HDR/docs/cv/cv.html){style="target"}
+
+Le curriculum vitae de 78 pages est organisé en deux parties :
+
+-   Partie 1 : une synthèse de mes activités scientifiques, pédagogiques et administratives
+
+-   Partie 2 : une présentation détaillée de l’ensemble de mes activités.
+
+    Cette présentation détaillée explicite les aspects suivants :
+
+    -   une présentation de ma carrière,
+
+    -   mes diplômes académiques,
+
+    -   mes responsabilités administratives,
+
+    -   mon parcours professionnel dans les activités d’enseignement,
+
+    -   mon parcours professionnel dans les activités de recherche,
+
+    -   mes publications productions scientifiques et leurs références sur HAL France
+
+Depuis mon recrutement, ma carrière se déroule :
+
+#### Pour l’aspect enseignement
+
+Je donne principalement des cours au Département Humanités Numériques (anciennement Hypermedias) de l’Université Paris 8. Les enseignements que j’ai donnés se développent suivant trois axes complémentaires :
+
+-   technique,
+
+-   conceptuel,
+
+-   collaboratif.
+
++-------------------------------------------------+-------------------+
+| Mémoires de Master encadrés (M1 et M2)          | 31                |
++-------------------------------------------------+-------------------+
+| Stages encadrés dans le laboratoire Paragraphe  | 11                |
++-------------------------------------------------+-------------------+
+| Cours                                           | 20                |
++-------------------------------------------------+-------------------+
+| Etablissement d’enseignement                    | 7                 |
++-------------------------------------------------+-------------------+
+| Parcours d’enseignement                         | 14                |
++-------------------------------------------------+-------------------+
+| Heure de cours à l’université depuis 2012       | +3 300            |
++-------------------------------------------------+-------------------+
+| Production de documents pédagogiques            | 35                |
++-------------------------------------------------+-------------------+
+| Conception dispositifs pédagogiques innovants   | 18                |
++-------------------------------------------------+-------------------+
+
+#### Pour l’aspect administratif
+
+Mon implication dans les instances de l’université Paris 8 en tant que :
+
+-   membre du Conseil Documentaire du SCD,
+
+-   du conseil pédagogique de l’UFR STN
+
+-   de la commission de spécialistes en science de l’information et de la communication
+
+me donne une bonne connaissance des rouages nécessaires et des difficultés qu’il faut surmonter pour que les activités de recherche et la vie des institutions se développent. Grâce à ces activités, j’ai eu la chance de dialoguer avec de très nombreux chercheurs dont la liste complète serait trop longue à faire figurer ici mais que je remercie vivement pour ces conversations où l’échange de points de vue parfois très différents donnent à la recherche un goût à la fois subtile, surprenant et aventureux.
+
++----------------+-------------------------------------------------------------------+
+| Présent - 2023 | Directeur du département Humanités Numériques, Université Paris 8 |
++----------------+-------------------------------------------------------------------+
+| Présent - 2023 | Membre élu du conseil de l’UFR STN                                |
++----------------+-------------------------------------------------------------------+
+| Présent - 2020 | Membre du conseil pédagogique de l’UFR STN Paris 8                |
++----------------+-------------------------------------------------------------------+
+| Présent - 2018 | Membre élu de la commission de spécialistes 71e section           |
++----------------+-------------------------------------------------------------------+
+| Présent - 2018 | Membre de conseil académique de l’EUR ArTec                       |
++----------------+-------------------------------------------------------------------+
+| Présent - 2016 | Membre du conseil documentaire du SCD, Université Paris 8         |
++----------------+-------------------------------------------------------------------+
+| Présent - 2014 | Membre de comité de sélection pour des postes de MCF en SIC       |
+|                |                                                                   |
+|                | 9 dont 2 Vice-président                                           |
++----------------+-------------------------------------------------------------------+
+| Présent - 2023 | Responsable pédagogique Master 2 ACEHN                            |
++----------------+-------------------------------------------------------------------+
+| 2023 - 2018    | Responsable pédagogique Master 2 AVUN                             |
++----------------+-------------------------------------------------------------------+
+| 2019 - 2010    | Responsable pédagogique Licence Pro DWM                           |
++----------------+-------------------------------------------------------------------+
+
+#### Pour l’aspect recherche
+
+Je travaille au ([laboratoire Paragraphe](https://paragraphe.univ-paris8.fr/){target="_blank"}) (EA 349, Université Paris 8) principalement dans l’axe Dispositifs numériques : production, usages et modélisation communicationnelle ([DiNuPUMoC](https://laboratoire-paragraphe.univ-paris8.fr/Dispositifs-numeriques-production-usages-et-modelisation-communicationnelle){target="_blank"}) sous la direction d’Imad Saleh mais avec de nombreuses collaborations avec les autres axes de ce laboratoire notamment Innovation numérique et Intelligence Artificielle ([CiTU](https://laboratoire-paragraphe.univ-paris8.fr/Design-de-l-information-post-numerique-et-innovation){target="_blank"}), Médiations, Pratiques Informationnelles, Patrimoine ([MPIP](https://laboratoire-paragraphe.univ-paris8.fr/Mediations-Pratiques-informationnelles-Patrimoine){style="target"}), Apprentissage, développement, cognition ([ADC](https://laboratoire-paragraphe.univ-paris8.fr/ADC-ApprentissageDeveloppementCognition){style="target"}) lors de publications communes ou d’organisation d’évènement scientifiques (séminaire Adacemu, O1 Design, H2ptm…).
+
+L’atmosphère très fertile au sein de Paragraphe et les relations intenses que ce laboratoire entretient avec la communauté des sciences de l’information et de la communication, a stimulé l’engagement de mes recherches dans de multiples collaborations en France et à l’étranger. Celles-ci m’ont permis de découvrir des milieux et des pratiques très diverses, par exemple : avec des institutions prestigieuses comme la Bibliothèque Nationale de France, les Archives Nationales ou l’INA, avec des programmes de recherche ANR comme Biolographes ou Aliento, avec des projets de recherches internationaux comme Arcanes, avec des groupes de recherches comme GENIC ou MANEP, avec des enjeux sociétaux importants comme celui de l’accessibilité, de l’écologie ou de l’éthique.
+
+La participation dès l’origine à trois Projets d’Investissement d’Avenir (PIA) que sont le laboratoire d’excellence H2H, l’IDEFI CréaTIC et l’EUR ArTec, m’a donné la chance de découvrir des projets importants tout à la fois en terme de gouvernance de la recherche que de possibilité d’expérimentation.
+
++------------------------------------------+-----------------+
+| Article dans une revue                   | Individuel : 2  |
+|                                          |                 |
+|                                          | Collectif : 8   |
++------------------------------------------+-----------------+
+| Communication dans un congrès            | Individuel : 33 |
+|                                          |                 |
+|                                          | Collectif : 17  |
++------------------------------------------+-----------------+
+| Proceedings - Recueil des communications | Collectif : 2   |
++------------------------------------------+-----------------+
+| No spécial de revue                      | Collectif : 1   |
++------------------------------------------+-----------------+
+| Ouvrage                                  | Individuel : 2  |
+|                                          |                 |
+|                                          | Collectif : 5   |
++------------------------------------------+-----------------+
+| Chapitre d’ouvrage                       | Individuel : 6  |
+|                                          |                 |
+|                                          | Collectif : 5   |
++------------------------------------------+-----------------+
+| Logiciel                                 | 92              |
++------------------------------------------+-----------------+
+
+### Volume 2. Note de synthèse
+
+Cette note de synthèse de 202 pages intitulé « Modéliser les écosystèmes de connaissances » présente la démarche autoréflexive que j’ai menée dans ce travail. Elle commence par une description de l’état actuel de mes recherches et a pour ambition un dévoilement sincère des limites de ma pensée sous la forme de cartographies qui tracent les frontières numériques [@saleh2024] de ce qui est important pour moi aujourd’hui, c’est-à-dire la valeur des rapports que j’entretiens entre ma subjectivité [@guattari1989] et mon objectivité [@badiou2018] et qui forme mon milieu de connaissances [@berque2009].
+
+Explorer c’est à la fois cartographier, formaliser et guider. Tout commence par la découverte d’un lieu, par l’expérience d’un espace dont on va ensuite décrire les impressions qu’il produit suivant des règles convenues pour que d’autres puissent les retrouver après soi-même. Les espaces que nous décrivons sont des milieux, c’est-à-dire un tissu relationnel au sein duquel les connaissances existent, et sans lequel elles n’existeraient pas. Ce sont des espaces vivants qui évoluent sans cesse et nous transforment à chaque interaction que nous entretenons avec eux [@aït-touati2019]. Suivant le principe d’énaction [@maturana1994], le couplage entre l’espace et l’auteur de sa description transforme à la fois l’espace et l’auteur.
+
+Explorer c’est se connaître soi-même en modélisant le milieu de ses expériences et en réfléchissant aux transformations que cela produit.
+
+Ce volume de mon HDR présente un processus d’exploration qui commence par une première partie qui décrit les étapes de mon parcours intellectuel à travers mes frayages intellectuels [@citton2010] qui débutent avec l’histoire de l’art puis s’ancre dans les sciences de l’information et de la communication pour développer un projet de design des connaissances qui mène à une théorisation des écosystèmes de connaissances et finalement à la mise en pratique d’une méthode de modélisation et d’analyse de l’information et de la communication.
+
+Ce chapitre présente :
+
+-   mes parcours initiaux
+
+-   mon parcours en Sciences de l’information et de la communication
+
+-   ma méthode pour créer un écosystème de connaissances
+
+-   les données de mon écosystème de connaissances
+
+-   les personnes de mon écosystème de connaissances
+
+Nous voyons ensuite dans une deuxième partie consacrée à l’exploration des écosystèmes de connaissances les résultats de mes recherches qui m’ont conduit à définir des principes à la fois théoriques et pratiques.
+
+La troisième partie de ce volume est consacrée aux perspectives scientifiques que nous développons en suivant quatre échelles d’exploration :
+
+-   échelle locale : produire une expression matérielle cohérente
+
+-   échelle sociale : la communauté des enseignants chercheurs
+
+-   échelle conceptuelle : théoriser la modélisation des connaissances
+
+-   échelle globale : technologies intellectives
+
+Nous exposons les explorations de ces échelles en suivant six axes d’expérimentation :
+
+-   Frontières numériques
+
+-   l’internet des objets,
+
+-   les écritures génératives
+
+-   le design des connaissances
+
+-   l’éthique de la discussion pour l’intelligence collective,
+
+-   les puissances existentielles.
+
+Enfin nous concluons ce volume par une synthèse de nos propos et la présentation des annexes et des références utilisées.
+
+### Volume 3. Sélection des travaux 
+
+Ce volume de 201 pages présente une sélection de mes travaux :
+
+-   Frontières numériques 2023
+
+-   Conception d’un crible pour mesurer collectivement les impacts écologiques de l’activité
+
+-   Design de connaissances dans l’Internet des Objets : Blockchain et réfrigérateur connecté
+
+-   Espace liminaire de l’authenticité : Une démarche d’humanités numériques
+
+-   Métamorphoses et hybridations d’une archive numérique pour sa valorisation
+
+-   Vers des écosystèmes de connaissances
+
+-   Jeux d’interprétations collectives pour cartographier les influences sapientielles
+
+-   Écosystème de connaissances, méthode de modélisation et d’analyse de l’information et de la communication
+
+-   Générateur hypertextuel pour l’interprétation des médias sociaux dans une topologie sémantique
