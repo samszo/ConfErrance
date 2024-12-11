@@ -14,8 +14,7 @@
 <body>
 
 <script type="module">
-	import {posiColor} from '../../public/modules/posiColor.js';
-    
+	import {posiColor} from '../modules/posiColor.js';
 	var svg,diagIframe,urlParams,bW2UI=true;
     d3.svg("IAVS-AISV_23.svg").then(xml=>{
         d3.select("body").node().appendChild(xml.documentElement);
