@@ -6,9 +6,9 @@ bibliography: ref_hdrSamSzo.bib
 
 ## Université Vincennes - Saint-Denis Paris 8
 
-+-----------------------------------------------------------------------------+-------------------------------------------------------------+
-| ![](docs/img/logo_paris8_Couleurs%20officielles.png){style="height:100px;"} | ![](docs/img/logo-para-outlines.png){style="height:100px;"} |
-+-----------------------------------------------------------------------------+-------------------------------------------------------------+
++---------------------------------------------------------------+-------------------------------------------------------------+
+| ![](docs/img/logo_paris8_Couleurs.png){style="height:100px;"} | ![](docs/img/logo-para-outlines.png){style="height:100px;"} |
++---------------------------------------------------------------+-------------------------------------------------------------+
 
 ### Présentation de l'Habilitation à diriger des recherches {.unnumbered}
 
@@ -38,10 +38,10 @@ Sous le parrainage du professeur Imad Saleh
 
 ### Présentation
 
-[Voir en plein écran](docs/HDR/slide.html)
+[Voir en plein écran](HDR/slide.html){target="_blank"}
 
 ```{=html}
-<iframe width="800" height="600" src="docs/HDR/slide.html)" title="Support de présentation"></iframe>
+<iframe width="800" height="600" src="HDR/slide.html" title="Support de présentation"></iframe>
 ```
 
 ## Synthèse du dossier HDR de Samuel Szoniecky
@@ -82,23 +82,23 @@ Je donne principalement des cours au Département Humanités Numériques (ancien
 
 -   collaboratif.
 
-+-------------------------------------------------+-------------------+
-| Mémoires de Master encadrés (M1 et M2)          | 31                |
-+-------------------------------------------------+-------------------+
-| Stages encadrés dans le laboratoire Paragraphe  | 11                |
-+-------------------------------------------------+-------------------+
-| Cours                                           | 20                |
-+-------------------------------------------------+-------------------+
-| Etablissement d’enseignement                    | 7                 |
-+-------------------------------------------------+-------------------+
-| Parcours d’enseignement                         | 14                |
-+-------------------------------------------------+-------------------+
-| Heure de cours à l’université depuis 2012       | +3 300            |
-+-------------------------------------------------+-------------------+
-| Production de documents pédagogiques            | 35                |
-+-------------------------------------------------+-------------------+
-| Conception dispositifs pédagogiques innovants   | 18                |
-+-------------------------------------------------+-------------------+
++------------------------------------------------+----------------+
+| Mémoires de Master encadrés (M1 et M2)         | 31             |
++------------------------------------------------+----------------+
+| Stages encadrés dans le laboratoire Paragraphe | 11             |
++------------------------------------------------+----------------+
+| Cours                                          | 20             |
++------------------------------------------------+----------------+
+| Etablissement d’enseignement                   | 7              |
++------------------------------------------------+----------------+
+| Parcours d’enseignement                        | 14             |
++------------------------------------------------+----------------+
+| Heure de cours à l’université depuis 2012      | +3 300         |
++------------------------------------------------+----------------+
+| Production de documents pédagogiques           | 35             |
++------------------------------------------------+----------------+
+| Conception dispositifs pédagogiques innovants  | 18             |
++------------------------------------------------+----------------+
 
 #### Pour l’aspect administratif
 
@@ -218,7 +218,7 @@ Nous exposons les explorations de ces échelles en suivant six axes d’expérim
 
 Enfin nous concluons ce volume par une synthèse de nos propos et la présentation des annexes et des références utilisées.
 
-### Volume 3. Sélection des travaux 
+### Volume 3. Sélection des travaux
 
 Ce volume de 201 pages présente une sélection de mes travaux :
 
