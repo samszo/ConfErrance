@@ -9,6 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - arcanes2023.qmd
+      - hdrSamSzo.qmd
 
 format:
   html:
