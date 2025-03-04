@@ -1,14 +1,45 @@
 ---
-title: "HDR Samuel Szoniecky"
-author: "Samuel Szoniecky"
 bibliography: ref_hdrSamSzo.bib
+lightbox: true
+title: "Dossier d’Habilitation à Diriger des Recherches
+en Sciences de l’Information et de la Communication."
+subtitle: "Présentation du dossier d'HDR"
+date: "2024/12/19"
+author:
+  - name: Samuel Szoniecky
+    affiliation: Laboratoire Paragraphe - Université Paris 8
+    orcid: 0000-0002-7643-3342
+
+citeproc: true
+
+number-sections: true
+
+format: 
+  html: 
+    theme: default
+    search: true
+    toc: true
+    number-sections: false
+    number-depth: 4
+    comments:
+      hypothesis: true
+
+  pdf: 
+    documentclass: scrreprt
+    papersize: A4    
+    geometry:
+          - top=30mm
+          - left=20mm
+          - heightrounded
+    toc: false
+    number-sections: false
 ---
 
 ## Université Vincennes - Saint-Denis Paris 8
+ 
 
-+---------------------------------------------------------------+-------------------------------------------------------------+
-| ![](docs/img/logo_paris8_Couleurs.png){style="height:100px;"} | ![](docs/img/logo-para-outlines.png){style="height:100px;"} |
-+---------------------------------------------------------------+-------------------------------------------------------------+
+| ![](docs/img/logo_paris8_Couleurs.png) | ![](docs/img/logo-para-outlines.png) | ![](docs/HDR/bit.ly_49Xy093.png) |
+|-----------|-----------|-----------|
 
 ### Présentation de l'Habilitation à diriger des recherches {.unnumbered}
 
@@ -22,21 +53,24 @@ Sous le parrainage du professeur Imad Saleh
 
 ### Devant un jury composé de :
 
--   Imad SALEH, Professeur, Université Paris 8 (Garant)
-
--   Lise VERLAET, Professeure, Université Paul-Valéry Montpellier 3 (Rapporteur)
-
--   Mohamed SIDIR, Professeur, Université de Picardie Jules Verne (Rapporteur)
 
 -   Maryse CARMES, Maître de conférences HDR, CNAM
 
--   Peter STOCKINGER, Professeur, INALCO
-
 -   Frank RENUCCI, Professeur, Université de Toulon
 
--   Khaldoun ZREIK, Professeur, Université Paris 8
+-   Imad SALEH, Professeur, Université Paris 8 (Garant)
+
+-   Mohamed SIDIR, Professeur, Université de Picardie Jules Verne (Rapporteur)
+
+-   Peter STOCKINGER, Professeur, INALCO
+
+-   Lise VERLAET, Professeure, Université Paul-Valéry Montpellier 3 (Rapporteur)
+
+-   Khaldoun ZREIK, Professeur, Université Paris 8 (Président)
 
 ### Présentation
+
+#### Version dynamique
 
 [Voir en plein écran](HDR/slide.html){target="_blank"}
 
@@ -44,11 +78,32 @@ Sous le parrainage du professeur Imad Saleh
 <iframe width="800" height="600" src="HDR/slide.html" title="Support de présentation"></iframe>
 ```
 
+#### Version statique
+![-](docs/HDR/capture/capture0.png){style=’height:80px;’ ;group=’staticGallery’}
+![-](docs/HDR/capture/capture1.png){style=’height:80px;’ ;group=’staticGallery’}
+![-](docs/HDR/capture/capture2.png){style=’height:80px;’ ;group=’staticGallery’}
+![-](docs/HDR/capture/capture3.png){style=’height:80px;’ ;group=’staticGallery’}
+![-](docs/HDR/capture/capture4.png){style=’height:80px;’ ;group=’staticGallery’}
+![-](docs/HDR/capture/capture5.png){style=’height:80px;’ ;group=’staticGallery’}
+![-](docs/HDR/capture/capture6.png){style=’height:80px;’ ;group=’staticGallery’}
+![-](docs/HDR/capture/capture7.png){style=’height:80px;’ ;group=’staticGallery’}
+![-](docs/HDR/capture/capture8.png){style=’height:80px;’ ;group=’staticGallery’}
+![-](docs/HDR/capture/capture9.png){style=’height:80px;’ ;group=’staticGallery’}
+![-](docs/HDR/capture/capture10.png){style=’height:80px;’ ;group=’staticGallery’}
+![-](docs/HDR/capture/capture11.png){style=’height:80px;’ ;group=’staticGallery’}
+![-](docs/HDR/capture/capture12.png){style=’height:80px;’ ;group=’staticGallery’}
+![-](docs/HDR/capture/capture13.png){style=’height:80px;’ ;group=’staticGallery’}
+![-](docs/HDR/capture/capture14.png){style=’height:80px;’ ;group=’staticGallery’}
+![-](docs/HDR/capture/capture15.png){style=’height:80px;’ ;group=’staticGallery’}
+![-](docs/HDR/capture/capture16.png){style=’height:80px;’ ;group=’staticGallery’}
+
+{{< pagebreak >}}
+
 ## Synthèse du dossier HDR de Samuel Szoniecky
 
 ### Volume 1. Curriculum Vitae
 
-[Voir en ligne le CV complet](../../HDR/docs/cv/cv.html){style="target"}
+[Voir en ligne le CV complet](https://samszo.jardindesconnaissances.fr/HDR/cv/HDR-samszo-CV.html){style="target"}
 
 Le curriculum vitae de 78 pages est organisé en deux parties :
 
@@ -169,6 +224,8 @@ La participation dès l’origine à trois Projets d’Investissement d’Avenir
 +------------------------------------------+-----------------+
 
 ### Volume 2. Note de synthèse
+
+[Voir en ligne la note de synthèse](https://samszo.jardindesconnaissances.fr/HDR/ind.html?id=no){style="target"}
 
 Cette note de synthèse de 202 pages intitulé « Modéliser les écosystèmes de connaissances » présente la démarche autoréflexive que j’ai menée dans ce travail. Elle commence par une description de l’état actuel de mes recherches et a pour ambition un dévoilement sincère des limites de ma pensée sous la forme de cartographies qui tracent les frontières numériques [@saleh2024] de ce qui est important pour moi aujourd’hui, c’est-à-dire la valeur des rapports que j’entretiens entre ma subjectivité [@guattari1989] et mon objectivité [@badiou2018] et qui forme mon milieu de connaissances [@berque2009].
 

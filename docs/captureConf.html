@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Capture les images d'une conférence</title>
+
+    <style>
+        #video {
+        border: 1px solid #999;
+        width: 98%;
+        }
+
+        #log {
+        width: 25rem;
+        height: 15rem;
+        border: 1px solid black;
+        padding: 0.5rem;
+        overflow: scroll;
+        }
+
+    </style>
+</head>
+<body>
+    <h1>Capture les images d'une conférence</h1>
+      <p>
+        <button id="start">Start Capture</button>&nbsp;
+        <button id="stop">Stop Capture</button>&nbsp;
+        <button id="capture">Enregistre</button>&nbsp;
+      </p>
+      
+      <video id="video" autoplay></video>
+      <br />
+      
+      <strong>Log:</strong>
+      <br />
+      <pre id="log"></pre>
+      
+
+    <script>
+const videoElem = document.getElementById("video");
+const logElem = document.getElementById("log");
+const startElem = document.getElementById("start");
+const stopElem = document.getElementById("stop");
+
+// Options for getDisplayMedia()
+
+const displayMediaOptions = {
+  video: {
+    displaySurface: "window",
+  },
+  audio: false,
+};
+
+// Set event listeners for the start and stop buttons
+startElem.addEventListener(
+  "click",
+  (evt) => {
+    startCapture();
+  },
+  false,
+);
+
+stopElem.addEventListener(
+  "click",
+  (evt) => {
+    stopCapture();
+  },
+  false,
+);
+
+console.log = (msg) => (logElem.textContent = `${logElem.textContent}\n${msg}`);
+console.error = (msg) =>
+  (logElem.textContent = `${logElem.textContent}\nError: ${msg}`);
+
+async function startCapture() {
+  logElem.textContent = "";
+
+  try {
+    videoElem.srcObject =
+      await navigator.mediaDevices.getDisplayMedia(displayMediaOptions);
+    dumpOptionsInfo();
+  } catch (err) {
+    console.error(err);
+  }
+}
+
+function stopCapture(evt) {
+  let tracks = videoElem.srcObject.getTracks();
+
+  tracks.forEach((track) => track.stop());
+  videoElem.srcObject = null;
+}
+
+function dumpOptionsInfo() {
+  const videoTrack = videoElem.srcObject.getVideoTracks()[0];
+
+  console.log("Track settings:");
+  console.log(JSON.stringify(videoTrack.getSettings(), null, 2));
+  console.log("Track constraints:");
+  console.log(JSON.stringify(videoTrack.getConstraints(), null, 2));
+}
+
+const btn = document.getElementById('capture');
+btn.disabled = false;
+btn.onclick = e => {
+  takeASnap()
+  .then(download);
+};
+
+function takeASnap(){
+  const canvas = document.createElement('canvas'); // create a canvas
+  const ctx = canvas.getContext('2d'); // get its context
+  canvas.width = videoElem.videoWidth; // set its size to the one of the video
+  canvas.height = videoElem.videoHeight;
+  ctx.drawImage(videoElem, 0,0); // the video
+  return new Promise((res, rej)=>{
+    canvas.toBlob(res, 'image/png'); // request a Blob from the canvas
+  });
+}
+function download(blob){
+  // uses the <a download> to download a Blob
+  let a = document.createElement('a'); 
+  a.href = URL.createObjectURL(blob);
+  a.download = 'capture.png';
+  document.body.appendChild(a);
+  a.click();
+}
+
+
+    </script>
+</body>
+</html>
