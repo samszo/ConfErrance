@@ -1,0 +1,138 @@
+---
+bibliography: ref_tdcw25.bib
+lightbox: true
+title: "Transnational Digital Creation Workshop 2025"
+subtitle: "ArTeC - Paris 8 - RIT"
+date: "2025/05/01"
+author:
+  - name: Laura Shackelford
+    affiliation: Rochester Institut of Technology
+  - name: Samuel Szoniecky
+    affiliation: Laboratoire Paragraphe - Université Paris 8
+    orcid: 0000-0002-7643-3342
+
+citeproc: true
+
+number-sections: true
+
+format: 
+  html: 
+    theme: default
+    search: true
+    toc: true
+    number-sections: false
+    number-depth: 4
+    comments:
+      hypothesis: true
+
+  pdf: 
+    documentclass: scrreprt
+    papersize: A4    
+    geometry:
+          - top=30mm
+          - left=20mm
+          - heightrounded
+    toc: false
+    number-sections: false
+---
+
+|  |  |  |  |
+|----|----|----|----|
+| ![](docs/img/logo_paris8_Couleurs.png){height="60"} | ![](docs/img/logo-para.svg){height="60"} | ![](docs/img/logo-artec.png){height="60"} | ![](docs/img/Rochester_Institute_of_Technology_seal.svg){height="60"} |
+
+# Transnational Digital Creation Workshop 2025
+
+## Participants
+
+### Laura Shackelford - lxsgla
+Laura Shackelford is a professor at the Rochester Institute of Technology, specializing in digital humanities and transnational studies. Her work focuses on the intersection of technology, culture, and creative practices.
+
+### Samuel Szoniecky - samszo
+Samuel Szoniecky is a researcher at the Laboratoire Paragraphe, Université Paris 8. His expertise lies in digital creation, collaborative platforms, and the development of innovative tools for transdisciplinary research.
+
+-   Ali Ech-Chaoui  
+
+-   Antonin Passemard
+
+-   Ava Zafari Anaraki
+
+-   Ayat Chahdi
+
+-   Benito Maramaldi
+
+-   Hortense Chauvet
+
+-   Nisrine Benkirane
+
+-   Sidney Grabosky
+
+-   Rinky Mahajan
+
+-   Somiya El Mimouni
+
+Please send me a short bio and your GitHub login.
+
+
+## Planning
+
+-   @sec-session1 videoconferences : 2 Mai 2025, Ven. De 16:00 à 17:00
+
+-   @sec-session2 videoconference : 16 Mai 2025, Ven. De 16:00 à 17:00
+
+-   @sec-session3 Université Paris 8 - A 175 : 19 Mai 2025, Lun. De 10:00 à 16:00
+
+-   @sec-session4 Université Paris 8 - A 175 : 20 Mai 2025, Mar. De 10:00 à 16:00
+
+-   @sec-session5 Université Paris 8 - A 175 : 21 Mai 2025, Mer. De 10:00 à 16:00
+
+-   @sec-session6 Université Paris 8 - A 175 : 22 Mai 2025, Jeu. De 10:00 à 16:00
+
+-   @sec-session7 Université Paris 8 - A 175 : 23 Mai 2025, Ven. De 10:00 à 16:00
+
+-   @sec-session8 videoconference : 6 Juin 2025, Ven. De 16:00 à 17:00
+
+-   @sec-session9 videoconference : 20 Juin 2025, Ven. De 16:00 à 17:00
+
+[Link for videoconference : https://univ-paris8.zoom.us/j/98180450564?pwd=m0k66tKFq3J4gNi8iWz7y9wEo6qjMi.1](https://univ-paris8.zoom.us/j/98180450564?pwd=m0k66tKFq3J4gNi8iWz7y9wEo6qjMi.1){target="_blank"}
+
+## Session 1 {#sec-session1}
+
+[View in full screen](tdcw25/slide.html){target="_blank"}
+
+```{=html}
+<iframe width="800" height="600" src="tdcw25/slide.html" title="Presentation support"></iframe>
+```
+
+{{< pagebreak >}}
+
+## Session 2 {#sec-session2}
+
+{{< pagebreak >}}
+
+## Session 3 {#sec-session3}
+
+{{< pagebreak >}}
+
+## Session 4 {#sec-session4}
+
+{{< pagebreak >}}
+
+## Session 5 {#sec-session5}
+
+{{< pagebreak >}}
+
+## Session 6 {#sec-session6}
+
+{{< pagebreak >}}
+
+## Session 7 {#sec-session7}
+
+{{< pagebreak >}}
+
+## Session 8 {#sec-session8}
+
+{{< pagebreak >}}
+
+## Session 9 {#sec-session9}
+
+{{< pagebreak >}}
