@@ -97,6 +97,15 @@ Please send me a short bio and your GitHub login.
 
 ## Session 1 {#sec-session1}
 
+### Laura Shackelford - Introduction
+
+[View in full screen](tdcw25/MethodsandGenerativeArtAI.pdf){target="_blank"}
+
+{{< pdf tdcw25/MethodsandGenerativeArtAI.pdf width=100% height=600 >}}
+
+
+### Samuel Szoniecky - Generative Digital Interactions
+
 [View in full screen](tdcw25/slide.html){target="_blank"}
 
 ```{=html}
