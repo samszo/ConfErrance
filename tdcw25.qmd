@@ -120,6 +120,12 @@ Please send me a short bio and your GitHub login.
 
 ## Session 3 {#sec-session3}
 
+Anything LLM doc : https://docs.useanything.com/
+
+
+To have models : https://huggingface.co/
+
+
 {{< pagebreak >}}
 
 ## Session 4 {#sec-session4}
