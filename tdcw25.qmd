@@ -130,6 +130,8 @@ To have models : https://huggingface.co/
 
 ## Session 4 {#sec-session4}
 
+https://tdcw24.generateur.art/
+
 {{< pagebreak >}}
 
 ## Session 5 {#sec-session5}
