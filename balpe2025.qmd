@@ -17,10 +17,10 @@ Colloque international 12-13 juin 2025 - Université Paris 8, Campus Condorcet
 
 ### Présentation
 
-[Voir en plein écran](http://localhost/samszo/conf_errance/arcanes_2023/slide.html)
+[Voir en plein écran](balpe2025/slide.html)
 
 ```{=html}
-<iframe width="800" height="600" src="http://localhost/samszo/conf_errance/arcanes_2023/slide.html" title="Support de présentation"></iframe>
+<iframe width="800" height="600" src="balpe2025/slide.html" title="Support de présentation"></iframe>
 ```
 
 ### Résumé
