@@ -33,7 +33,7 @@ format:
     number-sections: false
 ---
 
-| ![](docs/img/logo_paris8_Couleurs.png){height=100} | ![](docs/img/logo-para-outlines.png){height=100} | ![](docs/HDR/bit.ly_49Xy093.png){height=100} |
+| ![](docs/img/logo_paris8_Couleurs.png){height=100} | ![](docs/img/logo-para-outlines.png){height=100} | ![](docs/img/qrcode_samszo.github.io.png){height=120} |
 |-----------|-----------|-----------|
 
 
