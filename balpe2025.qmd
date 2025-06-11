@@ -1,17 +1,47 @@
 ---
-title: "Balpe 2025"
-author: "Samuel Szoniecky"
 bibliography: ref_balpe2025.bib
-format:
-  wordcount-html:
+lightbox: true
+title: "Des générateurs chaotiques aux IA génératives"
+date: "2025/06/11"
+author:
+  - name: Samuel Szoniecky
+    affiliation: Laboratoire Paragraphe - Université Paris 8
+    orcid: 0000-0002-7643-3342
+
+citeproc: true
+
+number-sections: true
+
+format: 
+  html: 
+    theme: default
+    search: true
     toc: true
-    fig-align: center
-    cap-location: margin
+    number-sections: false
+    number-depth: 4
+    comments:
+      hypothesis: true
+
+  pdf: 
+    documentclass: scrreprt
+    papersize: A4    
+    geometry:
+          - top=30mm
+          - left=20mm
+          - heightrounded
+    toc: false
+    number-sections: false
 ---
+
+| ![](docs/img/logo_paris8_Couleurs.png){height=100} | ![](docs/img/logo-para-outlines.png){height=100} | ![](docs/HDR/bit.ly_49Xy093.png){height=100} |
+|-----------|-----------|-----------|
+
 
 # Jean-Pierre Balpe, (méta-)auteur : l’écriture infinie
 
 Colloque international 12-13 juin 2025 - Université Paris 8, Campus Condorcet
+<a href="https://balpe2025.sciencesconf.org/" target="_blank">Site de la conférence</a>
+
 
 ## Des générateurs chaotiques aux IA génératives
 
