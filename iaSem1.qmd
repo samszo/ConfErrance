@@ -33,21 +33,23 @@ format:
     number-sections: false
 ---
 
-+----------------------+----------------------+----------------------+
-|                      |                      |                      |
-+======================+======================+======================+
-+----------------------+----------------------+----------------------+
+|     |     |     |
+|-----|-----|-----|
+|     |     |     |
 
-# Atelier pédagogique : utilisation de Ollama et AnythingLLM 
+# Atelier pédagogique : utilisation de Ollama et AnythingLLM
+
+L'objectif de cet atelier est de fournir des bases techniques permettant aux participants d'évaluer dans quelles mesures ces technologies peuvent être utiles pour répondre à leurs besoins.
+
+> "Face à la multiplication des logiques de surveillance et de sécurité, de traçage des comportements, de façonnage des désirs et in fine des subjectivités, il s’agirait ainsi de trouver dans une forme d’humanisme renouvelé une ressource pour tenter de penser les moyens d’une reprise de contrôle sur les systèmes intelligents, en mettant le sujet humain au centre du développement technologique." [@levin2024]
 
 ## Pourquoi utiliser Ollama
 
 Ollama permet d'exécuter des modèles d'intelligence artificielle localement sur son ordinateur, sans dépendre de services cloud externes. Cela garantit la confidentialité des données, réduit les coûts liés à l'utilisation de l'IA et offre une grande flexibilité pour tester différents modèles open source. De plus, Ollama facilite l'intégration de l'IA dans des projets personnels ou professionnels grâce à une interface simple et des commandes intuitives.
 
- 
-* Pour plus de détails :
-  + Les sources : <https://github.com/ollama/ollama>
-  + la veille : <https://www.diigo.com/user/luckysemiosis?query=ollama>
+-   Pour plus de détails :
+    -   Les sources : <https://github.com/ollama/ollama>
+    -   la veille : <https://www.diigo.com/user/luckysemiosis?query=ollama>
 
 ## Installation de Ollama
 
@@ -83,16 +85,17 @@ ollama --version
 
 ### Chargement des modèles
 
--   Exemple : Pour charger un modèle spécifique, utilisez la commande suivante : 
+-   Exemple : Pour charger un modèle spécifique, utilisez la commande suivante :
+
 ``` sh
 ollama pull <nom_du_modèle>
 ```
 
--   Exemple : pour charger le modèle "llama2" 
+-   Exemple : pour charger le modèle "llama2"
+
 ``` sh
 ollama pull llama2
 ```
-
 
 #### Liste des modèles disponibles sur votre machine
 
@@ -119,7 +122,6 @@ Pour choisir un modèle Ollama, il est important de prendre en compte les critè
 En cas de doute, commencez par un modèle généraliste comme "llama2" et ajustez votre choix en fonction des résultats obtenus.
 
 Pour plus d'infos cf. [https://shs.cairn.info/revue-francaise-de-sociologie-2014-3-page-563?lang=fr]()
-
 
 ## Usages et limites
 
@@ -197,6 +199,7 @@ pas la lecture physique ou le travail manuel - c'est une complémentation,
 non une substitution. Cela répond peut-être à un préjugé qui circule sur 
 ce sujet.
 ...done thinking.
+```
 
 Les **humanités numériques** (ou *digital humanities*) sont un domaine 
 interdisciplinaire qui combine les méthodes et les approches des humanités 
@@ -275,32 +278,30 @@ intellectuel.
 Elles ne remplacent pas les humanités traditionnelles (lire, analyser, 
 interpréter) mais les enrichissent techniquement, méthodologiquement et 
 accessiblement.
-```
 
 4.  **Finir une conversation** : Quitter le terminal
 
 ### Extraction de données dans une image
 
-Ces exemples sont liés au projet de recherche "Freloche" qui a pour objectif de cartographier les souvenirs en mettant en scène les analogies du jardin et de la chasse aux papillons pour stimuler les réactions mémorielles des participants avec des images issues de collections numérisées. 
+Ces exemples sont liés au projet de recherche "Freloche" qui a pour objectif de cartographier les souvenirs en mettant en scène les analogies du jardin et de la chasse aux papillons pour stimuler les réactions mémorielles des participants avec des images issues de collections numérisées.
 
-* Nous menons une archéologie des créations à Paris 8 en :
-  + concevant un environnement numérique de captation des souvenirs et d’exploration des récits mémoriels...
-  + initiant un dialogue à travers le temps (la mellification) qui prend plusieurs formes : focus groupe, entretiens individuels...
+-   Nous menons une archéologie des créations à Paris 8 en :
+    -   concevant un environnement numérique de captation des souvenirs et d’exploration des récits mémoriels...
+    -   initiant un dialogue à travers le temps (la mellification) qui prend plusieurs formes : focus groupe, entretiens individuels...
 
 Dans ce cadre, nous voulons explorer les bibliothèques des participants pour créer des relations entre eux sur la base de références communes.
 
-* Exemple de scénario à mettre en place pour cette mise en relation.
-  1. demander aux participants de photographier les étagères de leur bibliothèque à partir d'une application qui ajoute la photo dans une base de données
-  2. traiter la photo pour en extraire une liste de livre
-  3. rendre la photo cliquable pour que chaque livre renvoie sa référence 
-  4. proposer la photo aux autres participants pour qu'ils réagissent
+-   Exemple de scénario à mettre en place pour cette mise en relation.
+    1.  demander aux participants de photographier les étagères de leur bibliothèque à partir d'une application qui ajoute la photo dans une base de données
+    2.  traiter la photo pour en extraire une liste de livre
+    3.  rendre la photo cliquable pour que chaque livre renvoie sa référence
+    4.  proposer la photo aux autres participants pour qu'ils réagissent
 
-L'étape 2. qui consiste à identifier chaque livre présent sur l'étagère est très fastidieux s'il se fait à la main : 
+L'étape 2. qui consiste à identifier chaque livre présent sur l'étagère est très fastidieuse si elle se fait à la main :
 
 {{< video https://youtu.be/wUE-FpwcT20 >}}
 
 Comment utiliser l'IA pour faire ce travail ?
- 
 
 #### Ollama-OCR
 
@@ -308,7 +309,7 @@ Comment utiliser l'IA pour faire ce travail ?
 
 1.  **Installation** : suivre les instructions de cette page : <https://github.com/imanoop7/Ollama-OCR>
 
-2.  **Créer un script python** : one.py 
+2.  **Créer un script python** : one.py
 
 3.  **modifier le script python** :
 
@@ -329,11 +330,13 @@ print(result)
 ```
 
 4.  **Executer le script python** :
+
 ``` sh
 python one.py
 ```
 
 5.  **Le résultat s'affiche dans le terminal** :
+
 ``` sh
 The image presents a black-and-white photograph of a bookshelf, showcasing a collection of books with their spines facing outward. The books are arranged in a row, with some titles and authors visible, while others are not.
 
@@ -409,101 +412,102 @@ Here is the list of books extracted from the image:
 
 ##### résultats
 
-* le processus de traitement prend du temps
-* le résultat comporte des erreurs : 
-  + doublons, 
-  + mauvaise orthographe
-* des actions supplémentaires sont nécessaires
-  + optimiser le prompt
-  + tester d'autres modèles
-  + trouver les références ISBN de chaque livre
-  + cartographier la photo pour sélectionner une référence en cliquant sur un livre
-  + intégration du code dans Freloche
-
+-   le processus de traitement prend du temps
+-   le résultat comporte des erreurs :
+    -   doublons,
+    -   mauvaise orthographe
+-   des actions supplémentaires sont nécessaires
+    -   optimiser le prompt
+    -   tester d'autres modèles
+    -   trouver les références ISBN de chaque livre
+    -   cartographier la photo pour sélectionner une référence en cliquant sur un livre
+    -   intégration du code dans Freloche
 
 #### Gemini
 
 Gemini est une plateforme d'intelligence artificielle développée par Google DeepMind, conçue pour intégrer des capacités avancées de traitement du langage naturel et de raisonnement. Elle combine des modèles de langage de pointe avec des fonctionnalités de planification et de résolution de problèmes, permettant des interactions plus dynamiques et contextuelles.
 
 ##### Fonctionnalités principales de Gemini :
-1. **Compréhension contextuelle avancée** : Gemini peut interpréter des requêtes complexes en tenant compte du contexte global.
-2. **Raisonnement multimodal** : Capacité à traiter et à intégrer des données provenant de plusieurs sources (texte, images, etc.).
-3. **Adaptabilité** : Gemini peut être personnalisé pour des cas d'utilisation spécifiques, comme l'éducation, la recherche ou les applications commerciales.
-4. **Sécurité et éthique** : Conçu pour minimiser les biais et garantir des interactions responsables.
+
+1.  **Compréhension contextuelle avancée** : Gemini peut interpréter des requêtes complexes en tenant compte du contexte global.
+2.  **Raisonnement multimodal** : Capacité à traiter et à intégrer des données provenant de plusieurs sources (texte, images, etc.).
+3.  **Adaptabilité** : Gemini peut être personnalisé pour des cas d'utilisation spécifiques, comme l'éducation, la recherche ou les applications commerciales.
+4.  **Sécurité et éthique** : Conçu pour minimiser les biais et garantir des interactions responsables.
 
 ##### Applications potentielles :
-- Assistance à la recherche académique.
-- Génération de contenu créatif.
-- Analyse de données complexes.
-- Automatisation des tâches dans des environnements professionnels.
+
+-   Assistance à la recherche académique.
+-   Génération de contenu créatif.
+-   Analyse de données complexes.
+-   Automatisation des tâches dans des environnements professionnels.
 
 Pour plus d'informations, consultez la page officielle : [Google DeepMind Gemini](https://www.deepmind.com).
 
 ##### extraction des références de livre dans une image
+
 {{< video https://youtu.be/qGliyc7ZTso >}}
 
-* Après des demandes pour :
-  + un traitement de 10 images supplémentaires
-  + une compilation des listes dans une liste unique sans doublons
-*  on obtient le résultat suivant [https://docs.google.com/spreadsheets/d/1pRQhTsZtlsM1CV2nANeprvEkq6_Ikm16xbo1tRvBqhE/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1pRQhTsZtlsM1CV2nANeprvEkq6_Ikm16xbo1tRvBqhE/edit?usp=sharing)
+-   Après des demandes pour :
+    -   un traitement de 10 images supplémentaires
+    -   une compilation des listes dans une liste unique sans doublons
+-   on obtient le résultat suivant <https://docs.google.com/spreadsheets/d/1pRQhTsZtlsM1CV2nANeprvEkq6_Ikm16xbo1tRvBqhE/edit?usp=sharing>
 
 ##### résultats
 
-* le processus est payant : 21 € / mois [https://gemini.google/subscriptions/](https://gemini.google/subscriptions/)
-* le résultat comporte des erreurs : 
-  + des références n'ont pas été trouvées 
-* des actions supplémentaires sont nécessaires
-  + cartographier la photo pour sélectionner une référence en cliquant sur un livre
-  + intégration du code dans Freloche
+-   le processus est payant : 21 € / mois <https://gemini.google/subscriptions/>
+-   le résultat comporte des erreurs :
+    -   des références n'ont pas été trouvées
+-   des actions supplémentaires sont nécessaires
+    -   cartographier la photo pour sélectionner une référence en cliquant sur un livre
+    -   intégration du code dans Freloche
 
 #### cv-book-svg : Make your bookshelf clickable
 
 Use computer vision to generate an SVG that you can overlay onto a photo of your bookshelf that lets you click on each book to find out more information.
 
-* pour plus de détails et le processus d'installation cf. [https://github.com/capjamesg/cv-book-svg](https://github.com/capjamesg/cv-book-svg)
+-   pour plus de détails et le processus d'installation cf. <https://github.com/capjamesg/cv-book-svg>
 
-* lancement de la commande avec le lien vers la photo et le résultat
+-   lancement de la commande avec le lien vers la photo et le résultat
+
 ``` sh
 cd cv-book-svg
 python3 grounded.py --image=/Users/samszo/Sites/freloche/files/Photos-1-001/PXL_20250225_074724229.jpg --output=annotation1.html
-``` 
+```
 
-* on obtient le document : [freloche/annotation1.html](freloche/annotation1.html)
+-   on obtient le document : [freloche/annotation1.html](freloche/annotation1.html)
 
 ##### résultats
 
-* le processus est payant : 0,07 $ / image [https://platform.openai.com/settings/organization/usage](https://platform.openai.com/settings/organization/usage)
-Autres coûts : [https://platform.openai.com/docs/pricing](https://platform.openai.com/docs/pricing)
-* le résultat comporte des erreurs : 
-  + des livres ne sont pas cartographiés,
-  + des références n'ont pas été trouvées,
-  + des références sont fausses 
-* des actions supplémentaires sont nécessaires
-  + intégration du code dans Freloche
-
+-   le processus est payant : 0,07 \$ / image <https://platform.openai.com/settings/organization/usage> Autres coûts : <https://platform.openai.com/docs/pricing>
+-   le résultat comporte des erreurs :
+    -   des livres ne sont pas cartographiés,
+    -   des références n'ont pas été trouvées,
+    -   des références sont fausses
+-   des actions supplémentaires sont nécessaires
+    -   intégration du code dans Freloche
 
 ### Utilisation d'AnythingLLM
 
 AnythingLLM est une plateforme qui permet de déployer et d'exploiter des modèles de langage (LLMs) de manière flexible et personnalisée. Elle offre des outils pour intégrer des modèles de langage dans des applications spécifiques, tout en permettant une gestion simplifiée des données et des interactions.
 
 ### Fonctionnalités principales d'AnythingLLM :
-1. **Déploiement local ou cloud** : Vous pouvez exécuter des modèles localement ou les héberger dans le cloud selon vos besoins.
-2. **Personnalisation des modèles** : Ajustez les modèles pour répondre à des cas d'utilisation spécifiques en utilisant des données personnalisées.
-3. **Gestion des données** : Intégrez et organisez vos données pour optimiser les performances des modèles.
-4. **Interface utilisateur conviviale** : Fournit une interface simple pour interagir avec les modèles et configurer les paramètres.
-5. **Compatibilité avec plusieurs modèles** : Supporte différents modèles de langage, qu'ils soient open source ou propriétaires.
+
+1.  **Déploiement local ou cloud** : Vous pouvez exécuter des modèles localement ou les héberger dans le cloud selon vos besoins.
+2.  **Personnalisation des modèles** : Ajustez les modèles pour répondre à des cas d'utilisation spécifiques en utilisant des données personnalisées.
+3.  **Gestion des données** : Intégrez et organisez vos données pour optimiser les performances des modèles.
+4.  **Interface utilisateur conviviale** : Fournit une interface simple pour interagir avec les modèles et configurer les paramètres.
+5.  **Compatibilité avec plusieurs modèles** : Supporte différents modèles de langage, qu'ils soient open source ou propriétaires.
 
 ### Cas d'utilisation d'AnythingLLM :
-- **Recherche et analyse** : Exploitez les capacités des LLMs pour extraire des informations pertinentes à partir de grandes quantités de données.
-- **Automatisation des tâches** : Automatisez des processus répétitifs ou complexes grâce à des modèles de langage.
-- **Applications conversationnelles** : Créez des chatbots ou des assistants virtuels pour répondre aux besoins des utilisateurs.
-- **Personnalisation des réponses** : Adaptez les réponses des modèles en fonction du contexte ou des préférences des utilisateurs.
+
+-   **Recherche et analyse** : Exploitez les capacités des LLMs pour extraire des informations pertinentes à partir de grandes quantités de données.
+-   **Automatisation des tâches** : Automatisez des processus répétitifs ou complexes grâce à des modèles de langage.
+-   **Applications conversationnelles** : Créez des chatbots ou des assistants virtuels pour répondre aux besoins des utilisateurs.
+-   **Personnalisation des réponses** : Adaptez les réponses des modèles en fonction du contexte ou des préférences des utilisateurs.
 
 Pour plus d'informations, consultez la documentation officielle : [AnythingLLM GitHub](https://github.com/Mintplex-Labs/anything-llm).
 
-Pour installer l'application sur votre machine : 
-- Pour une application autonome : [https://anythingllm.com/desktop](https://anythingllm.com/desktop)
-- Pour une conteneur Docker : [https://hub.docker.com/r/mintplexlabs/anythingllm](https://hub.docker.com/r/mintplexlabs/anythingllm)
+Pour installer l'application sur votre machine : - Pour une application autonome : <https://anythingllm.com/desktop> - Pour une conteneur Docker : <https://hub.docker.com/r/mintplexlabs/anythingllm>
 
 #### Exemple d'utilisation : chatbot avec RAG
 
@@ -513,42 +517,64 @@ AnythingLLM permet de gérer facilement l'ajout de documents pour qu'ils soient 
 
 RAG (Retrieval-Augmented Generation) est une technique qui combine les capacités des modèles de langage (LLMs) avec des systèmes de récupération d'informations. L'objectif est d'améliorer la pertinence et la précision des réponses générées par les modèles en s'appuyant sur des données externes.
 
-Pour une veille sur la RAG : [https://www.diigo.com/user/luckysemiosis?query=RAG](https://www.diigo.com/user/luckysemiosis?query=RAG)
+Pour une veille sur la RAG : <https://www.diigo.com/user/luckysemiosis?query=RAG>
 
 ##### Fonctionnement du RAG :
-1. **Récupération d'informations** : Le système interroge une base de données ou un ensemble de documents pour extraire les informations les plus pertinentes en fonction de la requête de l'utilisateur.
-2. **Génération augmentée** : Les informations récupérées sont ensuite utilisées comme contexte pour guider le modèle de langage dans la génération de réponses.
+
+1.  **Récupération d'informations** : Le système interroge une base de données ou un ensemble de documents pour extraire les informations les plus pertinentes en fonction de la requête de l'utilisateur.
+2.  **Génération augmentée** : Les informations récupérées sont ensuite utilisées comme contexte pour guider le modèle de langage dans la génération de réponses.
 
 ##### Avantages du RAG :
-- **Précision accrue** : En s'appuyant sur des données spécifiques, le modèle peut fournir des réponses plus précises et adaptées.
-- **Réduction des hallucinations** : Le modèle est moins susceptible de générer des informations incorrectes ou inventées.
-- **Personnalisation** : Permet d'adapter les réponses en fonction d'un domaine ou d'un corpus spécifique.
+
+-   **Précision accrue** : En s'appuyant sur des données spécifiques, le modèle peut fournir des réponses plus précises et adaptées.
+-   **Réduction des hallucinations** : Le modèle est moins susceptible de générer des informations incorrectes ou inventées.
+-   **Personnalisation** : Permet d'adapter les réponses en fonction d'un domaine ou d'un corpus spécifique.
 
 ##### Cas d'utilisation :
-- **Recherche documentaire** : Extraction d'informations pertinentes à partir de grandes bases de données.
-- **Assistants virtuels** : Fournir des réponses précises basées sur des documents internes ou des FAQ.
-- **Applications éducatives** : Aider les étudiants ou chercheurs à trouver des informations spécifiques dans des corpus académiques.
+
+-   **Recherche documentaire** : Extraction d'informations pertinentes à partir de grandes bases de données.
+-   **Assistants virtuels** : Fournir des réponses précises basées sur des documents internes ou des FAQ.
+-   **Applications éducatives** : Aider les étudiants ou chercheurs à trouver des informations spécifiques dans des corpus académiques.
 
 En résumé, le RAG est une approche puissante pour combiner les forces des modèles de langage et des systèmes de récupération d'informations, offrant des réponses plus fiables et contextuelles.
 
-##### Faire du RAG avec AnythingLLM 
+##### Faire du RAG avec AnythingLLM
+
+{{< video https://youtu.be/ojkJA3ztnZI >}}
 
 ##### Ajouter manuellement des documents
-{{< video https://youtu.be/eVBu8hoOiFU >}}
 
+{{< video https://youtu.be/eVBu8hoOiFU >}}
 
 ##### Ajouter des documents à partir d'une base de données
 
 Cet exemple est lié au projet de recherche ExploDeleuze : Explorer les cours de Deleuze avec l’IA.
 
-* Les objectifs de ce projet sont multiples : 
-  + Concevoir, développer et tester un dispositif numérique de transcription automatique des collections sonores
-  + Concevoir, développer et tester des applications Web qui utilisent ces transcriptions
-  + Transcrire les cours de Gilles Deleuze disponibles dans Gallica comme preuve de concept
-  + Préparer un projet de plus grande ampleur (ANR, Europe…)
+-   Les objectifs de ce projet sont multiples :
+    -   Concevoir, développer et tester un dispositif numérique de transcription automatique des collections sonores
+    -   Concevoir, développer et tester des applications Web qui utilisent ces transcriptions
+    -   Transcrire les cours de Gilles Deleuze disponibles dans Gallica comme preuve de concept
+    -   Préparer un projet de plus grande ampleur (ANR, Europe…)
 
-Pour plus d'informations  : [https://docs.google.com/document/d/1uqB_7DApJItX4Jonmr8JSefgm2tLvlMlyhh4SnsrtqQ/edit?usp=sharing](projet présenté à la BNF).
+Pour plus d'informations : [https://docs.google.com/document/d/1uqB_7DApJItX4Jonmr8JSefgm2tLvlMlyhh4SnsrtqQ/edit?usp=sharing](projet%20présenté%20à%20la%20BNF).
 
 ###### Processus d'ajout de document
 
 ![Diagramme de Flux](/mermaid/algoAddDocToAnythyngLLM.png)
+
+###### Utilisation du RAG dans une application tierce
+
+{{< video https://youtu.be/LLgpSsHHCXY >}}
+
+
+## Bilans
+
+L'usage de l'IA prends beaucoup de temps pour :
+- la veille nécessaire pour trouver les bons modèles, les bons outils
+- pour *bricoler* une solution en lien avec un projet
+
+Le passage par des IA de plateforme (ChatGPT, Gemini...) raccourci le temps en échange d'argent.
+
+Dans le cas, d'un usage lié à la recherche et l'enseignant, ne devons-nous pas transformer le slogan : "Le temps c'est de l'argent" en "Le temps c'est de la connaissance" et par ce choix, mettre de coté les IA de plateforme au profit des IA bricolées localement même si cela prend plus de temps, même si l'efficacité est moins spectaculaire ?
+Quels pouvoir souhaitons-nous développer ?
+

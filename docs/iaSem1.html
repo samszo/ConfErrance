@@ -57,7 +57,27 @@ div.sourceCode
 @media screen {
 pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -180,6 +200,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   <li><a href="#fonctionnalités-principales-danythingllm" id="toc-fonctionnalités-principales-danythingllm" class="nav-link" data-scroll-target="#fonctionnalités-principales-danythingllm">Fonctionnalités principales d’AnythingLLM :</a></li>
   <li><a href="#cas-dutilisation-danythingllm" id="toc-cas-dutilisation-danythingllm" class="nav-link" data-scroll-target="#cas-dutilisation-danythingllm">Cas d’utilisation d’AnythingLLM :</a></li>
   </ul></li>
+  <li><a href="#bilans" id="toc-bilans" class="nav-link" data-scroll-target="#bilans">Bilans</a></li>
   </ul></li>
   </ul>
 <div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="iaSem1.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
@@ -226,11 +247,6 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 
 <table class="caption-top table">
-<colgroup>
-<col style="width: 31%">
-<col style="width: 31%">
-<col style="width: 31%">
-</colgroup>
 <tbody>
 <tr class="odd">
 <td></td>
@@ -241,6 +257,10 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </table>
 <section id="atelier-pédagogique-utilisation-de-ollama-et-anythingllm" class="level1">
 <h1>Atelier pédagogique : utilisation de Ollama et AnythingLLM</h1>
+<p>L’objectif de cet atelier est de fournir des bases techniques permettant aux participants d’évaluer dans quelles mesures ces technologies peuvent être utiles pour répondre à leurs besoins.</p>
+<blockquote class="blockquote">
+<p>“Face à la multiplication des logiques de surveillance et de sécurité, de traçage des comportements, de façonnage des désirs et in fine des subjectivités, il s’agirait ainsi de trouver dans une forme d’humanisme renouvelé une ressource pour tenter de penser les moyens d’une reprise de contrôle sur les systèmes intelligents, en mettant le sujet humain au centre du développement technologique.” <span class="citation" data-cites="levin2024">(<a href="#ref-levin2024" role="doc-biblioref">Levin 2024</a>)</span></p>
+</blockquote>
 <section id="pourquoi-utiliser-ollama" class="level2">
 <h2 class="anchored" data-anchor-id="pourquoi-utiliser-ollama">Pourquoi utiliser Ollama</h2>
 <p>Ollama permet d’exécuter des modèles d’intelligence artificielle localement sur son ordinateur, sans dépendre de services cloud externes. Cela garantit la confidentialité des données, réduit les coûts liés à l’utilisation de l’IA et offre une grande flexibilité pour tester différents modèles open source. De plus, Ollama facilite l’intégration de l’IA dans des projets personnels ou professionnels grâce à une interface simple et des commandes intuitives.</p>
@@ -376,85 +396,48 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb10-48"><a href="#cb10-48" aria-hidden="true" tabindex="-1"></a><span class="ex">pas</span> la lecture physique ou le travail manuel <span class="at">-</span> c<span class="st">'est une complémentation, </span></span>
 <span id="cb10-49"><a href="#cb10-49" aria-hidden="true" tabindex="-1"></a><span class="st">non une substitution. Cela répond peut-être à un préjugé qui circule sur </span></span>
 <span id="cb10-50"><a href="#cb10-50" aria-hidden="true" tabindex="-1"></a><span class="st">ce sujet.</span></span>
-<span id="cb10-51"><a href="#cb10-51" aria-hidden="true" tabindex="-1"></a><span class="st">...done thinking.</span></span>
-<span id="cb10-52"><a href="#cb10-52" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb10-53"><a href="#cb10-53" aria-hidden="true" tabindex="-1"></a><span class="st">Les **humanités numériques** (ou *digital humanities*) sont un domaine </span></span>
-<span id="cb10-54"><a href="#cb10-54" aria-hidden="true" tabindex="-1"></a><span class="st">interdisciplinaire qui combine les méthodes et les approches des humanités </span></span>
-<span id="cb10-55"><a href="#cb10-55" aria-hidden="true" tabindex="-1"></a><span class="st">traditionnelles avec les technologies numériques.</span></span>
-<span id="cb10-56"><a href="#cb10-56" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb10-57"><a href="#cb10-57" aria-hidden="true" tabindex="-1"></a><span class="st">Voici leurs principales utilisations et objectifs :</span></span>
-<span id="cb10-58"><a href="#cb10-58" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb10-59"><a href="#cb10-59" aria-hidden="true" tabindex="-1"></a><span class="st">1.  **Étude du numérique lui-même :**</span></span>
-<span id="cb10-60"><a href="#cb10-60" aria-hidden="true" tabindex="-1"></a><span class="st">    *   **Analyse des phénomènes numériques culturels :** Examiner comment </span></span>
-<span id="cb10-61"><a href="#cb10-61" aria-hidden="true" tabindex="-1"></a><span class="st">le numérique influence la création, la distribution, la réception et </span></span>
-<span id="cb10-62"><a href="#cb10-62" aria-hidden="true" tabindex="-1"></a><span class="st">l'</span>interprétation culturelle <span class="er">(</span><span class="ex">textes,</span> images, sons, films<span class="kw">)</span><span class="bu">.</span></span>
-<span id="cb10-63"><a href="#cb10-63" aria-hidden="true" tabindex="-1"></a>    <span class="ex">*</span>   <span class="pp">**</span>Comprendre les implications sociales :<span class="pp">**</span> Explorer comment les </span>
-<span id="cb10-64"><a href="#cb10-64" aria-hidden="true" tabindex="-1"></a><span class="ex">technologies</span> numériques modifient nos modes de vie, notre communication, </span>
-<span id="cb10-65"><a href="#cb10-65" aria-hidden="true" tabindex="-1"></a><span class="ex">notre</span> accès aux informations, notre travail intellectuel.</span>
-<span id="cb10-66"><a href="#cb10-66" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb10-67"><a href="#cb10-67" aria-hidden="true" tabindex="-1"></a><span class="ex">2.</span>  <span class="pp">**</span>Mise à disposition du patrimoine culturel :<span class="pp">**</span></span>
-<span id="cb10-68"><a href="#cb10-68" aria-hidden="true" tabindex="-1"></a>    <span class="ex">*</span>   <span class="pp">**</span>Numérisation d<span class="st">'archives et manuscrits :** Présenter en ligne des </span></span>
-<span id="cb10-69"><a href="#cb10-69" aria-hidden="true" tabindex="-1"></a><span class="st">documents historiques, littéraires, artistiques ou musicaux qui seraient </span></span>
-<span id="cb10-70"><a href="#cb10-70" aria-hidden="true" tabindex="-1"></a><span class="st">autrement difficiles d'</span>accès.</span>
-<span id="cb10-71"><a href="#cb10-71" aria-hidden="true" tabindex="-1"></a>    <span class="ex">*</span>   <span class="pp">**</span>Accès universelisé :<span class="pp">**</span> Rendre le patrimoine culturel accessible </span>
-<span id="cb10-72"><a href="#cb10-72" aria-hidden="true" tabindex="-1"></a><span class="ex">à</span> un public plus large, indépendamment de l<span class="st">'endroit ou du moment où il se </span></span>
-<span id="cb10-73"><a href="#cb10-73" aria-hidden="true" tabindex="-1"></a><span class="st">trouve.</span></span>
-<span id="cb10-74"><a href="#cb10-74" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb10-75"><a href="#cb10-75" aria-hidden="true" tabindex="-1"></a><span class="st">3.  **Analyse et recherche avancée :**</span></span>
-<span id="cb10-76"><a href="#cb10-76" aria-hidden="true" tabindex="-1"></a><span class="st">    *   **Traitement automatique des textes (text mining) :** Utiliser des </span></span>
-<span id="cb10-77"><a href="#cb10-77" aria-hidden="true" tabindex="-1"></a><span class="st">logiciels pour analyser des corpus littéraires, historiques ou </span></span>
-<span id="cb10-78"><a href="#cb10-78" aria-hidden="true" tabindex="-1"></a><span class="st">philosophiques très volumineux ("analyse de fouille de texte") pour </span></span>
-<span id="cb10-79"><a href="#cb10-79" aria-hidden="true" tabindex="-1"></a><span class="st">identifier des thèmes, des tendances, des styles stylistiques ou effectuer </span></span>
-<span id="cb10-80"><a href="#cb10-80" aria-hidden="true" tabindex="-1"></a><span class="st">une cooccurrence.</span></span>
-<span id="cb10-81"><a href="#cb10-81" aria-hidden="true" tabindex="-1"></a><span class="st">    *   **Analyse d'</span>images et multimédias :<span class="pp">**</span> Développer ou utiliser des </span>
-<span id="cb10-82"><a href="#cb10-82" aria-hidden="true" tabindex="-1"></a><span class="ex">outils</span> pour étudier les images numériques <span class="er">(</span><span class="ex">recognition</span> faciale dans l<span class="st">'art </span></span>
-<span id="cb10-83"><a href="#cb10-83" aria-hidden="true" tabindex="-1"></a><span class="st">classique ? analyse de style visuel ?), le cinéma, la photographie </span></span>
-<span id="cb10-84"><a href="#cb10-84" aria-hidden="true" tabindex="-1"></a><span class="st">numérique.</span></span>
-<span id="cb10-85"><a href="#cb10-85" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb10-86"><a href="#cb10-86" aria-hidden="true" tabindex="-1"></a><span class="st">4.  **Création et innovation :**</span></span>
-<span id="cb10-87"><a href="#cb10-87" aria-hidden="true" tabindex="-1"></a><span class="st">    *   **Hypertexte et multimodalité :** Exploiter la nature non linéaire </span></span>
-<span id="cb10-88"><a href="#cb10-88" aria-hidden="true" tabindex="-1"></a><span class="st">du numérique pour créer de nouvelles formes d'</span>expression artistique ou </span>
-<span id="cb10-89"><a href="#cb10-89" aria-hidden="true" tabindex="-1"></a><span class="ex">littéraire</span> <span class="er">(</span><span class="ex">oeuvres</span> hypertextuelles, projets multimodaux<span class="kw">)</span><span class="bu">.</span></span>
-<span id="cb10-90"><a href="#cb10-90" aria-hidden="true" tabindex="-1"></a>    <span class="ex">*</span>   <span class="pp">**</span>Représentation visuelle des données complexes :<span class="pp">**</span> Développer des </span>
-<span id="cb10-91"><a href="#cb10-91" aria-hidden="true" tabindex="-1"></a><span class="ex">outils</span> pour visualiser graphiquement des concepts humanitaires difficiles </span>
-<span id="cb10-92"><a href="#cb10-92" aria-hidden="true" tabindex="-1"></a><span class="ex">à</span> appréhender, comme la chronologie historique, les relations entre </span>
-<span id="cb10-93"><a href="#cb10-93" aria-hidden="true" tabindex="-1"></a><span class="ex">personnages</span> dans un texte shakespearien, ou l<span class="st">'évolution d'</span>un corpus </span>
-<span id="cb10-94"><a href="#cb10-94" aria-hidden="true" tabindex="-1"></a><span class="ex">linguistique.</span></span>
-<span id="cb10-95"><a href="#cb10-95" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb10-96"><a href="#cb10-96" aria-hidden="true" tabindex="-1"></a><span class="ex">5.</span>  <span class="pp">**</span>Collaboration et partage :<span class="pp">**</span></span>
-<span id="cb10-97"><a href="#cb10-97" aria-hidden="true" tabindex="-1"></a>    <span class="ex">*</span>   <span class="pp">**</span>Projets collaboratifs en ligne :<span class="pp">**</span> Faciliter la collaboration </span>
-<span id="cb10-98"><a href="#cb10-98" aria-hidden="true" tabindex="-1"></a><span class="ex">entre</span> chercheurs du monde entier sur des bases de données communes <span class="er">(</span><span class="ex">comme</span> </span>
-<span id="cb10-99"><a href="#cb10-99" aria-hidden="true" tabindex="-1"></a><span class="ex">le</span> projet Gallica<span class="kw">)</span><span class="bu">.</span></span>
-<span id="cb10-100"><a href="#cb10-100" aria-hidden="true" tabindex="-1"></a>    <span class="ex">*</span>   <span class="pp">**</span>Veille numérique :<span class="pp">**</span> Permettre aux chercheurs d<span class="st">'observer, </span></span>
-<span id="cb10-101"><a href="#cb10-101" aria-hidden="true" tabindex="-1"></a><span class="st">analyser et documenter l'</span>utilisation publique des technologies numériques.</span>
-<span id="cb10-102"><a href="#cb10-102" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb10-103"><a href="#cb10-103" aria-hidden="true" tabindex="-1"></a><span class="ex">6.</span>  <span class="pp">**</span>Rédaction et diffusion électronique :<span class="pp">**</span></span>
-<span id="cb10-104"><a href="#cb10-104" aria-hidden="true" tabindex="-1"></a>    <span class="ex">*</span>   <span class="pp">**</span>Édition numérique :<span class="pp">**</span> Proposer de nouvelles méthodes pour éditer </span>
-<span id="cb10-105"><a href="#cb10-105" aria-hidden="true" tabindex="-1"></a><span class="ex">et</span> présenter les textes anciens ou modernes.</span>
-<span id="cb10-106"><a href="#cb10-106" aria-hidden="true" tabindex="-1"></a>    <span class="ex">*</span>   <span class="pp">**</span>Diffusion des travaux académiques :<span class="pp">**</span> Publier des recherches, </span>
-<span id="cb10-107"><a href="#cb10-107" aria-hidden="true" tabindex="-1"></a><span class="ex">des</span> conférences ou des ressources pédagogiques numériques en open access.</span>
-<span id="cb10-108"><a href="#cb10-108" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb10-109"><a href="#cb10-109" aria-hidden="true" tabindex="-1"></a><span class="ex">7.</span>  <span class="pp">**</span>Enseignement :<span class="pp">**</span></span>
-<span id="cb10-110"><a href="#cb10-110" aria-hidden="true" tabindex="-1"></a>    <span class="ex">*</span>   <span class="pp">**</span>Ressources pédagogiques interactives :<span class="pp">**</span> Développer des outils </span>
-<span id="cb10-111"><a href="#cb10-111" aria-hidden="true" tabindex="-1"></a><span class="ex">et</span> des méthodes d<span class="st">'enseignement innovants utilisant le numérique.</span></span>
-<span id="cb10-112"><a href="#cb10-112" aria-hidden="true" tabindex="-1"></a><span class="st">    *   **Préservation du savoir :** Numériser les contenus pédagogiques </span></span>
-<span id="cb10-113"><a href="#cb10-113" aria-hidden="true" tabindex="-1"></a><span class="st">pour assurer leur préservation.</span></span>
-<span id="cb10-114"><a href="#cb10-114" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb10-115"><a href="#cb10-115" aria-hidden="true" tabindex="-1"></a><span class="st">En résumé, les humanités numériques servent à :</span></span>
-<span id="cb10-116"><a href="#cb10-116" aria-hidden="true" tabindex="-1"></a><span class="st">*   Explorer de nouvelles formes de culture et d'</span>expression engendrées par </span>
-<span id="cb10-117"><a href="#cb10-117" aria-hidden="true" tabindex="-1"></a><span class="ex">le</span> numérique.</span>
-<span id="cb10-118"><a href="#cb10-118" aria-hidden="true" tabindex="-1"></a><span class="ex">*</span>   Étudier l<span class="st">'impact sociétal des technologies numériques.</span></span>
-<span id="cb10-119"><a href="#cb10-119" aria-hidden="true" tabindex="-1"></a><span class="st">*   Démocratiser l'</span>accès aux connaissances et au patrimoine culturel.</span>
-<span id="cb10-120"><a href="#cb10-120" aria-hidden="true" tabindex="-1"></a><span class="ex">*</span>   Développer de nouvelles méthodes analytiques pour traiter les données </span>
-<span id="cb10-121"><a href="#cb10-121" aria-hidden="true" tabindex="-1"></a><span class="ex">textuelles,</span> visuelles ou sonores issues du numérique ou adaptées à la </span>
-<span id="cb10-122"><a href="#cb10-122" aria-hidden="true" tabindex="-1"></a><span class="ex">recherche</span> humaniste.</span>
-<span id="cb10-123"><a href="#cb10-123" aria-hidden="true" tabindex="-1"></a><span class="ex">*</span>   Innover dans la création artistique/littéraire et le travail </span>
-<span id="cb10-124"><a href="#cb10-124" aria-hidden="true" tabindex="-1"></a><span class="ex">intellectuel.</span></span>
-<span id="cb10-125"><a href="#cb10-125" aria-hidden="true" tabindex="-1"></a><span class="ex">*</span>   Améliorer l<span class="st">'enseignement des humanités.</span></span>
-<span id="cb10-126"><a href="#cb10-126" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb10-127"><a href="#cb10-127" aria-hidden="true" tabindex="-1"></a><span class="st">Elles ne remplacent pas les humanités traditionnelles (lire, analyser, </span></span>
-<span id="cb10-128"><a href="#cb10-128" aria-hidden="true" tabindex="-1"></a><span class="st">interpréter) mais les enrichissent techniquement, méthodologiquement et </span></span>
-<span id="cb10-129"><a href="#cb10-129" aria-hidden="true" tabindex="-1"></a><span class="st">accessiblement.</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb10-51"><a href="#cb10-51" aria-hidden="true" tabindex="-1"></a><span class="st">...done thinking.</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Les <strong>humanités numériques</strong> (ou <em>digital humanities</em>) sont un domaine interdisciplinaire qui combine les méthodes et les approches des humanités traditionnelles avec les technologies numériques.</p>
+<p>Voici leurs principales utilisations et objectifs :</p>
+<ol type="1">
+<li><strong>Étude du numérique lui-même :</strong>
+<ul>
+<li><strong>Analyse des phénomènes numériques culturels :</strong> Examiner comment le numérique influence la création, la distribution, la réception et l’interprétation culturelle (textes, images, sons, films).</li>
+<li><strong>Comprendre les implications sociales :</strong> Explorer comment les technologies numériques modifient nos modes de vie, notre communication, notre accès aux informations, notre travail intellectuel.</li>
+</ul></li>
+<li><strong>Mise à disposition du patrimoine culturel :</strong>
+<ul>
+<li><strong>Numérisation d’archives et manuscrits :</strong> Présenter en ligne des documents historiques, littéraires, artistiques ou musicaux qui seraient autrement difficiles d’accès.</li>
+<li><strong>Accès universelisé :</strong> Rendre le patrimoine culturel accessible à un public plus large, indépendamment de l’endroit ou du moment où il se trouve.</li>
+</ul></li>
+<li><strong>Analyse et recherche avancée :</strong>
+<ul>
+<li><strong>Traitement automatique des textes (text mining) :</strong> Utiliser des logiciels pour analyser des corpus littéraires, historiques ou philosophiques très volumineux (“analyse de fouille de texte”) pour identifier des thèmes, des tendances, des styles stylistiques ou effectuer une cooccurrence.</li>
+<li><strong>Analyse d’images et multimédias :</strong> Développer ou utiliser des outils pour étudier les images numériques (recognition faciale dans l’art classique ? analyse de style visuel ?), le cinéma, la photographie numérique.</li>
+</ul></li>
+<li><strong>Création et innovation :</strong>
+<ul>
+<li><strong>Hypertexte et multimodalité :</strong> Exploiter la nature non linéaire du numérique pour créer de nouvelles formes d’expression artistique ou littéraire (oeuvres hypertextuelles, projets multimodaux).</li>
+<li><strong>Représentation visuelle des données complexes :</strong> Développer des outils pour visualiser graphiquement des concepts humanitaires difficiles à appréhender, comme la chronologie historique, les relations entre personnages dans un texte shakespearien, ou l’évolution d’un corpus linguistique.</li>
+</ul></li>
+<li><strong>Collaboration et partage :</strong>
+<ul>
+<li><strong>Projets collaboratifs en ligne :</strong> Faciliter la collaboration entre chercheurs du monde entier sur des bases de données communes (comme le projet Gallica).</li>
+<li><strong>Veille numérique :</strong> Permettre aux chercheurs d’observer, analyser et documenter l’utilisation publique des technologies numériques.</li>
+</ul></li>
+<li><strong>Rédaction et diffusion électronique :</strong>
+<ul>
+<li><strong>Édition numérique :</strong> Proposer de nouvelles méthodes pour éditer et présenter les textes anciens ou modernes.</li>
+<li><strong>Diffusion des travaux académiques :</strong> Publier des recherches, des conférences ou des ressources pédagogiques numériques en open access.</li>
+</ul></li>
+<li><strong>Enseignement :</strong>
+<ul>
+<li><strong>Ressources pédagogiques interactives :</strong> Développer des outils et des méthodes d’enseignement innovants utilisant le numérique.</li>
+<li><strong>Préservation du savoir :</strong> Numériser les contenus pédagogiques pour assurer leur préservation.</li>
+</ul></li>
+</ol>
+<p>En résumé, les humanités numériques servent à : * Explorer de nouvelles formes de culture et d’expression engendrées par le numérique. * Étudier l’impact sociétal des technologies numériques. * Démocratiser l’accès aux connaissances et au patrimoine culturel. * Développer de nouvelles méthodes analytiques pour traiter les données textuelles, visuelles ou sonores issues du numérique ou adaptées à la recherche humaniste. * Innover dans la création artistique/littéraire et le travail intellectuel. * Améliorer l’enseignement des humanités.</p>
+<p>Elles ne remplacent pas les humanités traditionnelles (lire, analyser, interpréter) mais les enrichissent techniquement, méthodologiquement et accessiblement.</p>
 <ol start="4" type="1">
 <li><strong>Finir une conversation</strong> : Quitter le terminal</li>
 </ol>
@@ -479,7 +462,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <li>proposer la photo aux autres participants pour qu’ils réagissent</li>
 </ol></li>
 </ul>
-<p>L’étape 2. qui consiste à identifier chaque livre présent sur l’étagère est très fastidieux s’il se fait à la main :</p>
+<p>L’étape 2. qui consiste à identifier chaque livre présent sur l’étagère est très fastidieuse si elle se fait à la main :</p>
 <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/wUE-FpwcT20" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 <p>Comment utiliser l’IA pour faire ce travail ?</p>
 <section id="ollama-ocr" class="level4">
@@ -631,13 +614,13 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <li>un traitement de 10 images supplémentaires</li>
 <li>une compilation des listes dans une liste unique sans doublons</li>
 </ul></li>
-<li>on obtient le résultat suivant <a href="https://docs.google.com/spreadsheets/d/1pRQhTsZtlsM1CV2nANeprvEkq6_Ikm16xbo1tRvBqhE/edit?usp=sharing">https://docs.google.com/spreadsheets/d/1pRQhTsZtlsM1CV2nANeprvEkq6_Ikm16xbo1tRvBqhE/edit?usp=sharing</a></li>
+<li>on obtient le résultat suivant <a href="https://docs.google.com/spreadsheets/d/1pRQhTsZtlsM1CV2nANeprvEkq6_Ikm16xbo1tRvBqhE/edit?usp=sharing" class="uri">https://docs.google.com/spreadsheets/d/1pRQhTsZtlsM1CV2nANeprvEkq6_Ikm16xbo1tRvBqhE/edit?usp=sharing</a></li>
 </ul>
 </section>
 <section id="résultats-1" class="level5">
 <h5 class="anchored" data-anchor-id="résultats-1">résultats</h5>
 <ul>
-<li>le processus est payant : 21 € / mois <a href="https://gemini.google/subscriptions/">https://gemini.google/subscriptions/</a></li>
+<li>le processus est payant : 21 € / mois <a href="https://gemini.google/subscriptions/" class="uri">https://gemini.google/subscriptions/</a></li>
 <li>le résultat comporte des erreurs :
 <ul>
 <li>des références n’ont pas été trouvées</li>
@@ -654,7 +637,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <h4 class="anchored" data-anchor-id="cv-book-svg-make-your-bookshelf-clickable">cv-book-svg : Make your bookshelf clickable</h4>
 <p>Use computer vision to generate an SVG that you can overlay onto a photo of your bookshelf that lets you click on each book to find out more information.</p>
 <ul>
-<li><p>pour plus de détails et le processus d’installation cf.&nbsp;<a href="https://github.com/capjamesg/cv-book-svg">https://github.com/capjamesg/cv-book-svg</a></p></li>
+<li><p>pour plus de détails et le processus d’installation cf.&nbsp;<a href="https://github.com/capjamesg/cv-book-svg" class="uri">https://github.com/capjamesg/cv-book-svg</a></p></li>
 <li><p>lancement de la commande avec le lien vers la photo et le résultat</p></li>
 </ul>
 <div class="sourceCode" id="cb14"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb14-1"><a href="#cb14-1" aria-hidden="true" tabindex="-1"></a><span class="bu">cd</span> cv-book-svg</span>
@@ -665,7 +648,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <section id="résultats-2" class="level5">
 <h5 class="anchored" data-anchor-id="résultats-2">résultats</h5>
 <ul>
-<li>le processus est payant : 0,07 $ / image <a href="https://platform.openai.com/settings/organization/usage">https://platform.openai.com/settings/organization/usage</a> Autres coûts : <a href="https://platform.openai.com/docs/pricing">https://platform.openai.com/docs/pricing</a></li>
+<li>le processus est payant : 0,07 $ / image <a href="https://platform.openai.com/settings/organization/usage" class="uri">https://platform.openai.com/settings/organization/usage</a> Autres coûts : <a href="https://platform.openai.com/docs/pricing" class="uri">https://platform.openai.com/docs/pricing</a></li>
 <li>le résultat comporte des erreurs :
 <ul>
 <li>des livres ne sont pas cartographiés,</li>
@@ -703,14 +686,14 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <li><strong>Personnalisation des réponses</strong> : Adaptez les réponses des modèles en fonction du contexte ou des préférences des utilisateurs.</li>
 </ul>
 <p>Pour plus d’informations, consultez la documentation officielle : <a href="https://github.com/Mintplex-Labs/anything-llm">AnythingLLM GitHub</a>.</p>
-<p>Pour installer l’application sur votre machine : - Pour une application autonome : <a href="https://anythingllm.com/desktop">https://anythingllm.com/desktop</a> - Pour une conteneur Docker : <a href="https://hub.docker.com/r/mintplexlabs/anythingllm">https://hub.docker.com/r/mintplexlabs/anythingllm</a></p>
+<p>Pour installer l’application sur votre machine : - Pour une application autonome : <a href="https://anythingllm.com/desktop" class="uri">https://anythingllm.com/desktop</a> - Pour une conteneur Docker : <a href="https://hub.docker.com/r/mintplexlabs/anythingllm" class="uri">https://hub.docker.com/r/mintplexlabs/anythingllm</a></p>
 <section id="exemple-dutilisation-chatbot-avec-rag" class="level4">
 <h4 class="anchored" data-anchor-id="exemple-dutilisation-chatbot-avec-rag">Exemple d’utilisation : chatbot avec RAG</h4>
 <p>AnythingLLM permet de gérer facilement l’ajout de documents pour qu’ils soient pris en compte dans des conversations avec les agents en utilisant des techniques de RAG.</p>
 <section id="quest-ce-que-le-rag" class="level5">
 <h5 class="anchored" data-anchor-id="quest-ce-que-le-rag">Qu’est-ce que le RAG ?</h5>
 <p>RAG (Retrieval-Augmented Generation) est une technique qui combine les capacités des modèles de langage (LLMs) avec des systèmes de récupération d’informations. L’objectif est d’améliorer la pertinence et la précision des réponses générées par les modèles en s’appuyant sur des données externes.</p>
-<p>Pour une veille sur la RAG : <a href="https://www.diigo.com/user/luckysemiosis?query=RAG">https://www.diigo.com/user/luckysemiosis?query=RAG</a></p>
+<p>Pour une veille sur la RAG : <a href="https://www.diigo.com/user/luckysemiosis?query=RAG" class="uri">https://www.diigo.com/user/luckysemiosis?query=RAG</a></p>
 </section>
 <section id="fonctionnement-du-rag" class="level5">
 <h5 class="anchored" data-anchor-id="fonctionnement-du-rag">Fonctionnement du RAG :</h5>
@@ -738,6 +721,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </section>
 <section id="faire-du-rag-avec-anythingllm" class="level5">
 <h5 class="anchored" data-anchor-id="faire-du-rag-avec-anythingllm">Faire du RAG avec AnythingLLM</h5>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/ojkJA3ztnZI" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 </section>
 <section id="ajouter-manuellement-des-documents" class="level5">
 <h5 class="anchored" data-anchor-id="ajouter-manuellement-des-documents">Ajouter manuellement des documents</h5>
@@ -764,16 +748,31 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <figcaption>Diagramme de Flux</figcaption>
 </figure>
 </div>
+</section>
+<section id="utilisation-du-rag-dans-une-application-tierce" class="level6">
+<h6 class="anchored" data-anchor-id="utilisation-du-rag-dans-une-application-tierce">Utilisation du RAG dans une application tierce</h6>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/LLgpSsHHCXY" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+</section>
+</section>
+</section>
+</section>
+<section id="bilans" class="level2">
+<h2 class="anchored" data-anchor-id="bilans">Bilans</h2>
+<p>L’usage de l’IA prends beaucoup de temps pour : - la veille nécessaire pour trouver les bons modèles, les bons outils - pour <em>bricoler</em> une solution en lien avec un projet</p>
+<p>Le passage par des IA de plateforme (ChatGPT, Gemini…) raccourci le temps en échange d’argent.</p>
+<p>Dans le cas, d’un usage lié à la recherche et l’enseignant, ne devons-nous pas transformer le slogan : “Le temps c’est de l’argent” en “Le temps c’est de la connaissance” et par ce choix, mettre de coté les IA de plateforme au profit des IA bricolées localement même si cela prend plus de temps, même si l’efficacité est moins spectaculaire ? Quels pouvoir souhaitons-nous développer ?</p>
 
 
-</section>
-</section>
-</section>
-</section>
+
 </section>
 </section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-levin2024" class="csl-entry" role="listitem">
+Levin, François. 2024. <span>“L’intelligence artificielle au défi de ses critiques philosophiques.”</span> PhD thesis. <a href="https://theses.hal.science/tel-04974628">https://theses.hal.science/tel-04974628</a>.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
