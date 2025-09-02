@@ -201,6 +201,7 @@ div.csl-indent {
   <li><a href="#cas-dutilisation-danythingllm" id="toc-cas-dutilisation-danythingllm" class="nav-link" data-scroll-target="#cas-dutilisation-danythingllm">Cas d’utilisation d’AnythingLLM :</a></li>
   </ul></li>
   <li><a href="#bilans" id="toc-bilans" class="nav-link" data-scroll-target="#bilans">Bilans</a></li>
+  <li><a href="#a-suivre" id="toc-a-suivre" class="nav-link" data-scroll-target="#a-suivre">A suivre</a></li>
   </ul></li>
   </ul>
 <div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="iaSem1.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
@@ -322,7 +323,7 @@ div.csl-indent {
 <li><p><strong>Taille du modèle</strong> : Les modèles plus grands, comme LLaMA 2-13B, offrent généralement de meilleures performances, mais nécessitent plus de ressources (mémoire et puissance de calcul). Si vous travaillez sur une machine avec des ressources limitées, privilégiez un modèle plus léger.</p></li>
 <li><p><strong>Données d’entraînement</strong> : Vérifiez si le modèle a été entraîné sur des données pertinentes pour votre domaine d’application. Par exemple, certains modèles sont spécialisés dans des domaines comme la médecine, le droit, ou la programmation.</p></li>
 <li><p><strong>Licence et restrictions</strong> : Assurez-vous que la licence du modèle est compatible avec votre utilisation (personnelle, académique, ou commerciale).</p></li>
-<li><p><strong>Compatibilité avec Ollama</strong> : Consultez la documentation officielle ou utilisez la commande suivante pour voir les modèles compatibles avec Ollama : https://ollama.com/search](https://ollama.com/search)</p></li>
+<li><p><strong>Compatibilité avec Ollama</strong> : Consultez la documentation officielle ou utilisez la commande suivante pour voir les modèles compatibles avec Ollama : [https://ollama.com/search](https://ollama.com/search)</p></li>
 <li><p><strong>Tests et évaluation</strong> : Une fois le modèle téléchargé, effectuez des tests pour évaluer ses performances sur vos cas d’utilisation spécifiques.</p></li>
 </ol>
 <p>En cas de doute, commencez par un modèle généraliste comme “llama2” et ajustez votre choix en fonction des résultats obtenus.</p>
@@ -397,6 +398,7 @@ div.csl-indent {
 <span id="cb10-49"><a href="#cb10-49" aria-hidden="true" tabindex="-1"></a><span class="st">non une substitution. Cela répond peut-être à un préjugé qui circule sur </span></span>
 <span id="cb10-50"><a href="#cb10-50" aria-hidden="true" tabindex="-1"></a><span class="st">ce sujet.</span></span>
 <span id="cb10-51"><a href="#cb10-51" aria-hidden="true" tabindex="-1"></a><span class="st">...done thinking.</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<blockquote class="blockquote">
 <p>Les <strong>humanités numériques</strong> (ou <em>digital humanities</em>) sont un domaine interdisciplinaire qui combine les méthodes et les approches des humanités traditionnelles avec les technologies numériques.</p>
 <p>Voici leurs principales utilisations et objectifs :</p>
 <ol type="1">
@@ -436,8 +438,19 @@ div.csl-indent {
 <li><strong>Préservation du savoir :</strong> Numériser les contenus pédagogiques pour assurer leur préservation.</li>
 </ul></li>
 </ol>
-<p>En résumé, les humanités numériques servent à : * Explorer de nouvelles formes de culture et d’expression engendrées par le numérique. * Étudier l’impact sociétal des technologies numériques. * Démocratiser l’accès aux connaissances et au patrimoine culturel. * Développer de nouvelles méthodes analytiques pour traiter les données textuelles, visuelles ou sonores issues du numérique ou adaptées à la recherche humaniste. * Innover dans la création artistique/littéraire et le travail intellectuel. * Améliorer l’enseignement des humanités.</p>
+<ul>
+<li>En résumé, les humanités numériques servent à :
+<ul>
+<li>Explorer de nouvelles formes de culture et d’expression engendrées par le numérique.</li>
+<li>Étudier l’impact sociétal des technologies numériques.</li>
+<li>Démocratiser l’accès aux connaissances et au patrimoine culturel.</li>
+<li>Développer de nouvelles méthodes analytiques pour traiter les données textuelles, visuelles ou sonores issues du numérique ou adaptées à la recherche humaniste.</li>
+<li>Innover dans la création artistique/littéraire et le travail intellectuel.</li>
+<li>Améliorer l’enseignement des humanités.</li>
+</ul></li>
+</ul>
 <p>Elles ne remplacent pas les humanités traditionnelles (lire, analyser, interpréter) mais les enrichissent techniquement, méthodologiquement et accessiblement.</p>
+</blockquote>
 <ol start="4" type="1">
 <li><strong>Finir une conversation</strong> : Quitter le terminal</li>
 </ol>
@@ -471,7 +484,14 @@ div.csl-indent {
 <ol type="1">
 <li><p><strong>Installation</strong> : suivre les instructions de cette page : <a href="https://github.com/imanoop7/Ollama-OCR" class="uri">https://github.com/imanoop7/Ollama-OCR</a></p></li>
 <li><p><strong>Créer un script python</strong> : one.py</p></li>
-<li><p><strong>modifier le script python</strong> :</p></li>
+<li><p><strong>modifier le script python</strong> :</p>
+<ul>
+<li><p>Préciser :</p>
+<ul>
+<li><p>l’adresse de l’image <img src="images/PXL_20250225_075552954.MP.jpg" class="img-fluid" alt="Image à traiter"></p></li>
+<li><p>le prompt spécifique.</p></li>
+</ul></li>
+</ul></li>
 </ol>
 <div class="sourceCode" id="cb11"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> ollama_ocr <span class="im">import</span> OCRProcessor</span>
 <span id="cb11-2"><a href="#cb11-2" aria-hidden="true" tabindex="-1"></a></span>
@@ -686,7 +706,13 @@ div.csl-indent {
 <li><strong>Personnalisation des réponses</strong> : Adaptez les réponses des modèles en fonction du contexte ou des préférences des utilisateurs.</li>
 </ul>
 <p>Pour plus d’informations, consultez la documentation officielle : <a href="https://github.com/Mintplex-Labs/anything-llm">AnythingLLM GitHub</a>.</p>
-<p>Pour installer l’application sur votre machine : - Pour une application autonome : <a href="https://anythingllm.com/desktop" class="uri">https://anythingllm.com/desktop</a> - Pour une conteneur Docker : <a href="https://hub.docker.com/r/mintplexlabs/anythingllm" class="uri">https://hub.docker.com/r/mintplexlabs/anythingllm</a></p>
+<ul>
+<li>Pour installer l’application sur votre machine :
+<ul>
+<li>Pour une application autonome : <a href="https://anythingllm.com/desktop" class="uri">https://anythingllm.com/desktop</a></li>
+<li>Pour une conteneur Docker : <a href="https://hub.docker.com/r/mintplexlabs/anythingllm" class="uri">https://hub.docker.com/r/mintplexlabs/anythingllm</a></li>
+</ul></li>
+</ul>
 <section id="exemple-dutilisation-chatbot-avec-rag" class="level4">
 <h4 class="anchored" data-anchor-id="exemple-dutilisation-chatbot-avec-rag">Exemple d’utilisation : chatbot avec RAG</h4>
 <p>AnythingLLM permet de gérer facilement l’ajout de documents pour qu’ils soient pris en compte dans des conversations avec les agents en utilisant des techniques de RAG.</p>
@@ -759,9 +785,39 @@ div.csl-indent {
 </section>
 <section id="bilans" class="level2">
 <h2 class="anchored" data-anchor-id="bilans">Bilans</h2>
-<p>L’usage de l’IA prends beaucoup de temps pour : - la veille nécessaire pour trouver les bons modèles, les bons outils - pour <em>bricoler</em> une solution en lien avec un projet</p>
-<p>Le passage par des IA de plateforme (ChatGPT, Gemini…) raccourci le temps en échange d’argent.</p>
-<p>Dans le cas, d’un usage lié à la recherche et l’enseignant, ne devons-nous pas transformer le slogan : “Le temps c’est de l’argent” en “Le temps c’est de la connaissance” et par ce choix, mettre de coté les IA de plateforme au profit des IA bricolées localement même si cela prend plus de temps, même si l’efficacité est moins spectaculaire ? Quels pouvoir souhaitons-nous développer ?</p>
+<ul>
+<li><p>L’usage de l’IA prends beaucoup de temps pour :</p>
+<ul>
+<li>la veille nécessaire pour trouver :
+<ul>
+<li>les bons modèles,</li>
+<li>les bons outils</li>
+</ul></li>
+<li>pour <em>bricoler</em> une solution en lien avec un projet</li>
+</ul></li>
+<li><p>Le passage par des IA de plateforme (ChatGPT, Gemini…) raccourci le temps nécessaire pour l’usage de l’IA en échange d’argent.</p></li>
+<li><p>Dans le cas, d’un usage lié à la recherche et l’enseignant, devons-nous :</p>
+<ul>
+<li>transformer le slogan :
+<ul>
+<li>“Le temps c’est de l’argent”</li>
+<li>en “Le temps c’est de la connaissance”.</li>
+</ul></li>
+<li>mettre de coté les IA de plateforme au profit des IA bricolées localement
+<ul>
+<li>même si cela prend plus de temps,</li>
+<li>même si l’efficacité est moins spectaculaire</li>
+</ul></li>
+</ul></li>
+</ul>
+<p><span style="font-size:32px;">Quels pouvoirs souhaitons-nous développer ?</span></p>
+</section>
+<section id="a-suivre" class="level2">
+<h2 class="anchored" data-anchor-id="a-suivre">A suivre</h2>
+<ol type="1">
+<li>Développer ses propres modèles</li>
+<li>Mettre en place des processus automatiques utilisant des agents cf.&nbsp;<a href="https://www.diigo.com/user/luckysemiosis?query=agent">Veuille sur les agents</a></li>
+</ol>
 
 
 

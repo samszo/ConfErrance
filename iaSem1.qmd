@@ -115,7 +115,7 @@ Pour choisir un modèle Ollama, il est important de prendre en compte les critè
 
 4.  **Licence et restrictions** : Assurez-vous que la licence du modèle est compatible avec votre utilisation (personnelle, académique, ou commerciale).
 
-5.  **Compatibilité avec Ollama** : Consultez la documentation officielle ou utilisez la commande suivante pour voir les modèles compatibles avec Ollama : https://ollama.com/search\](https://ollama.com/search)
+5.  **Compatibilité avec Ollama** : Consultez la documentation officielle ou utilisez la commande suivante pour voir les modèles compatibles avec Ollama : \[https://ollama.com/search\](https://ollama.com/search)
 
 6.  **Tests et évaluation** : Une fois le modèle téléchargé, effectuez des tests pour évaluer ses performances sur vos cas d'utilisation spécifiques.
 
@@ -201,83 +201,41 @@ ce sujet.
 ...done thinking.
 ```
 
-Les **humanités numériques** (ou *digital humanities*) sont un domaine 
-interdisciplinaire qui combine les méthodes et les approches des humanités 
-traditionnelles avec les technologies numériques.
-
-Voici leurs principales utilisations et objectifs :
-
-1.  **Étude du numérique lui-même :**
-    *   **Analyse des phénomènes numériques culturels :** Examiner comment 
-le numérique influence la création, la distribution, la réception et 
-l'interprétation culturelle (textes, images, sons, films).
-    *   **Comprendre les implications sociales :** Explorer comment les 
-technologies numériques modifient nos modes de vie, notre communication, 
-notre accès aux informations, notre travail intellectuel.
-
-2.  **Mise à disposition du patrimoine culturel :**
-    *   **Numérisation d'archives et manuscrits :** Présenter en ligne des 
-documents historiques, littéraires, artistiques ou musicaux qui seraient 
-autrement difficiles d'accès.
-    *   **Accès universelisé :** Rendre le patrimoine culturel accessible 
-à un public plus large, indépendamment de l'endroit ou du moment où il se 
-trouve.
-
-3.  **Analyse et recherche avancée :**
-    *   **Traitement automatique des textes (text mining) :** Utiliser des 
-logiciels pour analyser des corpus littéraires, historiques ou 
-philosophiques très volumineux ("analyse de fouille de texte") pour 
-identifier des thèmes, des tendances, des styles stylistiques ou effectuer 
-une cooccurrence.
-    *   **Analyse d'images et multimédias :** Développer ou utiliser des 
-outils pour étudier les images numériques (recognition faciale dans l'art 
-classique ? analyse de style visuel ?), le cinéma, la photographie 
-numérique.
-
-4.  **Création et innovation :**
-    *   **Hypertexte et multimodalité :** Exploiter la nature non linéaire 
-du numérique pour créer de nouvelles formes d'expression artistique ou 
-littéraire (oeuvres hypertextuelles, projets multimodaux).
-    *   **Représentation visuelle des données complexes :** Développer des 
-outils pour visualiser graphiquement des concepts humanitaires difficiles 
-à appréhender, comme la chronologie historique, les relations entre 
-personnages dans un texte shakespearien, ou l'évolution d'un corpus 
-linguistique.
-
-5.  **Collaboration et partage :**
-    *   **Projets collaboratifs en ligne :** Faciliter la collaboration 
-entre chercheurs du monde entier sur des bases de données communes (comme 
-le projet Gallica).
-    *   **Veille numérique :** Permettre aux chercheurs d'observer, 
-analyser et documenter l'utilisation publique des technologies numériques.
-
-6.  **Rédaction et diffusion électronique :**
-    *   **Édition numérique :** Proposer de nouvelles méthodes pour éditer 
-et présenter les textes anciens ou modernes.
-    *   **Diffusion des travaux académiques :** Publier des recherches, 
-des conférences ou des ressources pédagogiques numériques en open access.
-
-7.  **Enseignement :**
-    *   **Ressources pédagogiques interactives :** Développer des outils 
-et des méthodes d'enseignement innovants utilisant le numérique.
-    *   **Préservation du savoir :** Numériser les contenus pédagogiques 
-pour assurer leur préservation.
-
-En résumé, les humanités numériques servent à :
-*   Explorer de nouvelles formes de culture et d'expression engendrées par 
-le numérique.
-*   Étudier l'impact sociétal des technologies numériques.
-*   Démocratiser l'accès aux connaissances et au patrimoine culturel.
-*   Développer de nouvelles méthodes analytiques pour traiter les données 
-textuelles, visuelles ou sonores issues du numérique ou adaptées à la 
-recherche humaniste.
-*   Innover dans la création artistique/littéraire et le travail 
-intellectuel.
-*   Améliorer l'enseignement des humanités.
-
-Elles ne remplacent pas les humanités traditionnelles (lire, analyser, 
-interpréter) mais les enrichissent techniquement, méthodologiquement et 
-accessiblement.
+> Les **humanités numériques** (ou *digital humanities*) sont un domaine interdisciplinaire qui combine les méthodes et les approches des humanités traditionnelles avec les technologies numériques.
+>
+> Voici leurs principales utilisations et objectifs :
+>
+> 1.  **Étude du numérique lui-même :**
+>     -   **Analyse des phénomènes numériques culturels :** Examiner comment le numérique influence la création, la distribution, la réception et l'interprétation culturelle (textes, images, sons, films).
+>     -   **Comprendre les implications sociales :** Explorer comment les technologies numériques modifient nos modes de vie, notre communication, notre accès aux informations, notre travail intellectuel.
+> 2.  **Mise à disposition du patrimoine culturel :**
+>     -   **Numérisation d'archives et manuscrits :** Présenter en ligne des documents historiques, littéraires, artistiques ou musicaux qui seraient autrement difficiles d'accès.
+>     -   **Accès universelisé :** Rendre le patrimoine culturel accessible à un public plus large, indépendamment de l'endroit ou du moment où il se trouve.
+> 3.  **Analyse et recherche avancée :**
+>     -   **Traitement automatique des textes (text mining) :** Utiliser des logiciels pour analyser des corpus littéraires, historiques ou philosophiques très volumineux ("analyse de fouille de texte") pour identifier des thèmes, des tendances, des styles stylistiques ou effectuer une cooccurrence.
+>     -   **Analyse d'images et multimédias :** Développer ou utiliser des outils pour étudier les images numériques (recognition faciale dans l'art classique ? analyse de style visuel ?), le cinéma, la photographie numérique.
+> 4.  **Création et innovation :**
+>     -   **Hypertexte et multimodalité :** Exploiter la nature non linéaire du numérique pour créer de nouvelles formes d'expression artistique ou littéraire (oeuvres hypertextuelles, projets multimodaux).
+>     -   **Représentation visuelle des données complexes :** Développer des outils pour visualiser graphiquement des concepts humanitaires difficiles à appréhender, comme la chronologie historique, les relations entre personnages dans un texte shakespearien, ou l'évolution d'un corpus linguistique.
+> 5.  **Collaboration et partage :**
+>     -   **Projets collaboratifs en ligne :** Faciliter la collaboration entre chercheurs du monde entier sur des bases de données communes (comme le projet Gallica).
+>     -   **Veille numérique :** Permettre aux chercheurs d'observer, analyser et documenter l'utilisation publique des technologies numériques.
+> 6.  **Rédaction et diffusion électronique :**
+>     -   **Édition numérique :** Proposer de nouvelles méthodes pour éditer et présenter les textes anciens ou modernes.
+>     -   **Diffusion des travaux académiques :** Publier des recherches, des conférences ou des ressources pédagogiques numériques en open access.
+> 7.  **Enseignement :**
+>     -   **Ressources pédagogiques interactives :** Développer des outils et des méthodes d'enseignement innovants utilisant le numérique.
+>     -   **Préservation du savoir :** Numériser les contenus pédagogiques pour assurer leur préservation.
+>
+> -   En résumé, les humanités numériques servent à :
+>     -   Explorer de nouvelles formes de culture et d'expression engendrées par le numérique.
+>     -   Étudier l'impact sociétal des technologies numériques.
+>     -   Démocratiser l'accès aux connaissances et au patrimoine culturel.
+>     -   Développer de nouvelles méthodes analytiques pour traiter les données textuelles, visuelles ou sonores issues du numérique ou adaptées à la recherche humaniste.
+>     -   Innover dans la création artistique/littéraire et le travail intellectuel.
+>     -   Améliorer l'enseignement des humanités.
+>
+> Elles ne remplacent pas les humanités traditionnelles (lire, analyser, interpréter) mais les enrichissent techniquement, méthodologiquement et accessiblement.
 
 4.  **Finir une conversation** : Quitter le terminal
 
@@ -312,6 +270,12 @@ Comment utiliser l'IA pour faire ce travail ?
 2.  **Créer un script python** : one.py
 
 3.  **modifier le script python** :
+
+    -   Préciser :
+
+        -   l'adresse de l'image ![Image à traiter](images/PXL_20250225_075552954.MP.jpg)
+
+        -   le prompt spécifique.
 
 ``` python
 from ollama_ocr import OCRProcessor
@@ -507,7 +471,9 @@ AnythingLLM est une plateforme qui permet de déployer et d'exploiter des modèl
 
 Pour plus d'informations, consultez la documentation officielle : [AnythingLLM GitHub](https://github.com/Mintplex-Labs/anything-llm).
 
-Pour installer l'application sur votre machine : - Pour une application autonome : <https://anythingllm.com/desktop> - Pour une conteneur Docker : <https://hub.docker.com/r/mintplexlabs/anythingllm>
+-   Pour installer l'application sur votre machine :
+    -   Pour une application autonome : <https://anythingllm.com/desktop>
+    -   Pour une conteneur Docker : <https://hub.docker.com/r/mintplexlabs/anythingllm>
 
 #### Exemple d'utilisation : chatbot avec RAG
 
@@ -566,15 +532,29 @@ Pour plus d'informations : [https://docs.google.com/document/d/1uqB_7DApJItX4Jon
 
 {{< video https://youtu.be/LLgpSsHHCXY >}}
 
-
 ## Bilans
 
-L'usage de l'IA prends beaucoup de temps pour :
-- la veille nécessaire pour trouver les bons modèles, les bons outils
-- pour *bricoler* une solution en lien avec un projet
+-   L'usage de l'IA prends beaucoup de temps pour :
 
-Le passage par des IA de plateforme (ChatGPT, Gemini...) raccourci le temps en échange d'argent.
+    -   la veille nécessaire pour trouver :
+        -   les bons modèles,
+        -   les bons outils
+    -   pour *bricoler* une solution en lien avec un projet
 
-Dans le cas, d'un usage lié à la recherche et l'enseignant, ne devons-nous pas transformer le slogan : "Le temps c'est de l'argent" en "Le temps c'est de la connaissance" et par ce choix, mettre de coté les IA de plateforme au profit des IA bricolées localement même si cela prend plus de temps, même si l'efficacité est moins spectaculaire ?
-Quels pouvoir souhaitons-nous développer ?
+-   Le passage par des IA de plateforme (ChatGPT, Gemini...) raccourci le temps nécessaire pour l'usage de l'IA en échange d'argent.
 
+-   Dans le cas, d'un usage lié à la recherche et l'enseignant, devons-nous :
+
+    -   transformer le slogan :
+        -   "Le temps c'est de l'argent"
+        -   en "Le temps c'est de la connaissance".
+    -   mettre de coté les IA de plateforme au profit des IA bricolées localement
+        -   même si cela prend plus de temps,
+        -   même si l'efficacité est moins spectaculaire.
+
+[Quels pouvoirs souhaitons-nous développer ?]{style="font-size:32px;"}
+
+## A suivre
+
+1.  Développer ses propres modèles
+2.  Mettre en place des processus automatiques utilisant des agents cf. [Veuille sur les agents](https://www.diigo.com/user/luckysemiosis?query=agent)
