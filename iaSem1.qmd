@@ -115,13 +115,12 @@ Pour choisir un modèle Ollama, il est important de prendre en compte les critè
 
 4.  **Licence et restrictions** : Assurez-vous que la licence du modèle est compatible avec votre utilisation (personnelle, académique, ou commerciale).
 
-5.  **Compatibilité avec Ollama** : Consultez la documentation officielle ou utilisez la commande suivante pour voir les modèles compatibles avec Ollama : \[https://ollama.com/search\](https://ollama.com/search)
+5.  **Compatibilité avec Ollama** : Consultez la documentation officielle ou utilisez la commande suivante pour voir les modèles compatibles avec Ollama : [https://ollama.com/search](https://ollama.com/search)
 
 6.  **Tests et évaluation** : Une fois le modèle téléchargé, effectuez des tests pour évaluer ses performances sur vos cas d'utilisation spécifiques.
 
 En cas de doute, commencez par un modèle généraliste comme "llama2" et ajustez votre choix en fonction des résultats obtenus.
 
-Pour plus d'infos cf. [https://shs.cairn.info/revue-francaise-de-sociologie-2014-3-page-563?lang=fr]()
 
 ## Usages et limites
 
@@ -557,4 +556,4 @@ Pour plus d'informations : [https://docs.google.com/document/d/1uqB_7DApJItX4Jon
 ## A suivre
 
 1.  Développer ses propres modèles
-2.  Mettre en place des processus automatiques utilisant des agents cf. [Veuille sur les agents](https://www.diigo.com/user/luckysemiosis?query=agent)
+2.  Mettre en place des processus automatiques utilisant des agents cf. [Veille sur les agents](https://www.diigo.com/user/luckysemiosis?query=agent)
