@@ -1,0 +1,63 @@
+---
+title: "SOCIN’ 25 - Mapping Memories"
+author:
+  - name: Samuel Szoniecky
+    orcid: 0000-0002-7643-3342
+    affiliations:
+      - name: Laboratoire Paragraphe - Université Paris 8
+        city: Saint Denis
+        state: France
+  - name: Elen Riot
+    orcid: 0000-0003-4566-0996
+    affiliations:
+      - name: Laboratoire d'Economie Dyonisien - Université Paris 8
+        city: Saint Denis
+        state: France
+  - name: Khaldoun Zreik
+    orcid: 0000-0002-6307-1717
+    affiliations:
+      - name: Laboratoire Paragraphe - Université Paris 8
+        city: Saint Denis
+        state: France
+  - name: Imad Saleh
+    orcid: 0000-0001-5093-6497
+    affiliations:
+      - name: Laboratoire Paragraphe - Université Paris 8
+        city: Saint Denis
+        state: France
+bibliography: ref_SOCIN25_propSamSzo.bib
+format:
+  wordcount-html:
+    toc: true
+    comments:
+      hypothesis: true
+    fig-align: center
+    cap-location: margin
+---
+
+# SOCIN 2025 - Rethinking Innovation : Inclusive Practices and Interdisciplinary Perspectives
+<a href="https://socin2025.it/" target="_blank">Conference website</a>
+
+**September 23-25, 2025 Macerata, Italy**
+
+## Mapping Memories for an Archeology of Creations at Paris 8: Designing a Digital Environment for Capturing Memories and Exploring Memorial Narratives
+
+### Presentation
+
+[View in full screen](freloche/slide.html)
+
+```{=html}
+<iframe width="800" height="600" src="freloche/slide.html" title="Presentation support"></iframe>
+```
+
+### Abstract
+
+The Vincennes experimental center has been the subject of several publications [@soulié2012; @merlin1979; @merlin1980; @ohayon2022; @grésillon2021], a thesis [@dormoy-rajramanan2014], a documentary film [@sluys2018], a radio broadcast [@mauduit]… After its relocation to the university in Saint-Denis, the center continued its activities. However, this continuation remains much less documented and seems neglected to this day: it is as if Vincennes only lived through the memory of the 68s. The objective of this research is therefore to explore the memory of the actors of this experimental project since then, from generation to generation, from Franck Popper [@nechvatal2004] to the present day, passing through Jean-Pierre Balpe, Marie-Hélène Tramus and Jean-Louis Boissier, moving beyond the walls in time and space [@riot2009]. Our focus is on the field of digital creation [@eymet2016] which, through disciplines not yet taught at the university in the 80s such as hypermedia and artificial intelligence, forges [@citton2010] a path in the academic sphere until today even as Paris 8 proclaims itself "the university of creations".
+
+We conceive this project in an exploratory and interdisciplinary approach that aims to develop an editorial environment by collecting traces and cross-referencing points of view.
+
+We have shown how this type of editorial approach oscillates between a desire to express formally interoperable facts to build a logical argument and that of a more intuitive expression driven by creative inspiration and going through expressiveness and emotions [@szoniecky2019]. In the project we are dealing with here, these two modes of editorialization are combined through mapping, a formal exercise, and the memory expressed in situ in an intuitive way. Thus, the edited contents are interoperable without constraining the spontaneity of the testimonies.
+
+Another very important point is the role of human intelligence in connection with artificial intelligence (Andler, 2023) which can bring about collective intelligence [@lévy2011; @surowiecki2008], an ethics of discussion [@habermas2013] and ecologically responsible uses [@lefevre2023] if the collective construction of common issues guides practices.
+
+A first version of this editorial environment will have been tested during the colloquium dedicated to the work of Jean-Pierre Balpe on June 12 and 13, 2025 (<https://balpe2025.sciencesconf.org/>). It will be based on a digital device called "Freloche" which stages the analogy of the garden and butterfly hunting to stimulate the memorial reactions of the colloquium participants with images from digitized collections, notably those of Paris 8 (<https://octaviana.fr/>). The objective is to initiate a dialogue through time (mellification) which takes several forms: focus groups, individual interviews. We wish to experiment with a new version of this environment by exploring this time the movement through space (pollination), during the SOCIN 2025 "Rethinking Innovation" conference to broaden the network of actors and the potential for expressing a common memory.
