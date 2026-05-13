@@ -34,9 +34,11 @@ format:
     number-sections: false
 ---
 
-|     |     |     |
-|-----|-----|-----|
-|     |     |     |
+
+| ![](docs/img/logo_paris8_Couleurs.png){height=100} | ![](docs/img/logo-para-outlines.png){height=100} | ![](images/qrcode_samszo.github.io_DTDM-Athenes-2026.png){height=120} |
+|-----------|-----------|-----------|
+
+
 
 # DTDM Athenes 2026
 
@@ -55,6 +57,14 @@ Digital Transformation Design & Management : Launch of the international Mester'
 #### The symbiosis between humans, AI agents and Gaïa
 
 The critical challenge of the symbiosis between humans, AI agents, and the environment lies in designing technological ecosystems that **augment human capabilities** and promote **ecological regeneration**, ensuring that artificial intelligence serves as a catalyst for sustainable coexistence rather than a **driver of exploitation**.
+
+![](images/HumainIaGaiia.png)
+
+#### Modeling informational existences
+
+![Topos of an existence](images/ModelExistence.png)
+
+![Chora of an existence](https://samszo.jardindesconnaissances.fr/ConfErrance/img/localhost_samszo_HDR_pulsationsExistentielles.html.png)
 
 [Sources](https://notebooklm.google.com/notebook/980d718e-656e-4b37-93fd-0b9d047c9620)
 
@@ -107,8 +117,21 @@ The Gemini AI calculates the relationship between the conference profile and a r
 [Web applications to assess the evolution of power for an existence](https://acehn.jardindesconnaissances.fr/pulsationsExistentielles/index.html)
 
 
-### Samuel Szoniecky - Biography
+### To be continued.
+There is much work to be done to enable everyone to assess the increase or decrease in their own fundamental capacities :
 
-Following research in art history (1995 DEA/post-graduate diploma on John Cage) and self-taught training in digital development, Samuel Szoniecky pursued a career as an IT engineer for major corporate accounts, followed by roles as a project manager and entrepreneur. Since 2006, he has focused his work on research and teaching at Paris 8 University within the Paragraphe laboratory, where he became an Associate Professor in Information and Communication Sciences in 2013. He explores knowledge design methods for the development of collective intelligence, centered on stimulating, expressing, and sharing individual intelligences.
+- discernment,
 
-[More details](https://cv.hal.science/samuel-szoniecky)
+- reasoning,
+
+- resonance, 
+
+- action.
+
+It is possible to gather all this personal information, but should we ? 
+
+How ? 
+
+The DTDM Master's program is the space where these questions can be addressed and future citizens can answer them... 
+
+I hope...
