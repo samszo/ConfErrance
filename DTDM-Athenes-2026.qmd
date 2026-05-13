@@ -1,0 +1,114 @@
+---
+bibliography: ref_DTD-Athenes-2026.bib
+lightbox: true
+title: "DTDM Athenes 2026"
+subtitle: Sustainable Digital Design & Ethical Technology
+date: "2026/05/13"
+author:
+  - name: Samuel Szoniecky
+    affiliation: Laboratoire Paragraphe - Université Paris 8
+    orcid: 0000-0002-7643-3342
+
+citeproc: true
+
+number-sections: true
+
+format: 
+  html: 
+    theme: default
+    search: true
+    toc: true
+    number-sections: false
+    number-depth: 4
+    comments:
+      hypothesis: true
+
+  pdf: 
+    documentclass: scrreprt
+    papersize: A4    
+    geometry:
+          - top=30mm
+          - left=20mm
+          - heightrounded
+    toc: false
+    number-sections: false
+---
+
+|     |     |     |
+|-----|-----|-----|
+|     |     |     |
+
+# DTDM Athenes 2026
+
+Digital Transformation Design & Management : Launch of the international Mester's Programme
+
+## Sustainable Digital Design & Ethical Technology
+
+### What is Sustainable Digital Design ?
+
+#### Guattari’s Ecosophy: The Three Ecologies and Epistemic Transversality
+
+![](images/Guattari3Ecologies.png)
+
+[Sources](https://notebooklm.google.com/notebook/e867d10b-e25c-403a-b6cc-2b23b244644c)
+
+#### The symbiosis between humans, AI agents and Gaïa
+
+The critical challenge of the symbiosis between humans, AI agents, and the environment lies in designing technological ecosystems that **augment human capabilities** and promote **ecological regeneration**, ensuring that artificial intelligence serves as a catalyst for sustainable coexistence rather than a **driver of exploitation**.
+
+[Sources](https://notebooklm.google.com/notebook/980d718e-656e-4b37-93fd-0b9d047c9620)
+
+### What is Ethics ?
+
+![](https://samszo.github.io/ConfErrance/img/DeleuzeEnCours.jpg)
+
+```         
+The point of view of ethics is: what are you capable of, what can you do ?
+```
+
+### Why Ethical Technology is an ethical issue ?
+
+![](https://samszo.github.io/ConfErrance/img/agents-autonomes.png)
+
+#### Examples of what can be done ?
+
+Some examples of AI use in academic work.
+
+##### Generate proposals for interventions in a conference
+
+The Gemini AI calculates the relationship between the conference profile and a researcher's profile; an algorithm calculates the Markdown pages and generates a website.
+
+1.  [Conference digital borders](https://humanum-p8.fr/conferences/frontieres-numeriques_2026/docs/)
+
+2.  [Use Scanr information](https://scanr.enseignementsup-recherche.gouv.fr/authors/idref182295591)
+
+3.  [Program for Conference digital borders](https://humanum-p8.fr/conferences/frontieres-numeriques_2026/docs/programme.html)
+
+##### Calculate the convergence between university research schools and laboratory axes
+
+1.  [Use Scanr information](https://scanr.enseignementsup-recherche.gouv.fr/authors/idref182295591)
+
+2.  [Albert IA](https://www.numerique.gouv.fr/offre-accompagnement/expertise-albert-ia-etat/)
+
+3.  ![Validate the convergence between university research schools and laboratory priorities](images/ConvergenceEUR.png)
+
+4.  [Validation system](https://valorisation.humanum-p8.fr/s/cartoexpert/page/test-expertises)
+
+##### Create creative applications without needing extensive computer programming knowledge.
+
+![Poeme Balises](images/PoemeBalise.png)
+
+[Wiki My Pedia](https://vascomo.github.io/wiki-my-pedia/wikidata-search.html)
+
+[Master 1 projects](https://humanites-numeriques-universite-paris-8.github.io/Net1_25-26_dev/cours3.html)
+
+### How to model the increase and decrease of power for a specific mode of existence ?
+
+[Web applications to assess the evolution of power for an existence](https://acehn.jardindesconnaissances.fr/pulsationsExistentielles/index.html)
+
+
+### Samuel Szoniecky - Biography
+
+Following research in art history (1995 DEA/post-graduate diploma on John Cage) and self-taught training in digital development, Samuel Szoniecky pursued a career as an IT engineer for major corporate accounts, followed by roles as a project manager and entrepreneur. Since 2006, he has focused his work on research and teaching at Paris 8 University within the Paragraphe laboratory, where he became an Associate Professor in Information and Communication Sciences in 2013. He explores knowledge design methods for the development of collective intelligence, centered on stimulating, expressing, and sharing individual intelligences.
+
+[More details](https://cv.hal.science/samuel-szoniecky)

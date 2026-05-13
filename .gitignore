@@ -10,3 +10,5 @@ docs/balpe2025/._.DS_Store
 docs/balpe2025/._dessin.svg
 docs/balpe2025/._hdrSamSzo.svg
 docs/balpe2025/._hdrSamSzo1.svg
+
+**/*.quarto_ipynb
