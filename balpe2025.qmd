@@ -22,15 +22,6 @@ format:
     comments:
       hypothesis: true
 
-  pdf: 
-    documentclass: scrreprt
-    papersize: A4    
-    geometry:
-          - top=30mm
-          - left=20mm
-          - heightrounded
-    toc: false
-    number-sections: false
 ---
 
 | ![](docs/img/logo_paris8_Couleurs.png){height=100} | ![](docs/img/logo-para-outlines.png){height=100} | ![](balpe2025/qrcode_samszo.github.io.png){height=120} |

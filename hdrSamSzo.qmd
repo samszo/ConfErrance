@@ -24,15 +24,6 @@ format:
     comments:
       hypothesis: true
 
-  pdf: 
-    documentclass: scrreprt
-    papersize: A4    
-    geometry:
-          - top=30mm
-          - left=20mm
-          - heightrounded
-    toc: false
-    number-sections: false
 ---
 
 ## Université Vincennes - Saint-Denis Paris 8

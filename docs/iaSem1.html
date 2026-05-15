@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.31">
+<meta name="generator" content="quarto-1.8.26">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -89,14 +89,15 @@ div.csl-indent {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-a14e3238c51140e99ccc48519b6ed9ce.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-ff63373b1067ca6f91cf1456aa1f00a2.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
 <link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
@@ -160,10 +161,6 @@ div.csl-indent {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./arcanes2023.html"> 
-<span class="menu-text">Arcanes 2023</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="./hdrSamSzo.html"> 
 <span class="menu-text">Dossier d’Habilitation à Diriger des Recherches en Sciences de l’Information et de la Communication.</span></a>
   </li>  
@@ -204,7 +201,7 @@ div.csl-indent {
   <li><a href="#a-suivre" id="toc-a-suivre" class="nav-link" data-scroll-target="#a-suivre">A suivre</a></li>
   </ul></li>
   </ul>
-<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="iaSem1.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -289,15 +286,15 @@ div.csl-indent {
 <h4 class="anchored" data-anchor-id="installation-via-la-ligne-de-commande-pour-les-utilisateurs-avancés">Installation via la ligne de commande (pour les utilisateurs avancés)</h4>
 <ul>
 <li><p><strong>macOS (Homebrew) :</strong></p>
-<div class="sourceCode" id="cb1"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="ex">brew</span> install ollama</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div></li>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="ex">brew</span> install ollama</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div></li>
 <li><p><strong>Linux (script officiel) :</strong></p>
-<div class="sourceCode" id="cb2"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="ex">curl</span> <span class="at">-fsSL</span> https://ollama.com/install.sh <span class="kw">|</span> <span class="fu">sh</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div></li>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="ex">curl</span> <span class="at">-fsSL</span> https://ollama.com/install.sh <span class="kw">|</span> <span class="fu">sh</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div></li>
 <li><p><strong>Windows :</strong> Téléchargez l’installateur depuis le site officiel et exécutez-le.</p></li>
 </ul>
 </section>
 <section id="test-dinstallation" class="level4">
 <h4 class="anchored" data-anchor-id="test-dinstallation">Test d’installation</h4>
-<div class="sourceCode" id="cb3"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="ex">ollama</span> <span class="at">--version</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="ex">ollama</span> <span class="at">--version</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </section>
 </section>
 <section id="chargement-des-modèles" class="level3">
@@ -305,14 +302,14 @@ div.csl-indent {
 <ul>
 <li>Exemple : Pour charger un modèle spécifique, utilisez la commande suivante :</li>
 </ul>
-<div class="sourceCode" id="cb4"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="ex">ollama</span> pull <span class="op">&lt;</span>nom_du_modèle<span class="op">&gt;</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb4"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="ex">ollama</span> pull <span class="op">&lt;</span>nom_du_modèle<span class="op">&gt;</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <ul>
 <li>Exemple : pour charger le modèle “llama2”</li>
 </ul>
-<div class="sourceCode" id="cb5"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="ex">ollama</span> pull llama2</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb5"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="ex">ollama</span> pull llama2</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <section id="liste-des-modèles-disponibles-sur-votre-machine" class="level4">
 <h4 class="anchored" data-anchor-id="liste-des-modèles-disponibles-sur-votre-machine">Liste des modèles disponibles sur votre machine</h4>
-<div class="sourceCode" id="cb6"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="ex">ollama</span> list</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb6"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="ex">ollama</span> list</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </section>
 </section>
 <section id="quel-modèle-choisir" class="level3">
@@ -323,11 +320,10 @@ div.csl-indent {
 <li><p><strong>Taille du modèle</strong> : Les modèles plus grands, comme LLaMA 2-13B, offrent généralement de meilleures performances, mais nécessitent plus de ressources (mémoire et puissance de calcul). Si vous travaillez sur une machine avec des ressources limitées, privilégiez un modèle plus léger.</p></li>
 <li><p><strong>Données d’entraînement</strong> : Vérifiez si le modèle a été entraîné sur des données pertinentes pour votre domaine d’application. Par exemple, certains modèles sont spécialisés dans des domaines comme la médecine, le droit, ou la programmation.</p></li>
 <li><p><strong>Licence et restrictions</strong> : Assurez-vous que la licence du modèle est compatible avec votre utilisation (personnelle, académique, ou commerciale).</p></li>
-<li><p><strong>Compatibilité avec Ollama</strong> : Consultez la documentation officielle ou utilisez la commande suivante pour voir les modèles compatibles avec Ollama : [https://ollama.com/search](https://ollama.com/search)</p></li>
+<li><p><strong>Compatibilité avec Ollama</strong> : Consultez la documentation officielle ou utilisez la commande suivante pour voir les modèles compatibles avec Ollama : <a href="https://ollama.com/search">https://ollama.com/search</a></p></li>
 <li><p><strong>Tests et évaluation</strong> : Une fois le modèle téléchargé, effectuez des tests pour évaluer ses performances sur vos cas d’utilisation spécifiques.</p></li>
 </ol>
 <p>En cas de doute, commencez par un modèle généraliste comme “llama2” et ajustez votre choix en fonction des résultats obtenus.</p>
-<p>Pour plus d’infos cf.&nbsp;<a href="">https://shs.cairn.info/revue-francaise-de-sociologie-2014-3-page-563?lang=fr</a></p>
 </section>
 </section>
 <section id="usages-et-limites" class="level2">
@@ -337,17 +333,17 @@ div.csl-indent {
 <ol type="1">
 <li><strong>lancer ollama</strong> :</li>
 </ol>
-<div class="sourceCode" id="cb7"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="ex">ollama</span> serve</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb7"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="ex">ollama</span> serve</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <ol start="2" type="1">
 <li><strong>Utiliser un modèle</strong> :</li>
 </ol>
-<div class="sourceCode" id="cb8"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="ex">ollama</span> run deepseek-r1</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb8"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="ex">ollama</span> run deepseek-r1</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <ol start="3" type="1">
 <li><strong>Commencer une conversation</strong> :</li>
 </ol>
-<div class="sourceCode" id="cb9"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a><span class="ex">A</span> quoi servent les humanités numériques <span class="pp">?</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb9"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a><span class="ex">A</span> quoi servent les humanités numériques <span class="pp">?</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <p>La réponse s’affiche dans le terminal :</p>
-<div class="sourceCode" id="cb10"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a><span class="ex">Thinking...</span></span>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb10"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a><span class="ex">Thinking...</span></span>
 <span id="cb10-2"><a href="#cb10-2" aria-hidden="true" tabindex="-1"></a><span class="ex">Hmm,</span> l<span class="st">'utilisateur demande à quoi servent les humanités numériques. C'</span>est </span>
 <span id="cb10-3"><a href="#cb10-3" aria-hidden="true" tabindex="-1"></a><span class="ex">une</span> question assez large mais pertinente sur un domaine émergent dans le </span>
 <span id="cb10-4"><a href="#cb10-4" aria-hidden="true" tabindex="-1"></a><span class="ex">monde</span> académique.</span>
@@ -397,7 +393,7 @@ div.csl-indent {
 <span id="cb10-48"><a href="#cb10-48" aria-hidden="true" tabindex="-1"></a><span class="ex">pas</span> la lecture physique ou le travail manuel <span class="at">-</span> c<span class="st">'est une complémentation, </span></span>
 <span id="cb10-49"><a href="#cb10-49" aria-hidden="true" tabindex="-1"></a><span class="st">non une substitution. Cela répond peut-être à un préjugé qui circule sur </span></span>
 <span id="cb10-50"><a href="#cb10-50" aria-hidden="true" tabindex="-1"></a><span class="st">ce sujet.</span></span>
-<span id="cb10-51"><a href="#cb10-51" aria-hidden="true" tabindex="-1"></a><span class="st">...done thinking.</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb10-51"><a href="#cb10-51" aria-hidden="true" tabindex="-1"></a><span class="st">...done thinking.</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <blockquote class="blockquote">
 <p>Les <strong>humanités numériques</strong> (ou <em>digital humanities</em>) sont un domaine interdisciplinaire qui combine les méthodes et les approches des humanités traditionnelles avec les technologies numériques.</p>
 <p>Voici leurs principales utilisations et objectifs :</p>
@@ -493,7 +489,7 @@ div.csl-indent {
 </ul></li>
 </ul></li>
 </ol>
-<div class="sourceCode" id="cb11"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> ollama_ocr <span class="im">import</span> OCRProcessor</span>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb11"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> ollama_ocr <span class="im">import</span> OCRProcessor</span>
 <span id="cb11-2"><a href="#cb11-2" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb11-3"><a href="#cb11-3" aria-hidden="true" tabindex="-1"></a><span class="co"># Initialize OCR processor</span></span>
 <span id="cb11-4"><a href="#cb11-4" aria-hidden="true" tabindex="-1"></a>ocr <span class="op">=</span> OCRProcessor(model_name<span class="op">=</span><span class="st">'llama3.2-vision:11b'</span>)  <span class="co"># You can use any vision model available on Ollama</span></span>
@@ -505,15 +501,15 @@ div.csl-indent {
 <span id="cb11-10"><a href="#cb11-10" aria-hidden="true" tabindex="-1"></a>    custom_prompt<span class="op">=</span><span class="st">"Extract all text, focusing on names or book title."</span>, <span class="co"># Optional custom prompt</span></span>
 <span id="cb11-11"><a href="#cb11-11" aria-hidden="true" tabindex="-1"></a>    language<span class="op">=</span><span class="st">"French"</span> <span class="co"># Specify the language of the text</span></span>
 <span id="cb11-12"><a href="#cb11-12" aria-hidden="true" tabindex="-1"></a>)</span>
-<span id="cb11-13"><a href="#cb11-13" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(result)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb11-13"><a href="#cb11-13" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(result)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <ol start="4" type="1">
 <li><strong>Executer le script python</strong> :</li>
 </ol>
-<div class="sourceCode" id="cb12"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb12-1"><a href="#cb12-1" aria-hidden="true" tabindex="-1"></a><span class="ex">python</span> one.py</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb12"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb12-1"><a href="#cb12-1" aria-hidden="true" tabindex="-1"></a><span class="ex">python</span> one.py</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <ol start="5" type="1">
 <li><strong>Le résultat s’affiche dans le terminal</strong> :</li>
 </ol>
-<div class="sourceCode" id="cb13"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true" tabindex="-1"></a><span class="ex">The</span> image presents a black-and-white photograph of a bookshelf, showcasing a collection of books with their spines facing outward. The books are arranged in a row, with some titles and authors visible, while others are not.</span>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb13"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true" tabindex="-1"></a><span class="ex">The</span> image presents a black-and-white photograph of a bookshelf, showcasing a collection of books with their spines facing outward. The books are arranged in a row, with some titles and authors visible, while others are not.</span>
 <span id="cb13-2"><a href="#cb13-2" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb13-3"><a href="#cb13-3" aria-hidden="true" tabindex="-1"></a><span class="ex">Here</span> is the list of books extracted from the image:</span>
 <span id="cb13-4"><a href="#cb13-4" aria-hidden="true" tabindex="-1"></a></span>
@@ -582,7 +578,7 @@ div.csl-indent {
 <span id="cb13-67"><a href="#cb13-67" aria-hidden="true" tabindex="-1"></a><span class="ex">*</span>   <span class="st">"La Couleur Des Idees"</span> by Yves Citton</span>
 <span id="cb13-68"><a href="#cb13-68" aria-hidden="true" tabindex="-1"></a><span class="ex">*</span>   <span class="st">"Bibliothèque Idées"</span> by Hans Robert Jauß</span>
 <span id="cb13-69"><a href="#cb13-69" aria-hidden="true" tabindex="-1"></a><span class="ex">*</span>   <span class="st">"La Vie Algorithmique"</span> by Éric Sabir</span>
-<span id="cb13-70"><a href="#cb13-70" aria-hidden="true" tabindex="-1"></a><span class="ex">*</span>   <span class="st">"Pour Une Ecologie de L'attention"</span> by Yves Citton</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb13-70"><a href="#cb13-70" aria-hidden="true" tabindex="-1"></a><span class="ex">*</span>   <span class="st">"Pour Une Ecologie de L'attention"</span> by Yves Citton</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <section id="résultats" class="level5">
 <h5 class="anchored" data-anchor-id="résultats">résultats</h5>
 <ul>
@@ -660,8 +656,8 @@ div.csl-indent {
 <li><p>pour plus de détails et le processus d’installation cf.&nbsp;<a href="https://github.com/capjamesg/cv-book-svg" class="uri">https://github.com/capjamesg/cv-book-svg</a></p></li>
 <li><p>lancement de la commande avec le lien vers la photo et le résultat</p></li>
 </ul>
-<div class="sourceCode" id="cb14"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb14-1"><a href="#cb14-1" aria-hidden="true" tabindex="-1"></a><span class="bu">cd</span> cv-book-svg</span>
-<span id="cb14-2"><a href="#cb14-2" aria-hidden="true" tabindex="-1"></a><span class="ex">python3</span> grounded.py <span class="at">--image</span><span class="op">=</span>/Users/samszo/Sites/freloche/files/Photos-1-001/PXL_20250225_074724229.jpg <span class="at">--output</span><span class="op">=</span>annotation1.html</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb14"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb14-1"><a href="#cb14-1" aria-hidden="true" tabindex="-1"></a><span class="bu">cd</span> cv-book-svg</span>
+<span id="cb14-2"><a href="#cb14-2" aria-hidden="true" tabindex="-1"></a><span class="ex">python3</span> grounded.py <span class="at">--image</span><span class="op">=</span>/Users/samszo/Sites/freloche/files/Photos-1-001/PXL_20250225_074724229.jpg <span class="at">--output</span><span class="op">=</span>annotation1.html</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <ul>
 <li>on obtient le document : <a href="freloche/annotation1.html">freloche/annotation1.html</a></li>
 </ul>
@@ -806,7 +802,7 @@ div.csl-indent {
 <li>mettre de coté les IA de plateforme au profit des IA bricolées localement
 <ul>
 <li>même si cela prend plus de temps,</li>
-<li>même si l’efficacité est moins spectaculaire</li>
+<li>même si l’efficacité est moins spectaculaire.</li>
 </ul></li>
 </ul></li>
 </ul>
@@ -816,7 +812,7 @@ div.csl-indent {
 <h2 class="anchored" data-anchor-id="a-suivre">A suivre</h2>
 <ol type="1">
 <li>Développer ses propres modèles</li>
-<li>Mettre en place des processus automatiques utilisant des agents cf.&nbsp;<a href="https://www.diigo.com/user/luckysemiosis?query=agent">Veuille sur les agents</a></li>
+<li>Mettre en place des processus automatiques utilisant des agents cf.&nbsp;<a href="https://www.diigo.com/user/luckysemiosis?query=agent">Veille sur les agents</a></li>
 </ol>
 
 
@@ -880,13 +876,14 @@ Levin, François. 2024. <span>“L’intelligence artificielle au défi de ses c
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
