@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<script type="text/javascript" src="../public/js/d3.js"></script>
+
+</head>
+<body>
+
+</body>
+
+<script type="text/javascript">
+    
+
+    var urls = ['vies_artificielles/ViesArtificielles.svg', 'intelligence_vegetale/intelligence_vegetale.svg'];
+
+    //chargement des svg
+    urls.forEach((url,i)=>{
+        d3.xml(url).mimeType("image/svg+xml").get(function(error, xml) {
+            d3.select('body').node().append(xml.documentElement);
+            if(i==urls.length-1)concatSVG();
+        });
+    });
+    function concatSVG(){
+        console.log('ff');
+        //re-identifie les rects
+        rects = d3.selectAll("rect").attr('id',(d,i)=>{
+            //let id = d3.select(this).attr('id');
+            return 'slide_'+i;  
+        });
+
+    }
+
+    /*
+    
+    Promise.all(urls.map(url => d3.xml(url))).then(function(values) {
+        concatSVG(values);
+    });
+
+
+    function concatSVG(data){
+
+        let svgs = d3.select('body')//.selectAll('div')
+            .data(data).enter().append('div')
+            .attr('id',(d,i)=>{
+                return 'svg'+i;
+            });
+        svgs.html((d,i)=>{
+            return 'div'+i;
+        });
+        svgs.node().append(d => {
+            return d.documentElement
+        });
+        console.log('tt');
+
+    }
+    */
+
+    
+</script>
+</html>
