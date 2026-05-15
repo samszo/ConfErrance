@@ -1,54 +1,155 @@
 ---
 title: "Samszo ConfErrance"
+subtitle: "Supports de présentation des conférences de Samuel Szoniecky"
+author:
+  - name: Samuel Szoniecky
+    affiliation: Laboratoire Paragraphe – Université Paris 8
+    orcid: 0000-0002-7643-3342
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-title: "Années"
 ---
 
-Cette page liste les supports de présentation des conférences données par Samuel Szoniecky.
+Cette page rassemble l'ensemble des supports de présentation des conférences, séminaires et journées d'étude donnés par Samuel Szoniecky.
 
-- [2022 – 01Design12 - Ateliers de design non intentionel](01Design12/slide.html)
-- [2012 - 01Design8 - GEVU un outil pour territorialiser les usages de la ville](01Design8/slide.html)
-- [2021 - AAQ - Métamorphoses et hybridations d’une archive numérique pour sa valorisation : vers des écosystèmes de connaissances](AAQ_2021/slide.html)
-- [2019 - ACFAS - Jardinerles espaces liminaires des corpus](acfas_2019/slide.html)
-- [2021 - ACFAS - Conception d'un criblepour mesurer collectivement les impacts écologiques de l'activité](acfas_2021/slide.html)
-- [2019 - ADACEMU - Modélisationsocio-sémantique des controverses](adacemu/slide.html)
-- [2026 - ALIENTO - Outillages numériques pour les humanités : cartographier des réseaux d'influences](aliento_2016/slide.html)
-- [2021 - Séminaire Arcanes - Humanisme numérique pour manipuler des connaissances entre confiances intimes et numériques](arcanes_2021/slide.html)
-- [2023 - Séminaire Arcanes - Être ou ne pas être trompé : interpréter les pouvoirs des IAs génératives](arcanes_2023/slide.html)
-- [2014 - Archives des savoirs - Interpréter les archives Deleuze : exemple de jardinage des connaissances](archives_savoirs/slide.html)
-- [2013 - Audition pour le poste de MCF](audition_mcf/slide.html)
-- [2015 - IZKT - Méthodes des humanités numériques : automatismes et intuitions](automatismes_intuitions/slide.html)
-- [CIBAHN_2016](CIBAHN_2016/slide.html)
-- [cours_semiologie](cours_semiologie/slide.html)
-- [cours_systeme-information-programation-internet](cours_systeme-information-programation-internet/slide.html)
-- [cours_websemantique](cours_websemantique/)
-- [Des générateurs chaotiques aux IA génératives](balpe2025.html)
-- [digital_intelligence](digital_intelligence/slide.html)
-- [ecoinfo](ecoinfo/slide.html)
-- [ENSSIB_19](ENSSIB_19/slide.html)
-- [frontieres_2022](frontieres_2022/slide.html)
-- [frontieres](frontieres/slide.html)
-- [H2PTM_19](H2PTM_19/slide.html)
-- [H2PTM_21](H2PTM_21/slide.html)
-- [HumanAtHome](HumanAtHome/slide.html)
-- [HumanAtHome2018](HumanAtHome2018/slide.html)
-- [hyperurbain5](hyperurbain5/slide.html)
-- [IAVS-AISV_12](IAVS-AISV_12/slide.html)
-- [IAVS-AISV_23](IAVS-AISV_23/slide.html)
-- [intelligence_vegetale](intelligence_vegetale/slide.html)
-- [iotLabs_2018](iotLabs_2018/slide.html)
-- [ishsl9](ishsl9/slide.html)
-- [iskoMagreb_2015](iskoMagreb_2015/slide.html)
-- [je-creationParis8](je-creationParis8/slide.html)
-- [MIND_2020](MIND_2020/slide.html)
-- [NDIDO2017](NDIDO2017/slide.html)
-- [ontostats_2019](ontostats_2019/slide.html)
-- [Paragraphe_2022](Paragraphe_2022/slide.html)
-- [patrimoine](patrimoine/slide.html)
-- [PEPE_2019](PEPE_2019/slide.html)
-- [recommandations](recommandations/slide.html)
-- [seminaireEHESS_2015](seminaireEHESS_2015/slide.html)
-- [seminaireFP_2013](seminaireFP_2013/slide.html)
-- [software_digital-humanitiesII](software_digital-humanitiesII/slide.html)
-- [Soutenance d'HDR](hdrSamSzo.html)
-- [sqet_2019](sqet_2019/slide.html)
-- [ValPedArNum](ValPedArNum/slide.html)
-- [vies_artificielles](vies_artificielles/slide.html)
+---
+
+## 2026
+
+| Titre | Événement | Lien |
+|-------|-----------|------|
+| DTDM Athenes 2026 – Sustainable Digital Design & Ethical Technology | Digital Technologies & Design Methods – Athènes, mai 2026 | [Voir](DTDM-Athenes-2026.html) |
+
+## 2025
+
+| Titre | Événement | Lien |
+|-------|-----------|------|
+| Séminaire IA – 1 | Séminaire Intelligence Artificielle | [Voir](iaSem1.html) |
+| Des générateurs chaotiques aux IA génératives | Colloque Jean-Pierre Balpe – juin 2025 | [Voir](balpe2025.html) |
+| Transnational Digital Creation Workshop 2025 | ArTeC – Paris 8 – RIT, mai 2025 | [Voir](tdcw25.html) |
+| ACFAS 2025 – IA symboliques et connexionnistes dans les humanités numériques | ACFAS – ÉTS & Université Concordia, Montréal, mai 2025 | [Voir](acfas2025_creationHN.html) |
+| SOCIN' 25 – Mapping Memories | Congrès ERUA – Université de Macerata, septembre 2025 | [Voir](SOCIN25.html) |
+| SOCIN' 25 – Cartographie des souvenirs (proposition) | Congrès ERUA – Université de Macerata, septembre 2025 | [Voir](SOCIN25_propSamSzo.html) |
+
+## 2024
+
+| Titre | Événement | Lien |
+|-------|-----------|------|
+| Dossier d'Habilitation à Diriger des Recherches en SIC | Soutenance HDR – Université Paris 8, décembre 2024 | [Voir](hdrSamSzo.html) |
+| Journée d'étude – La création à Paris 8 | Forum Création et recherche – Université Paris 8 | [Voir](je-CreationParis8.html) |
+
+## 2023
+
+| Titre | Événement | Lien |
+|-------|-----------|------|
+| Être ou ne pas être trompé : interpréter les pouvoirs des IAs génératives | Séminaire Arcanes – Université de Montréal, novembre–décembre 2023 | [Voir](arcanes2023.html) |
+| IAVS-AISV 2023 | International Association for Visual Semiotics 2023 | [Voir](docs/IAVS-AISV_23/slide.html) |
+
+## 2022
+
+| Titre | Événement | Lien |
+|-------|-----------|------|
+| 01Design12 – Ateliers de design non intentionnel | 01Design – 2022 | [Voir](docs/01Design12/slide.html) |
+| 01Design13 | 01Design – 2022 | *(en préparation)* |
+| Paragraphe 2022 | Laboratoire Paragraphe – 2022 | [Voir](docs/Paragraphe_2022/slide.html) |
+| Frontières 2022 | Colloque Frontières – 2022 | [Voir](docs/frontieres_2022/slide.html) |
+
+## 2021
+
+| Titre | Événement | Lien |
+|-------|-----------|------|
+| AAQ – Métamorphoses et hybridations d'une archive numérique | AAQ – 2021 | [Voir](docs/AAQ_2021/slide.html) |
+| ACFAS 2021 – Conception d'un crible pour mesurer les impacts écologiques | ACFAS – 2021 | [Voir](docs/acfas_2021/slide.html) |
+| Séminaire Arcanes – Humanisme numérique entre confiances intimes et numériques | Séminaire Arcanes – 2021 | [Voir](docs/arcanes_2021/slide.html) |
+| H2PTM 2021 | Hypertextes, Hypermédias et Pratiques numériques – 2021 | *(en préparation)* |
+| MIND 2020 | Machines, Intelligence, Numérique et Design – 2020 | [Voir](docs/MIND_2020/slide.html) |
+
+## 2020
+
+| Titre | Événement | Lien |
+|-------|-----------|------|
+| Aléa et création numérique | Présentation – 2020 | [Voir](docs/alea-slide.html) |
+
+## 2019
+
+| Titre | Événement | Lien |
+|-------|-----------|------|
+| ACFAS 2019 – Jardiner les espaces liminaires des corpus | ACFAS – 2019 | [Voir](docs/acfas_2019/slide.html) |
+| ADACEMU – Modélisation socio-sémantique des controverses | ADACEMU – 2019 | [Voir](docs/adacemu/slide.html) |
+| ENSSIB 2019 | École nationale des sciences de l'information – 2019 | [Voir](docs/ENSSIB_19/slide.html) |
+| H2PTM 2019 | Hypertextes, Hypermédias et Pratiques numériques – 2019 | [Voir](docs/H2PTM_19/slide.html) |
+| OntOStats 2019 | Séminaire OntOStats – 2019 | [PDF](docs/ontostats_2019/ontostats_2019.pdf) |
+| PEPE 2019 | Penser et Évaluer les Pratiques du numérique dans l'Enseignement – 2019 | [Voir](docs/PEPE_2019/slide.html) |
+| SQET 2019 | Société Québécoise pour l'Étude du Tourisme – 2019 | [Voir](docs/sqet_2019/slide.html) |
+
+## 2018
+
+| Titre | Événement | Lien |
+|-------|-----------|------|
+| HumanAtHome 2018 | Human at Home – 2018 | [Voir](docs/HumanAtHome2018/slide.html) |
+| IoT Labs 2018 | Internet of Things Labs – 2018 | [Voir](docs/iotLabs_2018/slide.html) |
+
+## 2017
+
+| Titre | Événement | Lien |
+|-------|-----------|------|
+| NDIDO 2017 | Nouvelles Dimensions du Design et de l'Objet – 2017 | [Voir](docs/NDIDO2017/slide.html) |
+
+## 2016
+
+| Titre | Événement | Lien |
+|-------|-----------|------|
+| ALIENTO – Outillages numériques pour les humanités : cartographier des réseaux d'influences | ALIENTO – 2016 | [Voir](docs/aliento_2016/slide.html) |
+| CIBAHN 2016 | Conférence Internationale sur les Bibliothèques et les Archives dans les Humanités Numériques – 2016 | [Voir](docs/CIBAHN_2016/slide.html) |
+| ValPedArNum | Valorisation Pédagogique des Archives Numériques – 2016 | [Voir](docs/ValPedArNum/slide.html) |
+
+## 2015
+
+| Titre | Événement | Lien |
+|-------|-----------|------|
+| IZKT – Méthodes des humanités numériques : automatismes et intuitions | IZKT Stuttgart – 2015 | [Voir](docs/automatismes_intuitions/slide.html) |
+| Séminaire EHESS 2015 | École des Hautes Études en Sciences Sociales – 2015 | [Voir](docs/seminaireEHESS_2015/slide.html) |
+| IskoMagreb 2015 | ISKO Magreb – 2015 | [Voir](docs/iskoMagreb_2015/slide.html) |
+
+## 2014
+
+| Titre | Événement | Lien |
+|-------|-----------|------|
+| Archives des savoirs – Interpréter les archives Deleuze | Journée Archives des savoirs – 2014 | [Voir](docs/archives_savoirs/slide.html) |
+| ISHSL 9 | International Symposium on History of Sciences and Letters – 2014 | [Voir](docs/ishsl9/slide.html) |
+
+## 2013
+
+| Titre | Événement | Lien |
+|-------|-----------|------|
+| Audition pour le poste de MCF | Université Paris 8 – 2013 | [Voir](docs/audition_mcf/slide.html) |
+| Séminaire FP 2013 | Séminaire – 2013 | [Voir](docs/seminaireFP_2013/slide.html) |
+
+## 2012
+
+| Titre | Événement | Lien |
+|-------|-----------|------|
+| 01Design8 – GEVU : un outil pour territorialiser les usages de la ville | 01Design – 2012 | [Voir](docs/01Design8/slide.html) |
+| IAVS-AISV 2012 | International Association for Visual Semiotics – 2012 | [Voir](docs/IAVS-AISV_12/slide.html) |
+
+## Cours et autres ressources
+
+| Titre | Description | Lien |
+|-------|-------------|------|
+| Cours Sémiologie | Cours de sémiologie | [Voir](docs/cours_semiologie/slide.html) |
+| Cours Web Sémantique | Cours de web sémantique | [Voir](docs/cours_websemantique/slide.html) |
+| Cours Système d'information | Cours système d'information, programmation et internet | [Voir](docs/cours_systeme-information-programation-internet/slide.html) |
+| Éco-informatique | Présentation éco-info | [Voir](docs/ecoinfo/slide.html) |
+| Digital Intelligence | Digital Intelligence | [Voir](docs/digital_intelligence/slide.html) |
+| Software & Digital Humanities II | Software & Digital Humanities II | [Voir](docs/software_digital-humanitiesII/slide.html) |
+| Intelligence Végétale | Intelligence Végétale | [Voir](docs/intelligence_vegetale/slide.html) |
+| Vies Artificielles | Vies Artificielles | [Voir](docs/vies_artificielles/slide.html) |
+| Patrimoine | Patrimoine numérique | [Voir](docs/patrimoine/slide.html) |
+| Recommandations | Systèmes de recommandations | [Voir](docs/recommandations/slide.html) |
+| Frontières | Frontières numériques | [Voir](docs/frontieres/slide.html) |
+| HumanAtHome | Human at Home | [Voir](docs/HumanAtHome/slide.html) |
+| Freloche | Freloche | [Voir](docs/freloche/slide.html) |
+| Hyperurbain 5 | Hyperurbain 5 | [Voir](docs/hyperurbain5/slide.html) |
+| HDR (ancienne version) | Dossier HDR – ancienne présentation | [Voir](docs/HDR/slide.html) |
