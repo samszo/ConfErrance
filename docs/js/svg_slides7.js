@@ -219,6 +219,10 @@ function showCache(id){
 	d3.select("#"+id).style("opacity", 1);	
 }
 
+function cache(id){
+	d3.select("#"+id).style("opacity", 0);	
+}
+
 /* https://developers.google.com/youtube/iframe_api_reference?hl=fr
 // 2. This code loads the IFrame Player API code asynchronously.
 var tag = document.createElement('script');

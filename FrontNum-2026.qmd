@@ -1,0 +1,47 @@
+---
+bibliography: ref_ia-iv-humain-2026.bib
+lightbox: true
+title: "Frontières numériques 2026"
+subtitle: "L’humain au cœur de l’innovation pour un avenir responsable et éthique"
+date: "02/06/2026"
+author:
+  - name: Samuel Szoniecky
+    affiliation: Laboratoire Paragraphe - Université Paris 8
+    orcid: 0000-0002-7643-3342
+
+citeproc: true
+
+number-sections: true
+
+format: 
+  html: 
+    theme: default
+    search: true
+    toc: true
+    number-sections: false
+    number-depth: 4
+    comments:
+      hypothesis: true
+---
+
+
+| ![](docs/img/logo_paris8_Couleurs.png){height=100} | ![](docs/img/logo-para-outlines.png){height=100} | ![](balpe2025/qrcode_samszo.github.io.png){height=120} |
+|-----------|-----------|-----------|
+
+# Frontières Numériques 7
+
+## Analogies & Technologies
+
+Colloque international du 4-6 juin 2026, Djerba, Tunisie
+
+<a href="https://humanum-p8.fr/conferences/frontieres-numeriques_2026/docs/" target="_blank">Site de la conférence</a>
+
+# L'analogie au coeur des technologies
+
+### Présentation
+
+[Voir en plein écran](FrontNum_2026/slide.html)
+
+```{=html}
+<iframe width="800" height="600" src="FrontNum_2026/slide.html" title="Support de présentation"></iframe>
+```

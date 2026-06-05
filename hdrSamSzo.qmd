@@ -1,9 +1,9 @@
 ---
 bibliography: ref_hdrSamSzo.bib
 lightbox: true
-title: "Dossier d’Habilitation à Diriger des Recherches
+title: "HDR"
+subtitle: "Présentation du dossier d’Habilitation à Diriger des Recherches
 en Sciences de l’Information et de la Communication."
-subtitle: "Présentation du dossier d'HDR"
 date: "2024/12/19"
 author:
   - name: Samuel Szoniecky

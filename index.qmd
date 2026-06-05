@@ -21,6 +21,7 @@ Cette page rassemble l'ensemble des supports de présentation des conférences, 
 | Titre | Événement | Lien |
 |-------|-----------|------|
 | IA IV 2026 – Intelligence Artificielle & Informatique Verte | Vers une écosophie des existences informationnelles à l’ère de l’IA – Université Paris 8, septembre 2026 | [Voir](ia-iv-humain-2026.html) |
+| Frontières Numériques 2026 – Analogies & technologies | L'analogie au coeur des technologies – Djerba, Tunisie, 4 au 6 juin 2026 | [Voir](FrontNum-2026.html) |
 | DTDM Athenes 2026 – Sustainable Digital Design & Ethical Technology | Digital Technologies & Design Methods – Athènes, mai 2026 | [Voir](DTDM-Athenes-2026.html) |
 
 ## 2025

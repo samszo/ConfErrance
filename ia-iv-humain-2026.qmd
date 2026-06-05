@@ -3,7 +3,7 @@ bibliography: ref_ia-iv-humain-2026.bib
 lightbox: true
 title: "Intelligence Artificielle & Informatique Verte"
 subtitle: "L’humain au cœur de l’innovation pour un avenir responsable et éthique"
-date: "02/062026"
+date: "02/06/2026"
 author:
   - name: Samuel Szoniecky
     affiliation: Laboratoire Paragraphe - Université Paris 8
