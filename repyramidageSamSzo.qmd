@@ -1,0 +1,99 @@
+---
+bibliography: ref_hdrSamSzo.bib
+lightbox: true
+title: "Dossier d’Habilitation à Diriger des Recherches
+en Sciences de l’Information et de la Communication."
+subtitle: "Présentation du dossier d'HDR"
+date: "2024/12/19"
+author:
+  - name: Samuel Szoniecky
+    affiliation: Laboratoire Paragraphe - Université Paris 8
+    orcid: 0000-0002-7643-3342
+
+citeproc: true
+
+number-sections: true
+
+format: 
+  html: 
+    theme: default
+    search: true
+    toc: true
+    number-sections: false
+    number-depth: 4
+    comments:
+      hypothesis: true
+
+---
+
+## Université Vincennes - Saint-Denis Paris 8
+ 
+
+| ![](docs/img/logo_paris8_Couleurs.png) | ![](docs/img/logo-para-outlines.png) | ![](docs/HDR/bit.ly_49Xy093.png) |
+|-----------|-----------|-----------|
+
+# Audition pour la promotion interne {.unnumbered}
+
+## Samuel Szoniecky {.unnumbered}
+
+### Présenté le lundi 29 juin 2026 à l'Université Paris 8
+
+### Devant un jury composé de :
+
+
+-   Katalin Pór, Professeure en études cinématographiques, Université Paris 8, (Présidente)
+
+-   Céline Paganelli, Professeure en sciences de l'information et de la communication,	Université Paul Valéry Montpellier 3
+
+-   Alain Lamboux-Durand,	Professeur en sciences de l'information et de la communication, Université Marie et Louis	Pasteur
+
+-   Olivier Nannipieri,	Professeur en sciences de l'information et de la communication, Université de Toulon
+
+-   Vincent Liquete,	Professeur en sciences de l'information et de la communication, Université de Bordeaux - INSPE
+
+
+### Présentation
+
+#### Version dynamique
+
+#### Version dynamique
+
+[Voir en plein écran](repyramidage/slide.html){target="_blank"}
+
+```{=html}
+<iframe width="800" height="600" src="repyramidage/slide.html" title="Support de présentation"></iframe>
+```
+
+#### Version statique
+![-](docs/HDR/capture/capture0.png){style=’height:80px;’ ;group=’staticGallery’}
+![-](docs/HDR/capture/capture1.png){style=’height:80px;’ ;group=’staticGallery’}
+![-](docs/HDR/capture/capture2.png){style=’height:80px;’ ;group=’staticGallery’}
+![-](docs/HDR/capture/capture3.png){style=’height:80px;’ ;group=’staticGallery’}
+![-](docs/HDR/capture/capture4.png){style=’height:80px;’ ;group=’staticGallery’}
+![-](docs/HDR/capture/capture5.png){style=’height:80px;’ ;group=’staticGallery’}
+![-](docs/HDR/capture/capture6.png){style=’height:80px;’ ;group=’staticGallery’}
+![-](docs/HDR/capture/capture7.png){style=’height:80px;’ ;group=’staticGallery’}
+![-](docs/HDR/capture/capture8.png){style=’height:80px;’ ;group=’staticGallery’}
+![-](docs/HDR/capture/capture9.png){style=’height:80px;’ ;group=’staticGallery’}
+![-](docs/HDR/capture/capture10.png){style=’height:80px;’ ;group=’staticGallery’}
+![-](docs/HDR/capture/capture11.png){style=’height:80px;’ ;group=’staticGallery’}
+![-](docs/HDR/capture/capture12.png){style=’height:80px;’ ;group=’staticGallery’}
+![-](docs/HDR/capture/capture13.png){style=’height:80px;’ ;group=’staticGallery’}
+![-](docs/HDR/capture/capture14.png){style=’height:80px;’ ;group=’staticGallery’}
+![-](docs/HDR/capture/capture15.png){style=’height:80px;’ ;group=’staticGallery’}
+![-](docs/HDR/capture/capture16.png){style=’height:80px;’ ;group=’staticGallery’}
+
+{{< pagebreak >}}
+
+## Synthèse de la présentation
+
+* Projet de recherche :
+    * insertion dans l'unité de recherche,
+    * interactions avec d’autres laboratoires;
+* Projet pédagogique
+    * enseignements visés, 
+    * montage de filières, 
+    * innovation pédagogique, 
+    * etc. ;
+* Projet en termes d'activités d'intérêt général.
+

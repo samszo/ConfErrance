@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 900" width="100%" height="100%">
+  <defs>
+    <!-- Masques circulaires pour rogner les photos (Portraits) -->
+    <!-- Étape 1 -->
+    <clipPath id="cp1_1"><circle cx="180" cy="180" r="25"/></clipPath>
+    
+    <!-- Étape 2 -->
+    <clipPath id="cp2_1"><circle cx="180" cy="330" r="25"/></clipPath>
+    <clipPath id="cp2_2"><circle cx="215" cy="330" r="25"/></clipPath>
+    
+    <!-- Étape 3 -->
+    <clipPath id="cp3_1"><circle cx="180" cy="480" r="25"/></clipPath>
+    <clipPath id="cp3_2"><circle cx="215" cy="480" r="25"/></clipPath>
+    <clipPath id="cp3_3"><circle cx="250" cy="480" r="25"/></clipPath>
+    
+    <!-- Étape 4 -->
+    <clipPath id="cp4_1"><circle cx="180" cy="630" r="25"/></clipPath>
+    <clipPath id="cp4_2"><circle cx="215" cy="630" r="25"/></clipPath>
+    
+    <!-- Étape 5 -->
+    <clipPath id="cp5_1"><circle cx="180" cy="780" r="25"/></clipPath>
+  </defs>
+
+  <!-- Arrière-plan -->
+  <rect width="100%" height="100%" fill="#fdfdfd" rx="15" ry="15"/>
+
+  <!-- Titre -->
+  <text x="475" y="60" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#1e293b" text-anchor="middle">Évolution de l'insertion au Laboratoire Paragraphe</text>
+  <line x1="300" y1="80" x2="650" y2="80" stroke="#94a3b8" stroke-width="2" stroke-dasharray="5,5"/>
+
+  <!-- Ligne temporelle verticale -->
+  <line x1="130" y1="130" x2="130" y2="820" stroke="#cbd5e1" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- ================= ÉTAPE 1 : Arrivée ================= -->
+  <!-- Date -->
+  <text x="100" y="185" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#475569" text-anchor="end">Sept 2018</text>
+  <!-- Nœud -->
+  <circle cx="130" cy="180" r="12" fill="#3b82f6" stroke="#ffffff" stroke-width="4"/>
+  <!-- Portraits -->
+  <image href="https://i.pravatar.cc/100?img=11" x="155" y="155" width="50" height="50" clip-path="url(#cp1_1)"/>
+  <circle cx="180" cy="180" r="25" fill="none" stroke="#ffffff" stroke-width="2"/> <!-- Contour blanc -->
+  <!-- Texte -->
+  <text x="290" y="175" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#0f172a">Intégration et Posture Interdisciplinaire</text>
+  <text x="290" y="200" font-family="Arial, sans-serif" font-size="15" fill="#334155">Maître de conférences en SIC (Université Paris 8).</text>
+  <text x="290" y="220" font-family="Arial, sans-serif" font-size="15" fill="#64748b">Apport d'une double expertise issue du privé (Ingénierie IT) et de la recherche.</text>
+
+  <!-- ================= ÉTAPE 2 : Encadrement ================= -->
+  <!-- Date -->
+  <text x="100" y="335" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#475569" text-anchor="end">2019 - 2022</text>
+  <!-- Nœud -->
+  <circle cx="130" cy="330" r="12" fill="#10b981" stroke="#ffffff" stroke-width="4"/>
+  <!-- Portraits (Toi + Doctorant) -->
+  <image href="https://i.pravatar.cc/100?img=11" x="155" y="305" width="50" height="50" clip-path="url(#cp2_1)"/>
+  <circle cx="180" cy="330" r="25" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <image href="https://i.pravatar.cc/100?img=12" x="190" y="305" width="50" height="50" clip-path="url(#cp2_2)"/>
+  <circle cx="215" cy="330" r="25" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <!-- Texte -->
+  <text x="290" y="325" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#0f172a">Encadrement et Transmission</text>
+  <text x="290" y="350" font-family="Arial, sans-serif" font-size="15" fill="#334155">Direction, accompagnement et mentorat de jeunes chercheurs.</text>
+  <text x="290" y="370" font-family="Arial, sans-serif" font-size="15" fill="#64748b">Supervision de contrats doctoraux et validation de sujets de thèse.</text>
+
+  <!-- ================= ÉTAPE 3 : Pilotage ANR ================= -->
+  <!-- Date -->
+  <text x="100" y="485" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#475569" text-anchor="end">2022 - 2024</text>
+  <!-- Nœud -->
+  <circle cx="130" cy="480" r="12" fill="#f59e0b" stroke="#ffffff" stroke-width="4"/>
+  <!-- Portraits (Toi + 2 Collaborateurs/Partenaires) -->
+  <image href="https://i.pravatar.cc/100?img=11" x="155" y="455" width="50" height="50" clip-path="url(#cp3_1)"/>
+  <circle cx="180" cy="480" r="25" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <image href="https://i.pravatar.cc/100?img=68" x="190" y="455" width="50" height="50" clip-path="url(#cp3_2)"/>
+  <circle cx="215" cy="480" r="25" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <image href="https://i.pravatar.cc/100?img=33" x="225" y="455" width="50" height="50" clip-path="url(#cp3_3)"/>
+  <circle cx="250" cy="480" r="25" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <!-- Texte -->
+  <text x="290" y="475" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#0f172a">Pilotage de Projets de Recherche</text>
+  <text x="290" y="500" font-family="Arial, sans-serif" font-size="15" fill="#334155">Coordination du WP3 pour le projet ANR "LINF".</text>
+  <text x="290" y="520" font-family="Arial, sans-serif" font-size="15" fill="#64748b">Conception d'environnements numériques avancés (Omeka S, agents IA Mastra).</text>
+
+  <!-- ================= ÉTAPE 4 : Évaluation ================= -->
+  <!-- Date -->
+  <text x="100" y="635" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#475569" text-anchor="end">2024 - 2025</text>
+  <!-- Nœud -->
+  <circle cx="130" cy="630" r="12" fill="#8b5cf6" stroke="#ffffff" stroke-width="4"/>
+  <!-- Portraits (Toi + Direction/Institution) -->
+  <image href="https://i.pravatar.cc/100?img=11" x="155" y="605" width="50" height="50" clip-path="url(#cp4_1)"/>
+  <circle cx="180" cy="630" r="25" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <image href="https://i.pravatar.cc/100?img=47" x="190" y="605" width="50" height="50" clip-path="url(#cp4_2)"/>
+  <circle cx="215" cy="630" r="25" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <!-- Texte -->
+  <text x="290" y="625" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#0f172a">Évaluation et Rayonnement Scientifique</text>
+  <text x="290" y="650" font-family="Arial, sans-serif" font-size="15" fill="#334155">Implication active au sein de la Commission Recherche de Paris 8.</text>
+  <text x="290" y="670" font-family="Arial, sans-serif" font-size="15" fill="#64748b">Organisation et expertise pour des comités scientifiques (ex: Frontières Numériques).</text>
+
+  <!-- ================= ÉTAPE 5 : Repyramidage ================= -->
+  <!-- Date -->
+  <text x="100" y="785" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#475569" text-anchor="end">2025 - 2026</text>
+  <!-- Nœud -->
+  <circle cx="130" cy="780" r="12" fill="#ef4444" stroke="#ffffff" stroke-width="4"/>
+  <!-- Portraits (Toi) -->
+  <image href="https://i.pravatar.cc/100?img=11" x="155" y="755" width="50" height="50" clip-path="url(#cp5_1)"/>
+  <circle cx="180" cy="780" r="25" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <!-- Texte -->
+  <text x="290" y="775" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#0f172a">Perspectives : Repyramidage et Professorat</text>
+  <text x="290" y="800" font-family="Arial, sans-serif" font-size="15" fill="#334155">Candidature au corps des Professeurs des universités.</text>
+  <text x="290" y="820" font-family="Arial, sans-serif" font-size="15" fill="#64748b">Consolidation définitive du leadership scientifique au sein du laboratoire.</text>
+
+</svg>

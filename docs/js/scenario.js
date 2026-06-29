@@ -150,3 +150,4 @@ function getAleaPath(points){
         ,'d':d3.line().curve(d3.curveBasis)(ap)});
     return paths;
 }
+

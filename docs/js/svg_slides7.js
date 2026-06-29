@@ -129,6 +129,8 @@ function svg_slides(s,delay,outFct) {
     
     //cache les éléments à cacher
     var gs = svg.selectAll(".cache").style("opacity", 0);
+    //affiche les rideaux
+	svg.selectAll(".rideau").style("fill-opacity", 1);
     
  
     //met à jour le navigateur d'image s'il existe
@@ -186,7 +188,9 @@ function next_slide()  {
     svg.transition().duration(delay).attr("viewBox",slides[keys[slide]].x.baseVal.value+" "+slides[keys[slide]].y.baseVal.value+" "+slides[keys[slide]].width.baseVal.value+" "+slides[keys[slide]].height.baseVal.value);
     changeNavig(slide);
 }
-
+function animation(e,t){
+	if(fct.animation)fct.animation(e,t);
+}
 function showWebPage(url){
 	console.log(url);
 	if(fct.showWebPage){
