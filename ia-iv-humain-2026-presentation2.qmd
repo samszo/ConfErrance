@@ -1,0 +1,216 @@
+---
+title: "Vers une écosophie des existences informationnelles à l’ère de l’IA"
+subtitle: "Pour une approche onto-éthique et sobre de l'intelligence artificielle en SIC"
+author: "Samuel Szoniecky"
+institute: "Laboratoire Paragraphe, Université Paris 8"
+date: "2026-09-06"
+format:
+  revealjs:
+    theme: league
+    transition: slide
+    slide-number: true
+    chalkboard: true
+    show-slide-number: all
+    preview-links: auto
+    logo: ""
+    footer: "Colloque IA & Informatique Verte 2026 - Paris 8"
+---
+
+## Introduction : Le Triple Défi Écosophique {background-color="#1a1a1a"}
+
+### L'IA au prisme des trois écologies de Félix Guattari [2]
+
+* **L'Écologie Environnementale :**
+  Faire face à l'empreinte matérielle et à l'hyper-consommation énergétique des infrastructures d'IA [8].
+* **L'Écologie Mentale :**
+  Préserver l'attention (ressource d'une rareté absolue) et résister à la « misère symbolique » [4].
+* **L'Écologie Sociale :**
+  Garantir l'autonomie critique, la transparence et le bien commun dans l'éditorialisation scientifique [5].
+
+::: {.notes}
+Bonjour à tous. Le nouveau titre de notre présentation, "Vers une écosophie des existences informationnelles à l'ère de l'IA", s'inscrit au cœur des préoccupations du colloque de l'Informatique Verte. L'écosophie, telle que pensée par Félix Guattari, repose sur l'interdépendance de trois écologies : environnementale (le coût physique), mentale (nos affects et notre attention), et sociale (notre éthique collective). Nous allons voir comment ce triple prisme permet de repenser notre relation homme-machine en Sciences de l'Information et de la Communication.
+:::
+
+---
+
+## Le Tournant Ontologique de l'Archive
+
+### De la trace passive à l'existence dynamique [4]
+
+::: {.columns}
+::: {.column width=\"50%\"}
+#### L'IA probabiliste (LLM)
+* Des modèles statistiques massifs, opaques et énergivores [4].
+* Une génération textuelle fluide mais « sans saveur », masquant ses propres biais et illusions [5].
+* Réduction de l'activité à des traces documentaires passives.
+:::
+
+::: {.column width=\"50%\"}
+#### L'existence informationnelle
+* Les données possèdent une véritable **agentivité** au sein d'écosystèmes vivants [4].
+* Des **Agents Discursifs Artificiels (ADA)** dotés d'une intentionnalité sémantique et logique [4, 7].
+:::
+:::\n
+
+::: {.notes}
+Le fondement de notre approche est le "tournant ontologique" des humanités numériques. À l'ère de l'IA probabiliste, caractérisée par des boîtes noires statistiques massives, nous proposons de passer d'une conception passive de l'archive à une conception active de "l'existence informationnelle". Les données ne sont plus des traces mortes, mais des partenaires dynamiques. Nous préconisons le développement d'Agents Discursifs Artificiels, ou ADA, dont le fonctionnement repose sur une intentionnalité logique explicite plutôt que sur de simples calculs statistiques d'association de mots.
+:::
+
+---
+
+## Le Métamodèle Onto-Éthique
+
+### Cartographier les quatre dimensions d'un écosystème symbiotique [4]
+
+| Dimension | Nature de l'existence | Métrique associée | Analogie physique |
+| :--- | :--- | :--- | :--- |
+| **Matérielle** | Physique, biologique | Euclidienne | Connaissance des \"chocs\" (Énergie/Ressources) [4, 8] |
+| **Conceptuelle** | Logique sémantique | Topologique | Connaissance des lois, Ontologies, Graphes [4] |
+| **Sociale** | Actants (humains/agents) | Projective | Connaissance des perspectives (Points de vue) [4] |
+| **Temporelle** | Devenir, dynamique | Historique | Connaissance des flux et rythmes d'évolution [4] |
+
+::: {.notes}
+Pour donner corps à cette écosophie, nous utilisons un métamodèle onto-éthique structuré sur quatre dimensions. La dimension matérielle appréhende la physicalité du numérique et ses "chocs" écologiques. La dimension conceptuelle gère l'architecture logique (graphes de connaissances). La dimension sociale regroupe les actants, humains ou artificiels, selon leurs perspectives et systèmes de valeurs. La dimension temporelle, enfin, suit le devenir et les cycles d'évolution des œuvres et de l'archive.
+:::
+
+---
+
+## Le Crible Écologique : Anasémiose et Catasémiose
+
+### Modéliser la pulsation existentielle d'écriture [1, 4]
+
+Le crible est l'interface régulatrice des flux attentionnels et physiques :
+
+```
+       ANASÉMIOSE (Discerner)
+Physique ──> Crible ──> Actant ──> Concept
+                                      │
+Concept <── Actant <── Crible <── Physique
+       CATASÉMIOSE (Agir / Écrire)
+```
+
+* **Anasémiose :** Filtrer le chaos stochastique du monde physique pour dégager de la clarté sémantique [4].
+* **Catasémiose :** Projeter l'intention conceptuelle de l'esprit pour matérialiser une trace documentaire dans le monde physique [4].
+
+::: {.notes}
+Comment se manifeste l'activité cognitive et scripturale de l'humain dans ce milieu ? À travers la pulsation du "crible écologique". S'inspirant d'Augustin Berque et de Félix Guattari, le crible est une interface bidirectionnelle. Par l'Anasémiose, nous filtrons la complexité matérielle pour l'élever au rang de concept (pouvoir de discerner). Par la Catasémiose, nous projetons notre pensée dans le monde physique sous la forme d'une trace ou d'une écriture matérielle (pouvoir d'agir). Le crible est le lieu où s'arbitre la sobriété de notre attention.
+:::
+
+---
+
+## Écosophie Mentale : L'Attention et les Affects
+
+### Qualifier les informations pour surmonter le bruit [4]
+
+L'attention humaine est la ressource écologique interne la plus rare de notre écosystème cognitif [4]. Le crible qualifie les signes selon trois valeurs (Tarde, Spinoza, Citton) :
+
+1. **La Valeur-Utilité (Désir) :**
+   Sert à maximiser la puissance d'agir matérielle en réduisant l'entropie [4].
+2. **La Valeur-Vérité (Croyance/Confiance) :**
+   Mesure la crédibilité scientifique (l'indignation face aux hallucinations et biais de l'IA) [4].
+3. **La Valeur-Beauté (Désir Sensible) :**
+   Favorise l'harmonie des interfaces et engendre l'invention critique par sympathie [4].
+
+::: {.notes}
+Dans le registre de l'écologie mentale, l'attention humaine est aujourd'hui une ressource extrêmement convoitée et fragmentée. Le crible attentionnel permet de redonner de la valeur à l'information en s'appuyant sur trois dimensions d'affects théorisées par Gabriel Tarde et Spinoza : la valeur-utilité, qui réduit le gaspillage et l'entropie d'action ; la valeur-vérité, qui fonde la confiance intersubjective ; et la valeur-beauté, qui fait naître l'analogie poétique et l'invention critique.
+:::
+
+---
+
+## La Grille des Affects (Mesure de -100 à +100)
+
+### Analyse comparative des pouvoirs existentiels d'écriture [5]
+
+::: {.columns}
+::: {.column width=\"50%\"}
+#### Scénario A : Écriture Manuelle
+* **Discerner (+40) :** Filtre attentionnel actif, clarté sémiotique.
+* **Raisonner (+80) :** Rigueur critique, arbitrage logique souverain.
+* **Résonner (+90) :** Intuition libre (*Scientia Intuitiva*), empathie incarnée.
+* **Agir (+50) :** Trace documentaire lente mais autopoïétique.
+:: :
+
+::: {.column width=\"50%\"}
+#### Scénario B : Écriture assistée par IA Pure
+* **Discerner (+10) :** Surcharge cognitive passive, cécité informationnelle.
+* **Raisonner (-30) :** Paresse logique, alignement sur les biais statistiques.
+* **Résonner (-50) :** Aliénation, formules mortes. **Machine à -100 (barrière numérique)**.
+* **Agir (+90) :** Production automatisée ultra-rapide mais standardisée.
+:: :
+:::\n
+
+::: {.notes}
+Nous avons quantifié ces dynamiques à l'aide d'une grille des affects. La comparaison est saisissante. L'écriture manuelle préserve l'esprit critique et l'intuition poétique, qui atteint une résonance de +90. En revanche, l'écriture assistée par une IA purement connexionniste et statistique offre certes une vitesse d'exécution spectaculaire de +90, mais à un coût dramatique pour l'humain : chute du discernement, paresse logique, et vide existentiel. La machine, dénuée de corps et d'expérience vécue, se heurte constitutionnellement à une barrière numérique de -100 en matière de résonance.
+:::
+
+---
+
+## Écologie Environnementale : Sobriété des Pipelines d'IA
+
+### Mesurer l'efficience énergétique sur tout le cycle de données [5, 8]
+
+Nous élargissons la taxonomie verte classique en ciblant la consommation de chaque phase d'ingénierie :
+
+::: {.columns}
+::: {.column width=\"25%\"}
+##### Ingestion
+**(15-20%)**
+Flux de données, requêtes réseaux et moissonnages [5].
+:: :
+
+::: {.column width=\"25%\"}
+##### Prétraitement
+**(25-30%)**
+Nettoyage et normalisation. **Transition de Pandas vers Polars (Rust)** pour diviser l'énergie par 10 [5].
+:: :
+
+::: {.column width=\"25%\"}
+##### Enrichissement
+**(20-25%)**
+Calcul sémantique. **Optimisation par exécution paresseuse (Lazy Evaluation)** [5].
+:: :
+
+::: {.column width=\"25%\"}
+##### Apprentissage/Inférence
+**(30-40%)**
+Coût d'exécution et requêtage des modèles d'IA [5].
+:: :
+:::\n
+
+::: {.notes}
+Abordons maintenant l'écologie environnementale de nos infrastructures d'IA. La sobriété ne doit pas seulement concerner l'apprentissage des grands modèles, mais l'intégralité du pipeline de traitement de données. Plus de la moitié du coût énergétique réside dans l'ingestion, le prétraitement et l'enrichissement sémantique. Dans nos travaux de sauvegarde patrimoniale d'œuvres littéraires numériques, nous montrons qu'en réarchitecturant les scripts (par exemple en passant de Pandas à Polars codé en Rust et en exploitant l'évaluation paresseuse), nous divisons l'empreinte énergétique par un facteur dix.
+:::
+
+---
+
+## Écologie Sociale : La Pensée Diagrammatique
+
+### Résister à la linéarité textuelle de l'IA statistique [5]
+
+* **La « misère symbolique » :**
+  L'IA générative produit des textes lisses et homogènes qui neutralisent la pensée critique et invisibilisent leur impact écologique [5].
+* **Le diagramme comme topos de résistance :**
+  Le diagramme n'est pas une simple illustration, mais un langage heuristique et relationnel supérieur qui redonne de l'agentivité à l'auteur [5].
+* **Visualiser les affects :**
+  Cartographier les scores de la grille d'écriture sur une **spirale conique de Pappus** [5] permet de matérialiser visuellement l'équilibre d'un écosystème d'écriture.
+
+::: {.notes}
+Dans le champ de l'écologie sociale et collective, comment résister à l'homogénéisation des discours induite par les IA ? Par la pensée diagrammatique. Face à la linéarité du texte généré par l'IA, le diagramme est un espace relationnel, un "topos" de force qui rétablit la complexité. En projetant graphiquement la grille de nos affects sur une figure tridimensionnelle comme la spirale de Pappus, nous donnons une forme sensible à notre puissance d'agir critique, permettant de concevoir collectivement de meilleures architectures.
+:::
+
+---
+
+## Conclusion : Le Chercheur-Jardinier
+
+### Vers une éco-éthique de la discussion homme-machine [2, 4]
+
+* **Le Chercheur-Jardinier :**
+  Dépasser la posture de maître ou de consommateur passif de l'IA pour devenir le soigneur attentionné de son milieu d'écriture [2].
+* **Hybridation Symbiotique :**
+  Associer le connexionnisme (calcul) et le symbolique (ontologies logiques d'Omeka S) pour concevoir des IA transparentes et frugales [2, 7].
+* **L'éthique de la discussion :**
+  Mettre l'agentivité algorithmique des ADA au service du bien commun et des communs littéraires [2, 4].
+
+::: {.notes}
+En conclusion, l'écosophie des existences informationnelles nous invite à repenser notre rôle de chercheur en SIC. Nous ne devons être ni les maîtres autoritaires de la machine, ni ses serviteurs passifs, mais des "chercheurs-jardiniers" qui cultivent un milieu symbiotique. Cette culture passe par une hybridation éco-conçue : marier la puissance de calcul statistique (le connexionnisme) à des garde-fous symboliques et sémantiques ouverts (Web sémantique). C'est ainsi que l'éthique de la discussion et la sobriété numérique se rejoignent pour préserver notre intelligence collective. Je vous remercie.
+:::

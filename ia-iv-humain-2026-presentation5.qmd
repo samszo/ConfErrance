@@ -1,0 +1,238 @@
+---
+title: "Vers une écosophie des existences informationnelles à l’ère de l’IA (v5)"
+subtitle: "L’humain au cœur de l’innovation pour un avenir responsable et éthique"
+author: "Samuel Szoniecky"
+institute: "Laboratoire Paragraphe, Université Paris 8"
+date: "2026-09-24"
+format:
+  revealjs:
+    theme: league
+    transition: slide
+    slide-number: true
+    chalkboard: true
+    show-slide-number: all
+    preview-links: auto
+    logo: ""
+    footer: "Colloque IA & Informatique Verte 2026 - Paris 8"
+---
+
+## Introduction : L'Urgence Écosophique {background-color="#1a1a1a"}
+
+### Dépasser l'Informatique Verte ordinaire face à une "maison qui brûle" [9]
+
+* **Au-delà de l'efficience technologique :** 
+  Réconcilier les impératifs écologiques de notre planète avec l'accélération technologique brute [9].
+* **La boussole des trois écologies de Félix Guattari :**
+  Articuler trois registres indissociables formant un **« bloc de devenir »** éco-éthique [9] :
+  * *Écologie environnementale :* Notre insertion active dans une mécanosphère en interaction avec la biosphère [9].
+  * *Écologie sociale :* Reconstruction des rapports humains et d’espaces d’autonomie contre le Capitalisme Mondial Intégré (CMI) [9].
+  * *Écologie mentale :* Préservation et réhabilitation de la singularité subjective face à l’homogénéisation médiatique [9].
+
+::: {.notes}
+Bonjour à tous. Ma communication aujourd'hui s'intitule "Vers une écosophie des existences informationnelles à l'ère de l'IA". Face à l'urgence d'une "maison qui brûle", nous ne pouvons plus nous contenter de l'Informatique Verte classique, souvent limitée à de l'optimisation matérielle ou technocratique. Nous devons mobiliser l'écosophie de Félix Guattari comme boussole éco-éthique. Cela exige d'articuler trois écologies interdépendantes : environnementale, sociale et mentale, constituant une grille ontologique nouvelle pour repenser le statut de l'humain et des agents d'IA.
+:::
+
+---
+
+## L'Individu Numérique : Énaction et Autopoïèse
+
+### Sortir de l'agrégat de données passives [9]
+
+* **L'individu comme nœud relationnel :**
+  L'individu numérique ne préexiste pas aux relations qui le constituent ; il est le produit d'un processus relationnel continu [9].
+* **Le concept d'énaction :**
+  Abolit la séparation cartésienne entre l'organisme et son milieu : **l’organisme est une interaction** permanente [9].
+* **Une procédure de subjectivation :**
+  Le corps et le "moi" s’entrelacent intimement avec les réseaux et les machines informatiques [9].
+* **Fluctuations de pouvoir :**
+  Cette hybridation technologique détermine directement les fluctuations de nos puissances d'agir et de penser [9].
+
+::: {.notes}
+Pour comprendre nos données de recherche ou notre patrimoine littéraire, nous devons cesser de voir l'individu numérique comme un paquet d'informations inertes. En s'appuyant sur l'autopoïèse et l'énaction, l'individu est conçu comme une entité émergeant d'interactions continues. Notre esprit, notre corps et nos machines s'entrelacent dans un même milieu. L'hybridation avec l'IA n'est donc pas l'usage d'un simple outil externe, mais une véritable procédure de subjectivation qui transforme de part en part nos pouvoirs d'exister.
+:::
+
+---
+
+## Le Métamodèle Onto-Éthique
+
+### Cartographier les quatre dimensions d'une existence informationnelle [4]
+
+| Dimension | Nature de l'existence | Métrique associée | Analogie physique | Genre de Connaissance |
+| :--- | :--- | :--- | :--- | :--- |
+| **Matérielle** | Physique, biologique | Euclidienne | Branches (Chocs énergétiques) [4, 9] | Connaissance inadéquate (effet) [4] |
+| **Conceptuelle** | Logique sémantique | Topologique | Racines (Ontologies, Graphes) [4] | Connaissance des essences [4] |
+| **Sociale** | Actants (humains/agents) | Projective | Graines (Points de vue, Dyn.) [4] | Connaissance des perspectives [4] |
+| **Temporelle** | Devenir, dynamique | Historique | Sève (Actualisation des flux) [4] | Logique et pragmatique [4] |
+
+::: {.notes}
+Comment mesurer ces fluctuations existentielles ? Nous avons élaboré un métamodèle onto-éthique fondé sur Spinoza et Deleuze, qui segmente l'existant en quatre dimensions. La dimension matérielle concerne l'écologie environnementale et les chocs physiques de l'infrastructure. La dimension conceptuelle gère les essences logiques par des graphes sémantiques. La dimension sociale suit les points de vue projectifs des actants. Enfin, la dimension temporelle appréhende la sève dynamique des actualisations. L'éthique réside dans le calcul des fluctuations d'intensité de ces dimensions.
+:::
+
+---
+
+## Le Crible Écologique & La Pulsation Existentielle
+
+### Modéliser l'intériorisation sémantique et la trace technique [4]
+
+Le crible agit comme une interface bidirectionnelle de sémiose et d'attention [4] :
+
+```{mermaid}
+%%| fig-align: center
+flowchart LR
+    classDef default fill:#1a1a1a,stroke:#444,stroke-width:1px,color:#fff;
+    classDef highlight fill:#1b3022,stroke:#28a745,stroke-width:2px,color:#fff;
+    
+    subgraph Ana [Anasémiose : Pouvoir de Discerner]
+        Physique[Physique] -->|Crible| Actant[Actant] --> Concept[Concept]
+    end
+    subgraph Cata [Catasémiose : Pouvoir d'Agir]
+        Concept_C[Concept] -->|Crible| Actant_C[Actant] --> Physique_C[Physique]
+    end
+    
+    class Physique,Physique_C highlight;
+```
+
+* **Le Crible comme interface (Guattari) :** Filtre les « virtualités virulentes du chaos » pour ne retenir que les signifiants jugés importants [4].
+* **La Pulsation Existentielle (Berque) :**
+  * La **technique** déploie notre corps en monde (co-fonctionnement symbiotique physique) [4].
+  * Le **symbole** reploie l’expérience du monde en notre chair (intériorisation sémantique) [4].
+
+::: {.notes}
+Dans ce milieu de connaissances, l'activité est régulée par le crible écologique. Inspiré de Guattari, le crible est une interface sémantique et attentionnelle qui filtre le chaos sensoriel. Augustin Berque qualifie cette dynamique de pulsation existentielle : d'un côté, la technique nous déploie physiquement dans notre environnement par l'action matérielle (la Catasémiose). De l'autre, le symbole replie cette expérience physique dans notre esprit sous forme de concepts digestes (l'Anasémiose).
+:::
+
+---
+
+## Fluctuations des Quatre Pouvoirs Existentiels
+
+### Évaluer la consistance des subjectivités face aux technologies d'IA [9]
+
+::: {.columns}
+::: {.column width="50%"}
+#### 1. Discerner & 2. Raisonner
+* **Le Pouvoir de Discerner (Anasémiose) :**
+  Extraire l'événement du chaos sémantique [9]. **Résistance éthique** au despotisme technocratique qui anesthésie notre sensibilité [9].
+* **Le Pouvoir de Raisonner (Formel) :**
+  Transition vers une métamodélisation de la complexité [9]. Intégrer les marges de jeu virtuelles contre l'optique sèche du technocrate [9].
+:::
+
+::: {.column width="50%"}
+#### 3. Résonner & 4. Agir
+* **Le Pouvoir de Résonner (Intuitif) :**
+  Capacité d’affect et de solidarité humaine. « Enlacements polyphoniques » contre l’aseptisation [9].
+  * *Barrière absolue (-100) :* L'IA est incapable de résonance (immanence biologique requise) [4].
+* **Le Pouvoir d'Agir (Catasémiose) :**
+  Volontarisme collectif pour briser la passivité hypnotique du CMI [9]. Révolution moléculaire des pratiques [9].
+:::
+:::
+
+::: {.notes}
+Notre protocole d'analyse évalue l'éthique homme-machine à travers la fluctuation de quatre pouvoirs. Le Discernement permet de résister à l'anesthésie technocratique en filtrant l'information. Le Raisonnement dépasse le pur fait brut pour métamodéliser la complexité du réel. La Résonance — limite absolue des intelligences artificielles — s'appuie sur la solidarité, l'affect et l'intuition pour résonner par sympathie biologique avec le vivant. Enfin, l'Action mobilise un volontarisme politique et artistique pour rompre avec la passivité hypnotique du Capitalisme Mondial Intégré.
+:::
+
+---
+
+## Analyse Comparative : Deux Paradigmes d'IA
+
+### Resingularisation vs Homogénéisation par le Capitalisme Mondial Intégré [9]
+
+::: {.columns}
+::: {.column width="50%"}
+#### L'IA Symbolique (Jean-Pierre Balpe)
+* **Créativité de règles :** Fondée sur des grammaires, des contraintes logiques et des bifurcations imprévisibles [4, 9].
+* **Souveraineté du dissensus :** Encourage la différence, la subjectivité de l’atypie et l'exploration de marges créatives [9].
+* **Politique :** Rompt avec l'ordre libéral du marché en refusant le consensus facile [9].
+:::
+
+::: {.column width="50%"}
+#### L'IA Générative Connexionniste (LLM)
+* **Laminage moral :** Instrument de standardisation statistique sous l’égide du « capitalisme vert » [9].
+* **Moyennisation de la pensée :** Réduit la subjectivité à des calculs de probabilités sur des données de masse [9].
+* **Atrophie cognitive :** Sature l'espace virtuel d'un impératif technocratique où le profit dicte les fins [9].
+:::
+:::
+
+::: {.notes}
+Cette grille nous permet d'opposer deux types d'IA. D'un côté, l'IA symbolique — à l'instar des générateurs chaotiques de Jean-Pierre Balpe — repose sur des contraintes logiques explicites et des bifurcations qui créent du dissensus, de l'atypie et de la surprise esthétique. De l'autre, l'IA générative connexionniste, qui s'impose aujourd'hui, tend à agir comme une force de laminage moral et d'homogénéisation. En moyennant statistiquement les textes et les pensées de masse, elle atrophie notre imaginaire au profit d'un impératif de rentabilité marchande.
+:::
+
+---
+
+## Écologie Environnementale : Les Pipelines de Données
+
+### Élargir l'Informatique Verte au-delà de l'apprentissage [5, 9]
+
+Les taxonomies de l'IA durable ignorent trop souvent les phases amont d'ingénierie logicielle [8].
+
+::: {.columns}
+::: {.column width="60%"}
+* **Ingestion (15-20%) :** Lecture des flux de données et requêtes réseaux [8].
+* **Prétraitement (25-30%) :** Nettoyage massif. **Transition de Pandas vers Polars (Rust)** (Énergie divisée par 10) [5, 8].
+* **Enrichissement (20-25%) :** Optimisation par **exécution paresseuse (Lazy Evaluation)** [8].
+* **Inférence (30-40%) :** Exécution et requêtage des modèles d'IA [8].
+:::
+
+::: {.column width="40%"}
+```{mermaid}
+%%| fig-align: center
+graph TD
+    classDef default fill:#1a1a1a,stroke:#444,stroke-width:1px,color:#fff;
+    classDef green fill:#1b3022,stroke:#28a745,stroke-width:2px,color:#fff;
+    
+    Ing[Ingestion\n15-20%] --> Pre[Prétraitement\n25-30%]
+    Pre --> Enr[Enrichissement\n20-25%]
+    Enr --> Inf[Inférence\n30-40%]
+    
+    class Pre,Enr green;
+```
+:::
+:::
+
+::: {.notes}
+Du point de vue de l'écologie environnementale, nous devons élargir la taxonomie de l'informatique verte. La plupart des constructeurs se focalisent uniquement sur l'optimisation des architectures de processeurs ou l'apprentissage de réseaux de neurones profonds. Pourtant, plus de la moitié du coût énergétique d'un pipeline d'IA provient de l'ingestion, du prétraitement et de l'enrichissement sémantique des données. Dans le cadre de notre projet de réingénierie des archives littéraires obsolètes, nous privilégions des bibliothèques plus frugales comme Polars géré en Rust et des paradigmes d'exécution paresseuse pour éliminer l'entropie matérielle.
+:::
+
+---
+
+## Écologie Sociale : La Pensée Diagrammatique
+
+### Sortir de la « misère symbolique » par le diagramme [4]
+
+::: {.columns}
+::: {.column width="50%"}
+* **La « misère symbolique » :**
+  Déléguer l'écriture à l'IA statistique nous prive de participer à la production de sens [4].
+* **Le diagramme comme espace de résistance :**
+  Ce n'est pas une illustration, c'est un *topos* de forces qualitatives qui oblige le chercheur à se positionner [4].
+* **Spirale conique de Pappus [4] :**
+  * *Dilatation rhizomatique (base)* : Pouvoir de **Résonner** (les intuitions).
+  * *Altitude ($z$)* : Pouvoir d'**Agir** (accumulation des traces).
+:::
+
+::: {.column width="50%"}
+![](spirale_pappus_comparaison.png){fig-align="center" width="100%"}
+:::
+:::
+
+::: {.notes}
+Comment se prémunir de la "misère symbolique" où l'usager est réduit à consommer du texte pré-mâché par des algorithmes ? L'écosophie sociale nous enjoint de mobiliser la pensée diagrammatique. Le diagramme n'est pas une simple décoration graphique. C'est un langage scientifique et politique, une cartographie immanente de forces et de concepts qui contraint le chercheur à habiter son terrain de manière authentique. En traçant notre activité sur une spirale de Pappus tridimensionnelle, nous révélons instantanément si l'IA amplifie notre puissance ou si elle nous atrophie.
+:::
+
+---
+
+## Conclusion : Vers une « Nouvelle Renaissance »
+
+### Le Chercheur-Jardinier et la responsabilité future [2, 9]
+
+* **Le Chercheur-Jardinier :**
+  Ne plus être le consommateur passif ou le maître technophile, mais le soigneur d'un écosystème symbiotique humain-machine [2].
+* **Hybridation Éco-conçue :**
+  Marier la puissance de calcul connexionniste à l'éthique et la rigueur d'un ancrage symbolique ouvert (Web sémantique, Omeka S) [2, 9].
+* **Le Principe de Responsabilité (Hans Jonas) :**
+  Arbitrer le présent au nom de l’avenir [9]. Extraire de nouvelles lignes de possible du chaos capitaliste pour sauvegarder la biosphère [9].
+* **L'éthique de la discussion :**
+  Garantir des espaces d'interprétation et de délibération collective autour des agents d'IA (ADA) pour le bien commun [2, 4].
+
+::: {.notes}
+En conclusion, cette écosophie des existences informationnelles nous invite à une véritable « Nouvelle Renaissance ». Le chercheur en sciences de l'information et de la communication doit abandonner le mirage technophile de la maîtrise absolue pour devenir un "chercheur-jardinier". Notre mission est de cultiver des écosystèmes d'IA frugaux, transparents et symbiotiques. En nous appuyant sur le principe de responsabilité de Hans Jonas, nous devons arbitrer nos pratiques technologiques du présent au nom des générations futures et de la sauvegarde de la biosphère. Je vous remercie de votre attention.
+:::
