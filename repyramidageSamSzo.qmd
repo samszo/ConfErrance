@@ -1,9 +1,8 @@
 ---
 bibliography: ref_hdrSamSzo.bib
 lightbox: true
-title: "Dossier d’Habilitation à Diriger des Recherches
-en Sciences de l’Information et de la Communication."
-subtitle: "Présentation du dossier d'HDR"
+title: "Audition pour la promotion interne"
+subtitle: "Repyramidage Maître de conférences -> Professeur des universités"
 date: "2024/12/19"
 author:
   - name: Samuel Szoniecky
@@ -63,25 +62,6 @@ format:
 ```{=html}
 <iframe width="800" height="600" src="repyramidage/slide.html" title="Support de présentation"></iframe>
 ```
-
-#### Version statique
-![-](docs/HDR/capture/capture0.png){style=’height:80px;’ ;group=’staticGallery’}
-![-](docs/HDR/capture/capture1.png){style=’height:80px;’ ;group=’staticGallery’}
-![-](docs/HDR/capture/capture2.png){style=’height:80px;’ ;group=’staticGallery’}
-![-](docs/HDR/capture/capture3.png){style=’height:80px;’ ;group=’staticGallery’}
-![-](docs/HDR/capture/capture4.png){style=’height:80px;’ ;group=’staticGallery’}
-![-](docs/HDR/capture/capture5.png){style=’height:80px;’ ;group=’staticGallery’}
-![-](docs/HDR/capture/capture6.png){style=’height:80px;’ ;group=’staticGallery’}
-![-](docs/HDR/capture/capture7.png){style=’height:80px;’ ;group=’staticGallery’}
-![-](docs/HDR/capture/capture8.png){style=’height:80px;’ ;group=’staticGallery’}
-![-](docs/HDR/capture/capture9.png){style=’height:80px;’ ;group=’staticGallery’}
-![-](docs/HDR/capture/capture10.png){style=’height:80px;’ ;group=’staticGallery’}
-![-](docs/HDR/capture/capture11.png){style=’height:80px;’ ;group=’staticGallery’}
-![-](docs/HDR/capture/capture12.png){style=’height:80px;’ ;group=’staticGallery’}
-![-](docs/HDR/capture/capture13.png){style=’height:80px;’ ;group=’staticGallery’}
-![-](docs/HDR/capture/capture14.png){style=’height:80px;’ ;group=’staticGallery’}
-![-](docs/HDR/capture/capture15.png){style=’height:80px;’ ;group=’staticGallery’}
-![-](docs/HDR/capture/capture16.png){style=’height:80px;’ ;group=’staticGallery’}
 
 {{< pagebreak >}}
 
