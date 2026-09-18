@@ -39,6 +39,17 @@ Colloque international du 24 & 25 Septembre 2026 Amphi de la maison de la recher
 
 # Vers une écosophie des existences informationnelles à l’ère de l’IA
 
+## Version dynamique
+
+[Voir en plein écran](ia-iv-humain-2026/slide.html){target="_blank"}
+
+```{=html}
+<iframe width="800" height="600" src="ia-iv-humain-2026/slide.html" title="Support de présentation"></iframe>
+```
+
+{{< pagebreak >}}
+
+
 ## résumé 
 Face aux crises écologiques et technologiques, cette proposition pour le colloque « IA et IV 2026 » appelle à dépasser la simple efficience de l’Informatique Verte pour adopter l’écosophie de Félix Guattari comme boussole éthique. Cette approche transversale articule trois registres indissociables : l'écologie environnementale (l'insertion dans le vivant), l'écologie sociale (la lutte contre le capitalisme mondialisé) et l'écologie mentale (la préservation de la singularité). L'individu numérique y est pensé non comme une donnée isolée, mais à travers l'énaction, une hybridation continue entre l’organisme, son milieu et les réseaux. L'éthique des systèmes d'IA doit dès lors évaluer la subjectivité collective à travers quatre pouvoirs existentiels : le discernement, le raisonnement, la résonance et l'agir. Une analyse comparative oppose alors l’IA symbolique de Jean-Pierre Balpe, source de dissensus et de créativité atypique, à l’IA générative connexionniste, qui tend à homogénéiser la pensée par des logiques statistiques et marchandes. Enfin, la proposition invite à une « Nouvelle Renaissance », une révolution moléculaire et pluraliste s'appuyant sur le principe de responsabilité de Hans Jonas pour extraire de nouveaux possibles et sauvegarder l'avenir de la biosphère.
 

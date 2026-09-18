@@ -55,8 +55,6 @@ format:
 
 #### Version dynamique
 
-#### Version dynamique
-
 [Voir en plein écran](repyramidage/slide.html){target="_blank"}
 
 ```{=html}
