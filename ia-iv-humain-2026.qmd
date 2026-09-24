@@ -37,6 +37,9 @@ Colloque international du 24 & 25 Septembre 2026 Amphi de la maison de la recher
 
 <a href="https://www.ia-iv-humain-2026.fr/fr" target="_blank">Site de la conférence</a>
 
+| ![](docs/img/logo_paris8_Couleurs.png){height=100} | ![](docs/img/logo-para-outlines.png){height=100} | ![](docs/img/qrcode_samszo.github.ioConfErrance_ia-iv-human-2026.png){height=120} |
+|-----------|-----------|-----------|
+
 # Vers une écosophie des existences informationnelles à l’ère de l’IA
 
 ## Version dynamique
