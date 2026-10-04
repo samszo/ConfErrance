@@ -1,0 +1,55 @@
+---
+lightbox: true
+title: "Fête de la science 2026"
+subtitle: "Saveurs savantes"
+date: "05/10/2026"
+author:
+  - name: Samuel Szoniecky
+    affiliation: Laboratoire Paragraphe - Université Paris 8
+    orcid: 0000-0002-7643-3342
+
+citeproc: true
+
+number-sections: true
+
+format: 
+  html: 
+    theme: default
+    search: true
+    toc: true
+    number-sections: false
+    number-depth: 4
+    comments:
+      hypothesis: true
+---
+
++----------------------+----------------------+----------------------+
+|                      |                      |                      |
++======================+======================+======================+
++----------------------+----------------------+----------------------+
+
+# Fête de la science 2026
+
+## Saveurs savantes
+
+<a href="https://www.univ-paris8.fr/Fete-de-la-Science-2026" target="_blank">Site de l'évènement</a>
+
+| ![](docs/img/logo_paris8_Couleurs.png){height=100} | ![](docs/img/logo-para-outlines.png){height=100} | ![](docs/img/qrcode_samszo.github.ioConfErrance_ia-iv-human-2026.png){height=120} |
+|-----------|-----------|-----------|
+
+# Usages des intelligences artificielles pour le développement des intelligences collectives
+
+## Version dynamique
+
+[Voir en plein écran](fete-science-2026/slide.html){target="_blank"}
+
+```{=html}
+<iframe width="800" height="600" src="ia-iv-humain-2026/slide.html" title="Support de présentation"></iframe>
+```
+
+{{< pagebreak >}}
+
+
+## résumé 
+Pour explorer comment les IA transforment nos façons de collaborer, de partager les connaissances et de construire ensemble de nouvelles intelligences collectives.  possibles et sauvegarder l'avenir de la biosphère.
+
