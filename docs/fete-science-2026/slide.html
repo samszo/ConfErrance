@@ -48,6 +48,12 @@
 			case 'leveRideau':
 				rideau("#"+elementId);
 				break;
+			case 'baisseRideau':
+				rideau("#"+elementId,"baisse");
+				break;
+			case 'ouvreGDRideau':
+				rideau("#"+elementId,"ouvreGD");
+				break;				
 			case 'stopgo':
 				if(run){
 					engine.pause();
@@ -72,14 +78,24 @@
 				});            
 				break;
 			case "baisse":
-				animate({
-						targets: elementId,
-						height: 50,
-						y: 200,               // On déplace le point de départ vers le bas en même temps
-						duration: 1000,
-						easing: 'easeOutExpo'
-					});            
+				const monEl = d3.select(elementId);
+				// Récupère la hauteur exacte de l'élément
+				const hauteurInitiale = Number(monEl.attr('height'));
+				const yInitiale = Number(monEl.attr('y'));				
+				// Lance l'animation de haut en bas (réduction de la hauteur)
+				animate(elementId,{
+					height: 0,           // La hauteur finale ciblée
+					y: yInitiale+hauteurInitiale,           // La place finale ciblée
+					duration: 10000,       // Durée en millisecondes
+					easing: 'easeOutExpo' // Effet d'accélération/décélération
+				});            
 				break;    
+			case "ouvreGD":
+				animate(elementId,{
+					width: 0,           // La hauteur finale ciblée
+					duration: 10000,       // Durée en millisecondes
+					easing: 'easeOutExpo' // Effet d'accélération/décélération
+				});            
 			default:
 				break;
 		}

@@ -34,7 +34,7 @@ format:
 
 <a href="https://www.univ-paris8.fr/Fete-de-la-Science-2026" target="_blank">Site de l'évènement</a>
 
-| ![](docs/img/logo_paris8_Couleurs.png){height=100} | ![](docs/img/logo-para-outlines.png){height=100} | ![](docs/img/qrcode_samszo.github.ioConfErrance_ia-iv-human-2026.png){height=120} |
+| ![](docs/img/logo_paris8_Couleurs.png){height=100} | ![](docs/img/logo-para-outlines.png){height=100} | ![](docs/img/qrcode_samszo.github.io.png){height=120} |
 |-----------|-----------|-----------|
 
 # Usages des intelligences artificielles pour le développement des intelligences collectives
